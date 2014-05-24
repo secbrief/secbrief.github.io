@@ -21,10 +21,10 @@ That which spurs an individual to become a terrorist remains the subject of grea
 On the topic of radicalization Jenkins states that:
 
 
->Radicalization and recruitment to jihadist terrorism appears to be very much an individualistic process that combines external factors and personal circumstances. Of those who adopt radical views, only a few go further toward terrorist violence. Young men are attracted to jihadist terrorism for a variety of reasons. They may be disillusioned with their current circumstances. They may be propelled by religious faith, seeing fighting as their duty, although we do not know whether faith pushes people toward violence or justifies extant aggression. With the exception of a few con men and mercenaries, all of the 176 recruits since 9/11 have been Muslims, but fervent faith itself does not explain becoming a jihadist terrorist. Volunteer jihadists may see terrorism as an opportunity to demonstrate their virility as warriors. Events may trigger radicalization. Recruits may seek revenge for perceived injustices inflicted on themselves or their communities. They may want adventure and glory. They may be swept along by friends or by forceful personalities who become their guides and give them direction. Much is happenstance, depending on whom the recruits encounter. Dissatisfied with life, they may seek paradise.[1]
+>Radicalization and recruitment to jihadist terrorism appears to be very much an individualistic process that combines external factors and personal circumstances. Of those who adopt radical views, only a few go further toward terrorist violence. Young men are attracted to jihadist terrorism for a variety of reasons. They may be disillusioned with their current circumstances. They may be propelled by religious faith, seeing fighting as their duty, although we do not know whether faith pushes people toward violence or justifies extant aggression. With the exception of a few con men and mercenaries, all of the 176 recruits since 9/11 have been Muslims, but fervent faith itself does not explain becoming a jihadist terrorist. Volunteer jihadists may see terrorism as an opportunity to demonstrate their virility as warriors. Events may trigger radicalization. Recruits may seek revenge for perceived injustices inflicted on themselves or their communities. They may want adventure and glory. They may be swept along by friends or by forceful personalities who become their guides and give them direction. Much is happenstance, depending on whom the recruits encounter. Dissatisfied with life, they may seek paradise.[^1]
 
 
-Generally speaking, radicalization begins when an individual seeks to fill a personal void, whatever that may be, that results in the adoption of a new worldview.[2] This worldview may then strengthen, perhaps resulting in the taking of steps towards carrying out an act of terrorism, or weaken over time. As with the causative factors associated with taking up a new worldview, there are numerous variables that impact an individual’s commitment to that worldview. Far from a linear progression, most radicalized individuals wax and wane in their commitment over time.
+Generally speaking, radicalization begins when an individual seeks to fill a personal void, whatever that may be, that results in the adoption of a new worldview.[^2] This worldview may then strengthen, perhaps resulting in the taking of steps towards carrying out an act of terrorism, or weaken over time. As with the causative factors associated with taking up a new worldview, there are numerous variables that impact an individual’s commitment to that worldview. Far from a linear progression, most radicalized individuals wax and wane in their commitment over time.
 
 
 With regards to Tamerlan and Dzhokhar Tsarnaev, much remains unknown about what precisely led to their radicalization, and ultimately, what drove them to carry out the Boston Bombings. That said, some details have been learned from statements made by Dzhokhar, the surviving and younger brother of Tamerlan Tsarnaev, as well as from interviews of those who knew them.
@@ -33,16 +33,16 @@ With regards to Tamerlan and Dzhokhar Tsarnaev, much remains unknown about what 
 According to a joint government report:
 
 
->Tamerlan Tsarnaev and Dzhokhar Tsarnaev immigrated to the United States from Kyrgyzstan with their parents Anzor Tsarnaev and Zubeidat Tsarnaeva. Anzor Tsarnaev, an ethnic Chechen, his wife Zubeidat Tsarnaeva, and their son Dzhokhar Tsarnaev arrived in the United States from Kyrgyzstan in 2002. They applied for and received an immigration benefit. The elder son, Tamerlan Tsarnaev, and his sisters, Bella and Ailina Tsarnaeva, arrived in the United States in 2003, and also received an immigration benefit. In the years that followed, all six family members became Lawful Permanent Residents (LPRs) of the United States.[3]
+>Tamerlan Tsarnaev and Dzhokhar Tsarnaev immigrated to the United States from Kyrgyzstan with their parents Anzor Tsarnaev and Zubeidat Tsarnaeva. Anzor Tsarnaev, an ethnic Chechen, his wife Zubeidat Tsarnaeva, and their son Dzhokhar Tsarnaev arrived in the United States from Kyrgyzstan in 2002. They applied for and received an immigration benefit. The elder son, Tamerlan Tsarnaev, and his sisters, Bella and Ailina Tsarnaeva, arrived in the United States in 2003, and also received an immigration benefit. In the years that followed, all six family members became Lawful Permanent Residents (LPRs) of the United States.[^3]
 
 
-Two years prior to the Boston Bombings, the Russian Federal Security Service (FSB) notified the FBI that Tamerlan Tsarnaev and Zubeidat Tsarnaeva (his mother) were “adherents of radical Islam, and that Tamerlan Tsarnaev was preparing to travel to Russia to join unspecified “bandit underground groups” in Dagestan and Chechnya and had considered changing his last name to “Tsarni.””[4]
+Two years prior to the Boston Bombings, the Russian Federal Security Service (FSB) notified the FBI that Tamerlan Tsarnaev and Zubeidat Tsarnaeva (his mother) were “adherents of radical Islam, and that Tamerlan Tsarnaev was preparing to travel to Russia to join unspecified “bandit underground groups” in Dagestan and Chechnya and had considered changing his last name to “Tsarni.””[^4]
 
 
 Upon receipt of the lead at the FBI’s Boston field office, interviews of the family, among other measures, were conducted. However, there was no coordination or information sharing with the CIA or law enforcement.
 
 
-The DOJ OIG determined that the CT Agent did not take certain steps during the assessment, including contacting local law enforcement, visiting the mosque that Tsarnaev attended, and conducting interviews of Tsarnaev’s wife, a former girlfriend he had been arrested for assaulting in 2009, or friends and associates…The DOC OIG also determined that the CT Agent did not attempt to elicit certain information during interviews of Tsarnaev and his parents, including information about Tsarnaev’s plans to travel to Russia, changes in lifestyle, or knowledge of and sympathy for militant separatists in Chechnya and Dagestan.[5]
+The DOJ OIG determined that the CT Agent did not take certain steps during the assessment, including contacting local law enforcement, visiting the mosque that Tsarnaev attended, and conducting interviews of Tsarnaev’s wife, a former girlfriend he had been arrested for assaulting in 2009, or friends and associates…The DOC OIG also determined that the CT Agent did not attempt to elicit certain information during interviews of Tsarnaev and his parents, including information about Tsarnaev’s plans to travel to Russia, changes in lifestyle, or knowledge of and sympathy for militant separatists in Chechnya and Dagestan.[^5]
 
 
 These factors not only contributed to the failure to prevent the Boston Bombings, but also have left much of the detail on how the brothers radicalized, murky to-date. Despite Dzhokhar’s claiming of religious motivations behind his brother and him carrying out the Boston Bombings, the full story remains more complicated. It is widely speculated that Tamerlan’s inability to fully integrate into American society paired with his self-identification as a Chechen and deep sympathies with the political plight of the Caucasuses played an important role in his radicalization.
@@ -68,7 +68,7 @@ When discussing “who” would carry out an attack similar to the Boston Bombin
 The “what” is easier to nail down. It is highly unlikely given the degradation of al-Qa’ida since 9/11 that al-Qa’ida Central could carry out a sophisticated attack on U.S. soil. It’s franchises pose a more likely threat as they could potentially tap the aforementioned diaspora communities within the U.S. for operatives. However, that would still lead to a great deal of exposure. Lone wolves and the self-radicalized pose the greatest threat as there may be little if any communication for intelligence and law enforcement to intercept during the radicalization and attack cycles.
 
 
-Al-Qa’ida, and Islamists in general, place a great deal of emphasis on historical dates. Thus, the “when” is most likely to be a date of significance. In particular, religious holidays and the dates of religious battles have been associated with many of the terrorist attacks to-date. Indeed, the most recent issue of Inspire Magazine calls for attacks on Christmas and Easter.[6]
+Al-Qa’ida, and Islamists in general, place a great deal of emphasis on historical dates. Thus, the “when” is most likely to be a date of significance. In particular, religious holidays and the dates of religious battles have been associated with many of the terrorist attacks to-date. Indeed, the most recent issue of Inspire Magazine calls for attacks on Christmas and Easter.[^6]
 
 The “where” is most likely to be a place of symbolic importance. That said, targets of convenience should not be ruled out. Anywhere that people assemble in large numbers could also be a target. Al-Qa’ida has placed an emphasis on targeting New York City, Washington D.C., Chicago, and Los Angeles.
 
@@ -82,7 +82,7 @@ The “where” is most likely to be a place of symbolic importance. That said, 
 The most recent issue of AQAP’s Inspire Magazine lauds the “success” of the Tsarnaev brothers and their unsophisticated attack.
 
 
->The operation of the two Tsarnaev brothers in Boston has symbolic importance too; this is the city from whence the first sparks of independence erupted. The target that was chosen was a marathon and on the finish line. Sending the message that today America is on the finish line. There is no need of Bin Lāden’s leadership or Al-’Awlaki’s charisma for its destruction and placing it on the finish line. Because Jawhar Tsarnaev, a 19 year old young man, had already achieved that by just preparing a bomb in the kitchen, using kitchen utensils.[7]
+>The operation of the two Tsarnaev brothers in Boston has symbolic importance too; this is the city from whence the first sparks of independence erupted. The target that was chosen was a marathon and on the finish line. Sending the message that today America is on the finish line. There is no need of Bin Lāden’s leadership or Al-’Awlaki’s charisma for its destruction and placing it on the finish line. Because Jawhar Tsarnaev, a 19 year old young man, had already achieved that by just preparing a bomb in the kitchen, using kitchen utensils.[^7]
 
 
 Mass casualty shootings as seen in the first Fort Hood shooting by MAJ Nidal Hasan and public bombings like the Boston Bombings present the greatest threat. Worth mentioning though, cyber attacks on infrastructure that could result in casualties and fatalities, is also a reality but presents a smaller probability due to the increased level of sophistication and knowledge required by the individual(s) carrying out such an attack.
@@ -92,29 +92,29 @@ The bottom line is that terrorism is not created in a vacuum nor do acts of terr
 
 
 
-Notes
+## Notes ##
 
 
 
-[1] Brian Jenkins, “Stray Dogs and Virtual Armies: Radicalization and Recruitment to Jihadist Terrorism in the United States Since 9/11,” RAND, 2011, accessed April 20, 2014, http://www.rand.org/content/dam/rand/pubs/occasional_papers/2011/RAND_OP343.pdf.
+[^1] Brian Jenkins, “Stray Dogs and Virtual Armies: Radicalization and Recruitment to Jihadist Terrorism in the United States Since 9/11,” RAND, 2011, accessed April 20, 2014, http://www.rand.org/content/dam/rand/pubs/occasional_papers/2011/RAND_OP343.pdf.
 
 
-[2] Ibid.
+[^2] Ibid.
 
 
-[3] “Unclassified Summary of Information Handling and Sharing Prior to the April 15, 2013 Boston Marathon Bombings,” Department of Justice, April 10, 2014, accessed April 20, 2014, http://www.justice.gov/oig/reports/2014/s1404.pdf.
+[^3] “Unclassified Summary of Information Handling and Sharing Prior to the April 15, 2013 Boston Marathon Bombings,” Department of Justice, April 10, 2014, accessed April 20, 2014, http://www.justice.gov/oig/reports/2014/s1404.pdf.
 
 
-[4] Ibid.
+[^4] Ibid.
 
 
-[5] Ibid.
+[^5] Ibid.
 
 
-[5] See a safe copy archived by Aaron Zelin, https://azelin.files.wordpress.com/2014/04/inspire-magazine-issue-12.pdf.
+[^5] See a safe copy archived by Aaron Zelin, https://azelin.files.wordpress.com/2014/04/inspire-magazine-issue-12.pdf.
 
 
-[6] Ibid.
+[^6] Ibid.
 
 
-[7] Ibid.
+[^7] Ibid.
