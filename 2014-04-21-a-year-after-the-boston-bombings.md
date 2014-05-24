@@ -92,11 +92,13 @@ The bottom line is that terrorism is not created in a vacuum nor do acts of terr
 
 
 
-## Notes ##
+<center>
+## Notes ## 
+</center>
 
 
 
-[^1] Brian Jenkins, “Stray Dogs and Virtual Armies: Radicalization and Recruitment to Jihadist Terrorism in the United States Since 9/11,” RAND, 2011, accessed April 20, 2014, http://www.rand.org/content/dam/rand/pubs/occasional_papers/2011/RAND_OP343.pdf.
+[^1]: Brian Jenkins, “Stray Dogs and Virtual Armies: Radicalization and Recruitment to Jihadist Terrorism in the United States Since 9/11,” RAND, 2011, accessed April 20, 2014, http://www.rand.org/content/dam/rand/pubs/occasional_papers/2011/RAND_OP343.pdf.
 
 
 [^2] Ibid.
