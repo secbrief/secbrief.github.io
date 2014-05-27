@@ -8,10 +8,6 @@ category: Cyber Security, Cryptography
 tags: Bug, Cryptography, Heartbleed, HTTPS, OpenSSL, Security
 ---
 
-# {{ page.title }} #
-
-##### 10-Apr-2014 #####
-
 Earlier this week, ironically as I was writing an article about Always On SSL (AOSSL) and why every web application and site should use AOSSL, the Heartbleed bug in OpenSSL was announced. Existant since December 31, 2011, the Heartbleed bug in the OpenSSL 1.0.1 Series up through 1.0.1f, as well as the 1.0.2-beta, exploits the heartbeat mechanism used by Transport Layer Security (TLS) to keep secure connections alive. Discovered during routine testing by security researchers at Google and Codenomicon, the Heartbleed bug allows attackers to incrementally request up to 64KB of secure memory from an affected server, thus exposing everything from user credentials (i.e., usernames and passwords) to potentially a service’s private keys which would render the in-place encryption schema completely useless. As cryptographer and research professor at Johns Hopkins University, Matthew Green, describes the Heartbleed bug:
 
 >The problem is fairly simple: there’s a tiny vulnerability — a simple missing bounds check — in the code that handles TLS ‘heartbeat’ messages. By abusing this mechanism, an attacker can request that a running TLS server hand over a relatively large slice (up to 64KB) of its private memory space. Since this is the same memory space where OpenSSL also stores the server’s private key material, an attacker can potentially obtain (a) long-term server private keys, (b) TLS session keys, (c) confidential data like passwords, (d) session ticket keys.[^1]
@@ -40,10 +36,7 @@ As the Heartbleed bug is further analyzed in the coming months, we will likely h
 
 ###### The official reference for the Heartbleed bug is CVE-2014-0160. ######
 
-
-<center>
-### Notes ### 
-</center>
+### <center>Notes</center> ###
 
 [^1]: Matthew Green, “Attack of the week: OpenSSL Heartbleed,” Cryptographic Engineering, April 8, 2014, accessed April 9, 2014, http://blog.cryptographyengineering.com/2014/04/attack-of-week-openssl-heartbleed.html.
 
