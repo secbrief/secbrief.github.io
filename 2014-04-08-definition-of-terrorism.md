@@ -8,10 +8,6 @@ category: Terrorism
 tags: Definition, Terrorism
 ---
 
-# {{ page.title }} #
-
-##### 8-Apr-2014 #####
-
 ## Organizational Definitions of Terrorism ##
 
 #### Central Intelligence Agency (CIA) Definition of Terrorism ####
@@ -144,9 +140,7 @@ Appear to be intended (i) to intimidate or coerce a civilian population; (ii) to
 
 "The systematic use of terror especially as a means of coercion."[^17]
 
-<center>
-### Notes ### 
-</center>
+### <center>Notes</center> ###
 
 [^1]: “How do you define terrorism?,” Central Intelligence Agency, last modified April 19, 2013, accessed March 7, 2014, https://www.cia.gov/news-information/cia-the-war-on-terrorism/terrorism-faqs.html.
 
