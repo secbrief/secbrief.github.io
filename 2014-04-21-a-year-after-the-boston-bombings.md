@@ -8,10 +8,6 @@ category: Terrorism
 tags: Boston Bombings, Dzhokhar Tsarnaev, Islamist, Radicalization, Tamerlan Tsarnaev, Terrorism
 ---
 
-# {{ page.title }} #
-
-##### 21-Apr-2014 #####
-
 The one year anniversary of the Boston Bombings and the ensuing manhunt for the Tsarnaev brothers was marked this past week (15-April – 19-April). Now the day of the 2014 Boston Marathon, the target of the Boston Bombings which resulted in four fatalities, including an MIT police officer, and two-hundred and eighty injuries, it is worth reflecting on Tamerlan and Dzhokhar’s radicalization, attack cycle, and assessing whether or not a similar act of terrorism could be carried out today.
 
 
@@ -91,9 +87,7 @@ Mass casualty shootings as seen in the first Fort Hood shooting by MAJ Nidal Has
 The bottom line is that terrorism is not created in a vacuum nor do acts of terrorism manifest spontaneously. Terrorist attacks all follow an observable attack cycle. Therefore, there will always be opportunities to interdict would be terrorists before they can carry out an attack. That said, lone wolves and the self-radicalized present a much lower signature for intelligence and law enforcement. Continuing to work on problems with interagency information sharing, remaining vigilant, and working within the diaspora communities which are vulnerable to radicalization can go a long way towards preventing future attacks.
 
 
-<center>
-### Notes ### 
-</center>
+### <center>Notes</center> ###
 
 
 [^1]: Brian Jenkins, “Stray Dogs and Virtual Armies: Radicalization and Recruitment to Jihadist Terrorism in the United States Since 9/11,” RAND, 2011, accessed April 20, 2014, http://www.rand.org/content/dam/rand/pubs/occasional_papers/2011/RAND_OP343.pdf.
