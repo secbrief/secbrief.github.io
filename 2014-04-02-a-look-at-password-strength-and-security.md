@@ -8,10 +8,6 @@ category: Cyber Security, Cryptography
 tags: Cryptography, Password, Password Security, Password Strength, Cyber Security
 ---
 
-# {{ page.title }} #
-
-##### 2-Apr-2014 #####
-
 Password strength and security is continually brought up by security professionals, and for good reason. Despite the many warnings that we have all heard and seen in the office or when registering new accounts online, individuals and organizations continue to fall prey to password cracking. Most commonly this comes in the form of a brute-force attack, sometimes referred to as an exhaustive key search, wherein an attacker essentially guesses various password or key combinations until it is guessed correctly. The problem lies in the fact that this style of attack is increasingly becoming more sophisticated while password strength and security is on the decline.
 
 Cracking passwords, especially strong passwords, can be a resource and time intensive pursuit. The simple fact that the computational resources available to hackers today is vastly superior to what was available decades ago, let alone even a few years ago, has increased the threat. In a paper written by Gordon Moore, the co-founder of Intel, Moore predicted in 1965 that computational power would continue to double roughly every two years. Known as Moore’s law, his prediction has generally held true. The cost of constructing a powerful graphics card array, which leverages GPUs for parallel processing, for the purpose of cracking passwords has gone down substantially. Indeed, such arrays can run billions of passwords per second. Further compounding the advances in individual chip technology, cloud computing, which harnesses the power of scale through the use of grid technology, has put the power of entire server farms at the disposal of hackers.
