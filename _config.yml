@@ -5,6 +5,6 @@ timezone:      America/Los_Angeles
 permalink:     /year/month/day/title.html
 author:        C. Cherry
 name:          SecBrief.org
-title:         "SecBrief.org - The Definitive Source for Security News and Expert Analysis"
-description:   "The Definitive Source for Security News and Expert Analysis."
-url:           "//www.secbrief.org"
+title:         SecBrief.org - The Definitive Source for Security News and Expert Analysis
+description:   The Definitive Source for Security News and Expert Analysis
+url:           //www.secbrief.org
