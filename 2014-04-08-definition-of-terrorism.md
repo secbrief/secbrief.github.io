@@ -136,7 +136,7 @@ Appear to be intended (i) to intimidate or coerce a civilian population; (ii) to
   Is calculated to influence or affect the conduct of government by intimidation or coercion, or to retaliate against government conduct; and
   Is a violation of one of several listed statutes, including § 930(c) (relating to killing or attempted killing during an attack on a federal facility with a dangerous weapon); and § 1114 (relating to killing or attempted killing of officers and employees of the U.S.).
 
-* FISA defines “international terrorism” in a nearly identical way, replacing “primarily” outside the U.S. with “totally” outside the U.S. 50 U.S.C. § 1801(c).[^16]
+*FISA defines “international terrorism” in a nearly identical way, replacing “primarily” outside the U.S. with “totally” outside the U.S. 50 U.S.C. § 1801(c).[^16]
 
 ## Dictionary Definitions of Terrorism ##
 
