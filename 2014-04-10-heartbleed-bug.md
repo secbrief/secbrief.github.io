@@ -38,7 +38,7 @@ It is important to note that changing your password before a site has taken the 
 
 As the Heartbleed bug is further analyzed in the coming months, we will likely have some validation on just how severe this security flaw was (and is for those that are slow to implement corrective actions). Indeed, there is already evidence emerging that hackers, likely state intelligence agencies, knew about the flaw and had been exploiting it in the wild prior to its announcement on Monday.[^5] Scarily, even for hackers that were unaware of the flaw, if they had collected encrypted traffic, the Heartbleed bug allows for retrospective decryption absent the implementation of perfect forward security (PFS). This means that all of the encrypted traffic on previously vulnerable systems is potentially accessible. Yet another example of why all sites should be layering their security, and why web users should never consider anything transmitted over the internet truly safe.[^6]
 
-##### The publication of this article was delayed until SecBrief.org could fully address the impact of the Heartbleed bug on its servers. SecBrief.org is currently running a safe version of OpenSSL, and has regenerated its private key and had its SSL certificate reissued. All users have had their existing passwords revoked and will need to create new ones to ensure security. The official reference for the Heartbleed bug is CVE-2014-0160. #####
+###### The official reference for the Heartbleed bug is CVE-2014-0160. ######
 
 
 <center>
