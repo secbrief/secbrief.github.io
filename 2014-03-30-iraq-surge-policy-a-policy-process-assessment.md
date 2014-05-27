@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Definition of Terrorism
+title: Iraq Surge Policy: A Policy Process Assessment
 author: C. Cherry
-published: 8-Apr-2014
-description: The definition of terrorism is something that varies widely across governmental and nongovernmental organizations and academia. Herein are common definitions of terrorism.
-category: Terrorism
-tags: Definition, Terrorism
+published: 30-Mar-2014
+description: The Bush Administration pursued a surge policy that added 21,500 troops to the war in Iraq in a concentrated effort to quell violence and restore order.
+category: defense, policy
+tags: bush, iraq, iraq-surge, policy, policy-assessment, violence
 ---
 
 ##### <center>[The below policy assessment was an exercise conducted in 2011.]</center> #####
