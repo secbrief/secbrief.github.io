@@ -7,7 +7,7 @@
 #### Ownership of Copyright ####
 
 
-The copyright in and for this website extends without limitation to: the text, computer code, artwork, photographs, images, music, audio material, video material, audio-visual material, and any file types found on this website and are owned by SecBrief.org and its licensors.
+The copyright in and for this website extends without limitation to: the text, artwork, photographs, images, music, audio material, video material, audio-visual material, and any file types found on this website and are owned by SecBrief.org and its licensors.
 
 
 #### Copyright License ####
