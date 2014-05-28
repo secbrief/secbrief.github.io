@@ -1,3 +1,9 @@
+---
+layout: page
+title: Copyright
+---
+
+
 # Copyright #
 
 
