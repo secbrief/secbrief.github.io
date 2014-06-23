@@ -3,9 +3,9 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 pygments:      true
 timezone:      America/Los_Angeles
 permalink:     /:year/:month/:title/
-author:        C. Cherry
-name:          C. Cherry
-title:         C. Cherry - My domain! A tiny corner of the interweb devoted to whatever I feel like.
-description:   My domain! A tiny corner of the interweb devoted to whatever I feel like.
-keywords:      C. Cherry, Cherry, C-Cherry.com
-url:           //www.c-cherry.com
+author:        SecBrief.org
+name:          SecBrief.org
+title:         SecBrief.org - The Definitive Source for Security News and Expert Analysis
+description:   The Definitive Source for Security News and Expert Analysis
+keywords:      SecBrief.org, SecBrief
+url:           //www.secbrief.org
