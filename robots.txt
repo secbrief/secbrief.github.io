@@ -2,5 +2,5 @@
 
 # Allow crawling of all content
 User-agent: *
-Sitemap: http://www.c-cherry.com/sitemap.xml
+Sitemap: http://www.secbrief.org/sitemap.xml
 Disallow:
