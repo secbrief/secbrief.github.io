@@ -9,4 +9,4 @@ sitemap:
 
 <hr>
 
-The best way to contact SecBrief.org is by email: secbrief@users.noreply.github.com. Should digital means not suffice, smoke signals are a viable alternative.
+The best way to contact SecBrief.org is by email: secbrief@users.noreply.github.com. Should electronic means not suffice, smoke signals are a viable alternative.
