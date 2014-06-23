@@ -1,14 +1,12 @@
 # About
-
-This is SecBrief.org's official repository. The views and opinions expressed by C. Cherry and guest authors on [SecBrief.org](http://www.secbrief.org) do not necessarily reflect those of the organizations of which they are members nor those which they are affiliated.
+This is the personal website of C. Cherry. The views and opinions expressed by C. Cherry on [C-Cherry.com](http://www.c-cherry.com) do not necessarily reflect those of the organizations of which he is a member nor those which he is affiliated.
 
 # Licenses
 
 ### Code
-
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
 
-Copyright © 2013 - 2014 SecBrief.org and [SecBrief.org](http://www.secbrief.org)
+Copyright © 2013 - 2014 C. Cherry and [C-Cherry.com](http://www.c-cherry.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -28,68 +26,66 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-|Please link to [SecBrief.org](http://www.secbrief.org) if you find the code useful.|
+|Please link to [C-Cherry.com](http://www.c-cherry.com) if you find the code useful.|
 -----------------------------------------------------------------------------------------
 
 ### Content
-
 NOTICE OF COPYRIGHT
 
-Copyright © 2013 - 2014 [SecBrief.org](http://www.secbrief.org). All Rights Reserved.
+Copyright © 2013 - 2014 C. Cherry and [C-Cherry.com](http://www.c-cherry.com). All Rights Reserved.
 
-All content, that is, all non-software and associated documentation, within this repository and [SecBrief.org](http://www.secbrief.org) is protected by applicable copyright laws. Content includes but is not limited to: articles, posts, commentary, comments, documents, papers, pictures, illustrations, graphics, audio, and video.
+All content, that is, all non-software and associated documentation, within this repository and [C-Cherry.com](http://www.c-cherry.com) is protected by applicable copyright laws. Content includes but is not limited to: articles, posts, commentary, comments, documents, papers, pictures, illustrations, graphics, audio, and video.
 
 # Privacy Statement
+### Section 1 - What Does C-Cherry.com Do With Your Information?
 
-### Section 1 - What Does SecBrief.org Do With Your Information?
+When you browse C-Cherry.com, C-Cherry.com automatically receives your computer’s internet protocol (IP) address in order to provide C-Cherry.com with information about your browser and operating system.
 
-When you browse SecBrief.org, SecBrief.org automatically receives your computer’s internet protocol (IP) address in order to provide SecBrief.org with information about your browser and operating system.
-
-Email marketing (if applicable): With your permission, SecBrief.org may send you emails containing news and other updates.
+Email marketing (if applicable): With your permission, C-Cherry.com may send you emails containing news and other updates.
 
 ### Section 2 - Consent
 
 How do you get my consent?
 
-If SecBrief.org asks for your personal information, for example, for marketing purposes, SecBrief.org will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+If C-Cherry.com asks for your personal information, for example, for marketing purposes, C-Cherry.com will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting SecBrief.org at secbrief@users.noreply.github.com.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting C-Cherry.com at c-cherry@users.noreply.github.com.
 
 ### Section 3 - Disclosure
 
-SecBrief.org may disclose your personal information if it is required by law to do so or if you violate our Terms of Service.
+C-Cherry.com may disclose your personal information if it is required by law to do so or if you violate our Terms of Service.
 
 ### Section 4 - GitHub
 
-This site is hosted on GitHub Pages. They provide SecBrief.org with the online platform that allows SecBrief.org to serve content to you.
+This site is hosted on GitHub Pages. They provide C-Cherry.com with the online platform that allows C-Cherry.com to serve content to you.
 
 Your data is stored through GitHub's and other third-party data storage, databases and the general GitHub application. They store your data on a secure server behind a firewall.
 
 ### Section 5 - Third-party Services
 
-In general, the third-party providers used by SecBrief.org will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+In general, the third-party providers used by C-Cherry.com will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-However, certain third-party service providers, have their own privacy policies in respect to the information SecBrief.org is required to provide to them for their services.
+However, certain third-party service providers, have their own privacy policies in respect to the information C-Cherry.com is required to provide to them for their services.
 
-For these providers, SecBrief.org recommends that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+For these providers, C-Cherry.com recommends that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-In particular, remember that certain providers may be located in or have facilities that are located in a different jurisdiction than either you or SecBrief.org. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+In particular, remember that certain providers may be located in or have facilities that are located in a different jurisdiction than either you or c-cherry.com. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-Once you leave the SecBrief.org website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or SecBrief.org’s Terms of Service. 
+Once you leave the C-Cherry.com website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or C-Cherry.com’s Terms of Service. 
 
 Links
 
-When you click on links on this website, they may direct you away from SecBrief.org. SecBrief.org is not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+When you click on links on this website, they may direct you away from C-Cherry.com. C-Cherry.com is not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
 ### Section 6 - Security
 
-To protect your personal information, SecBrief.org takes reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+To protect your personal information, C-Cherry.com takes reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 ### Section 7 - Cookies
 
-SecBrief.org uses cookies for site related services and analytics.
+C-Cherry.com uses cookies for site related services and analytics.
 
 ### Section 8 - Age of Consent
 
@@ -97,19 +93,18 @@ By using this site, you represent that you are at least the age of majority in y
 
 ### Section 9 - Changes to This Privacy Policy
 
-SecBrief.org reserves the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If changes are made to this policy, SecBrief.org will notify you here that it has been updated, so that you are aware of what information SecBrief.org collects, how it uses what it collects, and under what circumstances, if any, SecBrief.org uses and/or discloses the infomration.
+C-Cherry.com reserves the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If changes are made to this policy, C-Cherry.com will notify you here that it has been updated, so that you are aware of what information C-Cherry.com collects, how it uses what it collects, and under what circumstances, if any, C-Cherry.com uses and/or discloses the infomration.
 
 QUESTIONS AND CONTACT INFORMATION
 
-Email: secbrief@users.noreply.github.com
+Email: c-cherry@users.noreply.github.com
 
-Last modified **27-May-2014**.
+Last modified **17-April-2014**.
 
 # Terms of Service
-
 ### Overview
 
-This website is operated by SecBrief.org. Throughout the site, the terms “we”, “us” and “our” refer to SecBrief.org. SecBrief.org offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
+This website is operated by C-Cherry.com. Throughout the site, the terms "C. Cherry", “we”, “us” and “our” refer to C-Cherry.com. C-Cherry.com offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
 
 By visiting our site, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.
 
@@ -210,11 +205,11 @@ You agree that from time to time we may remove the service for indefinite period
 
 You expressly agree that your use of, or inability to use, the service is at your sole risk. The service and all products and services delivered to you through the service are (except as expressly stated by us) provided 'as is' and 'as available' for your use, without any representation, warranties or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.
 
-In no case shall SecBrief.org, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the service or any products procured using the service, or for any other claim related in any way to your use of the service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the service or any content (or product) posted, transmitted, or otherwise made available via the service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.
+In no case shall C-Cherry.com, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the service or any products procured using the service, or for any other claim related in any way to your use of the service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the service or any content (or product) posted, transmitted, or otherwise made available via the service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.
 
 ### Section 13 - Indemnification
 
-You agree to indemnify, defend and hold harmless SecBrief.org and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
+You agree to indemnify, defend and hold harmless C-Cherry.com and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
 
 ### Section 14 - Severability 
 
@@ -248,4 +243,4 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 
 ### Section 19 - Contact Information
 
-Questions about the Terms of Service should be sent to us at secbrief@users.noreply.github.com.
+Questions about the Terms of Service should be sent to us at c-cherry@users.noreply.github.com.

@@ -1,0 +1,35 @@
+/*
+ * Navbar Padding
+ */
+
+body {
+  padding-top: 70px;
+}
+
+/*
+ * Logo Padding
+ */
+ 
+ .nav-logo-padding {
+   padding-right: 10px;
+ }
+
+/*
+ * Footer
+ */
+
+.blog-footer {
+  padding: 40px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+
+/*
+ * Icon Padding
+ */
+ 
+.footer-icon-padding {
+  padding-right:15px;padding-left:15px
+}

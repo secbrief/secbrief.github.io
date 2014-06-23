@@ -15,16 +15,16 @@
         <meta name="apple-touch-fullscreen" content="yes">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
-        <meta name="apple-mobile-web-app-title" content="SecBrief.org">
-        <link rel="apple-touch-icon" href="../img/touch-icon-iphone.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="../img/touch-icon-ipad.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="../img/touch-icon-iphone-retina.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="../img/touch-icon-ipad-retina.png">
+        <meta name="apple-mobile-web-app-title" content="{{ site.name }}">
+        <link rel="apple-touch-icon" href="/img/touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/img/touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/img/touch-icon-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/img/touch-icon-ipad-retina.png">
     
         <!-- Google Header -->
         <meta name="mobile-web-app-capable" content="yes">
-        <link rel="shortcut icon" sizes="196x196" href="../img/nice-highres.png">
-        <link rel="shortcut icon" sizes="128x128" href="../img/niceicon.png">
+        <link rel="shortcut icon" sizes="196x196" href="/img/nice-highres.png">
+        <link rel="shortcut icon" sizes="128x128" href="/img/niceicon.png">
     
         <!-- Blackberry Header -->
         <meta name="cursor-event-mode" value="native">
@@ -32,49 +32,49 @@
     
         <!-- Microsoft Header -->
         <meta http-equiv="cleartype" content="on">
-        <meta name="application-name" content="SecBrief.org">
-        <meta name="msapplication-TileImage" content="../img/win8-tile-icon.png">
-        <meta name="msapplication-TileColor" content="#0D4E78FF"/>
-        <meta name="msapplication-square70x70logo" content="../img/tiny.png"/>
-        <meta name="msapplication-square150x150logo" content="../img/square.png">
-        <meta name="msapplication-wide310x150logo" content="../img/wide.png"/>
-        <meta name="msapplication-square310x310logo" content="../img/large.png">
-        <meta name="msapplication-notification" content="frequency=60;polling-uri=https://www.secbrief.org/feed/;id=1;cycle=1"/>
+        <meta name="application-name" content="{{ site.name }}">
+        <meta name="msapplication-TileImage" content="/img/win8-tile-icon.png">
+        <meta name="msapplication-TileColor" content=""/>
+        <meta name="msapplication-square70x70logo" content="/img/tiny.png"/>
+        <meta name="msapplication-square150x150logo" content="/img/square.png">
+        <meta name="msapplication-wide310x150logo" content="/img/wide.png"/>
+        <meta name="msapplication-square310x310logo" content="/img/large.png">
+        <meta name="msapplication-notification" content="frequency=60;polling-uri=//www.c-cherry.com/feed/;id=1;cycle=1"/>
     
         <!-- Title -->
-        <title></title>
+        <title>{% if page.title %}{{ site.name }} - {{ page.title }}{% else %}{{ site.name }} - {{site.description}}{% endif %}</title>
     
         <!-- Meta -->
-        <link rel="canonical" href="">
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="SecBrief.org">
+        <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+        <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+        <meta name="keywords" content="{% if page.tags != empty %}{% for tag in page.tags %}{{ tag | titlecase }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}">
+        <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.name }}{% endif %}">
         <meta name="robots" content="index, follow" />
-        <meta name="copyright" content="Copyright &copy; 2014 SecBrief.org. All Rights Reserved." />
+        <meta name="copyright" content="Copyright &copy; 2013-{{ site.time | date: '%Y' }} C-Cherry.com. All Rights Reserved." />
     
         <!-- Other Google Headers -->
         <meta name="googlebot" content="index, follow" />
-        <meta name="google-site-verification" content="ol3JtVvcjQHdG6pNhMV91FZoLEfq7bNe3d2ie4Bn9vI" />
+        <meta name="google-site-verification" content="" />
     
         <!-- Bitly Header -->
-        <meta name="bitly-verification" content="dbb125e1834f"/>
+        <meta name="bitly-verification" content=""/>
     
         <!-- Twitter Header -->
-        <meta name="twitter:site" value="@SecBrief">
-        <meta name="twitter:url" value="https://twitter.com/SecBrief">
+        <meta name="twitter:site" value="">
+        <meta name="twitter:url" value="">
         <meta name="twitter:card" content="summary">
-        <meta name="twitter:creator" content="">
-        <meta name="twitter:title" content="">
-        <meta name="twitter:description" content="">
-        <meta name="twitter:image" content="">
+        <meta name="twitter:creator" content="{% if page.author %}{{ page.author }}{% else %}{{ site.name }}{% endif %}">
+        <meta name="twitter:title" content="{% if page.title %}{{ site.name }} - {{ page.title }}{% else %}{{ site.name }} - {{site.description}}{% endif %}">
+        <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+        <meta name="twitter:image" content="/img/square.png">
     
         <!-- Facebook/Open Graph Header -->
         <meta property="og:locale" content="en_US"/>
-        <meta property="og:site_name" content="SecBrief.org"/>
-        <meta property="og:url" content=""/>
-        <meta property="og:title" content=""/>
-        <meta property="og:description" content=""/>
-        <meta property="og:image" content=""/>
+        <meta property="og:site_name" content="{{ site.name }}"/>
+        <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html','' }}"/>
+        <meta property="og:title" content="{% if page.title %}{{ site.name }} - {{ page.title }}{% else %}{{ site.name }} - {{site.description}}{% endif %}"/>
+        <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
+        <meta property="og:image" content="/img/square.png"/>
     
     
         <!-- Favicon -->
@@ -82,9 +82,9 @@
         <!--[if IE]>	<link rel="shortcut icon" href="/favicon.ico">	<![endif]-->
         <!-- or, set /favicon.ico for IE10 win -->
         <!-- Opera Speed Dial Icon-->
-        <link rel="icon" type="image/png" href="../img/secbrief_thunderbolt-200x200.png">
+        <link rel="icon" type="image/png" href="/img/c-cherry-200x200.png">
     
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.8.0.min.js"></script>
+        <link rel="stylesheet" href="/css/main.min.css">
+        <link rel="stylesheet" href="/css/custom.min.css">
+        <link rel="stylesheet" href="/css/font-awesome.min.css">
     </head>

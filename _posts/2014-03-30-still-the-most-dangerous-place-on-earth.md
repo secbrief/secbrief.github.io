@@ -4,21 +4,21 @@ title: Still the Most Dangerous Place on Earth
 author: C. Cherry
 published: 30-Mar-2014
 description: Indo-Pakistani conflict and nuclear weapons possession by both states represents the greatest threat of WMD usage in South Asia.
-category: nonproliferation, nuclear-weapons
-tags: india, nonproliferation, nuclear, nuclear weapons, pakistan, wmd
+category: [Nonproliferation, Nuclear Weapons]
+tags: [India, Nonproliferation, Nuclear, Nuclear Weapons, Pakistan, WMD]
 ---
 
-##### [The below memo was from an exercise in 2011 to assess the most likely scenario whereby WMD would be used in South Asia.] #####
+##### <center><strong>[The below memo was from an exercise in 2011 to assess the most likely scenario whereby WMD would be used in South Asia.]</strong></center> #####
 
-#### SUMMARY ####
+### SUMMARY ###
 
 Indo-Pakistani conflict and nuclear weapons possession by both states represents the greatest threat of WMD usage in South Asia. With Pakistan increasingly relying on Islamist groups to help achieve its foreign policy objectives, an attack or series of attacks on India by a Pakistani-based and supported mujahideen insurgent and militant organization or organizations is the most likely scenario wherein Indo-Pakistani tensions spiral into nuclear conflict. The U.S. needs to leverage its position of influence as a chief aid provider to Pakistan in order to bring about a swift and permanent end to the relationships Pakistan has with various mujahideen insurgent and militant organizations. Lastly, serious bilateral talks between India and Pakistan need to resume, and minimum deterrence, improved nuclear stewardship, clear nuclear doctrine, and improved signaling need to be at the center of U.S. policy towards India and Pakistan in order to prevent escalating the Indo-Pakistani conflict.
 
-#### THREAT OF WMD USAGE IN SOUTH ASIA ####
+### THREAT OF WMD USAGE IN SOUTH ASIA ###
 
 Nuclear weapons are the weapons of mass destruction (WMD) most likely to be used in South Asia. Within the region, India and Pakistan are the only two states known to currently possess WMD.[^1] Both India and Pakistan maintain declared and demonstrated nuclear weapon capabilities.[^2] Neither state has a declared biological or chemical weapons program.[^3] Though both India and Pakistan have latent biological and chemical weapons capabilities, both states are signatories to the Biological and Toxin Weapons Convention as well as the Chemical Weapons Convention. Moreover, there is no indication that either state has a clandestine biological or chemical weapons program.[^4] Given the history of veiled nuclear threats between India and Pakistan and the absence of Indian and Pakistani biological and chemical weapons programs, nuclear weapons usage remains the only substantial WMD threat in South Asia.
 
-#### INDO-PAKISTANI CONFLICT ####
+### INDO-PAKISTANI CONFLICT ###
 
 An attack or series of attacks on India by a Pakistani-based and supported mujahideen insurgent and militant organization or organizations is the most likely scenario wherein Indo-Pakistani tensions spiral into nuclear conflict. Despite official Pakistani denouncement and banning of several Islamist organizations in Pakistan, leading experts continue to assert that elements within the Pakistani government, specifically the Directorate of Inter-Services Intelligence (ISI), are still providing material support for insurgents and militants in order to fight a proxy war intended to bleed and break the will of India.[^5]
 Pakistan’s support of Kashmiri insurgents and militants is rooted in its desire to unite Jammu and Kashmir, currently administered by India, with Pakistan and remains a chief source of conflict between the states.[^6] Lashkar-e-Taiba (LeT) and Jaish-e-Mohammed (JeM), two prominent mujahideen insurgent and militant organizations supported by Pakistan, with proximate goals of liberating Jammu and Kashmir, continue to threaten regional peace and stability.[^7]
@@ -31,7 +31,7 @@ India’s commitment to the status quo makes it unlikely that it would act unles
 
 This fact coupled with India’s growing impatience over Pakistan’s support of organizations like LeT and JeM would certainly increase tensions, and could spark hostilities, in the event another act of terrorism takes place in India that can be traced back to Pakistan.[^13]
 
-#### POLICY OPTIONS AND THREAT REDUCTION ####
+### POLICY OPTIONS AND THREAT REDUCTION ###
 
 The United States needs to take a new approach to Pakistani engagement. It is essential that Pakistan cease its support of Islamist organizations immediately. This is a continuing problem that threatens regional peace and stability and it is the single current action that is most likely to spur interstate conflict. The United States should leverage its position of influence as a chief aid provider to Pakistan in order to bring about a swift and permanent end to the relationships Pakistan has with various mujahideen insurgent and militant organizations.[^14]
 In order to ensure that Pakistan willingly ceases its support of Islamist organizations and begins to pursue them in good faith, there also needs to be a deal sweetener for them. Threats to pull aid alone will not change Pakistani policy considering U.S. dependence on Pakistan for its war in Afghanistan and more generally, its efforts to root out terrorists and terrorist organizations. As such, the U.S. needs to be prepared to make concessions and deals outside of just providing more aid.[^15]
