@@ -21,6 +21,16 @@ body {
  .nav-logo-padding {
    padding-right: 10px;
  }
+ 
+ .logo-nav{
+   display: block; 
+   width: 100%;
+ }
+
+ .logo-nav img {
+   width: 400px;
+   max-width:100%;
+ }
 
 /*
  * Footer
