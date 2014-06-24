@@ -7,6 +7,14 @@ body {
 }
 
 /*
+ * Navbar Fixed Top Padding
+ */
+ 
+ .navbar-fixed-top-padding {
+   padding-top: 10px;
+ }
+
+/*
  * Logo Padding
  */
  
