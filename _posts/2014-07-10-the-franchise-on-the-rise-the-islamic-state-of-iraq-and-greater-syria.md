@@ -273,42 +273,43 @@ While discussing the issue of chemical weapons falling into the hands of the ISI
 [^84]: Jonathan Masters, "Syria's Crisis and the Global Response," Council On Foreign Relations, Backgrounder, last modified May 8, 2013, accessed May 10, 2013, http://www.cfr.org/syria/syrias-crisis-global-response/p28402.
 
 [^85]: David ignatius, "Al-Qaeda affiliate playing larger role in Syria rebellion."
-See Jonathan Masters, "Syria's Crisis and the Global Response" and Mark Hosenball, "Exclusive: Obama authorizes secret U.S. support for Syrian rebels," Reuters, August 1, 2012, accessed May 2, 2013, http://www.reuters.com/article/2012/08/01/us-usa-syria-obama-order-idUSBRE8701OK20120801.
 
-[^86]: Jonathan Masters, "Syria's Crisis and the Global Response."
+[^86]: See Jonathan Masters, "Syria's Crisis and the Global Response" and Mark Hosenball, "Exclusive: Obama authorizes secret U.S. support for Syrian rebels," Reuters, August 1, 2012, accessed May 2, 2013, http://www.reuters.com/article/2012/08/01/us-usa-syria-obama-order-idUSBRE8701OK20120801.
 
-[^87]: Ibid.
+[^87]: Jonathan Masters, "Syria's Crisis and the Global Response."
 
-[^88]: Michael Kelley, "How CIA-Aided Arms Shipments To Syria Keep Ending Up In Radical Hands," Business Insider, March 25, 2013, accessed March 28, 2013, http://www.businessinsider.com/cia-weapons-going-to-jihadists-in-syria-2013-3.
+[^88]: Ibid.
 
-[^89]: "US has seen Syria chemical weapons evidence, says Obama."
+[^89]: Michael Kelley, "How CIA-Aided Arms Shipments To Syria Keep Ending Up In Radical Hands," Business Insider, March 25, 2013, accessed March 28, 2013, http://www.businessinsider.com/cia-weapons-going-to-jihadists-in-syria-2013-3.
 
-[^90]: The ISIGS’s membership, as high as 10,000 jihadis (see Qassim Abdul-Zahra, "Al-Qaeda making comeback in Iraq, officials say,”), in Syria alone outnumbers all of al-Qa’ida’s other franchises.
+[^90]: "US has seen Syria chemical weapons evidence, says Obama."
 
-[^91]: See Asron Y. Zelin, "ICSR Insight: European Foreign Fighters in Syria," The International Centre for the Study of Radicalisation, February 4, 2013, accessed March 18, 2013, http://csr.info/2013/04/icsr-insight-european-foreign-fighters-in-syria-2/; Ahmed Maher, "Syria conflict: Why did my Tunisian son join the rebels?," BBC, May 15, 2013, accessed May 15, 2013, http://www.bbc.co.uk/news/world-africa-22529019; and Thomas Joscelyn, "Al Qaeda in Iraq, Al Nusrah Front emerge as rebranded single entity.”
+[^91]: The ISIGS’s membership, as high as 10,000 jihadis (see Qassim Abdul-Zahra, "Al-Qaeda making comeback in Iraq, officials say,”), in Syria alone outnumbers all of al-Qa’ida’s other franchises.
 
-[^92]: Mona Mahmood and Ian Black, "Free Syrian Army rebels defect to Islamist group Jabhat al-Nusra."
+[^92]: See Asron Y. Zelin, "ICSR Insight: European Foreign Fighters in Syria," The International Centre for the Study of Radicalisation, February 4, 2013, accessed March 18, 2013, http://csr.info/2013/04/icsr-insight-european-foreign-fighters-in-syria-2/; Ahmed Maher, "Syria conflict: Why did my Tunisian son join the rebels?," BBC, May 15, 2013, accessed May 15, 2013, http://www.bbc.co.uk/news/world-africa-22529019; and Thomas Joscelyn, "Al Qaeda in Iraq, Al Nusrah Front emerge as rebranded single entity.”
+
+[^93]: Mona Mahmood and Ian Black, "Free Syrian Army rebels defect to Islamist group Jabhat al-Nusra."
  
-[^93]: Ryan Crocker, "Attacks in Iraq threatening gains from 'surge'," The Japan Times, May 11, 2013, accessed May 11, 2013, http://www.japantimes.co.jp/opinion/2013/05/11/commentary/attacks-in-iraq-threatening-gains-from-surge/.
+[^94]: Ryan Crocker, "Attacks in Iraq threatening gains from 'surge'," The Japan Times, May 11, 2013, accessed May 11, 2013, http://www.japantimes.co.jp/opinion/2013/05/11/commentary/attacks-in-iraq-threatening-gains-from-surge/.
 
-[^94]: Tim Arango, "Iraq’s Worsening Sunni Protests Revolve Around Antiterrorism Tactics," New York Times, May 7, 2013, accessed May 7, 2013, http://www.nytimes.com/2013/05/08/world/middleeast/sunnis-in-iraq-protest-antiterror-tactics-that-hurt-innocents.html.
+[^95]: Tim Arango, "Iraq’s Worsening Sunni Protests Revolve Around Antiterrorism Tactics," New York Times, May 7, 2013, accessed May 7, 2013, http://www.nytimes.com/2013/05/08/world/middleeast/sunnis-in-iraq-protest-antiterror-tactics-that-hurt-innocents.html.
 
-[^95]: Qassim Abdul-Zahra, "Al-Qaeda making comeback in Iraq, officials say."
+[^96]: Qassim Abdul-Zahra, "Al-Qaeda making comeback in Iraq, officials say."
 
-[^96]: Julian Borger, "Syria accuses Israel of declaring war after further air strikes," The Guardian, May 5, 2013, accessed May 7, 2013, http://www.guardian.co.uk/world/2013/may/05/syria-accuses-israel-declaring-war-strikes; Ariel Ben Solomon, "Contemplating Syria, Hezbollah retaliation," Jerusalem Post, May 6, 2013, accessed May 6, 2013, http://www.jpost.com/Defense/Contemplating-Syria-Hezbollah-retaliation-on-Israel-312179; and Wyre Davies, "Syria-Turkey tension: Reyhanli bombings tear apart communities," BBC, May 13, 2013, accessed May 13, 2013, http://www.bbc.co.uk/news/world-middle-east-22516750.
+[^97]: Julian Borger, "Syria accuses Israel of declaring war after further air strikes," The Guardian, May 5, 2013, accessed May 7, 2013, http://www.guardian.co.uk/world/2013/may/05/syria-accuses-israel-declaring-war-strikes; Ariel Ben Solomon, "Contemplating Syria, Hezbollah retaliation," Jerusalem Post, May 6, 2013, accessed May 6, 2013, http://www.jpost.com/Defense/Contemplating-Syria-Hezbollah-retaliation-on-Israel-312179; and Wyre Davies, "Syria-Turkey tension: Reyhanli bombings tear apart communities," BBC, May 13, 2013, accessed May 13, 2013, http://www.bbc.co.uk/news/world-middle-east-22516750.
 
-[^97]: Liz Sly, "Islamic law comes to rebel-held Syria," Washington Post, March 19, 2013, accessed March 22, 2013, http://articles.washingtonpost.com/2013-03-19/world/37840878_1_al-nusra-deir-aleppo.
+[^98]: Liz Sly, "Islamic law comes to rebel-held Syria," Washington Post, March 19, 2013, accessed March 22, 2013, http://articles.washingtonpost.com/2013-03-19/world/37840878_1_al-nusra-deir-aleppo.
 
-[^98]: Mona Mahmood and Ian Black, "Free Syrian Army rebels defect to Islamist group Jabhat al-Nusra."
+[^99]: Mona Mahmood and Ian Black, "Free Syrian Army rebels defect to Islamist group Jabhat al-Nusra."
 
-[^99]: See Jamie Dettmer, Syrian Jihadist Fighters Getting Western Weapons," Voice of America, March 25, 2013, accessed April 26, 2013, http://www.voanews.com/content/syria-rebels-weapons/1628351.html and "Jabhat Al-Nusra Takes Over T-72 In Syria," YouTube, July 26, 2012, accessed May 2, 2013, http://www.youtube.com/watch?v=y4hCaFktHZo.
+[^100]: See Jamie Dettmer, Syrian Jihadist Fighters Getting Western Weapons," Voice of America, March 25, 2013, accessed April 26, 2013, http://www.voanews.com/content/syria-rebels-weapons/1628351.html and "Jabhat Al-Nusra Takes Over T-72 In Syria," YouTube, July 26, 2012, accessed May 2, 2013, http://www.youtube.com/watch?v=y4hCaFktHZo.
 
-[^100]: Thomas Joscelyn, "Al Qaeda in Iraq, Al Nusrah Front emerge as rebranded single entity."
+[^101]: Thomas Joscelyn, "Al Qaeda in Iraq, Al Nusrah Front emerge as rebranded single entity."
 
-[^101]: "US has seen Syria chemical weapons evidence, says Obama.”
+[^102]: "US has seen Syria chemical weapons evidence, says Obama.”
 
-[^102]: Ibid.
+[^103]: Ibid.
 
-[^103]: Jonathan Masters, “Al-Qaeda In Iraq.”
+[^104]: Jonathan Masters, “Al-Qaeda In Iraq.”
 
-[^104]: Julian Borger, "Iran and Hezbollah 'have built 50,000-strong force to help Syrian regime'," The Guardian, March 14, 2013, accessed April 27, 2013, http://www.guardian.co.uk/world/2013/mar/14/iran-hezbollah-force-syrian-regime.
+[^105]: Julian Borger, "Iran and Hezbollah 'have built 50,000-strong force to help Syrian regime'," The Guardian, March 14, 2013, accessed April 27, 2013, http://www.guardian.co.uk/world/2013/mar/14/iran-hezbollah-force-syrian-regime.
