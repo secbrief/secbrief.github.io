@@ -54,46 +54,14 @@ Prior to analyzing vulnerabilities and threats, or looking at which domestic org
 
 Most definitions define agroterrorism as a subset of bioterrorism. According to the Centers for Disease Control and Prevention, bioterrorism is “the deliberate release of viruses, bacteria, or other germs (agents) used to cause illness or death in people, animals, or plants.”[^33] However, by placing agroterrorism solely under the classification of bioterrorism, one is defining the act in a manner that is too restrictive and unnecessarily narrows the scope of what should be considered agricultural terrorism. A commonly used definition holds that agroterrorism is “the deliberate introduction of an animal or plant disease with the goal of generating fear over the safety of food, causing economic losses, and/or undermining social stability.”[^34] Under this definition, agroterrorism is limited to acts of terrorism involving the intentional release of biological agents for the purpose of generating fear over food safety and/or undermining social stability. To best understand why traditional definitions of agroterrorism are unsatisfactory, it is important to break the term apart.
 
-Broken into two terms, agroterrorism is “agro” and “terrorism.” Agro is derived from agriculture or agricultural, which is defined by the Merriam-Webster dictionary as “the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products.”[^35] So when referring to agriculture, few would argue that the definition does not include crop production, raising livestock, and the preparation and marketing of the resulting products thereof. That said, the definition of the second term, “terrorism,” is more contentious and the subject of much debate in
+Broken into two terms, agroterrorism is “agro” and “terrorism.” Agro is derived from agriculture or agricultural, which is defined by the Merriam-Webster dictionary as “the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products.”[^35] So when referring to agriculture, few would argue that the definition does not include crop production, raising livestock, and the preparation and marketing of the resulting products thereof. That said, the definition of the second term, “terrorism,” is more contentious and the subject of much debate in academic circles. Indeed there are numerous definitions, but Dr. Jeffrey M. Bale, a historian and terrorism scholar at the Monterey Terrorism Research and Education Program at the Monterey Institute of International Studies, has arrived at a good working definition. According to Bale, terrorism is “the use or threatened use of violence, directed against victims selected for their symbolic or representative value, as a means of instilling anxiety in, transmitting one or more messages to, and thereby manipulating the attitudes and behavior of a wider target audience or audiences.”[^36] Using this definition, strictly, the intent of an actor or actors, is what is important in classifying something as an act of terrorism or not.
 
+Bringing the derived definitions of “agriculture” and “terrorism” back, the error in the widely used definition of agroterrorism becomes easier to see. Sub-classifications and typologies of terrorism can be made and appropriately used, but on the basis of clearly and consistently defining who the perpetrator or perpetrators are, and/or what and/or how something is targeted; assuming that the intent behind the act satisfactorily meets the criteria laid out in the preceding definition of terrorism. The term agroterrorism does not clearly or consistently convey a meaning which excludes means of terrorism outside of biological. Rather, the traditional definition of agroterrorism more accurately describes “agricultural bioterrorism,” not agroterrorism. While the author of this paper finds that there are existential threats to the agriculture industry beyond biological, those threats pale in comparison and are therefore not included in this threat assessment. For accuracy and the purposes of this threat assessment, the term “agroterrorism” will henceforth include all means of violence against agriculture in its meaning (i.e., it will not be restricted to biological means), and be distinct from “agricultural bioterrorism” which will be defined as: the use or threatened use of disease inducing pathogens on agricultural targets, directed against victims selected for their symbolic or representative value, as a means of instilling anxiety in, transmitting one or more messages to, and thereby manipulating the attitudes and behavior of a wider target audience or audiences.
 
-academic circles. Indeed there are numerous definitions, but Dr. Jeffrey M. Bale, a historian and
-terrorism scholar at the Monterey Terrorism Research and Education Program at the Monterey
-Institute of International Studies, has arrived at a good working definition. According to Bale,
-terrorism is “the use or threatened use of violence, directed against victims selected for their
-symbolic or representative value, as a means of instilling anxiety in, transmitting one or more
-messages to, and thereby manipulating the attitudes and behavior of a wider target audience or
-audiences.” Using this definition, strictly, the intent of an actor or actors, is what 36 is important in
-classifying something as an act of terrorism or not.
+### ORGANIZATIONS AND RESPONSIBILITIES ###
 
+#### <u>BACKGROUND</u> ####
 
-Bringing the derived definitions of “agriculture” and “terrorism” back, the error in the
-widely used definition of agroterrorism becomes easier to see. Subclassifications
-and
-typologies of terrorism can be made and appropriately used, but on the basis of clearly and
-consistently defining who the perpetrator or perpetrators are, and/or what and/or how something
-is targeted; assuming that the intent behind the act satisfactorily meets the criteria laid out in the
-preceding definition of terrorism. The term agroterrorism does not clearly or consistently convey
-a meaning which excludes means of terrorism outside of biological. Rather, the traditional
-definition of agroterrorism more accurately describes “agricultural bioterrorism,” not
-agroterrorism. While the author of this paper finds that there are existential threats to the
-agriculture industry beyond biological, those threats pale in comparison and are therefore not
-included in this threat assessment. For accuracy and the purposes of this threat assessment,
-the term “agroterrorism” will henceforth include all means of violence against agriculture in its
-meaning (i.e., it will not be restricted to biological means), and be distinct from “agricultural
-bioterrorism” which will be defined as: the use or threatened use of disease inducing pathogens
-36 Jeffrey M. Bale and Gary Ackerman, "Methodologies and Attributes for Assessing Terrorist Threats of
-WMD Terrorism," Center for Nonproliferation Studies, 2005, 6, accessed November 10, 2013,
-http://courses.cs.washington.edu/courses/csep590/05au/readings/Bale_Ackerman_FinalReport.pdf.
-11 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-on agricultural targets, directed against victims selected for their symbolic or representative
-value, as a means of instilling anxiety in, transmitting one or more messages to, and thereby
-manipulating the attitudes and behavior of a wider target audience or audiences.
-ORGANIZATIONS AND RESPONSIBILITIES
-BACKGROUND
 By late 1999, the threat of agricultural bioterrorism began to receive widespread attention
 for the first time in Congress. Over the following seven years, Congress held five hearings on
 agricultural bioterrorism or agricultural biosecurity. Ultimately, the hearings 37 and heightened
@@ -1487,3 +1455,5 @@ prevent potentially cascading terrorist attacks.
 [^34]: Jim Monke, "Agroterrorism: Threats and Preparedness," Congressional Research Service, March 12, 2007, 1, accessed November 10, 2013, http://www.fas.org/sgp/crs/terror/RL32521.pdf.
 
 [^35]: "Agriculture," MerriamWebster, 2013, accessed November 12, 2013, http://www.merriamwebster.com/dictionary/agriculture.
+
+[^36]: Jeffrey M. Bale and Gary Ackerman, "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism," Center for Nonproliferation Studies, 2005, 6, accessed November 10, 2013, http://courses.cs.washington.edu/courses/csep590/05au/readings/Bale_Ackerman_FinalReport.pdf.
