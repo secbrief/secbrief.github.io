@@ -62,159 +62,24 @@ Bringing the derived definitions of “agriculture” and “terrorism” back, 
 
 #### <u>BACKGROUND</u> ####
 
-By late 1999, the threat of agricultural bioterrorism began to receive widespread attention
-for the first time in Congress. Over the following seven years, Congress held five hearings on
-agricultural bioterrorism or agricultural biosecurity. Ultimately, the hearings 37 and heightened
-threat awareness led to the creation of new legislation directed at protecting not only historically
-identified critical infrastructure, but also agriculture. Passed on October 26, 2001 in the
-immediate wake of 9/11, the ‘‘Uniting and Strengthening America by Providing Appropriate Tools
-Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001’’ set forth a
-mission to “deter and punish terrorist acts in the United States and around the world, to enhance
-law enforcement investigatory tools, and for other purposes.”38 While not specifically naming
-agricultural bioterrorism, the law expanded the biological weapons statute (Chapter 10 of title 18,
-United States Code) which agricultural bioterrorism falls under, and dramatically loosened
-former legal restraints on federal law enforcement and intelligence agencies for the purpose of
-preventing future terrorist attacks.39
-The first major legislation that named and aimed in part to protect agriculture against
-terrorism was signed into law on June 12, 2002, and called The Public Health Security and
-Bioterrorism Preparedness and Response Act of 2002 (commonly referred to as the
-37 "Agroterrorism: Threats and Preparedness," CRS12.
-38 "Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct
-Terrorism (USA PATRIOT ACT) Act of 2001," Public Law 10756,
-107th Congress, Government Printing
-Office, October 26, 2001, accessed November 13, 2013
-http://www.gpo.gov/fdsys/pkg/PLAW107publ56/
-pdf/PLAW107publ56.
-pdf.
-39 Ibid.
-12 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-Bioterrorism Response Act). The law was passed in order to provide “regulation 40 of certain
-biological agents that have the potential to pose a severe threat to both human and animal
-health, to animal health, to plant health, or to animal and plant products.”41 Important to the
-protection of the agriculture industry in this legislation was its subsection B, which is referred to
-as the “Agricultural Bioterrorism Protection Act of 2002."42 This section enumerated protections
-to include the creation of a select agent and toxin list for enforcing protections. The law states
-that the “Secretary of Agriculture shall by regulation establish and maintain a list of each
-biological agent and each toxin that the Secretary determines has the potential to pose a severe
-threat to animal or plant health, or to animal or plant products.”43 The law also “necessitates that
-individuals possessing, using, or transferring agents or toxins deemed a severe threat to public,
-animal or plant health, or to animal or plant products notify either the Secretary of the
-Department of Health and Human Services (HHS) or the Secretary of the Department of
-Agriculture (USDA).”44 In accordance with the Act, rules and regulations were published under
-the Code of Federal Regulations detailing the requirements for possession, use, and transfer for
-select agents and toxins. Pursuant to the law, sections 42 CFR Part 72 and 73 (published by
-HHS) and 7 CFR Part 331 and 9 CFR Part 121 (published by the USDA) are of significance.45
-Passed on November 25, 2002, the Homeland Security Act of 2002 set into motion one of
-the largest reorganizations of government in U.S. history, and formed the Department of
-40 "Public Health Security and Bioterrorism Preparedness and Response Act of 2002," Public Law 107188,
-107th Congress, Government Printing Office, June 12, 2002, accessed November 13, 2013,
-http://www.gpo.gov/fdsys/pkg/STATUTE116/
-pdf/STATUTE116Pg594.
-pdf.
-41 "Biennial Review: Agricultural Bioterrorism Protection Act of 2002," U.S. Department of Agriculture,
-October 3, 2001, accessed November 13, 2013,
-http://www.gpo.gov/fdsys/pkg/FR20111003/
-pdf/201125520.
-pdf.
-42 "Public Health Security and Bioterrorism Preparedness and Response Act of 2002."
-43 Ibid.
-44 "Agricultural Select Agent Program," U.S. Department of Agriculture, accessed November 15, 2013,
-http://www.aphis.usda.gov/programs/ag_selectagent/.
-45 "Agricultural Select Agent Program;" and "Possession, Use, and Transfer of Select Agents and Toxins;
-Final Rule," Department of Health and Human Services, March 18, 2005, accessed November 20, 2013,
-http://oig.hhs.gov/authorities/docs/05/032905FRselectagents.pdf.
-13 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-Homeland Security (DHS). The resulting reorganization changed responsibilities 46 for protecting
-agriculture. Specifically, it moved “personnel and responsibility for agricultural border inspections
-from USDA to DHS (specifically, from the USDAAnimal
-and Plant Health Inspection Service
-(APHIS) to DHS Customs and Border Protection (CBP)).”47 Additionally, it moved the
-responsibility of operating, the now closeddown,
-Plum Island Animal Disease Center in New
-York from USDA to DHS.”48
-Another source of policy involving the protection of agriculture has been homeland
-security presidential directives. The Homeland Security Presidential Directive 7 (HSPD7),
-handed down on December 17, 2003 replaced “the 1998 Presidential Decision Directive 63
-(PDD63)
-that omitted “agriculture and food” in its coverage of critical infrastructure.49 According
-to the directive, HSPD7
-“establishes a national policy for Federal departments and agencies to
-identify and prioritize critical infrastructure and to protect them from terrorist attacks.”50 HSPD7
-identifies agriculture and food (meat, poultry, egg products) as critical infrastructure sectors and
-places their protection under the U.S. Department of Agriculture.51
-Homeland Security Presidential Directive 9 (HSPD9)
-states that its purpose is to
-establish “a national policy to defend the agriculture and food system against terrorist attacks,
-major disasters, and other emergencies.”52 It highlights that at present, the “United States
-agriculture and food systems are vulnerable to disease, pest, or poisonous agents that occur
-46 "Homeland Security Act of 2002," Public Law 107296,
-107th Congress, Government Publishing Office,
-November 25, 2002, accessed November 20, 2013,
-http://www.gpo.gov/fdsys/pkg/PLAW107publ296/
-pdf/PLAW107publ296.
-pdf.
-47 "Agroterrorism: Threats and Preparedness."
-48 Ibid.
-49 "Agroterrorism: Threats and Preparedness."
-50 "Homeland Security Presidential Directive 7: Critical Infrastructure Identification, Prioritization, and
-Protection," Department of Homeland Security, December 17, 2003, accessed November 20, 2013,
-https://www.dhs.gov/homelandsecuritypresidentialdirective7.
-51 Ibid.
-52 "Homeland Security Presidential Directive / HSPD9,"
-Office of the Press Secretary, The White House,
-February 3, 2004, accessed November 20, 2013, http://www.fas.org/irp/offdocs/nspd/hspd9.
-html.
-14 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-naturally, are unintentionally introduced, or are intentionally delivered by acts of terrorism.”53
-Bluntly, it also notes that “America's agriculture and food system is an extensive, open,
-interconnected, diverse, and complex structure providing potential targets for terrorist attacks”
-and if exploited, “could have catastrophic health and economic effects.54 To meet these
-challenges, HSPD9
-“generally instructs the Secretaries of Homeland Security (DHS),
-Agriculture (USDA), and Health and Human Services (HHS), the Administrator of the
-Environmental Protection Agency (EPA), the Attorney General, and the Director of Central
-Intelligence to coordinate their efforts to prepare for, protect against, respond to, and recover
-from an agroterrorist attack” while “instructing agencies to develop awareness and warning
-systems to monitor plant and animal diseases, food quality, and public health through an
-integrated diagnostic system.”55 It also mandates that “response and recovery plans are to be
-coordinated across the federal, state, and local levels.”56
-Homeland Security Presidential Directive 10 (HSPD10),
-known as Biodefense for the
-21st Century, came down in April 2004. Concerned with new biotechnology,
-the dual nature of
-the biothreat,
-and the increasingly widespread knowhow
-in life sciences, HSPD10
-set into
-motion greater efforts to prevent and control the threat of biological weapons.57 Included in critical
-infrastructure, food and agriculture were noted as potential targets.58
-The National Response Plan, which has since been supplanted by the National
-Response Framework, was created in December 2004 as an “alldiscipline,
-allhazards
-plan that
-establishes a single, comprehensive framework for the management of domestic incidents”
-which coordinates “Federal support to State, local, and tribal incident managers and for
-53 Ibid.
-54 Ibid.
-55 "Agroterrorism: Threats and Preparedness."
-56 Ibid.
-57 "Biodefense for the 21st Century," Office of the Press Secretary, The White House, April 28, 2004,
-accessed November 24, 2013, https://www.fas.org/irp/offdocs/nspd/hspd10.
-html.
-58 Ibid.
-15 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
+By late 1999, the threat of agricultural bioterrorism began to receive widespread attention for the first time in Congress. Over the following seven years, Congress held five hearings on agricultural bioterrorism or agricultural biosecurity.[^37] Ultimately, the hearings and heightened threat awareness led to the creation of new legislation directed at protecting not only historically identified critical infrastructure, but also agriculture. Passed on October 26, 2001 in the immediate wake of 9/11, the ‘‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001’’ set forth a mission to “deter and punish terrorist acts in the United States and around the world, to enhance law enforcement investigatory tools, and for other purposes.”[^38] While not specifically naming agricultural bioterrorism, the law expanded the biological weapons statute (Chapter 10 of title 18, United States Code) which agricultural bioterrorism falls under, and dramatically loosened former legal restraints on federal law enforcement and intelligence agencies for the purpose of preventing future terrorist attacks.[^39]
+
+The first major legislation that named and aimed in part to protect agriculture against terrorism was signed into law on June 12, 2002, and called The Public Health Security and Bioterrorism Preparedness and Response Act of 2002 (commonly referred to as the Bioterrorism Response Act).[^40] The law was passed in order to provide “regulation of certain biological agents that have the potential to pose a severe threat to both human and animal health, to animal health, to plant health, or to animal and plant products.”[^41] Important to the protection of the agriculture industry in this legislation was its subsection B, which is referred to as the “Agricultural Bioterrorism Protection Act of 2002."[^42] This section enumerated protections to include the creation of a select agent and toxin list for enforcing protections. The law states that the “Secretary of Agriculture shall by regulation establish and maintain a list of each biological agent and each toxin that the Secretary determines has the potential to pose a severe threat to animal or plant health, or to animal or plant products.”[^43] The law also “necessitates that individuals possessing, using, or transferring agents or toxins deemed a severe threat to public, animal or plant health, or to animal or plant products notify either the Secretary of the Department of Health and Human Services (HHS) or the Secretary of the Department of Agriculture (USDA).”[^44] In accordance with the Act, rules and regulations were published under the Code of Federal Regulations detailing the requirements for possession, use, and transfer for select agents and toxins. Pursuant to the law, sections 42 CFR Part 72 and 73 (published by HHS) and 7 CFR Part 331 and 9 CFR Part 121 (published by the USDA) are of significance.[^45]
+
+Passed on November 25, 2002, the Homeland Security Act of 2002 set into motion one of the largest reorganizations of government in U.S. history, and formed the Department of Homeland Security (DHS).[^46] The resulting reorganization changed responsibilities for protecting agriculture. Specifically, it moved “personnel and responsibility for agricultural border inspections from USDA to DHS (specifically, from the USDA-Animal and Plant Health Inspection Service (APHIS) to DHS Customs and Border Protection (CBP)).”[^47] Additionally, it moved the responsibility of operating, the now closed-down, Plum Island Animal Disease Center in New York from USDA to DHS.”[^48]
+
+Another source of policy involving the protection of agriculture has been homeland security presidential directives. The Homeland Security Presidential Directive 7 (HSPD-7), handed down on December 17, 2003 replaced “the 1998 Presidential Decision Directive 63 (PDD-63) that omitted “agriculture and food” in its coverage of critical infrastructure.[^49] According to the directive, HSPD-7 “establishes a national policy for Federal departments and agencies to identify and prioritize critical infrastructure and to protect them from terrorist attacks.”[^50] HSPD-7 identifies agriculture and food (meat, poultry, egg products) as critical infrastructure sectors and places their protection under the U.S. Department of Agriculture.[^51]
+
+Homeland Security Presidential Directive 9 (HSPD-9) states that its purpose is to establish “a national policy to defend the agriculture and food system against terrorist attacks, major disasters, and other emergencies.”[^52] It highlights that at present, the “United States agriculture and food systems are vulnerable to disease, pest, or poisonous agents that occur naturally, are unintentionally introduced, or are intentionally delivered by acts of terrorism.”[^53] Bluntly, it also notes that “America's agriculture and food system is an extensive, open, interconnected, diverse, and complex structure providing potential targets for terrorist attacks” and if exploited, “could have catastrophic health and economic effects.54 To meet these challenges, HSPD-9 “generally instructs the Secretaries of Homeland Security (DHS), Agriculture (USDA), and Health and Human Services (HHS), the Administrator of the Environmental Protection Agency (EPA), the Attorney General, and the Director of Central Intelligence to coordinate their efforts to prepare for, protect against, respond to, and recover from an agroterrorist attack” while “instructing agencies to develop awareness and warning systems to monitor plant and animal diseases, food quality, and public health through an integrated diagnostic system.”[^55] It also mandates that “response and recovery plans are to be coordinated across the federal, state, and local levels.”[^56]
+
+Homeland Security Presidential Directive 10 (HSPD-10), known as Biodefense for the 21st Century, came down in April 2004. Concerned with new biotechnology, the dual nature of the biothreat, and the increasingly widespread knowhow in life sciences, HSPD-10 set into motion greater efforts to prevent and control the threat of biological weapons.[^57] Included in critical infrastructure, food and agriculture were noted as potential targets.[^58]
+
+The National Response Plan, which has since been supplanted by the National Response Framework, was created in December 2004 as an “all-discipline, all-hazards plan that establishes a single, comprehensive framework for the management of domestic incidents” which coordinates “Federal support to State, local, and tribal incident managers and for
+
+
+
+
+
 exercising direct Federal authorities and responsibilities” while assisting “in the important
 homeland security mission of preventing terrorist attacks within the United States; reducing the
 vulnerability to all natural and manmade
@@ -1457,3 +1322,47 @@ prevent potentially cascading terrorist attacks.
 [^35]: "Agriculture," MerriamWebster, 2013, accessed November 12, 2013, http://www.merriamwebster.com/dictionary/agriculture.
 
 [^36]: Jeffrey M. Bale and Gary Ackerman, "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism," Center for Nonproliferation Studies, 2005, 6, accessed November 10, 2013, http://courses.cs.washington.edu/courses/csep590/05au/readings/Bale_Ackerman_FinalReport.pdf.
+
+[^37]: "Agroterrorism: Threats and Preparedness," CRS12.
+
+[^38]: "Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001," Public Law 10756, 107th Congress, Government Printing Office, October 26, 2001, accessed November 13, 2013 http://www.gpo.gov/fdsys/pkg/PLAW107publ56/pdf/PLAW107publ56.pdf.
+
+[^39]: Ibid.
+
+[^40]: "Public Health Security and Bioterrorism Preparedness and Response Act of 2002," Public Law 107188, 107th Congress, Government Printing Office, June 12, 2002, accessed November 13, 2013, http://www.gpo.gov/fdsys/pkg/STATUTE116/pdf/STATUTE116Pg594.pdf.
+
+[^41]: "Biennial Review: Agricultural Bioterrorism Protection Act of 2002," U.S. Department of Agriculture, October 3, 2001, accessed November 13, 2013, http://www.gpo.gov/fdsys/pkg/FR20111003/pdf/201125520.pdf.
+
+[^42]: "Public Health Security and Bioterrorism Preparedness and Response Act of 2002."
+
+[^43]: Ibid.
+
+[^44]: "Agricultural Select Agent Program," U.S. Department of Agriculture, accessed November 15, 2013, http://www.aphis.usda.gov/programs/ag_selectagent/.
+
+[^45]: "Agricultural Select Agent Program;" and "Possession, Use, and Transfer of Select Agents and Toxins; Final Rule," Department of Health and Human Services, March 18, 2005, accessed November 20, 2013, http://oig.hhs.gov/authorities/docs/05/032905FRselectagents.pdf.
+
+[^46]: "Homeland Security Act of 2002," Public Law 107296, 107th Congress, Government Publishing Office, November 25, 2002, accessed November 20, 2013, http://www.gpo.gov/fdsys/pkg/PLAW107publ296/pdf/PLAW107publ296.pdf.
+
+[^47]: "Agroterrorism: Threats and Preparedness."
+
+[^48]: Ibid.
+
+[^49]: "Agroterrorism: Threats and Preparedness."
+
+[^50]: "Homeland Security Presidential Directive 7: Critical Infrastructure Identification, Prioritization, and Protection," Department of Homeland Security, December 17, 2003, accessed November 20, 2013, https://www.dhs.gov/homelandsecuritypresidentialdirective7.
+
+[^51]: Ibid.
+
+[^52]: "Homeland Security Presidential Directive / HSPD9," Office of the Press Secretary, The White House, February 3, 2004, accessed November 20, 2013, http://www.fas.org/irp/offdocs/nspd/hspd9.html.
+
+[^53]: Ibid.
+
+[^54]:54 Ibid.
+
+[^55]: "Agroterrorism: Threats and Preparedness."
+
+[^56]: Ibid.
+
+[^57]: "Biodefense for the 21st Century," Office of the Press Secretary, The White House, April 28, 2004, accessed November 24, 2013, https://www.fas.org/irp/offdocs/nspd/hspd10.html.
+
+[^58]: Ibid.
