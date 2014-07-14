@@ -28,62 +28,18 @@ Agriculture and agriculturerelated industries make up 4.8 percent of the U.S. gr
 <br />
 <center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/001-top-crop-exports.jpg" class="img-responsive" alt="Top Crop Exports"></center>
 <br />
+Domestically, there are numerous industries that are dependent upon agriculture related inputs. These include: forestry, fishing, and related activities; food, beverages, and tobacco products; textiles, apparel, and leather products; as well as food services and drinking places.[^7] Together these dependent industries makeup $603.9 billion of the U.S. economy.[^8] Other industries that impact and are impacted by the agriculture industry are the gasoline and fuel, fertilizer, seed, feed, and livestock industries which represent $16.9 billion, $27.6 billion, $17.6 billion, $57 billion, and $23.5 billion respectively, and $142.6 billion collectively in agriculture related expenses.[^9]
+
+Labor statistics from the most recent Census of Agriculture show that the agricultural industry spent $21.9 billion in 2007 on labor.[^10] From that, the agriculture industry employs over 2.6 million workers.[^11] Agriculture dependent industries employ another 13.5 million workers.[^12] Cumulatively, there are more than 16 million agriculture and agriculturedependent jobs making up 9.1 percent of total U.S. employment.[^13] Nine states jointly represent over half of all agriculture related employment.[^14] Nearly 450,000 people are in employed in California alone. Washington state employs approximately 240,000 workers, while Texas, Florida, Oregon, Michigan, North Carolina, Minnesota and Wisconsin each employ more than 75,000 agworkers.[^15]
+<br />
+<center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/002-agriculture-related-employment.jpg" class="img-responsive" alt="Agriculture Related Employment"></center>
+<br />
+Of the 920 million acres of farmland which spans across all fifty states, nine states represent over half of the total market value of agricultural products sold and government payments made in the U.S.16 California ($34.1 billion), Texas ($21.7 billion), Iowa ($21.1), Nebraska ($15.9 billion), Kansas ($14.8 billion), Illinois ($13.8 billion), Minnesota ($13.6 billion), North Carolina ($10.5 billion), and Wisconsin ($9.2 billion) represent over $150 billion.17 Similarly, nine states make up over half of the total value of land and buildings in the agriculture industry. Texas, California, Iowa, Illinois, Minnesota, Nebraska, Missouri, Indiana, and Wisconsin constitute 52 percent or $996.1 billion of the $1.9 trillion of land and buildings held by the agricultural industry.18
 
 
 
-Domestically, there are numerous industries that are dependent upon agriculturerelated
-inputs. These include: forestry, fishing, and related activities; food, beverages, and tobacco
 
-products; textiles, apparel, and leather products; as well as food services and drinking places.7
-Together these dependent industries makeup $603.9 billion of the U.S. economy.8 Other
-industries that impact and are impacted by the agriculture industry are the gasoline and fuel,
-fertilizer, seed, feed, and livestock industries which represent $16.9 billion, $27.6 billion, $17.6
-billion, $57 billion, and $23.5 billion respectively, and $142.6 billion collectively in agriculture
-related expenses.9
-Labor statistics from the most recent Census of Agriculture show that the agricultural
-industry spent $21.9 billion in 2007 on labor.10 From that, the agriculture industry employs over
-2.6 million workers.11 Agriculture dependent industries employ another 13.5 million workers.12
-Cumulatively, there are more than 16 million agriculture and agriculturedependent
-jobs making
-up 9.1 percent of total U.S. employment.13
-Nine states jointly represent over half of all agriculture related employment.14 Nearly
-450,000 people are in employed in California alone. Washington state employs approximately
-7 "Ag and Food Sectors and the Economy."
-8 Ibid.
-9 "Statistical Abstract of the United States: 2012," 42.
-10 "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November
-10, 2013,
-http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf.
-11 Ibid.
-12 "Ag and Food Sectors and the Economy."
-13 Ibid.
-14 Ibid.
-4 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-240,000 workers, while Texas, Florida, Oregon, Michigan, North Carolina, Minnesota and
-Wisconsin each employ more than 75,000 agworkers.
-15
-Of the 920 million acres of farmland which spans across all fifty states, nine states
-represent over half of the total market value of agricultural products sold and government
-payments made in the U.S.16 California ($34.1 billion), Texas ($21.7 billion), Iowa ($21.1),
-Nebraska ($15.9 billion), Kansas ($14.8 billion), Illinois ($13.8 billion), Minnesota ($13.6 billion),
-North Carolina ($10.5 billion), and Wisconsin ($9.2 billion) represent over $150 billion.17 Similarly,
-nine states make up over half of the total value of land and buildings in the agriculture industry.
-Texas, California, Iowa, Illinois, Minnesota, Nebraska, Missouri, Indiana, and Wisconsin
-constitute 52 percent or $996.1 billion of the $1.9 trillion of land and buildings held by the
-agricultural industry.18
-15 Ibid.
-16 "Table 824. Farms—Number and Acreage: 1990 to 2010," U.S. Census Bureau, 2012, accessed
-November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0826.pdf.
-17 "Table 838. Farms—Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012,
-accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf.
-18 "Statistical Abstract of the United States: 2012," 9.
-5 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
+
 The agricultural output of the U.S. agriculture industry is equally impressive. In terms of
 livestock, in the U.S. there are 90.8 million head of cattle, 66.4 million hogs and pigs, 5.3 million
 sheep and lambs valued at $100.7 billion, $8.1 billion, and $1.2 billion respectively. 19 Six states
@@ -1546,3 +1502,27 @@ prevent potentially cascading terrorist attacks.
 [^5]: "Value of U.S. agricultural trade, by fiscal year," USDA, last modified November 20, 2012, accessed November 13, 2013, http://www.ers.usda.gov/datafiles/Foreign_Agricultural_Trade_of_the_United_States_FATUS/Fiscal_Year/XMS1935fy.xls.
 
 [^6]: "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf.
+
+[^7]: "Ag and Food Sectors and the Economy."
+
+[^8]: Ibid.
+
+[^9]: "Statistical Abstract of the United States: 2012," 42.
+
+[^10]: "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf.
+
+[^11]: Ibid.
+
+[^12]: "Ag and Food Sectors and the Economy."
+
+[^13]: Ibid.
+
+[^14]: Ibid.
+
+[^15]: Ibid.
+
+[^16]: "Table 824. Farms—Number and Acreage: 1990 to 2010," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0826.pdf.
+
+[^17]: "Table 838. Farms—Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf.
+
+[^18]: "Statistical Abstract of the United States: 2012," 9.
