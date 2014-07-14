@@ -12,9 +12,9 @@ tags: [Agriculture, Agricultural, Threat, Bioterrorism, Agricultural Bioterroris
 
 ### INTRODUCTION ###
 
-The threat of agricultural bioterrorism remains one of the single greatest threats to local and state economies, as well as the overall U.S. economy. In worst case scenarios, specific vulnerabilities could be exploited by highly capable actors which would extend damage beyond farreaching economic losses, and threaten broader domestic food security and continuity. While not discounted as a credible threat, agricultural bioterrorism has not received sufficient or consistent enough attention in comparison to lower probability threats. Having garnered periodic spurts of attention in the past fifteen years, academic reports and publications on the subject are currently waning. In fact, very little has been published publicly on the subject of agricultural bioterrorism in the past six years, and much of what was written prior to the current lull relied on information and data that are now ten or more years outofdate. As such, there is a need for a current review and analysis of antiterrorism efforts to protect agriculture, as well as a presentday look at the threat environment. This threat assessment will bridge the gap in agricultural bioterrorism scholarship while hopefully spurring a wider and more routine discussion on the subject.
+The threat of agricultural bioterrorism remains one of the single greatest threats to local and state economies, as well as the overall U.S. economy. In worst case scenarios, specific vulnerabilities could be exploited by highly capable actors which would extend damage beyond far-reaching economic losses, and threaten broader domestic food security and continuity. While not discounted as a credible threat, agricultural bioterrorism has not received sufficient or consistent enough attention in comparison to lower probability threats. Having garnered periodic spurts of attention in the past fifteen years, academic reports and publications on the subject are currently waning. In fact, very little has been published publicly on the subject of agricultural bioterrorism in the past six years, and much of what was written prior to the current lull relied on information and data that are now ten or more years outofdate. As such, there is a need for a current review and analysis of antiterrorism efforts to protect agriculture, as well as a present-day look at the threat environment. This threat assessment will bridge the gap in agricultural bioterrorism scholarship while hopefully spurring a wider and more routine discussion on the subject.
 
-The greatest threat to the U.S. agriculture industry is the intentional introduction of Foot and Mouth Disease by domestic or foreign terrorists. Livestock auctions are particularly vulnerable. Inoculated livestock could end up in many different ranches and farms across different states before symptoms would manifest. Billions of dollars of lost exports and culled livestock would be the shortterm consequence. Long term consequences could be more devastating. Preharvest crops are also quite vulnerable to attack. Crop pathogens that impact corn, soybeans, wheat, and other cereals are a significant threat. Farms are quite vulnerable to attack given their size, number of potential avenues for attack, and lack of security. Surveillance and the early stemming of outbreaks following a terrorist attack would be critical to mitigating loss. While genetic hardening has reduced the likelihood of natural outbreaks, it has made crops particularly vulnerable to intentional introduction of disease. Export crops and staple grains are prime targets.
+The greatest threat to the U.S. agriculture industry is the intentional introduction of Foot and Mouth Disease by domestic or foreign terrorists. Livestock auctions are particularly vulnerable. Inoculated livestock could end up in many different ranches and farms across different states before symptoms would manifest. Billions of dollars of lost exports and culled livestock would be the short term consequence. Long term consequences could be more devastating. Preharvest crops are also quite vulnerable to attack. Crop pathogens that impact corn, soybeans, wheat, and other cereals are a significant threat. Farms are quite vulnerable to attack given their size, number of potential avenues for attack, and lack of security. Surveillance and the early stemming of outbreaks following a terrorist attack would be critical to mitigating loss. While genetic hardening has reduced the likelihood of natural outbreaks, it has made crops particularly vulnerable to intentional introduction of disease. Export crops and staple grains are prime targets.
 
 The majority of the statistics and information about agriculture in this paper are taken from the U.S. Department of Agriculture. Other government reports and documents were also consulted. While this assessment attempts to offer policy makers a more current threat assessment on the subject of agricultural bioterrorism, this paper is by no means comprehensive. Rather, it takes a cursory look at the subject and offers conclusions and recommendations based on surficial information.
 
@@ -24,56 +24,31 @@ This paper is broken up into several parts. First, the paper will illuminate the
 
 ### IMPACT OF AGRICULTURE ###
 
-Agriculture and agriculturerelated industries make up 4.8 percent of the U.S. gross domestic product (GDP), or $742.6 billion.[^1] As a contributing factor, farms 1 compose $138.7 billion of that figure, and constitute about 1 percent of the overall GDP.[^2] In raw numbers, the U.S. Department of Agriculture (USDA) reported the agriculture industry bringing in $419.4 billion in gross income for 2011 while incurring $321.3 billion in production related expenses for an industrywide net income of $98.1 billion.[^3] Projected net income for the agriculture industry in 2013 is $120.6 billion.[^4] Agricultural exports accounted for $135.77 billion in 2012.[^5] Of principal agricultural exports, the U.S. represented 8.9 percent of wheat, 44.7 percent of corn, 27.7 percent of cotton, 8.6 percent of rice, and 39.5 percent of oilseed (soybean) exports worldwide.[^6]
+Agriculture and agriculture related industries make up 4.8 percent of the U.S. gross domestic product (GDP), or $742.6 billion.[^1] As a contributing factor, farms compose $138.7 billion of that figure, and constitute about 1 percent of the overall GDP.[^2] In raw numbers, the U.S. Department of Agriculture (USDA) reported the agriculture industry bringing in $419.4 billion in gross income for 2011 while incurring $321.3 billion in production related expenses for an industry-wide net income of $98.1 billion.[^3] Projected net income for the agriculture industry in 2013 is $120.6 billion.[^4] Agricultural exports accounted for $135.77 billion in 2012.[^5] Of principal agricultural exports, the U.S. represented 8.9 percent of wheat, 44.7 percent of corn, 27.7 percent of cotton, 8.6 percent of rice, and 39.5 percent of oilseed (soybean) exports worldwide.[^6]
 
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/001-top-crop-exports.jpg" class="img-responsive" alt="Top Crop Exports"></center><br />
 
 Domestically, there are numerous industries that are dependent upon agriculture related inputs. These include: forestry, fishing, and related activities; food, beverages, and tobacco products; textiles, apparel, and leather products; as well as food services and drinking places.[^7] Together these dependent industries makeup $603.9 billion of the U.S. economy.[^8] Other industries that impact and are impacted by the agriculture industry are the gasoline and fuel, fertilizer, seed, feed, and livestock industries which represent $16.9 billion, $27.6 billion, $17.6 billion, $57 billion, and $23.5 billion respectively, and $142.6 billion collectively in agriculture related expenses.[^9]
 
-Labor statistics from the most recent Census of Agriculture show that the agricultural industry spent $21.9 billion in 2007 on labor.[^10] From that, the agriculture industry employs over 2.6 million workers.[^11] Agriculture dependent industries employ another 13.5 million workers.[^12] Cumulatively, there are more than 16 million agriculture and agriculturedependent jobs making up 9.1 percent of total U.S. employment.[^13] Nine states jointly represent over half of all agriculture related employment.[^14] Nearly 450,000 people are in employed in California alone. Washington state employs approximately 240,000 workers, while Texas, Florida, Oregon, Michigan, North Carolina, Minnesota and Wisconsin each employ more than 75,000 agworkers.[^15]
+Labor statistics from the most recent Census of Agriculture show that the agricultural industry spent $21.9 billion in 2007 on labor.[^10] From that, the agriculture industry employs over 2.6 million workers.[^11] Agriculture dependent industries employ another 13.5 million workers.[^12] Cumulatively, there are more than 16 million agriculture and agriculture-dependent jobs making up 9.1 percent of total U.S. employment.[^13]
 
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/002-agriculture-related-employment.jpg" class="img-responsive" alt="Agriculture Related Employment"></center><br />
 
-Of the 920 million acres of farmland which spans across all fifty states, nine states represent over half of the total market value of agricultural products sold and government payments made in the U.S.16 California ($34.1 billion), Texas ($21.7 billion), Iowa ($21.1), Nebraska ($15.9 billion), Kansas ($14.8 billion), Illinois ($13.8 billion), Minnesota ($13.6 billion), North Carolina ($10.5 billion), and Wisconsin ($9.2 billion) represent over $150 billion.17 Similarly, nine states make up over half of the total value of land and buildings in the agriculture industry. Texas, California, Iowa, Illinois, Minnesota, Nebraska, Missouri, Indiana, and Wisconsin constitute 52 percent or $996.1 billion of the $1.9 trillion of land and buildings held by the agricultural industry.18
+Nine states jointly represent over half of all agriculture related employment.[^14] Nearly 450,000 people are in employed in California alone. Washington state employs approximately 240,000 workers, while Texas, Florida, Oregon, Michigan, North Carolina, Minnesota and Wisconsin each employ more than 75,000 agworkers.[^15]
+
+<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/003-top-agriculture-producing-states.jpg" class="img-responsive" alt="Top Agriculture Producing States"></center><br />
+
+Of the 920 million acres of farmland which spans across all fifty states, nine states represent over half of the total market value of agricultural products sold and government payments made in the U.S.[^16] California ($34.1 billion), Texas ($21.7 billion), Iowa ($21.1), Nebraska ($15.9 billion), Kansas ($14.8 billion), Illinois ($13.8 billion), Minnesota ($13.6 billion), North Carolina ($10.5 billion), and Wisconsin ($9.2 billion) represent over $150 billion.[^17] Similarly, nine states make up over half of the total value of land and buildings in the agriculture industry. Texas, California, Iowa, Illinois, Minnesota, Nebraska, Missouri, Indiana, and Wisconsin constitute 52 percent or $996.1 billion of the $1.9 trillion of land and buildings held by the agricultural industry.[^18]
+
+<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/004-states-with-the-most-agriculture-property.jpg" class="img-responsive" alt="States With The Most Agriculture Property"></center><br />
+
+The agricultural output of the U.S. agriculture industry is equally impressive. In terms of livestock, in the U.S. there are 90.8 million head of cattle, 66.4 million hogs and pigs, 5.3 million sheep and lambs valued at $100.7 billion, $8.1 billion, and $1.2 billion respectively. 19 Six states represent 52 percent of the two billion bushels U.S. wheat production worth $14.4 billion.20 Arkansas and California make up sixtyeight percent of the 185 million hundredweight worth of U.S. rice production totalling $2.6 billion.21 Four states constitute fifty-seven percent of the 12.4 billion bushels of corn production valued at $76.5 billion.22 214.4 billion bushels of sorghum worth $1.3 billion is grown in 14 states.23 Fifty-one percent of that production occurs in Kansas alone.24 The Cotton industry, worth $7.3 billion, produces 16 billion metric tons.25 Tobacco, which is only grown in ten states, has over seventy percent of its 601 million pounds of production done in North Carolina and Kentucky.26 Fifty-four percent of soybean production is in Iowa, Illinois, Minnesota, Nebraska, and Indiana.27 Seven states make up fifty-seven percent of the $1.7 billion worth of chicken production.28 The U.S. also makes up a third of all exported poultry, meat, and broiler products worldwide.29 The 8.6 billion broilers alone are worth $23.2 billion.30 Additionally, 
 
 
 
 
 
-The agricultural output of the U.S. agriculture industry is equally impressive. In terms of
-livestock, in the U.S. there are 90.8 million head of cattle, 66.4 million hogs and pigs, 5.3 million
-sheep and lambs valued at $100.7 billion, $8.1 billion, and $1.2 billion respectively. 19 Six states
-represent 52 percent of the two billion bushels U.S. wheat production worth $14.4 billion.20
-Arkansas and California make up sixtyeight
-percent of the 185 million hundredweight worth of
-U.S. rice production totalling $2.6 billion.21 Four states constitute fiftyseven
-percent of the 12.4
-billion bushels of corn production valued at $76.5 billion.22 214.4 billion bushels of sorghum worth
-$1.3 billion is grown in 14 states.23 Fiftyone
-percent of that production occurs in Kansas alone.24
-The Cotton industry, worth $7.3 billion, produces 16 billion metric tons.25 Tobacco, which
-is only grown in ten states, has over seventy percent of its 601 million pounds of production done
-in North Carolina and Kentucky.26 Fiftyfour
-percent of soybean production is in Iowa, Illinois,
-Minnesota, Nebraska, and Indiana.27 Seven states make up fiftyseven
-percent of the $1.7 billion
-worth of chicken production.28 The U.S. also makes up a third of all exported poultry, meat, and
-broiler products worldwide.29 The 8.6 billion broilers alone are worth $23.2 billion.30 Additionally,
-19 "Agricultural Statistics 2012," 240, 252, 265.
-20 "Agricultural Statistics 2012," 1115.
-21 "Agricultural Statistics 2012," 2426.
-22 "Agricultural Statistics 2012," 3132.
-23 "Agricultural Statistics 2012," 4647.
-24 Ibid.
-25 "Agricultural Statistics 2012," 5960.
-26 "Agricultural Statistics 2012," 79.
-27 "Agricultural Statistics 2012," 97.
-28 "Agricultural Statistics 2012," 294340.
-29 Ibid.
-6 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
+
 the U.S. exports nearly half of the world’s turkey exports, valued at $5 billion. 31 One third of the
 nation’s $39.7 billion milk production occurs in California and Wisconsin.32
 30 Ibid.
@@ -1526,3 +1501,25 @@ prevent potentially cascading terrorist attacks.
 [^17]: "Table 838. Farms—Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf.
 
 [^18]: "Statistical Abstract of the United States: 2012," 9.
+
+[^19]: "Agricultural Statistics 2012," 240, 252, 265.
+
+[^20]: "Agricultural Statistics 2012," 1115.
+
+[^21]: "Agricultural Statistics 2012," 2426.
+
+[^22]: "Agricultural Statistics 2012," 3132.
+
+[^23]: "Agricultural Statistics 2012," 4647.
+
+[^24]: Ibid.
+
+[^25]: "Agricultural Statistics 2012," 5960.
+
+[^26]: "Agricultural Statistics 2012," 79.
+
+[^27]: "Agricultural Statistics 2012," 97.
+
+[^28]: "Agricultural Statistics 2012," 294340.
+
+[^29]: Ibid.
