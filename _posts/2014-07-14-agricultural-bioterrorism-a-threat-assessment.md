@@ -80,7 +80,7 @@ The National Response Plan, which has since been supplanted by the National Resp
 
 The Animal Enterprise Terrorism Act, which passed November 27, 2006, came about as an expansion of existing penalties for the interference of the animal enterprise through acts of terrorism. The act states its purpose is to “provide the Department of Justice the necessary authority to apprehend, prosecute, and convict individuals committing animal enterprise terror.”[^61] The Bioterrorism Preparedness Act did not contain sufficient penalties for animal enterprise terrorism.[^62]
 
-### U.S. DEPARTMENT OF AGRICULTURE ###
+#### <u>U.S. DEPARTMENT OF AGRICULTURE</u> ####
 
 
 
