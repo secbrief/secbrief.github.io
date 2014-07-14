@@ -24,7 +24,7 @@ This paper is broken up into several parts. First, the paper will illuminate the
 
 ### IMPACT OF AGRICULTURE ###
 
-Agriculture and agriculturerelated industries make up 4.8 percent of the U.S. gross domestic product (GDP), or $742.6 billion. As a contributing factor, farms 1 compose $138.7 billion of that figure, and constitute about 1 percent of the overall GDP.2 In raw numbers, the U.S. Department of Agriculture (USDA) reported the agriculture industry bringing in $419.4 billion in gross income for 2011 while incurring $321.3 billion in production related expenses for an industrywide net income of $98.1 billion.3 Projected net income for the agriculture industry in 2013 is $120.6 billion.4 Agricultural exports accounted for $135.77 billion in 2012.5 Of principal agricultural exports, the U.S. represented 8.9 percent of wheat, 44.7 percent of corn, 27.7 percent of cotton, 8.6 percent of rice, and 39.5 percent of oilseed (soybean) exports worldwide.6
+Agriculture and agriculturerelated industries make up 4.8 percent of the U.S. gross domestic product (GDP), or $742.6 billion.[^1] As a contributing factor, farms 1 compose $138.7 billion of that figure, and constitute about 1 percent of the overall GDP.[^2] In raw numbers, the U.S. Department of Agriculture (USDA) reported the agriculture industry bringing in $419.4 billion in gross income for 2011 while incurring $321.3 billion in production related expenses for an industrywide net income of $98.1 billion.[^3] Projected net income for the agriculture industry in 2013 is $120.6 billion.[^4] Agricultural exports accounted for $135.77 billion in 2012.[^5] Of principal agricultural exports, the U.S. represented 8.9 percent of wheat, 44.7 percent of corn, 27.7 percent of cotton, 8.6 percent of rice, and 39.5 percent of oilseed (soybean) exports worldwide.[^6]
 
 <center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/001-top-crop-exports.jpg" class="img-responsive" alt="Top Crop Exports"></center>
 
@@ -33,31 +33,7 @@ Agriculture and agriculturerelated industries make up 4.8 percent of the U.S. gr
 
 Domestically, there are numerous industries that are dependent upon agriculturerelated
 inputs. These include: forestry, fishing, and related activities; food, beverages, and tobacco
-1 "Ag and Food Sectors and the Economy," USDA, last modified November 7, 2013, accessed November
-12, 2013,
-http://www.ers.usda.gov/dataproducts/
-agandfoodstatisticschartingtheessentials/
-agandfoodsectorsan
-dtheeconomy.
-aspx.
-2 Ibid.
-3 "Statistical Abstract of the United States: 2012," USDA, 2012, 42, accessed November 13, 2013,
-http://www.nass.usda.gov/Publications/Ag_Statistics/2012/chapter09.pdf.
-4 "Farming and Farm Income," USDA, last modified November 8, 2013, accessed November 12, 2013,
-http://www.ers.usda.gov/dataproducts/
-agandfoodstatisticschartingtheessentials/
-farmingandfarmincom
-e.aspx.
-5 "Value of U.S. agricultural trade, by fiscal year," USDA, last modified November 20, 2012, accessed
-November 13, 2013,
-http://www.ers.usda.gov/datafiles/Foreign_Agricultural_Trade_of_the_United_States_FATUS/Fiscal_Year/XM
-S1935fy.xls.
-6 "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013,
-http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf.
-3 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
+
 products; textiles, apparel, and leather products; as well as food services and drinking places.7
 Together these dependent industries makeup $603.9 billion of the U.S. economy.8 Other
 industries that impact and are impacted by the agriculture industry are the gasoline and fuel,
@@ -1559,4 +1535,14 @@ prevent potentially cascading terrorist attacks.
 
 ### <center>Notes</center> ###
 
-[^1]:
+[^1]: "Ag and Food Sectors and the Economy," USDA, last modified November 7, 2013, accessed November 12, 2013, http://www.ers.usda.gov/dataproducts/agandfoodstatisticschartingtheessentials/agandfoodsectorsandtheeconomy.aspx.
+
+[^2]: Ibid.
+
+[^3]: "Statistical Abstract of the United States: 2012," USDA, 2012, 42, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/chapter09.pdf.
+
+[^4]: "Farming and Farm Income," USDA, last modified November 8, 2013, accessed November 12, 2013, http://www.ers.usda.gov/dataproducts/agandfoodstatisticschartingtheessentials/farmingandfarmincome.aspx.
+
+[^5]: "Value of U.S. agricultural trade, by fiscal year," USDA, last modified November 20, 2012, accessed November 13, 2013, http://www.ers.usda.gov/datafiles/Foreign_Agricultural_Trade_of_the_United_States_FATUS/Fiscal_Year/XMS1935fy.xls.
+
+[^6]: "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf.
