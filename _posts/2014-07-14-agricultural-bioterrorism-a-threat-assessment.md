@@ -74,48 +74,20 @@ Homeland Security Presidential Directive 9 (HSPD-9) states that its purpose is t
 
 Homeland Security Presidential Directive 10 (HSPD-10), known as Biodefense for the 21st Century, came down in April 2004. Concerned with new biotechnology, the dual nature of the biothreat, and the increasingly widespread knowhow in life sciences, HSPD-10 set into motion greater efforts to prevent and control the threat of biological weapons.[^57] Included in critical infrastructure, food and agriculture were noted as potential targets.[^58]
 
-The National Response Plan, which has since been supplanted by the National Response Framework, was created in December 2004 as an “all-discipline, all-hazards plan that establishes a single, comprehensive framework for the management of domestic incidents” which coordinates “Federal support to State, local, and tribal incident managers and for
+The National Response Plan, which has since been supplanted by the National Response Framework, was created in December 2004 as an “all-discipline, all-hazards plan that establishes a single, comprehensive framework for the management of domestic incidents” which coordinates “Federal support to State, local, and tribal incident managers and for exercising direct Federal authorities and responsibilities” while assisting “in the important homeland security mission of preventing terrorist attacks within the United States; reducing the vulnerability to all natural and manmade hazards; and minimizing the damage and assisting in the recovery from any type of incident that occurs.”[^59] Pertinent to agriculture is Emergency Support Function (ESF) #11 – Agriculture and Natural Resources Annex. ESF #11 states that it:
+
+>“supports State, tribal, and local authorities and other Federal agency efforts to provide nutrition assistance; control and eradicate, as appropriate, any outbreak of a highly contagious or economically devastating animal/zoonotic (i.e., transmitted between animals and people) disease, or any outbreak of an economically devastating plant pest or disease; ensure the safety and security of the commercial food supply; protect natural and cultural resources and historic properties (NCH) resources; and provide for the safety and well-being of household pets during an emergency response or evacuation situation. ESF #11 is activated by the Secretary of Homeland Security for incidents requiring a coordinated Federal response and the availability of support for one or more of these roles/functions.”[^60]
+
+The Animal Enterprise Terrorism Act, which passed November 27, 2006, came about as an expansion of existing penalties for the interference of the animal enterprise through acts of terrorism. The act states its purpose is to “provide the Department of Justice the necessary authority to apprehend, prosecute, and convict individuals committing animal enterprise terror.”[^61] The Bioterrorism Preparedness Act did not contain sufficient penalties for animal enterprise terrorism.[^62]
+
+### U.S. DEPARTMENT OF AGRICULTURE ###
 
 
 
 
 
-exercising direct Federal authorities and responsibilities” while assisting “in the important
-homeland security mission of preventing terrorist attacks within the United States; reducing the
-vulnerability to all natural and manmade
-hazards; and minimizing the damage and assisting in
-the recovery from any type of incident that occurs.” Pertinent to agriculture 59 is Emergency
-Support Function (ESF) #11 – Agriculture and Natural Resources Annex. ESF #11 states that it:
-“supports State, tribal, and local authorities and other Federal agency efforts to provide
-nutrition assistance; control and eradicate, as appropriate, any outbreak of a highly
-contagious or economically devastating animal/zoonotic (i.e., transmitted between animals
-and people) disease, or any outbreak of an economically devastating plant pest or disease;
-ensure the safety and security of the commercial food supply; protect natural and cultural
-resources and historic properties (NCH) resources; and provide for the safety and wellbeing
-of household pets during an emergency response or evacuation situation. ESF #11 is
-activated by the Secretary of Homeland Security for incidents requiring a coordinated
-Federal response and the availability of support for one or more of these roles/functions.”60
-The Animal Enterprise Terrorism Act, which passed November 27, 2006, came about as
-an expansion of existing penalties for the interference of the animal enterprise through acts of
-terrorism. The act states its purpose is to “provide the Department of Justice the necessary
-authority to apprehend, prosecute, and convict individuals committing animal enterprise terror.”61
-The Bioterrorism Preparedness Act did not contain sufficient penalties for animal enterprise
-terrorism.62
-U.S. DEPARTMENT OF AGRICULTURE
-59 "National Response Plan Brochure," Department of Homeland Security, December 2004, accessed
-November 20, 2013, http://www.dhs.gov/xlibrary/assets/NRP_Brochure.pdf.
-60 "Emergency Support Function #11 – Agriculture and Natural Resources Annex," FEMA, March 22, 2008,
-accessed November 20, 2013, http://www.fema.gov/pdf/emergency/nrf/nrfesf11.
-pdf.
-61 "Animal Enterprise Terrorism Act," Government Printing Office, November 27, 2006, accessed November
-20, 2013, http://www.gpo.gov/fdsys/pkg/PLAW109publ374/
-html/PLAW109publ374.
-htm.
-62 "Agroterrorism: Threats and Preparedness."
-16 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
+
+
 As the principal organization tasked with protecting U.S. agriculture, the USDA has
 subordinate agencies which are responsible for carrying out specific missions towards this end.
 The Animal and Plant Health Inspection Service (APHIS) is the chief agency in charge of
@@ -1366,3 +1338,11 @@ prevent potentially cascading terrorist attacks.
 [^57]: "Biodefense for the 21st Century," Office of the Press Secretary, The White House, April 28, 2004, accessed November 24, 2013, https://www.fas.org/irp/offdocs/nspd/hspd10.html.
 
 [^58]: Ibid.
+
+[^59]: "National Response Plan Brochure," Department of Homeland Security, December 2004, accessed November 20, 2013, http://www.dhs.gov/xlibrary/assets/NRP_Brochure.pdf.
+
+[^60]: "Emergency Support Function #11 – Agriculture and Natural Resources Annex," FEMA, March 22, 2008, accessed November 20, 2013, http://www.fema.gov/pdf/emergency/nrf/nrfesf11.pdf.
+
+[^61]: "Animal Enterprise Terrorism Act," Government Printing Office, November 27, 2006, accessed November 20, 2013, http://www.gpo.gov/fdsys/pkg/PLAW109publ374/html/PLAW109publ374.htm.
+
+[^62]: "Agroterrorism: Threats and Preparedness."
