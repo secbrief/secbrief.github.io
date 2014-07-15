@@ -10,7 +10,7 @@ tags: [Agriculture, Agricultural, Threat, Bioterrorism, Agricultural Bioterroris
 
 ##### <center><strong>[The below paper was submitted Dec 12, 2013.]</strong></center> #####
 
-### INTRODUCTION ###
+### <center>INTRODUCTION</center> ###
 
 The threat of agricultural bioterrorism remains one of the single greatest threats to local and state economies, as well as the overall U.S. economy. In worst case scenarios, specific vulnerabilities could be exploited by highly capable actors which would extend damage beyond far-reaching economic losses, and threaten broader domestic food security and continuity. While not discounted as a credible threat, agricultural bioterrorism has not received sufficient or consistent enough attention in comparison to lower probability threats. Having garnered periodic spurts of attention in the past fifteen years, academic reports and publications on the subject are currently waning. In fact, very little has been published publicly on the subject of agricultural bioterrorism in the past six years, and much of what was written prior to the current lull relied on information and data that are now ten or more years outofdate. As such, there is a need for a current review and analysis of antiterrorism efforts to protect agriculture, as well as a present-day look at the threat environment. This threat assessment will bridge the gap in agricultural bioterrorism scholarship while hopefully spurring a wider and more routine discussion on the subject.
 
@@ -22,7 +22,7 @@ This paper does not extend beyond biological means of agricultural terrorism, ho
 
 This paper is broken up into several parts. First, the paper will illuminate the impact of agriculture and the agricultural industry on the U.S. economy and on national security. Then it will put forth a working definition of agricultural bioterrorism and illustrate existing responsibilities (i.e., which organizations are currently tasked with protecting the U.S. from agroterrorism), policies, and procedures as they pertain to the threat. Next, a vulnerability analysis will highlight specific targets and their level of vulnerability. From there, a threat analysis will list potential perpetrators and their propensity for carryingout acts of agricultural bioterrorism. Lastly, recommendations will be made based on the findings of the preceding sections, and concluding remarks will be given to form an overall assessment of the threat of agricultural bioterrorism.
 
-### IMPACT OF AGRICULTURE ###
+### <center>IMPACT OF AGRICULTURE</center> ###
 
 Agriculture and agriculture related industries make up 4.8 percent of the U.S. gross domestic product (GDP), or $742.6 billion.[^1] As a contributing factor, farms compose $138.7 billion of that figure, and constitute about 1 percent of the overall GDP.[^2] In raw numbers, the U.S. Department of Agriculture (USDA) reported the agriculture industry bringing in $419.4 billion in gross income for 2011 while incurring $321.3 billion in production related expenses for an industry-wide net income of $98.1 billion.[^3] Projected net income for the agriculture industry in 2013 is $120.6 billion.[^4] Agricultural exports accounted for $135.77 billion in 2012.[^5] Of principal agricultural exports, the U.S. represented 8.9 percent of wheat, 44.7 percent of corn, 27.7 percent of cotton, 8.6 percent of rice, and 39.5 percent of oilseed (soybean) exports worldwide.[^6]
 
@@ -48,7 +48,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/006-crop-production.jpg" width="100%" class="img-responsive" alt="Crop Production"></center><br />
 
-### DEFINING AGRICULTURAL BIOTERRORISM ###
+### <center>DEFINING AGRICULTURAL BIOTERRORISM</center> ###
 
 Prior to analyzing vulnerabilities and threats, or looking at which domestic organizations have the responsibility of defending the homeland from agricultural bioterrorism, a brief discussion on redefining agroterrorism and defining agricultural bioterrorism needs to take place. Definitions, simply put, explain the meaning of a term or variable. As such, they necessarily impose restrictions on what can and what cannot be considered and encompassed by a term or variable. With regards to agroterrorism, an appropriate definition will define what can and cannot be considered an act of agroterrorism. This is particularly important because traditional definitions of agroterrorism are problematic.
 
@@ -58,9 +58,9 @@ Broken into two terms, agroterrorism is “agro” and “terrorism.” Agro is 
 
 Bringing the derived definitions of “agriculture” and “terrorism” back, the error in the widely used definition of agroterrorism becomes easier to see. Sub-classifications and typologies of terrorism can be made and appropriately used, but on the basis of clearly and consistently defining who the perpetrator or perpetrators are, and/or what and/or how something is targeted; assuming that the intent behind the act satisfactorily meets the criteria laid out in the preceding definition of terrorism. The term agroterrorism does not clearly or consistently convey a meaning which excludes means of terrorism outside of biological. Rather, the traditional definition of agroterrorism more accurately describes “agricultural bioterrorism,” not agroterrorism. While the author of this paper finds that there are existential threats to the agriculture industry beyond biological, those threats pale in comparison and are therefore not included in this threat assessment. For accuracy and the purposes of this threat assessment, the term “agroterrorism” will henceforth include all means of violence against agriculture in its meaning (i.e., it will not be restricted to biological means), and be distinct from “agricultural bioterrorism” which will be defined as: the use or threatened use of disease inducing pathogens on agricultural targets, directed against victims selected for their symbolic or representative value, as a means of instilling anxiety in, transmitting one or more messages to, and thereby manipulating the attitudes and behavior of a wider target audience or audiences.
 
-### ORGANIZATIONS AND RESPONSIBILITIES ###
+### <center>ORGANIZATIONS AND RESPONSIBILITIES</center> ###
 
-#### <center><u>BACKGROUND</u></center> ####
+#### <u>BACKGROUND</u> ####
 
 By late 1999, the threat of agricultural bioterrorism began to receive widespread attention for the first time in Congress. Over the following seven years, Congress held five hearings on agricultural bioterrorism or agricultural biosecurity.[^37] Ultimately, the hearings and heightened threat awareness led to the creation of new legislation directed at protecting not only historically identified critical infrastructure, but also agriculture. Passed on October 26, 2001 in the immediate wake of 9/11, the ‘‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001’’ set forth a mission to “deter and punish terrorist acts in the United States and around the world, to enhance law enforcement investigatory tools, and for other purposes.”[^38] While not specifically naming agricultural bioterrorism, the law expanded the biological weapons statute (Chapter 10 of title 18, United States Code) which agricultural bioterrorism falls under, and dramatically loosened former legal restraints on federal law enforcement and intelligence agencies for the purpose of preventing future terrorist attacks.[^39]
 
@@ -80,7 +80,7 @@ The National Response Plan, which has since been supplanted by the National Resp
 
 The Animal Enterprise Terrorism Act, which passed November 27, 2006, came about as an expansion of existing penalties for the interference of the animal enterprise through acts of terrorism. The act states its purpose is to “provide the Department of Justice the necessary authority to apprehend, prosecute, and convict individuals committing animal enterprise terror.”[^61] The Bioterrorism Preparedness Act did not contain sufficient penalties for animal enterprise terrorism.[^62]
 
-#### <center><u>U.S. DEPARTMENT OF AGRICULTURE</u></center> ####
+#### <u>U.S. DEPARTMENT OF AGRICULTURE</u> ####
 
 As the principal organization tasked with protecting U.S. agriculture, the USDA has subordinate agencies which are responsible for carrying out specific missions towards this end. The Animal and Plant Health Inspection Service (APHIS) is  he chief agency in charge of monitoring and protecting crops and livestock from pests and diseases, as well as responding to emergencies resulting thereof. Put simply, the mission of APHIS is to “protect the health and value of U.S.  gricultural, natural, and other resources.”[^63] Within APHIS there are six operational programs units, three management support units, and two offices supporting federal government-wide initiatives.”[^64] Three of the six operational program units within APHIS, International Services and Trade Support Team (IS), Plant Protection and Quarantine (PPQ), and Veterinary Services (VS), directly protect the U.S. from threats to agriculture.
 
@@ -90,7 +90,7 @@ Also within the USDA, there are networks of laboratories created to “protect a
 
 The NAHL is a collaborative effort between APHIS, NIFA , and the American Association of Veterinary Laboratory Diagnosticians (AAVL).[^70] The network consists of laboratories which “focus on different diseases, using common testing methods and software platforms to process diagnostic requests and share information.”[^71] The USDA’s National Veterinary Services Laboratories (NVSL) at the federal level and state university laboratories work together to “perform routine diagnostic tests for endemic animal diseases as well as targeted surveillance and response testing for foreign animal diseases.”[^72] All with the goal of adding “support of routine and emergency animal disease diagnosis” to include bioterrorism incidents.[^73] Of importance, but outside of the USDA and still working towards detecting and diagnosing outbreaks of disease are: the CDCled Laboratory Response Network (LRN) and the joint Food and Drug Administration (FDA)/Food Safety and Inspection Service (FSIS) Food Emergency Response Network (FERN).[^74]
 
-#### <center><u>DEPARTMENT OF HOMELAND SECURITY</u></center> ####
+#### <u>DEPARTMENT OF HOMELAND SECURITY</u> ####
 
 DHS is the primary cabinet-level department responsible for protecting the homeland against threats of terrorism. In terms of preventing acts of agricultural bioterrorism, DHS’s Customs and Border Protection (CBP), and Customs and Border Protection Agriculture Specialists (CBPAS), are on the front line. The USDAAPHIS handed responsibility for agricultural inspection at ports of entry over to CBP upon the creation of DHS in 2003 (“approximately 1,573 agriculture specialists transitioned from the U.S. Department of Agriculture (USDA) to CBP”).[^75] The transition has taken time, but APHIS and CBP continue to work together towards safeguarding agriculture.
 
@@ -100,27 +100,27 @@ With over a trillion dollars in annual economic activity, protecting the agricul
 
 Another area working towards the protection of the agriculture industry under DHS is the Science & Technology Directorate Centers of Excellence (COE) network. The COE network consists of hundreds of universities working on the development of “new technologies and critical knowledge.”[^85] Among the twelve current centers of excellence, the Center of Excellence for Zoonotic and Animal Disease Defense (ZADD), works on programs aimed at protecting livestock. ZADD is spearheaded by Texas A&M University and Kansas State University with the aim of protecting “the nation's agricultural and public health sectors against highconsequence foreign animal, emerging and zoonotic disease threats.”[^86]
 
-#### <center><u>NATIONAL INFRASTRUCTURE PROTECTION PLAN</u></center> ####
+#### <u>NATIONAL INFRASTRUCTURE PROTECTION PLAN</u> ####
 
 Mandated by HSPD-7, the National Infrastructure Protection Plan (NIPP), identifies critical infrastructure and key resources and “sets forth a comprehensive risk management framework” with “clearly defined roles and responsibilities” for the Department of Homeland Security, Federal Sector-Specific Agencies, in addition to other Federal, State, regional, local, tribal, territorial, and private sector partners implementing the NIPP.”[^87] NIPP states that its overarching goal is “to build a safer, more secure, and more resilient America by preventing, deterring, neutralizing, or mitigating the effects of a terrorist attack or natural disaster, and to strengthen national preparedness, response, and recovery in the event of an emergency.”[^88] Food and Agriculture (FA) makes up one of the eighteen identified critical infrastructure sectors.
 
 Each sector is overseen by a Sector-Specific Agency (SSA) which is “responsible for developing and implementing a Sector-Specific Plan (SSP), in collaboration with public and private sector partners, and for encouraging the development of appropriate information-sharing and analysis mechanisms.”[^89] For the FA Sector, the USDA is the SSA. Under the SSP, the Food and Agriculture Government Coordinating Council (FAGCC) and Sector Coordinating Council (FASCC), both formed in 2004, jointly hold quarterly meetings which facilitate a publicprivate forum for effectively coordinating agriculture and food protection “strategies and activities, policy, and communications across the sector to support the Nation’s homeland security mission.”[^90]
 
-#### <center><u>STRATEGIC PARTNERSHIP PROGRAM AGROTERRORISM</u></center> ####
+#### <u>STRATEGIC PARTNERSHIP PROGRAM AGROTERRORISM</u> ####
 
 The Strategic Partnership Program Agroterrorism (SPPA), similar to NIPP, is a government-private sector partnership program. Working together, the Federal Bureau of Investigation (FBI), DHS, USDA, FDA, as well as State, local, and industry partners strive to protect the U.S. food supply.[^91] The goal of the multi-actor partnership is to “collect the necessary data to identify sector-specific vulnerabilities, develop mitigation strategies, identify research gaps and needs, and increase awareness and coordination between the food and agriculture government and industry stakeholders.”[^92] Through the assessments put out by the SPPA, it is able to meet the requirements set forth by NIPP, SSP, and HSPD-9.[^93]
 
-#### <center><u>STATE DEPARTMENTS OF AGRICULTURE</u></center> ####
+#### <u>STATE DEPARTMENTS OF AGRICULTURE</u> ####
 
 Each state has its own department of agriculture that enforces state-wide laws and policies for agriculture. The laws and policies vary from statetostate, but they tend to work towards the overall goal of securing crops and livestock from existing and potential threats. State departments of agriculture (SDA) serve as integral parts of overall agricultural biosafety. Due to their proximity to local farmers and ranchers, SDA not only have the ability to detect and react to potential acts of agricultural bioterrorism, but are also in the best position to prevent such acts.
 
-### VULNERABILITY ANALYSIS ###
+### <center>VULNERABILITY ANALYSIS</center> ###
 
 In general, the purpose of a vulnerability analysis is to identify and prioritize vulnerabilities within a system, in this case the agriculture industry. When assessed in conjunction with a threat analysis, the identification and prioritization of potential actors based on, among other things, ideology, motivation, and capacity, effective recommendations towards protecting the system can be made. The greater the specificity when identifying vulnerabilities, the easier it will be to ultimately make recommendations on hardening or protection from threats. While a much more nuanced study or series of studies should be conducted in order to make more specific recommendations, this threat assessment is surficial and intended only as an overview of the threat environment and is by no means exhaustive or comprehensive.
 
 This vulnerability analysis will first make a target assessment based on historical cases of agroterrorism and threats thereof, as well as wartime use of bio-agents against agriculture and state-run biological weapons programs. It will then take into account what has previously been identified as vulnerable, as well as what is likely to be targeted based on economic and symbolic significance. Next the target vulnerability assessment will take the targets found in the target assessment and identify to what extent the targets are exposed and vulnerable. In doing so, current safeguards will be looked at in terms of integrity and availability. Where deficient, the extent to which safeguards can or should be improved will be assessed. It is important to note that not all potential targets can or should be hardened. All hardening exacts costs, and these costs often impose operational constraints which adversely impact the bottom line for operators within an industry. Care must be taken to ensure that recommendations are holistic and consider all market factors. Lastly, there will be a vulnerability rating which summarizes the findings of the vulnerability analysis.
 
-#### <center><u>TARGET ASSESSMENT</u></center> ####
+#### <u>TARGET ASSESSMENT</u> ####
 
 Acts of terrorism that have targeted agriculture have been relatively rare when compared to other means of terrorism historically. Perhaps the earliest reported incident of agroterrorism in the U.S. occurred in Ashville, Alabama in 1970 when a local chapter of the Ku Klux Klan reportedly contaminated the water supply of a farm owned and operated by Black Muslims with cyanide resulting in the death of thirty cattle.[^94] On January 3, 1997, Purina, a large livestock feed products company, was forced to stop a shipment of 300 tons of feed after the feed was found to have been deliberately contaminated with chlordane, an extremely toxic and persistent insecticide.[^95] As an extension of the agriculture industry, likely the most recognizable act of terrorism involving food occurred when the Rajneeshee cult carried out a highly publicized act of bioterrorism in September 1984, which targeted the food industry. Seeking to disrupt a local election, members from the Rajneeshee cult in The Dalles, Oregon deliberately contaminated salad bars in ten restaurants and one grocery store with the pathogen Salmonella typhimurium, resulting in at least 751 cases of salmonellosis.[^96]
 
@@ -1103,7 +1103,7 @@ prevent potentially cascading terrorist attacks.
 
 [^96]: "Chronology of Chemical & Biological Incidents Targeting the Food Industry 19462006," CNS, last modified February, 2009, accessed November 13, 2013, http://cns.miis.edu/cbw/foodchron.htm.
 
-[^97]: "Chronology of CBW Incidents Targeting Agriculture 19152008."
+[^97]: "Chronology of CBW Incidents Targeting Agriculture 1915-2008."
 
 [^98]: Ibid.
 
