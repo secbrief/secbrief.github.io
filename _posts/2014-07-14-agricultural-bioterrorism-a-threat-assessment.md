@@ -60,7 +60,7 @@ Bringing the derived definitions of “agriculture” and “terrorism” back, 
 
 ### ORGANIZATIONS AND RESPONSIBILITIES ###
 
-#### <u>BACKGROUND</u> ####
+#### <center><u>BACKGROUND</u></center> ####
 
 By late 1999, the threat of agricultural bioterrorism began to receive widespread attention for the first time in Congress. Over the following seven years, Congress held five hearings on agricultural bioterrorism or agricultural biosecurity.[^37] Ultimately, the hearings and heightened threat awareness led to the creation of new legislation directed at protecting not only historically identified critical infrastructure, but also agriculture. Passed on October 26, 2001 in the immediate wake of 9/11, the ‘‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001’’ set forth a mission to “deter and punish terrorist acts in the United States and around the world, to enhance law enforcement investigatory tools, and for other purposes.”[^38] While not specifically naming agricultural bioterrorism, the law expanded the biological weapons statute (Chapter 10 of title 18, United States Code) which agricultural bioterrorism falls under, and dramatically loosened former legal restraints on federal law enforcement and intelligence agencies for the purpose of preventing future terrorist attacks.[^39]
 
@@ -80,7 +80,7 @@ The National Response Plan, which has since been supplanted by the National Resp
 
 The Animal Enterprise Terrorism Act, which passed November 27, 2006, came about as an expansion of existing penalties for the interference of the animal enterprise through acts of terrorism. The act states its purpose is to “provide the Department of Justice the necessary authority to apprehend, prosecute, and convict individuals committing animal enterprise terror.”[^61] The Bioterrorism Preparedness Act did not contain sufficient penalties for animal enterprise terrorism.[^62]
 
-#### <u>U.S. DEPARTMENT OF AGRICULTURE</u> ####
+#### <center><u>U.S. DEPARTMENT OF AGRICULTURE</u></center> ####
 
 As the principal organization tasked with protecting U.S. agriculture, the USDA has subordinate agencies which are responsible for carrying out specific missions towards this end. The Animal and Plant Health Inspection Service (APHIS) is  he chief agency in charge of monitoring and protecting crops and livestock from pests and diseases, as well as responding to emergencies resulting thereof. Put simply, the mission of APHIS is to “protect the health and value of U.S.  gricultural, natural, and other resources.”[^63] Within APHIS there are six operational programs units, three management support units, and two offices supporting federal government-wide initiatives.”[^64] Three of the six operational program units within APHIS, International Services and Trade Support Team (IS), Plant Protection and Quarantine (PPQ), and Veterinary Services (VS), directly protect the U.S. from threats to agriculture.
 
@@ -90,7 +90,7 @@ Also within the USDA, there are networks of laboratories created to “protect a
 
 The NAHL is a collaborative effort between APHIS, NIFA , and the American Association of Veterinary Laboratory Diagnosticians (AAVL).[^70] The network consists of laboratories which “focus on different diseases, using common testing methods and software platforms to process diagnostic requests and share information.”[^71] The USDA’s National Veterinary Services Laboratories (NVSL) at the federal level and state university laboratories work together to “perform routine diagnostic tests for endemic animal diseases as well as targeted surveillance and response testing for foreign animal diseases.”[^72] All with the goal of adding “support of routine and emergency animal disease diagnosis” to include bioterrorism incidents.[^73] Of importance, but outside of the USDA and still working towards detecting and diagnosing outbreaks of disease are: the CDCled Laboratory Response Network (LRN) and the joint Food and Drug Administration (FDA)/Food Safety and Inspection Service (FSIS) Food Emergency Response Network (FERN).[^74]
 
-#### <u>DEPARTMENT OF HOMELAND SECURITY</u> ####
+#### <center><u>DEPARTMENT OF HOMELAND SECURITY</u></center> ####
 
 DHS is the primary cabinet-level department responsible for protecting the homeland against threats of terrorism. In terms of preventing acts of agricultural bioterrorism, DHS’s Customs and Border Protection (CBP), and Customs and Border Protection Agriculture Specialists (CBPAS), are on the front line. The USDAAPHIS handed responsibility for agricultural inspection at ports of entry over to CBP upon the creation of DHS in 2003 (“approximately 1,573 agriculture specialists transitioned from the U.S. Department of Agriculture (USDA) to CBP”).[^75] The transition has taken time, but APHIS and CBP continue to work together towards safeguarding agriculture.
 
@@ -100,17 +100,17 @@ With over a trillion dollars in annual economic activity, protecting the agricul
 
 Another area working towards the protection of the agriculture industry under DHS is the Science & Technology Directorate Centers of Excellence (COE) network. The COE network consists of hundreds of universities working on the development of “new technologies and critical knowledge.”[^85] Among the twelve current centers of excellence, the Center of Excellence for Zoonotic and Animal Disease Defense (ZADD), works on programs aimed at protecting livestock. ZADD is spearheaded by Texas A&M University and Kansas State University with the aim of protecting “the nation's agricultural and public health sectors against highconsequence foreign animal, emerging and zoonotic disease threats.”[^86]
 
-#### <u>NATIONAL INFRASTRUCTURE PROTECTION PLAN</u> ####
+#### <center><u>NATIONAL INFRASTRUCTURE PROTECTION PLAN</u></center> ####
 
 Mandated by HSPD-7, the National Infrastructure Protection Plan (NIPP), identifies critical infrastructure and key resources and “sets forth a comprehensive risk management framework” with “clearly defined roles and responsibilities” for the Department of Homeland Security, Federal Sector-Specific Agencies, in addition to other Federal, State, regional, local, tribal, territorial, and private sector partners implementing the NIPP.”[^87] NIPP states that its overarching goal is “to build a safer, more secure, and more resilient America by preventing, deterring, neutralizing, or mitigating the effects of a terrorist attack or natural disaster, and to strengthen national preparedness, response, and recovery in the event of an emergency.”[^88] Food and Agriculture (FA) makes up one of the eighteen identified critical infrastructure sectors.
 
 Each sector is overseen by a Sector-Specific Agency (SSA) which is “responsible for developing and implementing a Sector-Specific Plan (SSP), in collaboration with public and private sector partners, and for encouraging the development of appropriate information-sharing and analysis mechanisms.”[^89] For the FA Sector, the USDA is the SSA. Under the SSP, the Food and Agriculture Government Coordinating Council (FAGCC) and Sector Coordinating Council (FASCC), both formed in 2004, jointly hold quarterly meetings which facilitate a publicprivate forum for effectively coordinating agriculture and food protection “strategies and activities, policy, and communications across the sector to support the Nation’s homeland security mission.”[^90]
 
-#### <u>STRATEGIC PARTNERSHIP PROGRAM AGROTERRORISM</u> ####
+#### <center><u>STRATEGIC PARTNERSHIP PROGRAM AGROTERRORISM</u></center> ####
 
 The Strategic Partnership Program Agroterrorism (SPPA), similar to NIPP, is a government-private sector partnership program. Working together, the Federal Bureau of Investigation (FBI), DHS, USDA, FDA, as well as State, local, and industry partners strive to protect the U.S. food supply.[^91] The goal of the multi-actor partnership is to “collect the necessary data to identify sector-specific vulnerabilities, develop mitigation strategies, identify research gaps and needs, and increase awareness and coordination between the food and agriculture government and industry stakeholders.”[^92] Through the assessments put out by the SPPA, it is able to meet the requirements set forth by NIPP, SSP, and HSPD-9.[^93]
 
-#### <u>STATE DEPARTMENTS OF AGRICULTURE</u> ####
+#### <center><u>STATE DEPARTMENTS OF AGRICULTURE</u></center> ####
 
 Each state has its own department of agriculture that enforces state-wide laws and policies for agriculture. The laws and policies vary from statetostate, but they tend to work towards the overall goal of securing crops and livestock from existing and potential threats. State departments of agriculture (SDA) serve as integral parts of overall agricultural biosafety. Due to their proximity to local farmers and ranchers, SDA not only have the ability to detect and react to potential acts of agricultural bioterrorism, but are also in the best position to prevent such acts.
 
@@ -120,7 +120,7 @@ In general, the purpose of a vulnerability analysis is to identify and prioritiz
 
 This vulnerability analysis will first make a target assessment based on historical cases of agroterrorism and threats thereof, as well as wartime use of bio-agents against agriculture and state-run biological weapons programs. It will then take into account what has previously been identified as vulnerable, as well as what is likely to be targeted based on economic and symbolic significance. Next the target vulnerability assessment will take the targets found in the target assessment and identify to what extent the targets are exposed and vulnerable. In doing so, current safeguards will be looked at in terms of integrity and availability. Where deficient, the extent to which safeguards can or should be improved will be assessed. It is important to note that not all potential targets can or should be hardened. All hardening exacts costs, and these costs often impose operational constraints which adversely impact the bottom line for operators within an industry. Care must be taken to ensure that recommendations are holistic and consider all market factors. Lastly, there will be a vulnerability rating which summarizes the findings of the vulnerability analysis.
 
-#### <u>TARGET ASSESSMENT</u> ####
+#### <center><u>TARGET ASSESSMENT</u></center> ####
 
 Acts of terrorism that have targeted agriculture have been relatively rare when compared to other means of terrorism historically. Perhaps the earliest reported incident of agroterrorism in the U.S. occurred in Ashville, Alabama in 1970 when a local chapter of the Ku Klux Klan reportedly contaminated the water supply of a farm owned and operated by Black Muslims with cyanide resulting in the death of thirty cattle.[^94] On January 3, 1997, Purina, a large livestock feed products company, was forced to stop a shipment of 300 tons of feed after the feed was found to have been deliberately contaminated with chlordane, an extremely toxic and persistent insecticide.[^95] As an extension of the agriculture industry, likely the most recognizable act of terrorism involving food occurred when the Rajneeshee cult carried out a highly publicized act of bioterrorism in September 1984, which targeted the food industry. Seeking to disrupt a local election, members from the Rajneeshee cult in The Dalles, Oregon deliberately contaminated salad bars in ten restaurants and one grocery store with the pathogen Salmonella typhimurium, resulting in at least 751 cases of salmonellosis.[^96]
 
@@ -130,46 +130,13 @@ More common have been threats of agroterrorism, and a frequent tactic therein ha
 
 Wartime usage of agricultural bio-agents have been more prevalent than cases of agroterrorism and agricultural bioterrorism, but it still remains relatively rare. During World War I, the German secret service carried out a agricultural bio-attacks against Argentina, France, Romania, U.S., and the U.K.[^104] Specifically, the Germans targeted pack animals, cattle, sheep, and grain with, among other pathogens, Pseudomonas mallei (Glanders), Bacillus anthracis (Anthrax), and wheat fungus.[^105] In World War II, the Japanese used morbilliviruses (a group of paramyxoviruses which cause measles, rinderpest, canine distemper, etc.), Bacillus anthracis (Anthrax), and many other biological agents against the Soviet Union in Northern China.[^106] Moreover, the Japanese used Yersinia pestis (Plague) infected fleas (Xenopsylla cheopis) against the Chinese population and experimented with targeting cattle with the fleas.[^107] There is also some evidence that may suggest that the Germans targeted British crops with Colorado potato beetles during the war. However, there is the possibility that the destructive beetle was introduced accidentally through the importation of of foodstuffs from the U.S.[^108]
 
-During the post world war era, there were also uses of biological agents against
-agriculture. For example, in 1952, the Mau Mau, a Kenyan nationalist liberation movement, used
-African milk bush (Sphagnum compactum) to poison thirtythree
-head of cattle at a British
-mission.109 The Cold War brought on many more reported uses.
-The most famous was the alleged use of mycotoxins, called yellow rain, against the
-H’mong people by communist forces. The allegation held that the communist forces used
-aircraft mounted with sprayers in addition to mortars, grenades, rockets, and landmines to
-disseminate agents.110 Much debate remains as to the veracity of intentional usage. The toxins
-not only impacted crops and undermined confidence in local food stores, but also resulted in
-many deaths. The Soviet Union was also fingered in the use chemical and biological weapons
-later in the Soviet War in Afghanistan. While there was no way to say which agents were
-specifically used, due to the delay in sample collection, many villages and crops were impacted
-in the Soviet antiagriculture
-campaign. Similar to the “yellow rain” allegations in Laos, some
-believe that the Soviets used trichothecene mycotoxins in Afghanistan.111 Soviet defector and
-former deputy director at Biopreparat, Ken Alibek, has revealed that the Soviet Union utilized
-Pseudomonas mallei (Glanders) among other bioagents
-to impact Afghan agriculture and
-human populations during the war.112
-From 1962 through 1997, Cuba has accused the U.S. no fewer than twentyone
-times of
-conducting biological warfare against its people and agriculture.113 “According to Raymond
-Zilinskas, the Cubans have alleged that the U.S. biological attacks caused ailments such as
-108 Ibid.
-109 Ibid.
-110 Ibid.
-111 Ibid.
-112 Ibid.
-113 Ibid.
-26 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-Newcastle disease among poultry (1962), African swine fever among pigs (1971, 197980),
-tobacco blue mold disease (197980),
-sugarcane rust disease (1978), dengue hemorrhagic
-fever among humans (1980), and an infestation of the thrips insect in 1996.”114 Despite the
-allegations, the most likely explanation is that the various outbreaks of disease were either the
-result of accidental importation or natural manifestations.
+During the post world war era, there were also uses of biological agents against agriculture. For example, in 1952, the Mau Mau, a Kenyan nationalist liberation movement, used African milk bush (Sphagnum compactum) to poison thirty-three head of cattle at a British mission.[^109] The Cold War brought on many more reported uses.
+
+The most famous was the alleged use of mycotoxins, called yellow rain, against the H’mong people by communist forces. The allegation held that the communist forces used aircraft mounted with sprayers in addition to mortars, grenades, rockets, and landmines to disseminate agents.[^110] Much debate remains as to the veracity of intentional usage. The toxins not only impacted crops and undermined confidence in local food stores, but also resulted in many deaths. The Soviet Union was also fingered in the use chemical and biological weapons later in the Soviet War in Afghanistan. While there was no way to say which agents were specifically used, due to the delay in sample collection, many villages and crops were impacted in the Soviet anti-agriculture campaign. Similar to the “yellow rain” allegations in Laos, some believe that the Soviets used trichothecene mycotoxins in Afghanistan.[^111] Soviet defector and former deputy director at Biopreparat, Ken Alibek, has revealed that the Soviet Union utilized Pseudomonas mallei (Glanders) among other bio-agents to impact Afghan agriculture and human populations during the war.[^112]
+
+From 1962 through 1997, Cuba has accused the U.S. no fewer than twenty-one times of conducting biological warfare against its people and agriculture.[^113] “According to Raymond Zilinskas, the Cubans have alleged that the U.S. biological attacks caused ailments such as Newcastle disease among poultry (1962), African swine fever among pigs (1971, 197980), tobacco blue mold disease (197980), sugarcane rust disease (1978), dengue hemorrhagic fever among humans (1980), and an infestation of the thrips insect in 1996.”[^114] Despite the allegations, the most likely explanation is that the various outbreaks of disease were either the result of accidental importation or natural manifestations.
+
+
 A good place to start when assessing which biological agents would potentially be the
 most desirable/feasible for terrorists, is known or suspected staterun
 biological weapons
@@ -1157,3 +1124,15 @@ prevent potentially cascading terrorist attacks.
 [^106]: Ibid.
 
 [^107]: Ibid.
+
+[^108]: Ibid.
+
+[^109]: Ibid.
+
+[^110]: Ibid.
+
+[^111]: Ibid.
+
+[^112]: Ibid.
+
+[^113]: Ibid.
