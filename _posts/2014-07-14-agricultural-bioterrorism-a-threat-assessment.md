@@ -82,331 +82,54 @@ The Animal Enterprise Terrorism Act, which passed November 27, 2006, came about 
 
 #### <u>U.S. DEPARTMENT OF AGRICULTURE</u> ####
 
+As the principal organization tasked with protecting U.S. agriculture, the USDA has subordinate agencies which are responsible for carrying out specific missions towards this end. The Animal and Plant Health Inspection Service (APHIS) is  he chief agency in charge of monitoring and protecting crops and livestock from pests and diseases, as well as responding to emergencies resulting thereof. Put simply, the mission of APHIS is to “protect the health and value of U.S.  gricultural, natural, and other resources.”[^63] Within APHIS there are six operational programs units, three management support units, and two offices supporting federal government-wide initiatives.”[^64] Three of the six operational program units within APHIS, International Services and Trade Support Team (IS), Plant Protection and Quarantine (PPQ), and Veterinary Services (VS), directly protect the U.S. from threats to agriculture.
 
+IS focuses on threats that emanate beyond U.S. borders by providing “international animal and plant health expertise” abroad in order to “safeguard American agricultural health and promote U.S. agricultural trade.”[^65] Domestically, PPQ oversees threats against crops while VS protects against threats to livestock. Accordingly, their missions are to safeguard “agriculture and natural resources from risks associated with the entry, establishment, or spread of pests and noxious weeds” and to protect and improve “the health, quality, and marketability of our nation's animals, animal products, and veterinary biologics by preventing, controlling, and/or eliminating animal diseases, and monitoring, and promoting animal health and productivity,” respectively.[^66]
 
+Also within the USDA, there are networks of laboratories created to “protect against animal, plant, food, and general bioterrorism issues.”[^67] The main purpose of these networks are to identify and detect “deliberate or accidental disease” outbreaks.[^68] The networks are organized under the National Plant Diagnostic Network (NPDN) and the National Animal Health Laboratory Network (NAHL). The NPDN, stood up by the National Institute of Food and Agriculture (NIFA), formerly the Cooperative State Research, Education, and Extension Service (CSREES), is a network led by five regional labs and one support lab at Cornell University, University of Florida, Michigan State University, Kansas State University, University of California at Davis, and Texas Tech University (supporting) with the objective of establishing “a functional national network of existing diagnostic laboratories to rapidly and accurately detect and report plant diseases of national interest, particularly those pathogens that have the potential to be intentionally introduced through bioterrorism.”[^69]
 
+The NAHL is a collaborative effort between APHIS, NIFA , and the American Association of Veterinary Laboratory Diagnosticians (AAVL).[^70] The network consists of laboratories which “focus on different diseases, using common testing methods and software platforms to process diagnostic requests and share information.”[^71] The USDA’s National Veterinary Services Laboratories (NVSL) at the federal level and state university laboratories work together to “perform routine diagnostic tests for endemic animal diseases as well as targeted surveillance and response testing for foreign animal diseases.”[^72] All with the goal of adding “support of routine and emergency animal disease diagnosis” to include bioterrorism incidents.[^73] Of importance, but outside of the USDA and still working towards detecting and diagnosing outbreaks of disease are: the CDCled Laboratory Response Network (LRN) and the joint Food and Drug Administration (FDA)/Food Safety and Inspection Service (FSIS) Food Emergency Response Network (FERN).[^74]
 
+#### <u>DEPARTMENT OF HOMELAND SECURITY</u> ####
 
+DHS is the primary cabinet-level department responsible for protecting the homeland against threats of terrorism. In terms of preventing acts of agricultural bioterrorism, DHS’s Customs and Border Protection (CBP), and Customs and Border Protection Agriculture Specialists (CBPAS), are on the front line. The USDAAPHIS handed responsibility for agricultural inspection at ports of entry over to CBP upon the creation of DHS in 2003 (“approximately 1,573 agriculture specialists transitioned from the U.S. Department of Agriculture (USDA) to CBP”).[^75] The transition has taken time, but APHIS and CBP continue to work together towards safeguarding agriculture.
 
-As the principal organization tasked with protecting U.S. agriculture, the USDA has
-subordinate agencies which are responsible for carrying out specific missions towards this end.
-The Animal and Plant Health Inspection Service (APHIS) is the chief agency in charge of
-monitoring and protecting crops and livestock from pests and diseases, as well as responding to
-emergencies resulting thereof. Put simply, the mission of APHIS is to “protect the health and
-value of U.S. agricultural, natural, and other resources.” Within APHIS there are 63 six operational
-programs units, three management support units, and two offices supporting federal
-governmentwide
-initiatives.”64 Three of the six operational program units within APHIS,
-International Services and Trade Support Team (IS), Plant Protection and Quarantine (PPQ),
-and Veterinary Services (VS), directly protect the U.S. from threats to agriculture.
-IS focuses on threats that emanate beyond U.S. borders by providing “international
-animal and plant health expertise” abroad in order to “safeguard American agricultural health and
-promote U.S. agricultural trade.”65 Domestically, PPQ oversees threats against crops while VS
-protects against threats to livestock. Accordingly, their missions are to safeguard “agriculture
-and natural resources from risks associated with the entry, establishment, or spread of pests
-and noxious weeds” and to protect and improve “the health, quality, and marketability of our
-nation's animals, animal products, and veterinary biologics by preventing, controlling, and/or
-eliminating animal diseases, and monitoring, and promoting animal health and productivity,”
-respectively.66
-Also within the USDA, there are networks of laboratories created to “protect against
-animal, plant, food, and general bioterrorism issues.”67 The main purpose of these networks are
-63 "APHIS Strategic Plan FY 20102015,"
-U.S. Department of Agriculture, October 31, 2011, accessed
-November 24, 2013, http://www.aphis.usda.gov/about_aphis/downloads/APHIS_Strategic_Plan_2015.pdf.
-64 "About APHIS," U.S. Department of Agriculture, accessed November 23, 2013,
-http://www.aphis.usda.gov/about_aphis/programs.shtml.
-65 Ibid.
-66 Ibid.
-67 "Biennial Review: Agricultural Bioterrorism Protection Act of 2002."
-17 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-to identify and detect “deliberate or accidental disease” outbreaks. The networks 68 are organized
-under the National Plant Diagnostic Network (NPDN) and the National Animal Health Laboratory
-Network (NAHL). The NPDN, stood up by the National Institute of Food and Agriculture (NIFA),
-formerly the Cooperative State Research, Education, and Extension Service (CSREES), is a
-network led by five regional labs and one support lab at Cornell University, University of Florida,
-Michigan State University, Kansas State University, University of California at Davis, and Texas
-Tech University (supporting) with the objective of establishing “a functional national network of
-existing diagnostic laboratories to rapidly and accurately detect and report plant diseases of
-national interest, particularly those pathogens that have the potential to be intentionally introduced
-through bioterrorism.”
-69
-The NAHL is a collaborative effort between APHIS, NIFA , and the American Association
-of Veterinary Laboratory Diagnosticians (AAVL).70 The network consists of laboratories which
-“focus on different diseases, using common testing methods and software platforms to process
-diagnostic requests and share information.”71 The USDA’s National Veterinary Services
-Laboratories (NVSL) at the federal level and state university laboratories work together to
-“perform routine diagnostic tests for endemic animal diseases as well as targeted surveillance
-and response testing for foreign animal diseases.”72 All with the goal of adding “support of routine
-and emergency animal disease diagnosis” to include bioterrorism incidents.73 Of importance, but
-outside of the USDA and still working towards detecting and diagnosing outbreaks of disease
-are: the CDCled
-Laboratory Response Network (LRN) and the joint Food and Drug
-68 Ibid.
-69 "Integrated Pest Management," U.S. Department of Agriculture, last modified March 18, 2009, accessed
-November 24, 2013, http://www.nifa.usda.gov/nea/pest/in_focus/ipm_if_npdn.html.
-70 "Animal Health," U.S. Department of Agriculture, last modified August 7, 2012, accessed November 24,
-2013, http://www.aphis.usda.gov/animal_health/nahln/about_nahln.shtml.
-71 Ibid.
-72 Ibid.
-73 Ibid.
-18 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-Administration (FDA)/Food Safety and Inspection Service (FSIS) Food Emergency Response
-Network (FERN).74
-DEPARTMENT OF HOMELAND SECURITY
-DHS is the primary cabinetlevel
-department responsible for protecting the homeland
-against threats of terrorism. In terms of preventing acts of agricultural bioterrorism, DHS’s
-Customs and Border Protection (CBP), and Customs and Border Protection Agriculture
-Specialists (CBPAS), are on the front line. The USDAAPHIS
-handed responsibility for
-agricultural inspection at ports of entry over to CBP upon the creation of DHS in 2003
-(“approximately 1,573 agriculture specialists transitioned from the U.S. Department of Agriculture
-(USDA) to CBP”).75 The transition has taken time, but APHIS and CBP continue to work together
-towards safeguarding agriculture.
-Among APHIS’s many responsibilities, it develops regulations, policies, and operational
-guidelines for CBP, as well as, managing data collection and analysis setting performance
-measurements, managing preclearance programs, and generally, communicating policy with
-CBP.76 CBP then takes policies created by APHIS and enforces them with its 2,300 CBPAS
-working at 167 of the 300 ports of entry to the U.S.77 Additionally, CBPAS receive eight weeks of
-training and instruction from APHIS instructors prior to taking positions at ports of entry.78 Adding
-yet another layer of protection, CBPAS crosstrain
-other CBP officers to enhance and extend
-74 "Biennial Review: Agricultural Bioterrorism Protection Act of 2002."
-75 "Agriculture Fact Sheet," U.S. Customs and Border Protection, August 21, 2013, accessed November 24,
-2013,
-http://www.cbp.gov/linkhandler/cgov/trade/trade_programs/agriculture/agriculture_factsheet.ctt/agriculture_fa
-ctsheet.pdf.
-76 Cornelia Mueller and Cheryl Berthoud, "Animal Plant Health Inspection Service and ITDS/ACE Protecting
-American Agriculture," U.S. Department of Agriculture, September 2008, accessed November 24, 2013,
-http://www.cbp.gov/linkhandler/cgov/trade/automated/modernization/trade_support_network/session_highligh
-ts/session_archives/sept08_tsn/sept08_aphis_update.ctt/sept08_aphis_update.pdf.
-77 "Agriculture Fact Sheet."
-78 "USDA’s Animal and Plant Health Inspection Service and DHS’ Customs and Border Protection: Working
-Together to Protect Agriculture," U.S. Department of Agriculture, January 2008, accessed November 24,
-2013, http://www.aphis.usda.gov/publications/aphis_general/content/printable_version/fs_cbp_08.pdf.
-19 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-agricultural knowledge amongst as many officers manning ports of entry as possible. 79 Generally
-speaking, it is the CBPAS mission to identify any “item that might introduce a pest or disease
-into the United States.”80 In the course of their work, they “inspect shipments of imported
-products and ensure that the required permits, sanitary certificates (for animal products), and
-phytosanitary certificates (for plant products) accompany each shipment.”81
-With over a trillion dollars in annual economic activity, protecting the agriculture industry
-in the U.S. has become a major priority for CBP. Every year, around $136 billion of crops are lost
-due to invasive species alone, most of which come through ports of entry.82 In an effort to
-mitigate this and the threat of introducing animal and plant disease, CBP intercepted 15,100
-animal byproducts,
-392,149 meat products, and 1,212,526 plant material/soil products for a total
-of over 1.6 million intercepted products in 2012 that risked the U.S. agriculture industry.83
-Assisting CBPAS in the identification and seizure of potentially harmful products are 118 canine
-teams.84
-Another area working towards the protection of the agriculture industry under DHS is the
-Science & Technology Directorate Centers of Excellence (COE) network. The COE network
-consists of hundreds of universities working on the development of “new technologies and
-critical knowledge.”85 Among the twelve current centers of excellence, the Center of Excellence
-for Zoonotic and Animal Disease Defense (ZADD), works on programs aimed at protecting
-livestock. ZADD is spearheaded by Texas A&M University and Kansas State University with the
-79 Ibid.
-80 "U.S. Department of Agriculture, Animal and Plant Health Inspection Service Protecting
-America's
-Agricultural Resources," U.S. Customs and Border Protection, accessed November 24, 2013,
-http://www.cbp.gov/xp/cgov/about/history/legacy/aqi_history.xml.
-81 "Plant Health," U.S. Department of Agriculture, last modified November 9, 2012, accessed November 24,
-2013, http://www.aphis.usda.gov/plant_health/moa_dhs/.
-82 Ibid.
-83 Ibid.
-84 Ibid.
-85 "Science & Technology Directorate Centers of Excellence," Department of Homeland Security, accessed
-November 24, 2013, https://www.dhs.gov/stcentersexcellence.
-20 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-aim of protecting “the nation's agricultural and public health sectors against highconsequence
-foreign animal, emerging and zoonotic disease threats.”86
-NATIONAL INFRASTRUCTURE PROTECTION PLAN
-Mandated by HSPD7,
-the National Infrastructure Protection Plan (NIPP), identifies critical
-infrastructure and key resources and “sets forth a comprehensive risk management framework”
-with “clearly defined roles and responsibilities” for the Department of Homeland Security, Federal
-SectorSpecific
-Agencies, in addition to other Federal, State, regional, local, tribal, territorial, and
-private sector partners implementing the NIPP.”87 NIPP states that its overarching goal is “to
-build a safer, more secure, and more resilient America by preventing, deterring, neutralizing, or
-mitigating the effects of a terrorist attack or natural disaster, and to strengthen national
-preparedness, response, and recovery in the event of an emergency.”88 Food and Agriculture
-(FA) makes up one of the eighteen identified critical infrastructure sectors.
-Each sector is overseen by a SectorSpecific
-Agency (SSA) which is “responsible for
-developing and implementing a SectorSpecific
-Plan (SSP), in collaboration with public and
-private sector partners, and for encouraging the development of appropriate informationsharing
-and analysis mechanisms.”89 For the FA Sector, the USDA is the SSA. Under the SSP, the Food
-and Agriculture Government Coordinating Council (FAGCC) and Sector Coordinating Council
-(FASCC), both formed in 2004, jointly hold quarterly meetings which facilitate a publicprivate
-forum for effectively coordinating agriculture and food protection “strategies and activities, policy,
-and communications across the sector to support the Nation’s homeland security mission.”90
-86 Ibid.
-87 "National Infrastructure Protection Plan," Department of Homeland Security, 2009, accessed November
-13, 2013, http://www.dhs.gov/xlibrary/assets/NIPP_Plan.pdf.
-88 "National Infrastructure Protection Plan," Department of Homeland Security, accessed November 20,
-2013, https://www.dhs.gov/nationalinfrastructureprotectionplan.
-89 "National Infrastructure Protection Plan Food
-and Agriculture Sector," Department of Homeland Security,
-accessed November 24, 2013, http://www.dhs.gov/xlibrary/assets/nppd/nppdipfoodagsnapshot508.
-pdf.
-90 Ibid.
-21 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-STRATEGIC PARTNERSHIP PROGRAM AGROTERRORISM
-The Strategic Partnership Program Agroterrorism (SPPA), similar to NIPP, is a
-governmentprivate
-sector partnership program. Working together, the Federal Bureau of
-Investigation (FBI), DHS, USDA, FDA, as well as State, local, and industry partners strive to
-protect the U.S. food supply. The goal of the multiactor
-partnership is to “collect 91 the necessary
-data to identify sectorspecific
-vulnerabilities, develop mitigation strategies, identify research
-gaps and needs, and increase awareness and coordination between the food and agriculture
-government and industry stakeholders.”92 Through the assessments put out by the SPPA, it is
-able to meet the requirements set forth by NIPP, SSP, and HSPD9.93
-STATE DEPARTMENTS OF AGRICULTURE
-Each state has its own department of agriculture that enforces statewide
-laws and
-policies for agriculture. The laws and policies vary from statetostate,
-but they tend to work
-towards the overall goal of securing crops and livestock from existing and potential threats. State
-departments of agriculture (SDA) serve as integral parts of overall agricultural biosafety. Due to
-their proximity to local farmers and ranchers, SDA not only have the ability to detect and react to
-potential acts of agricultural bioterrorism, but are also in the best position to prevent such acts.
-VULNERABILITY ANALYSIS
-In general, the purpose of a vulnerability analysis is to identify and prioritize vulnerabilities
-within a system, in this case the agriculture industry. When assessed in conjunction with a
-threat analysis, the identification and prioritization of potential actors based on, among other
-things, ideology, motivation, and capacity, effective recommendations towards protecting the
-91 "Strategic Partnership Program Agroterrorism (SPPA) Initiative: Final Summary Report September 2005 –
-September 2008," U.S. Food and Drug Administration, last modified July 16, 2013, accessed November 20,
-2013, http://www.fda.gov/Food/FoodDefense/FoodDefensePrograms/ucm170509.htm.
-92 "Strategic Partnership Program Agroterrorism (SPPA) Initiative First
-Year Status Report," Food and Drug
-Administration, 2006, accessed November 20, 2013,
-http://www.usda.gov/documents/81006%
-201%20yr%20report%20SPPA%20agroter5.pdf.
-93 Ibid.
-22 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-system can be made. The greater the specificity when identifying vulnerabilities, the easier it will
-be to ultimately make recommendations on hardening or protection from threats. While a much
-more nuanced study or series of studies should be conducted in order to make more specific
-recommendations, this threat assessment is surficial and intended only as an overview of the
-threat environment and is by no means exhaustive or comprehensive.
-This vulnerability analysis will first make a target assessment based on historical cases
-of agroterrorism and threats thereof, as well as wartime use of bioagents
-against agriculture
-and staterun
-biological weapons programs. It will then take into account what has previously
-been identified as vulnerable, as well as what is likely to be targeted based on economic and
-symbolic significance. Next the target vulnerability assessment will take the targets found in the
-target assessment and identify to what extent the targets are exposed and vulnerable. In doing
-so, current safeguards will be looked at in terms of integrity and availability. Where deficient, the
-extent to which safeguards can or should be improved will be assessed. It is important to note
-that not all potential targets can or should be hardened. All hardening exacts costs, and these
-costs often impose operational constraints which adversely impact the bottom line for operators
-within an industry. Care must be taken to ensure that recommendations are holistic and
-consider all market factors. Lastly, there will be a vulnerability rating which summarizes the
-findings of the vulnerability analysis.
-TARGET ASSESSMENT
-Acts of terrorism that have targeted agriculture have been relatively rare when compared
-to other means of terrorism historically. Perhaps the earliest reported incident of agroterrorism in
-the U.S. occurred in Ashville, Alabama in 1970 when a local chapter of the Ku Klux Klan
-reportedly contaminated the water supply of a farm owned and operated by Black Muslims with
-23 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-cyanide resulting in the death of thirty cattle. On January 3, 1997, Purina, a large 94 livestock feed
-products company, was forced to stop a shipment of 300 tons of feed after the feed was found
-to have been deliberately contaminated with chlordane, an extremely toxic and persistent
-insecticide.95 As an extension of the agriculture industry, likely the most recognizable act of
-terrorism involving food occurred when the Rajneeshee cult carried out a highly publicized act of
-bioterrorism in September 1984, which targeted the food industry. Seeking to disrupt a local
-election, members from the Rajneeshee cult in The Dalles, Oregon deliberately contaminated
-salad bars in ten restaurants and one grocery store with the pathogen Salmonella typhimurium,
-resulting in at least 751 cases of salmonellosis.96
-Clear examples of agroterrorism outside of the U.S. have also been rare. In 1997, it was
-reported that Israeli settlers sprayed Arab grapes, south of Bethlehem, with a chemical causing
-the ruin of hundreds of grapevines and upwards of 17,000 metric tons of grapes.97 News
-sources also reported another incident near Bethlehem in 2000 where Israelis repeatedly
-released wastewater on fields owned by Palestinian farmers with the intention of forcing the
-Palestinians off the land.98
-More common have been threats of agroterrorism, and a frequent tactic therein has been
-the issuance of threats through the mail. One such example came when The Breeders, a
-previously unknown entity, mailed letters to Los Angeles Mayor, Tom Bradley, in 1989
-threatening to release Medflies (Ceratitis capitata), an invasive fly known for devastating fruit
-crops that it had been breeding.99 Interestingly, there are some indications that the attack may
-94 "Chronology of CBW Incidents Targeting Agriculture 19152008,"
-CNS, last modified March, 2009,
-accessed November 13, 2013, http://cns.miis.edu/cbw/agchron.htm.
-95 Ibid.
-96 "Chronology of Chemical & Biological Incidents Targeting the Food Industry 19462006,"
-CNS, last
-modified February, 2009, accessed November 13, 2013, http://cns.miis.edu/cbw/foodchron.htm.
-97 "Chronology of CBW Incidents Targeting Agriculture 19152008."
-98 Ibid.
-99 Ibid.
-24 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-have been carried out as there were abnormalities in Medfly populations in southern California
-that year. The state Premier of Queensland, Australia received a letter 100 threatening the
-inoculation of wild pigs with footandmouth
-disease in 1984.101 The office of New Zealand’s
-Prime Minister received a letter on May 10, 2005 claiming that footandmouth
-disease had
-already been released, and that more would be released if the author’s political demands were
-not met.102 Elsewhere, both the Ugandan and Sri Lankan governments had to manage threats
-against agriculture issued by the Ugandan People’s Passive Resistance Front in 1977 and the
-Liberation Tigers of Tamil Elam between 1983 and 1987 respectively.103
-Wartime usage of agricultural bioagents
-have been more prevalent than cases of
-agroterrorism and agricultural bioterrorism, but it still remains relatively rare. During World War I,
-the German secret service carried out a agricultural bioattacks
-against Argentina, France,
-Romania, U.S., and the U.K.104 Specifically, the Germans targeted pack animals, cattle, sheep,
-and grain with, among other pathogens, Pseudomonas mallei (Glanders), Bacillus anthracis
-(Anthrax), and wheat fungus.105 In World War II, the Japanese used morbilliviruses (a group of
-paramyxoviruses which cause measles, rinderpest, canine distemper, etc.), Bacillus anthracis
-(Anthrax), and many other biological agents against the Soviet Union in Northern China.106
-Moreover, the Japanese used Yersinia pestis (Plague) infected fleas (Xenopsylla cheopis)
-against the Chinese population and experimented with targeting cattle with the fleas.107 There is
-also some evidence that may suggest that the Germans targeted British crops with Colorado
-potato beetles during the war. However, there is the possibility that the destructive beetle was
-100 Ibid.
-101 Ibid.
-102 Ibid.
-103 Ibid.
-104 Ibid.
-105 Ibid.
-106 Ibid.
-107 Ibid.
-25 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-introduced accidentally through the importation of of foodstuffs from the U.S.108
+Among APHIS’s many responsibilities, it develops regulations, policies, and operational guidelines for CBP, as well as, managing data collection and analysis setting performance measurements, managing preclearance programs, and generally, communicating policy with CBP.[^76] CBP then takes policies created by APHIS and enforces them with its 2,300 CBPAS working at 167 of the 300 ports of entry to the U.S.[^77] Additionally, CBPAS receive eight weeks of training and instruction from APHIS instructors prior to taking positions at ports of entry.[^78] Adding yet another layer of protection, CBPAS cross-train other CBP officers to enhance and extend agricultural knowledge amongst as many officers manning ports of entry as possible.[^79] Generally speaking, it is the CBPAS mission to identify any “item that might introduce a pest or disease into the United States.”[^80] In the course of their work, they “inspect shipments of imported products and ensure that the required permits, sanitary certificates (for animal products), and phytosanitary certificates (for plant products) accompany each shipment.”[^81]
+
+With over a trillion dollars in annual economic activity, protecting the agriculture industry in the U.S. has become a major priority for CBP. Every year, around $136 billion of crops are lost due to invasive species alone, most of which come through ports of entry.[^82] In an effort to mitigate this and the threat of introducing animal and plant disease, CBP intercepted 15,100 animal by-products, 392,149 meat products, and 1,212,526 plant material/soil products for a total of over 1.6 million intercepted products in 2012 that risked the U.S. agriculture industry.[^83] Assisting CBPAS in the identification and seizure of potentially harmful products are 118 canine teams.[^84]
+
+Another area working towards the protection of the agriculture industry under DHS is the Science & Technology Directorate Centers of Excellence (COE) network. The COE network consists of hundreds of universities working on the development of “new technologies and critical knowledge.”[^85] Among the twelve current centers of excellence, the Center of Excellence for Zoonotic and Animal Disease Defense (ZADD), works on programs aimed at protecting livestock. ZADD is spearheaded by Texas A&M University and Kansas State University with the aim of protecting “the nation's agricultural and public health sectors against highconsequence foreign animal, emerging and zoonotic disease threats.”[^86]
+
+#### <u>NATIONAL INFRASTRUCTURE PROTECTION PLAN</u> ####
+
+Mandated by HSPD-7, the National Infrastructure Protection Plan (NIPP), identifies critical infrastructure and key resources and “sets forth a comprehensive risk management framework” with “clearly defined roles and responsibilities” for the Department of Homeland Security, Federal Sector-Specific Agencies, in addition to other Federal, State, regional, local, tribal, territorial, and private sector partners implementing the NIPP.”[^87] NIPP states that its overarching goal is “to build a safer, more secure, and more resilient America by preventing, deterring, neutralizing, or mitigating the effects of a terrorist attack or natural disaster, and to strengthen national preparedness, response, and recovery in the event of an emergency.”[^88] Food and Agriculture (FA) makes up one of the eighteen identified critical infrastructure sectors.
+
+Each sector is overseen by a Sector-Specific Agency (SSA) which is “responsible for developing and implementing a Sector-Specific Plan (SSP), in collaboration with public and private sector partners, and for encouraging the development of appropriate information-sharing and analysis mechanisms.”[^89] For the FA Sector, the USDA is the SSA. Under the SSP, the Food and Agriculture Government Coordinating Council (FAGCC) and Sector Coordinating Council (FASCC), both formed in 2004, jointly hold quarterly meetings which facilitate a publicprivate forum for effectively coordinating agriculture and food protection “strategies and activities, policy, and communications across the sector to support the Nation’s homeland security mission.”[^90]
+
+#### <u>STRATEGIC PARTNERSHIP PROGRAM AGROTERRORISM</u> ####
+
+The Strategic Partnership Program Agroterrorism (SPPA), similar to NIPP, is a government-private sector partnership program. Working together, the Federal Bureau of Investigation (FBI), DHS, USDA, FDA, as well as State, local, and industry partners strive to protect the U.S. food supply.[^91] The goal of the multi-actor partnership is to “collect the necessary data to identify sector-specific vulnerabilities, develop mitigation strategies, identify research gaps and needs, and increase awareness and coordination between the food and agriculture government and industry stakeholders.”[^92] Through the assessments put out by the SPPA, it is able to meet the requirements set forth by NIPP, SSP, and HSPD-9.[^93]
+
+#### <u>STATE DEPARTMENTS OF AGRICULTURE</u> ####
+
+Each state has its own department of agriculture that enforces state-wide laws and policies for agriculture. The laws and policies vary from statetostate, but they tend to work towards the overall goal of securing crops and livestock from existing and potential threats. State departments of agriculture (SDA) serve as integral parts of overall agricultural biosafety. Due to their proximity to local farmers and ranchers, SDA not only have the ability to detect and react to potential acts of agricultural bioterrorism, but are also in the best position to prevent such acts.
+
+### VULNERABILITY ANALYSIS ###
+
+In general, the purpose of a vulnerability analysis is to identify and prioritize vulnerabilities within a system, in this case the agriculture industry. When assessed in conjunction with a threat analysis, the identification and prioritization of potential actors based on, among other things, ideology, motivation, and capacity, effective recommendations towards protecting the system can be made. The greater the specificity when identifying vulnerabilities, the easier it will be to ultimately make recommendations on hardening or protection from threats. While a much more nuanced study or series of studies should be conducted in order to make more specific recommendations, this threat assessment is surficial and intended only as an overview of the threat environment and is by no means exhaustive or comprehensive.
+
+This vulnerability analysis will first make a target assessment based on historical cases of agroterrorism and threats thereof, as well as wartime use of bio-agents against agriculture and state-run biological weapons programs. It will then take into account what has previously been identified as vulnerable, as well as what is likely to be targeted based on economic and symbolic significance. Next the target vulnerability assessment will take the targets found in the target assessment and identify to what extent the targets are exposed and vulnerable. In doing so, current safeguards will be looked at in terms of integrity and availability. Where deficient, the extent to which safeguards can or should be improved will be assessed. It is important to note that not all potential targets can or should be hardened. All hardening exacts costs, and these costs often impose operational constraints which adversely impact the bottom line for operators within an industry. Care must be taken to ensure that recommendations are holistic and consider all market factors. Lastly, there will be a vulnerability rating which summarizes the findings of the vulnerability analysis.
+
+#### <u>TARGET ASSESSMENT</u> ####
+
+Acts of terrorism that have targeted agriculture have been relatively rare when compared to other means of terrorism historically. Perhaps the earliest reported incident of agroterrorism in the U.S. occurred in Ashville, Alabama in 1970 when a local chapter of the Ku Klux Klan reportedly contaminated the water supply of a farm owned and operated by Black Muslims with cyanide resulting in the death of thirty cattle.[^94] On January 3, 1997, Purina, a large livestock feed products company, was forced to stop a shipment of 300 tons of feed after the feed was found to have been deliberately contaminated with chlordane, an extremely toxic and persistent insecticide.[^95] As an extension of the agriculture industry, likely the most recognizable act of terrorism involving food occurred when the Rajneeshee cult carried out a highly publicized act of bioterrorism in September 1984, which targeted the food industry. Seeking to disrupt a local election, members from the Rajneeshee cult in The Dalles, Oregon deliberately contaminated salad bars in ten restaurants and one grocery store with the pathogen Salmonella typhimurium, resulting in at least 751 cases of salmonellosis.[^96]
+
+Clear examples of agroterrorism outside of the U.S. have also been rare. In 1997, it was reported that Israeli settlers sprayed Arab grapes, south of Bethlehem, with a chemical causing the ruin of hundreds of grapevines and upwards of 17,000 metric tons of grapes.[^97] News sources also reported another incident near Bethlehem in 2000 where Israelis repeatedly released wastewater on fields owned by Palestinian farmers with the intention of forcing the Palestinians off the land.[^98]
+
+More common have been threats of agroterrorism, and a frequent tactic therein has been the issuance of threats through the mail. One such example came when The Breeders, a previously unknown entity, mailed letters to Los Angeles Mayor, Tom Bradley, in 1989 threatening to release Medflies (Ceratitis capitata), an invasive fly known for devastating fruit crops that it had been breeding.[^99] Interestingly, there are some indications that the attack may have been carried out as there were abnormalities in Medfly populations in southern California that year.[^100] The state Premier of Queensland, Australia received a letter threatening the inoculation of wild pigs with foot-and-mouth disease in 1984.101 The office of New Zealand’s Prime Minister received a letter on May 10, 2005 claiming that foot-and-mouth disease had already been released, and that more would be released if the author’s political demands were not met.[^102] Elsewhere, both the Ugandan and Sri Lankan governments had to manage threats against agriculture issued by the Ugandan People’s Passive Resistance Front in 1977 and the Liberation Tigers of Tamil Elam between 1983 and 1987 respectively.[^103]
+
+Wartime usage of agricultural bio-agents have been more prevalent than cases of agroterrorism and agricultural bioterrorism, but it still remains relatively rare. During World War I, the German secret service carried out a agricultural bio-attacks against Argentina, France, Romania, U.S., and the U.K.[^104] Specifically, the Germans targeted pack animals, cattle, sheep, and grain with, among other pathogens, Pseudomonas mallei (Glanders), Bacillus anthracis (Anthrax), and wheat fungus.[^105] In World War II, the Japanese used morbilliviruses (a group of paramyxoviruses which cause measles, rinderpest, canine distemper, etc.), Bacillus anthracis (Anthrax), and many other biological agents against the Soviet Union in Northern China.[^106] Moreover, the Japanese used Yersinia pestis (Plague) infected fleas (Xenopsylla cheopis) against the Chinese population and experimented with targeting cattle with the fleas.[^107] There is also some evidence that may suggest that the Germans targeted British crops with Colorado potato beetles during the war. However, there is the possibility that the destructive beetle was introduced accidentally through the importation of of foodstuffs from the U.S.[^108]
+
 During the post world war era, there were also uses of biological agents against
 agriculture. For example, in 1952, the Mau Mau, a Kenyan nationalist liberation movement, used
 African milk bush (Sphagnum compactum) to poison thirtythree
@@ -1346,3 +1069,91 @@ prevent potentially cascading terrorist attacks.
 [^61]: "Animal Enterprise Terrorism Act," Government Printing Office, November 27, 2006, accessed November 20, 2013, http://www.gpo.gov/fdsys/pkg/PLAW109publ374/html/PLAW109publ374.htm.
 
 [^62]: "Agroterrorism: Threats and Preparedness."
+
+[^63]: "APHIS Strategic Plan FY 20102015," U.S. Department of Agriculture, October 31, 2011, accessed November 24, 2013, http://www.aphis.usda.gov/about_aphis/downloads/APHIS_Strategic_Plan_2015.pdf.
+
+[^64]: "About APHIS," U.S. Department of Agriculture, accessed November 23, 2013, http://www.aphis.usda.gov/about_aphis/programs.shtml.
+
+[^65]: Ibid.
+
+[^66]: Ibid.
+
+[^67]: "Biennial Review: Agricultural Bioterrorism Protection Act of 2002."
+
+[^68]: Ibid.
+
+[^69]: "Integrated Pest Management," U.S. Department of Agriculture, last modified March 18, 2009, accessed November 24, 2013, http://www.nifa.usda.gov/nea/pest/in_focus/ipm_if_npdn.html.
+
+[^70]: "Animal Health," U.S. Department of Agriculture, last modified August 7, 2012, accessed November 24, 2013, http://www.aphis.usda.gov/animal_health/nahln/about_nahln.shtml.
+
+[^71]: Ibid.
+
+[^72]: Ibid.
+
+[^73]: Ibid.
+
+[^74]: "Biennial Review: Agricultural Bioterrorism Protection Act of 2002."
+
+[^75]: "Agriculture Fact Sheet," U.S. Customs and Border Protection, August 21, 2013, accessed November 24, 2013, http://www.cbp.gov/linkhandler/cgov/trade/trade_programs/agriculture/agriculture_factsheet.ctt/agriculture_factsheet.pdf.
+
+[^76]: Cornelia Mueller and Cheryl Berthoud, "Animal Plant Health Inspection Service and ITDS/ACE Protecting American Agriculture," U.S. Department of Agriculture, September 2008, accessed November 24, 2013, http://www.cbp.gov/linkhandler/cgov/trade/automated/modernization/trade_support_network/session_highlights/session_archives/sept08_tsn/sept08_aphis_update.ctt/sept08_aphis_update.pdf.
+
+[^77]: "Agriculture Fact Sheet."
+
+[^78]: "USDA’s Animal and Plant Health Inspection Service and DHS’ Customs and Border Protection: Working Together to Protect Agriculture," U.S. Department of Agriculture, January 2008, accessed November 24, 2013, http://www.aphis.usda.gov/publications/aphis_general/content/printable_version/fs_cbp_08.pdf.
+
+[^79]: Ibid.[^80]: "U.S. Department of Agriculture, Animal and Plant Health Inspection Service Protecting America's Agricultural Resources," U.S. Customs and Border Protection, accessed November 24, 2013, http://www.cbp.gov/xp/cgov/about/history/legacy/aqi_history.xml.
+
+[^81]: "Plant Health," U.S. Department of Agriculture, last modified November 9, 2012, accessed November 24, 2013, http://www.aphis.usda.gov/plant_health/moa_dhs/.
+
+[^82]: Ibid.
+
+[^83]: Ibid.
+
+[^84]: Ibid.
+
+[^85]: "Science & Technology Directorate Centers of Excellence," Department of Homeland Security, accessed November 24, 2013, https://www.dhs.gov/stcentersexcellence.
+
+[^86]: Ibid.
+
+[^87]: "National Infrastructure Protection Plan," Department of Homeland Security, 2009, accessed November 13, 2013, http://www.dhs.gov/xlibrary/assets/NIPP_Plan.pdf.
+
+[^88]: "National Infrastructure Protection Plan," Department of Homeland Security, accessed November 20, 2013, https://www.dhs.gov/nationalinfrastructureprotectionplan.
+
+[^89]: "National Infrastructure Protection Plan Food and Agriculture Sector," Department of Homeland Security, accessed November 24, 2013, http://www.dhs.gov/xlibrary/assets/nppd/nppdipfoodagsnapshot508.pdf.
+
+[^90]: Ibid.
+
+[^91]: "Strategic Partnership Program Agroterrorism (SPPA) Initiative: Final Summary Report September 2005 – September 2008," U.S. Food and Drug Administration, last modified July 16, 2013, accessed November 20, 2013, http://www.fda.gov/Food/FoodDefense/FoodDefensePrograms/ucm170509.htm.
+
+[^92]: "Strategic Partnership Program Agroterrorism (SPPA) Initiative First Year Status Report," Food and Drug Administration, 2006, accessed November 20, 2013, http://www.usda.gov/documents/81006%201%20yr%20report%20SPPA%20agroter5.pdf.
+
+[^93]: Ibid.
+
+[^94]: "Chronology of CBW Incidents Targeting Agriculture 19152008," CNS, last modified March, 2009, accessed November 13, 2013, http://cns.miis.edu/cbw/agchron.htm.
+
+[^95]: Ibid.
+
+[^96]: "Chronology of Chemical & Biological Incidents Targeting the Food Industry 19462006," CNS, last modified February, 2009, accessed November 13, 2013, http://cns.miis.edu/cbw/foodchron.htm.
+
+[^97]: "Chronology of CBW Incidents Targeting Agriculture 19152008."
+
+[^98]: Ibid.
+
+[^99]: Ibid.
+
+[^100]: Ibid.
+
+[^101]: Ibid.
+
+[^102]: Ibid.
+
+[^103]: Ibid.
+
+[^104]: Ibid.
+
+[^105]: Ibid.
+
+[^106]: Ibid.
+
+[^107]: Ibid.
