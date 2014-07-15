@@ -144,67 +144,20 @@ There are numerous agents that the aforementioned states weaponized over the pas
 
 Another area which can shed light on the feasibility of various pathogens for agricultural bioterrorism use are reputable science journals. With regards to crops, the Molecular Plant Pathology journal has published three separate articles which surveyed international experts in plant mycology, bacteriology, and virology. The articles highlight the top ten fungi, bacterias, and viruses based on worldwide scientific and economic importance. According to the survey on fungi, the top ten fungal plant pathogens are: Magnaporthe oryzae (Rice Blast), Botrytis cinerea (Gray Mold or Botrytis Bunch Rot), Puccinia spp. (Wheat Rust), Fusarium graminearum (Fusarium Head Blight), Fusarium oxysporum, Blumeria graminis (Barley Powdery Mildew or Corn Mildew), Mycosphaerella graminicola (Septoria Leaf Blotch), Colletotrichum spp. (Strawberry Anthracnose), Ustilago maydis (Corn Smut), and Melampsora lini (Rust of Flax or Rust of Linseed).[^118] The top ten bacterial pathogens impacting plants, according to the survey of bacteriological experts, are: Pseudomonas syringae pathovars, Ralstonia solanacearum (Bacterial Blight), Agrobacterium tumefaciens (Bacterial Wilt), Xanthomonas oryzae pv. oryzae (Bacterial Blight of Rice), Xanthomonas campestris pathovars (Black Rot), Xanthomonas axonopodis pathovars (Bacterial Blight of Bean), Erwinia amylovora (Fire Blight), Xylella fastidiosa (Phoney Peach Disease), Dickeya (dadantii and solani), and Pectobacterium carotovorum (and Pectobacterium atrosepticum).[^119] Leading plant virologists listed the top ten plant viruses as: Tobacco mosaic virus, Tomato spotted wilt virus, Tomato yellow leaf curl virus, Cucumber mosaic virus, Potato virus Y, Cauliflower mosaic virus, African cassava mosaic virus, Plum pox virus, Brome mosaic virus, and Potato virus X.[^120]
 
-The U.S. government has also identified biological agents and toxins which it believes pose a threat to the U.S. agriculture industry (See table: USDA Select Agents and Toxins List). Per the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 and its mission of improving America’s “ability to prevent, prepare for, and respond to acts of
+The U.S. government has also identified biological agents and toxins which it believes pose a threat to the U.S. agriculture industry (See table: USDA Select Agents and Toxins List). Per the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 and its mission of improving America’s “ability to prevent, prepare for, and respond to acts of bioterrorism and other public health emergencies that could threaten either public health and safety or American Agriculture,” HHS and the USDA published regulations (42 CFR Part 73 and 7 CFR Part 331/9 CFR Part 121 respectively) “detailing the requirements for possession, use, and transfer for select agents and toxins.[^121] According to the USDA, the Select Agent and Toxin List is based on the “effect of an agent or toxin on animal or plant health or products; the virulence of an agent or degree of toxicity of the toxin and the methods by which the agents or toxins are transferred to animals or plants; the availability and effectiveness of medicines and vaccines to treat and prevent any illness caused by an agent or toxin; and other criteria that the Secretary considers appropriate to protect animal or plant health, or animal or plant products.”[^122]
+
+<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/007-usda-select-agent-and-toxin-list.jpg" width="100%" class="img-responsive" alt="USDA Select Agent and Toxin List"></center><br />
+
+As was shown in the “Impact of Agriculture” section earlier in this paper, a relatively small number of crops and livestock represent enormous percentages of the overall agriculture industry in the U.S. Where crops are concerned, cash grains like corn, soybeans, and wheat hold a lot of value and are important not only in terms of domestic use, but also for export. Corn production alone is valued at $76.5 billion annually, while soybeans bring in another $35.8 billion and wheat makes $14.4 billion.[^123] Similarly, livestock and livestock products account for roughly half of the agriculture industry, but are spread across fewer products. The largest portion of the livestock sector is cattle which are currently valued at $100.7 billion.[^124] Other livestock and livestock products of significant value include: $39.7 billion in milk, $23.2 billion in broiler, $8.1 billion in hogs and pigs, $7.4 billion in egg, $5 billion in turkey, and $1.7 billion in chicken production.[^125] Thus, when considering potential targets based on economic or symbolic impact, leading grains and select livestock and livestock products should be noted.
+
+#### <u>TARGET VULNERABILITY ASSESSMENT</u> ####
+
+Elbers and Knutsson state that while “agriculture may not be a terrorist’s first choice, because it lacks the shock value of more traditional terrorist targets, many analysts consider it a viable secondary target.”[^126] Historically speaking, they and the analysts they reference by and large would be correct. However, in the post-9/11 environment, which has been marked by unprecedented domestic antiterrorism and international counterterrorism efforts, would-be attackers may have to settle for easier to hit soft targets (e.g., the agriculture industry) in contrast to highly visible symbolic targets which have received the most hardening in the past decade.
+
+There are several factors that lend the agriculture industry to being particularly vulnerable to attack. First, as Elbers and Knutsson note, farms and ranches are geographically dispersed and cover expansive areas making security difficult, if not impossible.[^127] Moreover, livestock are typically held in close proximity and in high concentrations.[^128] Further exposing livestock is the fact that different populations of livestock are often commingled during transport and auction.[^129] Additionally, the “continuing trends of intensive production techniques, the vertical integration of 
 
 
 
-bioterrorism and other public health emergencies that could threaten either public health and
-safety or American Agriculture,” HHS and the USDA published regulations (42 CFR Part 73 and
-7 CFR Part 331/9 CFR Part 121 respectively) “detailing the requirements for possession, use,
-and transfer for select agents and toxins. According to the USDA, the Select 121 Agent and Toxin
-List is based on the “effect of an agent or toxin on animal or plant health or products; the
-virulence of an agent or degree of toxicity of the toxin and the methods by which the agents or
-toxins are transferred to animals or plants; the availability and effectiveness of medicines and
-vaccines to treat and prevent any illness caused by an agent or toxin; and other criteria that the
-Secretary considers appropriate to protect animal or plant health, or animal or plant products.”122
-As was shown in the “Impact of Agriculture” section earlier in this paper, a relatively small
-number of crops and livestock represent enormous percentages of the overall agriculture
-industry in the U.S. Where crops are concerned, cash grains like corn, soybeans, and wheat
-hold a lot of value and are important not only in terms of domestic use, but also for export. Corn
-production alone is valued at $76.5 billion annually, while soybeans bring in another $35.8 billion
-and wheat makes $14.4 billion.123 Similarly, livestock and livestock products account for roughly
-121 "Agriculture Select Agent," U.S. Department of Agriculture, accessed November 29, 2013,
-http://www.aphis.usda.gov/programs/ag_selectagent/index.shtml.
-122 Ibid.
-123 "Agricultural Statistics 2012."
-30 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-half of the agriculture industry, but are spread across fewer products. The largest portion of the
-livestock sector is cattle which are currently valued at $100.7 billion. Other 124 livestock and
-livestock products of significant value include: $39.7 billion in milk, $23.2 billion in broiler, $8.1
-billion in hogs and pigs, $7.4 billion in egg, $5 billion in turkey, and $1.7 billion in chicken
-production.125 Thus, when considering potential targets based on economic or symbolic impact,
-leading grains and select livestock and livestock products should be noted.
-TARGET VULNERABILITY ASSESSMENT
-Elbers and Knutsson state that while “agriculture may not be a terrorist’s first choice,
-because it lacks the shock value of more traditional terrorist targets, many analysts consider it a
-viable secondary target.”126 Historically speaking, they and the analysts they reference by and
-large would be correct. However, in the post9/
-11 environment, which has been marked by
-unprecedented domestic antiterrorism and international counterterrorism efforts, wouldbe
-attackers may have to settle for easier to hit soft targets (e.g., the agriculture industry) in contrast
-to highly visible symbolic targets which have received the most hardening in the past decade.
-There are several factors that lend the agriculture industry to being particularly vulnerable
-to attack. First, as Elbers and Knutsson note, farms and ranches are geographically dispersed
-and cover expansive areas making security difficult, if not impossible.127 Moreover, livestock are
-typically held in close proximity and in high concentrations.128 Further exposing livestock is the
-fact that different populations of livestock are often commingled during transport and auction.129
-Additionally, the “continuing trends of intensive production techniques, the vertical integration of
-124 Ibid.
-125 Ibid.
-126 Armin Elbers and Rickard Knutsson, "Agroterrorism Targeting Livestock: A Review with a Focus on Early
-Detection Systems," Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science, Volume 11,
-Supplement 1 (2013): S25, accessed November 1, 2013,
-http://online.liebertpub.com/doi/pdf/10.1089/bsp.2012.0068.
-127 Ibid.
-128 Ibid.
-129 Ibid.
-31 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
 the production continuum, increasing dependence on the export market, and the lack of
 resistance to pathogens that prevail in some countries are other factors contributing to the
 vulnerability of the livestock industry.” Importantly, should disease be intentionally 130 introduced,
@@ -1051,6 +1004,24 @@ prevent potentially cascading terrorist attacks.
 
 [^118]: Ralph Dean et al., "The Top 10 fungal pathogens in molecular plant pathology," Molecular Plant Pathology, Volume 13, Issue 4 (2012): 414-430, accessed November 16, 2013, http://dx.doi.org/10.1111/j.13643703.2011.00783.x.
 
-[^119]:119 John Mansfield et al., "Top 10 plant pathogenic bacteria in molecular plant pathology," Molecular Plant Pathology, Volume 13, Issue 6 (2012): 614-629, accessed November 16, 2013, http://dx.doi.org/10.1111/j.13643703.2012.00804.x.
+[^119]: John Mansfield et al., "Top 10 plant pathogenic bacteria in molecular plant pathology," Molecular Plant Pathology, Volume 13, Issue 6 (2012): 614-629, accessed November 16, 2013, http://dx.doi.org/10.1111/j.13643703.2012.00804.x.
 
 [^120]: Karen-Beth G. Scholthof et al., "Top 10 plant viruses in molecular plant pathology," Molecular Plant Pathology, Volume 12, Issue 9 (2011): 938-954, accessed November 16, 2013, http://dx.doi.org/10.1111/j.13643703.2011.00752.x.
+
+[^121]: "Agriculture Select Agent," U.S. Department of Agriculture, accessed November 29, 2013, http://www.aphis.usda.gov/programs/ag_selectagent/index.shtml.
+
+[^122]: Ibid.
+
+[^123]: "Agricultural Statistics 2012."
+
+[^124]: Ibid.
+
+[^125]: Ibid.
+
+[^126]: Armin Elbers and Rickard Knutsson, "Agroterrorism Targeting Livestock: A Review with a Focus on Early Detection Systems," Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science, Volume 11, Supplement 1 (2013): S25, accessed November 1, 2013, http://online.liebertpub.com/doi/pdf/10.1089/bsp.2012.0068.
+
+[^127]: Ibid.
+
+[^128]: Ibid.
+
+[^129]: Ibid.
