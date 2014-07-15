@@ -134,118 +134,20 @@ During the post world war era, there were also uses of biological agents against
 
 The most famous was the alleged use of mycotoxins, called yellow rain, against the H’mong people by communist forces. The allegation held that the communist forces used aircraft mounted with sprayers in addition to mortars, grenades, rockets, and landmines to disseminate agents.[^110] Much debate remains as to the veracity of intentional usage. The toxins not only impacted crops and undermined confidence in local food stores, but also resulted in many deaths. The Soviet Union was also fingered in the use chemical and biological weapons later in the Soviet War in Afghanistan. While there was no way to say which agents were specifically used, due to the delay in sample collection, many villages and crops were impacted in the Soviet anti-agriculture campaign. Similar to the “yellow rain” allegations in Laos, some believe that the Soviets used trichothecene mycotoxins in Afghanistan.[^111] Soviet defector and former deputy director at Biopreparat, Ken Alibek, has revealed that the Soviet Union utilized Pseudomonas mallei (Glanders) among other bio-agents to impact Afghan agriculture and human populations during the war.[^112]
 
-From 1962 through 1997, Cuba has accused the U.S. no fewer than twenty-one times of conducting biological warfare against its people and agriculture.[^113] “According to Raymond Zilinskas, the Cubans have alleged that the U.S. biological attacks caused ailments such as Newcastle disease among poultry (1962), African swine fever among pigs (1971, 197980), tobacco blue mold disease (197980), sugarcane rust disease (1978), dengue hemorrhagic fever among humans (1980), and an infestation of the thrips insect in 1996.”[^114] Despite the allegations, the most likely explanation is that the various outbreaks of disease were either the result of accidental importation or natural manifestations.
+From 1962 through 1997, Cuba has accused the U.S. no fewer than twenty-one times of conducting biological warfare against its people and agriculture.[^113] “According to Raymond Zilinskas, the Cubans have alleged that the U.S. biological attacks caused ailments such as Newcastle disease among poultry (1962), African swine fever among pigs (1971, 1979-80), tobacco blue mold disease (1979-80), sugarcane rust disease (1978), dengue hemorrhagic fever among humans (1980), and an infestation of the thrips insect in 1996.”[^114] Despite the allegations, the most likely explanation is that the various outbreaks of disease were either the result of accidental importation or natural manifestations.
+
+A good place to start when assessing which biological agents would potentially be the most desirable/feasible for terrorists, is known or suspected state-run biological weapons programs. Seeing what was researched and what was able to be weaponized should provide clues. Fifteen in total, states with former, suspected, or likely programs include: Canada (1941-1960’s), Egypt (1972-present), France (1939-1972), Germany (1915-1917; 1942-1945), Iraq (1980’s; 1990’s), Iran (1980's-unknown), Israel (1948-present), Japan (1937-1945), North Korea (unknown-present), Rhodesia (Zimbabwe) (1978-1980), South Africa (1980’s-1993), Syria (unknown-present), United Kingdom (1937-1960’s), United States (1943-1969), USSR (Russia, Kazakhstan, Uzbekistan) (1935-1992; unknown).[^115]
+
+It is important to note that those states which are designated as still or possibly having programs are not done so due to state acknowledgement or can necessarily be confirmed by outside analysis with open source information. Rather, they are states that analysts assess to have biological weapons programs based on numerous factors. States with suspected programs include: Egypt (probable due to latent capabilities), Iran (uncertain), Israel (ncertain), North Korea (probable), Rhodesia (Zimbabwe) (probable; some analysts believe that “government forces infected livestock to impoverish the rural black population during the last phase of the civil war.”), Syria (probable), Russia (unclear).[^116]
+
+There are numerous agents that the aforementioned states weaponized over the past century. These agents, their respective diseases, and the disease classes include: Aflatoxin (a mycotoxin produced by Aspergillus flavus and Aspergillus parasiticus fungi), African swine fever virus (African Swine Fever), Bacillus anthracis bacteria (Anthrax), Influenza A virus (Avian Influenza), Barley yellow streak mosaic virus (Barley Mosaic Streak), Botulinum toxin (a protein and neurotoxin produced by the Clostridium botulinum bacterium), Brown grass mosaic fungus (Brown Grass Mosaic), Brucella bacteria (Brucellosis), Camelpox virus (Camelpox), Vibrio cholerae bacteria (Cholera), Mycoplasma mycoides subspecies mycoides Small Colony (SC) type bacteria (Contagious Bovine Pleuropneumonia), Orf virus (Contagious Ecthyma sheep), Eastern equine encephalitis virus (Eastern Equine Encephalitis), Foot and mouth disease virus (Foot and Mouth Disease), Fowl plague virus (Fowl Plague), Burkholderia mallei bacteria (Glanders), Phytophthora infestans oomycete (Late Blight of Potato), Corn Rust, Newcastle disease virus (Newcastle Disease), Potato virus, Chlamydophila psittaci bacteria (Psittacosis), Piricularia oryzae fungus (Rice Blast), Helminthosporium oryzae (Brown Spot of Rice), Ricin (a toxin found in the seeds of the castor oil plant, Ricinus communis), Rinderpest virus (Rinderpest or Cattle Plague), Rye Blast, Salmonella bacteria, Tobacco mosaic virus, Venezuelan equine encephalitis virus (Venezuelan equine encephalitis), Vesicular stomatitis virus, Western equine encephalitis virus (Western Equine Encephalitis), Wheat blast fungus, Wheat fungus, Wheat mosaic streak fungus, and Wheat stem rust fungus.[^117]
+
+Another area which can shed light on the feasibility of various pathogens for agricultural bioterrorism use are reputable science journals. With regards to crops, the Molecular Plant Pathology journal has published three separate articles which surveyed international experts in plant mycology, bacteriology, and virology. The articles highlight the top ten fungi, bacterias, and viruses based on worldwide scientific and economic importance. According to the survey on fungi, the top ten fungal plant pathogens are: Magnaporthe oryzae (Rice Blast), Botrytis cinerea (Gray Mold or Botrytis Bunch Rot), Puccinia spp. (Wheat Rust), Fusarium graminearum (Fusarium Head Blight), Fusarium oxysporum, Blumeria graminis (Barley Powdery Mildew or Corn Mildew), Mycosphaerella graminicola (Septoria Leaf Blotch), Colletotrichum spp. (Strawberry Anthracnose), Ustilago maydis (Corn Smut), and Melampsora lini (Rust of Flax or Rust of Linseed).[^118] The top ten bacterial pathogens impacting plants, according to the survey of bacteriological experts, are: Pseudomonas syringae pathovars, Ralstonia solanacearum (Bacterial Blight), Agrobacterium tumefaciens (Bacterial Wilt), Xanthomonas oryzae pv. oryzae (Bacterial Blight of Rice), Xanthomonas campestris pathovars (Black Rot), Xanthomonas axonopodis pathovars (Bacterial Blight of Bean), Erwinia amylovora (Fire Blight), Xylella fastidiosa (Phoney Peach Disease), Dickeya (dadantii and solani), and Pectobacterium carotovorum (and Pectobacterium atrosepticum).[^119] Leading plant virologists listed the top ten plant viruses as: Tobacco mosaic virus, Tomato spotted wilt virus, Tomato yellow leaf curl virus, Cucumber mosaic virus, Potato virus Y, Cauliflower mosaic virus, African cassava mosaic virus, Plum pox virus, Brome mosaic virus, and Potato virus X.[^120]
+
+The U.S. government has also identified biological agents and toxins which it believes pose a threat to the U.S. agriculture industry (See table: USDA Select Agents and Toxins List). Per the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 and its mission of improving America’s “ability to prevent, prepare for, and respond to acts of
 
 
-A good place to start when assessing which biological agents would potentially be the
-most desirable/feasible for terrorists, is known or suspected staterun
-biological weapons
-programs. Seeing what was researched and what was able to be weaponized should provide
-clues. Fifteen in total, states with former, suspected, or likely programs include: Canada
-(19411960’
-s), Egypt (1972present),
-France (19391972),
-Germany (19151917;
-19421945),
-Iraq (1980’s1990’
-s), Iran (1980sunknown),
-Israel (1948present),
-Japan (19371945),
-North
-Korea (unknownpresent),
-Rhodesia (Zimbabwe) (19781980),
-South Africa (1980’s1993),
-Syria
-(unknownpresent),
-United Kingdom (19371960’
-s), United States (19431969),
-USSR (Russia,
-Kazakhstan, Uzbekistan) (19351992;
-unknown).115
-It is important to note that those states which are designated as still or possibly having
-programs are not done so due to state acknowledgement or can necessarily be confirmed by
-outside analysis with open source information. Rather, they are states that analysts assess to
-have biological weapons programs based on numerous factors. States with suspected
-programs include: Egypt (probable due to latent capabilities), Iran (uncertain), Israel (uncertain),
-North Korea (probable), Rhodesia (Zimbabwe) (probable; some analysts believe that
-“government forces infected livestock to impoverish the rural black population during the last
-phase of the civil war.”), Syria (probable), Russia (unclear).116
-114 Ibid.
-115 "Agricultural Biowarfare: State Programs to Develop Offensive Capabilities," CNS, last modified March 6,
-2009, accessed November 14, 2013, http://cns.miis.edu/cbw/agprogs.htm.
-116 Ibid.
-27 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-There are numerous agents that the aforementioned states weaponized over the past
-century. These agents, their respective diseases, and the disease classes include: Aflatoxin (a
-mycotoxin produced by Aspergillus flavus and Aspergillus parasiticus fungi), African swine fever
-virus (African Swine Fever), Bacillus anthracis bacteria (Anthrax), Influenza A virus (Avian
-Influenza), Barley yellow streak mosaic virus (Barley Mosaic Streak), Botulinum toxin (a protein
-and neurotoxin produced by the Clostridium botulinum bacterium), Brown grass mosaic fungus
-(Brown Grass Mosaic), Brucella bacteria (Brucellosis), Camelpox virus (Camelpox), Vibrio
-cholerae bacteria (Cholera), Mycoplasma mycoides subspecies mycoides Small Colony (SC)
-type bacteria (Contagious Bovine Pleuropneumonia), Orf virus (Contagious Ecthyma sheep),
-Eastern equine encephalitis virus (Eastern Equine Encephalitis), Foot and mouth disease virus
-(Foot and Mouth Disease), Fowl plague virus (Fowl Plague), Burkholderia mallei bacteria
-(Glanders), Phytophthora infestans oomycete (Late Blight of Potato), Corn Rust, Newcastle
-disease virus (Newcastle Disease), Potato virus, Chlamydophila psittaci bacteria (Psittacosis),
-Piricularia oryzae fungus (Rice Blast), Helminthosporium oryzae (Brown Spot of Rice), Ricin (a
-toxin found in the seeds of the castor oil plant, Ricinus communis), Rinderpest virus (Rinderpest
-or Cattle Plague), Rye Blast, Salmonella bacteria, Tobacco mosaic virus, Venezuelan equine
-encephalitis virus (Venezuelan equine encephalitis), Vesicular stomatitis virus, Western equine
-encephalitis virus (Western Equine Encephalitis), Wheat blast fungus, Wheat fungus, Wheat
-mosaic streak fungus, and Wheat stem rust fungus.117
-Another area which can shed light on the feasibility of various pathogens for agricultural
-bioterrorism use are reputable science journals. With regards to crops, the Molecular Plant
-Pathology journal has published three separate articles which surveyed international experts in
-plant mycology, bacteriology, and virology. The articles highlight the top ten fungi, bacterias, and
-117 Ibid.
-28 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-viruses based on worldwide scientific and economic importance. According to the survey on
-fungi, the top ten fungal plant pathogens are: Magnaporthe oryzae (Rice Blast), Botrytis cinerea
-(Gray Mold or Botrytis Bunch Rot), Puccinia spp. (Wheat Rust), Fusarium graminearum
-(Fusarium Head Blight), Fusarium oxysporum, Blumeria graminis (Barley Powdery Mildew or
-Corn Mildew), Mycosphaerella graminicola (Septoria Leaf Blotch), Colletotrichum spp.
-(Strawberry Anthracnose), Ustilago maydis (Corn Smut), and Melampsora lini (Rust of Flax or
-Rust of Linseed). The top ten bacterial pathogens impacting plants, according 118 to the survey of
-bacteriological experts, are: Pseudomonas syringae pathovars, Ralstonia solanacearum
-(Bacterial Blight), Agrobacterium tumefaciens (Bacterial Wilt), Xanthomonas oryzae pv. oryzae
-(Bacterial Blight of Rice), Xanthomonas campestris pathovars (Black Rot), Xanthomonas
-axonopodis pathovars (Bacterial Blight of Bean), Erwinia amylovora (Fire Blight), Xylella
-fastidiosa (Phoney Peach Disease), Dickeya (dadantii and solani), and Pectobacterium
-carotovorum (and Pectobacterium atrosepticum).119 Leading plant virologists listed the top ten
-plant viruses as: Tobacco mosaic virus, Tomato spotted wilt virus, Tomato yellow leaf curl virus,
-Cucumber mosaic virus, Potato virus Y, Cauliflower mosaic virus, African cassava mosaic virus,
-Plum pox virus, Brome mosaic virus, and Potato virus X.120
-The U.S. government has also identified biological agents and toxins which it believes
-pose a threat to the U.S. agriculture industry (See table: USDA Select Agents and Toxins List).
-Per the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 and its
-mission of improving America’s “ability to prevent, prepare for, and respond to acts of
-118 Ralph Dean et al., "The Top 10 fungal pathogens in molecular plant pathology," Molecular Plant
-Pathology, Volume 13, Issue 4 (2012): 414430,
-accessed November 16, 2013,
-http://dx.doi.org/10.1111/j.13643703.2011.00783.
-x.
-119 John Mansfield et al., "Top 10 plant pathogenic bacteria in molecular plant pathology," Molecular Plant
-Pathology, Volume 13, Issue 6 (2012): 614629,
-accessed November 16, 2013,
-http://dx.doi.org/10.1111/j.13643703.2012.00804.
-x.
-120 KarenBeth
-G. Scholthof et al., "Top 10 plant viruses in molecular plant pathology," Molecular Plant
-Pathology, Volume 12, Issue 9 (2011): 938954,
-accessed November 16, 2013,
-http://dx.doi.org/10.1111/j.13643703.2011.00752.
-x.
-29 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
+
 bioterrorism and other public health emergencies that could threaten either public health and
 safety or American Agriculture,” HHS and the USDA published regulations (42 CFR Part 73 and
 7 CFR Part 331/9 CFR Part 121 respectively) “detailing the requirements for possession, use,
@@ -951,23 +853,23 @@ prevent potentially cascading terrorist attacks.
 
 [^19]: "Agricultural Statistics 2012," 240, 252, 265.
 
-[^20]: "Agricultural Statistics 2012," 1115.
+[^20]: "Agricultural Statistics 2012," 11-15.
 
-[^21]: "Agricultural Statistics 2012," 2426.
+[^21]: "Agricultural Statistics 2012," 24-26.
 
-[^22]: "Agricultural Statistics 2012," 3132.
+[^22]: "Agricultural Statistics 2012," 31-32.
 
-[^23]: "Agricultural Statistics 2012," 4647.
+[^23]: "Agricultural Statistics 2012," 46-47.
 
 [^24]: Ibid.
 
-[^25]: "Agricultural Statistics 2012," 5960.
+[^25]: "Agricultural Statistics 2012," 59-60.
 
 [^26]: "Agricultural Statistics 2012," 79.
 
 [^27]: "Agricultural Statistics 2012," 97.
 
-[^28]: "Agricultural Statistics 2012," 294340.
+[^28]: "Agricultural Statistics 2012," 294-340.
 
 [^29]: Ibid.
 
@@ -975,23 +877,23 @@ prevent potentially cascading terrorist attacks.
 
 [^31]: Ibid.
 
-[^32]: "Agricultural Statistics 2012," 302308.
+[^32]: "Agricultural Statistics 2012," 302-308.
 
 [^33]: "Bioterrorism Overview," Centers for Disease Control and Prevention, last modified February 12, 2007, accessed November 10, 2013, http://emergency.cdc.gov/bioterrorism/overview.asp.
 
 [^34]: Jim Monke, "Agroterrorism: Threats and Preparedness," Congressional Research Service, March 12, 2007, 1, accessed November 10, 2013, http://www.fas.org/sgp/crs/terror/RL32521.pdf.
 
-[^35]: "Agriculture," MerriamWebster, 2013, accessed November 12, 2013, http://www.merriamwebster.com/dictionary/agriculture.
+[^35]: "Agriculture," Merriam-Webster, 2013, accessed November 12, 2013, http://www.merriamwebster.com/dictionary/agriculture.
 
 [^36]: Jeffrey M. Bale and Gary Ackerman, "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism," Center for Nonproliferation Studies, 2005, 6, accessed November 10, 2013, http://courses.cs.washington.edu/courses/csep590/05au/readings/Bale_Ackerman_FinalReport.pdf.
 
-[^37]: "Agroterrorism: Threats and Preparedness," CRS12.
+[^37]: "Agroterrorism: Threats and Preparedness," CRS-12.
 
-[^38]: "Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001," Public Law 10756, 107th Congress, Government Printing Office, October 26, 2001, accessed November 13, 2013 http://www.gpo.gov/fdsys/pkg/PLAW107publ56/pdf/PLAW107publ56.pdf.
+[^38]: "Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001," Public Law 107-56, 107th Congress, Government Printing Office, October 26, 2001, accessed November 13, 2013 http://www.gpo.gov/fdsys/pkg/PLAW107publ56/pdf/PLAW107publ56.pdf.
 
 [^39]: Ibid.
 
-[^40]: "Public Health Security and Bioterrorism Preparedness and Response Act of 2002," Public Law 107188, 107th Congress, Government Printing Office, June 12, 2002, accessed November 13, 2013, http://www.gpo.gov/fdsys/pkg/STATUTE116/pdf/STATUTE116Pg594.pdf.
+[^40]: "Public Health Security and Bioterrorism Preparedness and Response Act of 2002," Public Law 107-188, 107th Congress, Government Printing Office, June 12, 2002, accessed November 13, 2013, http://www.gpo.gov/fdsys/pkg/STATUTE116/pdf/STATUTE116Pg594.pdf.
 
 [^41]: "Biennial Review: Agricultural Bioterrorism Protection Act of 2002," U.S. Department of Agriculture, October 3, 2001, accessed November 13, 2013, http://www.gpo.gov/fdsys/pkg/FR20111003/pdf/201125520.pdf.
 
@@ -1003,7 +905,7 @@ prevent potentially cascading terrorist attacks.
 
 [^45]: "Agricultural Select Agent Program;" and "Possession, Use, and Transfer of Select Agents and Toxins; Final Rule," Department of Health and Human Services, March 18, 2005, accessed November 20, 2013, http://oig.hhs.gov/authorities/docs/05/032905FRselectagents.pdf.
 
-[^46]: "Homeland Security Act of 2002," Public Law 107296, 107th Congress, Government Publishing Office, November 25, 2002, accessed November 20, 2013, http://www.gpo.gov/fdsys/pkg/PLAW107publ296/pdf/PLAW107publ296.pdf.
+[^46]: "Homeland Security Act of 2002," Public Law 107-296, 107th Congress, Government Publishing Office, November 25, 2002, accessed November 20, 2013, http://www.gpo.gov/fdsys/pkg/PLAW107publ296/pdf/PLAW107publ296.pdf.
 
 [^47]: "Agroterrorism: Threats and Preparedness."
 
@@ -1015,7 +917,7 @@ prevent potentially cascading terrorist attacks.
 
 [^51]: Ibid.
 
-[^52]: "Homeland Security Presidential Directive / HSPD9," Office of the Press Secretary, The White House, February 3, 2004, accessed November 20, 2013, http://www.fas.org/irp/offdocs/nspd/hspd9.html.
+[^52]: "Homeland Security Presidential Directive / HSPD-9," Office of the Press Secretary, The White House, February 3, 2004, accessed November 20, 2013, http://www.fas.org/irp/offdocs/nspd/hspd9.html.
 
 [^53]: Ibid.
 
@@ -1069,7 +971,9 @@ prevent potentially cascading terrorist attacks.
 
 [^78]: "USDA’s Animal and Plant Health Inspection Service and DHS’ Customs and Border Protection: Working Together to Protect Agriculture," U.S. Department of Agriculture, January 2008, accessed November 24, 2013, http://www.aphis.usda.gov/publications/aphis_general/content/printable_version/fs_cbp_08.pdf.
 
-[^79]: Ibid.[^80]: "U.S. Department of Agriculture, Animal and Plant Health Inspection Service Protecting America's Agricultural Resources," U.S. Customs and Border Protection, accessed November 24, 2013, http://www.cbp.gov/xp/cgov/about/history/legacy/aqi_history.xml.
+[^79]: Ibid.
+
+[^80]: "U.S. Department of Agriculture, Animal and Plant Health Inspection Service Protecting America's Agricultural Resources," U.S. Customs and Border Protection, accessed November 24, 2013, http://www.cbp.gov/xp/cgov/about/history/legacy/aqi_history.xml.
 
 [^81]: "Plant Health," U.S. Department of Agriculture, last modified November 9, 2012, accessed November 24, 2013, http://www.aphis.usda.gov/plant_health/moa_dhs/.
 
@@ -1097,11 +1001,11 @@ prevent potentially cascading terrorist attacks.
 
 [^93]: Ibid.
 
-[^94]: "Chronology of CBW Incidents Targeting Agriculture 19152008," CNS, last modified March, 2009, accessed November 13, 2013, http://cns.miis.edu/cbw/agchron.htm.
+[^94]: "Chronology of CBW Incidents Targeting Agriculture 1915-2008," CNS, last modified March, 2009, accessed November 13, 2013, http://cns.miis.edu/cbw/agchron.htm.
 
 [^95]: Ibid.
 
-[^96]: "Chronology of Chemical & Biological Incidents Targeting the Food Industry 19462006," CNS, last modified February, 2009, accessed November 13, 2013, http://cns.miis.edu/cbw/foodchron.htm.
+[^96]: "Chronology of Chemical & Biological Incidents Targeting the Food Industry 1946-2006," CNS, last modified February, 2009, accessed November 13, 2013, http://cns.miis.edu/cbw/foodchron.htm.
 
 [^97]: "Chronology of CBW Incidents Targeting Agriculture 1915-2008."
 
@@ -1136,3 +1040,17 @@ prevent potentially cascading terrorist attacks.
 [^112]: Ibid.
 
 [^113]: Ibid.
+
+[^114]: Ibid.
+
+[^115]: "Agricultural Biowarfare: State Programs to Develop Offensive Capabilities," CNS, last modified March 6, 2009, accessed November 14, 2013, http://cns.miis.edu/cbw/agprogs.htm.
+
+[^116]: Ibid.
+
+[^117]: Ibid.
+
+[^118]: Ralph Dean et al., "The Top 10 fungal pathogens in molecular plant pathology," Molecular Plant Pathology, Volume 13, Issue 4 (2012): 414-430, accessed November 16, 2013, http://dx.doi.org/10.1111/j.13643703.2011.00783.x.
+
+[^119]:119 John Mansfield et al., "Top 10 plant pathogenic bacteria in molecular plant pathology," Molecular Plant Pathology, Volume 13, Issue 6 (2012): 614-629, accessed November 16, 2013, http://dx.doi.org/10.1111/j.13643703.2012.00804.x.
+
+[^120]: Karen-Beth G. Scholthof et al., "Top 10 plant viruses in molecular plant pathology," Molecular Plant Pathology, Volume 12, Issue 9 (2011): 938-954, accessed November 16, 2013, http://dx.doi.org/10.1111/j.13643703.2011.00752.x.
