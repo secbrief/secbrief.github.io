@@ -88,7 +88,7 @@ IS focuses on threats that emanate beyond U.S. borders by providing “internati
 
 Also within the USDA, there are networks of laboratories created to “protect against animal, plant, food, and general bioterrorism issues.”[^67] The main purpose of these networks are to identify and detect “deliberate or accidental disease” outbreaks.[^68] The networks are organized under the National Plant Diagnostic Network (NPDN) and the National Animal Health Laboratory Network (NAHL). The NPDN, stood up by the National Institute of Food and Agriculture (NIFA), formerly the Cooperative State Research, Education, and Extension Service (CSREES), is a network led by five regional labs and one support lab at Cornell University, University of Florida, Michigan State University, Kansas State University, University of California at Davis, and Texas Tech University (supporting) with the objective of establishing “a functional national network of existing diagnostic laboratories to rapidly and accurately detect and report plant diseases of national interest, particularly those pathogens that have the potential to be intentionally introduced through bioterrorism.”[^69]
 
-The NAHL is a collaborative effort between APHIS, NIFA , and the American Association of Veterinary Laboratory Diagnosticians (AAVL).[^70] The network consists of laboratories which “focus on different diseases, using common testing methods and software platforms to process diagnostic requests and share information.”[^71] The USDA’s National Veterinary Services Laboratories (NVSL) at the federal level and state university laboratories work together to “perform routine diagnostic tests for endemic animal diseases as well as targeted surveillance and response testing for foreign animal diseases.”[^72] All with the goal of adding “support of routine and emergency animal disease diagnosis” to include bioterrorism incidents.[^73] Of importance, but outside of the USDA and still working towards detecting and diagnosing outbreaks of disease are: the CDCled Laboratory Response Network (LRN) and the joint Food and Drug Administration (FDA)/Food Safety and Inspection Service (FSIS) Food Emergency Response Network (FERN).[^74]
+The NAHL is a collaborative effort between APHIS, NIFA , and the American Association of Veterinary Laboratory Diagnosticians (AAVL).[^70] The network consists of laboratories which “focus on different diseases, using common testing methods and software platforms to process diagnostic requests and share information.”[^71] The USDA’s National Veterinary Services Laboratories (NVSL) at the federal level and state university laboratories work together to “perform routine diagnostic tests for endemic animal diseases as well as targeted surveillance and response testing for foreign animal diseases.”[^72] All with the goal of adding “support of routine and emergency animal disease diagnosis” to include bioterrorism incidents.[^73] Of importance, but outside of the USDA and still working towards detecting and diagnosing outbreaks of disease are: the CDC-led Laboratory Response Network (LRN) and the joint Food and Drug Administration (FDA)/Food Safety and Inspection Service (FSIS) Food Emergency Response Network (FERN).[^74]
 
 #### <u>DEPARTMENT OF HOMELAND SECURITY</u> ####
 
@@ -154,116 +154,35 @@ As was shown in the “Impact of Agriculture” section earlier in this paper, a
 
 Elbers and Knutsson state that while “agriculture may not be a terrorist’s first choice, because it lacks the shock value of more traditional terrorist targets, many analysts consider it a viable secondary target.”[^126] Historically speaking, they and the analysts they reference by and large would be correct. However, in the post-9/11 environment, which has been marked by unprecedented domestic antiterrorism and international counterterrorism efforts, would-be attackers may have to settle for easier to hit soft targets (e.g., the agriculture industry) in contrast to highly visible symbolic targets which have received the most hardening in the past decade.
 
-There are several factors that lend the agriculture industry to being particularly vulnerable to attack. First, as Elbers and Knutsson note, farms and ranches are geographically dispersed and cover expansive areas making security difficult, if not impossible.[^127] Moreover, livestock are typically held in close proximity and in high concentrations.[^128] Further exposing livestock is the fact that different populations of livestock are often commingled during transport and auction.[^129] Additionally, the “continuing trends of intensive production techniques, the vertical integration of 
+There are several factors that lend the agriculture industry to being particularly vulnerable to attack. First, as Elbers and Knutsson note, farms and ranches are geographically dispersed and cover expansive areas making security difficult, if not impossible.[^127] Moreover, livestock are typically held in close proximity and in high concentrations.[^128] Further exposing livestock is the fact that different populations of livestock are often commingled during transport and auction.[^129] Additionally, the “continuing trends of intensive production techniques, the vertical integration of the production continuum, increasing dependence on the export market, and the lack of resistance to pathogens that prevail in some countries are other factors contributing to the vulnerability of the livestock industry.”[^130] Importantly, should disease be intentionally introduced, given current agricultural practices, the consequences could be cascading.
 
+When looking at agriculture post-harvest, there are even more opportunities to contaminate agricultural products. As stated by the former Secretary of the Department of Health and Human Services, Tommy Thompson, on December 3, 2004, “For the life of me, I cannot understand why the terrorists have not attacked our food supply, because it is so easy to do…We are importing a lot of food from the Middle East, and it would be easy to tamper with that.”[^131] Furthermore, the “farm-to-fork continuum” increases the vulnerability of the agriculture industry as a whole by increasing the number of potential avenues of attack and reducing the ability to prevent the introduction of pathogens before market.[^132] Indeed, the “production, processing, distribution, and preparation, has myriad potential vulnerabilities for natural and intentional contamination. Centralized food production and widened product distribution systems present increased opportunities for the intentional contamination of food.”133 With both pre and post harvest agricultural products widely vulnerable to attack, there are no shortage of opportunities for terrorists.
 
+Assessing the vulnerability of a target and measuring to what extent it is susceptible to various forms of attack, many factors come into play. Pathogens that are relatively easy to find in the wild (i.e., they are prevalent and can be isolated with ease), can be safely handled, and can be easily cultured in a common medium pose the greatest threat to the U.S. agriculture industry. Dangerous bacterial pathogens pose a serious threat, but less so where they are zoonotic (i.e., they pose a threat to the health of a would-be handler) and not as abundant in the wild (i.e., they are less accessible to terrorists). Similarly, extremely virulent viral pathogens pose less of a threat, especially when they are zoonotic, due to the risks and technical requirements associated with handling, isolating, and weaponizing. What becomes important in figuring out which threats are most serious, is the intentions of potential terrorists in that the end goal will likely dictate the desired means.
 
-the production continuum, increasing dependence on the export market, and the lack of
-resistance to pathogens that prevail in some countries are other factors contributing to the
-vulnerability of the livestock industry.” Importantly, should disease be intentionally 130 introduced,
-given current agricultural practices, the consequences could be cascading.
-When looking at agriculture postharvest,
-there are even more opportunities to
-contaminate agricultural products. As stated by the former Secretary of the Department of Health
-and Human Services, Tommy Thompson, on December 3, 2004, “For the life of me, I cannot
-understand why the terrorists have not attacked our food supply, because it is so easy to
-do…We are importing a lot of food from the Middle East, and it would be easy to tamper with
-that.”131 Furthermore, the “farmtofork
-continuum” increases the vulnerability of the agriculture
-industry as a whole by increasing the number of potential avenues of attack and reducing the
-ability to prevent the introduction of pathogens before market.132 Indeed, the “production,
-processing, distribution, and preparation, has myriad potential vulnerabilities for natural and
-intentional contamination. Centralized food production and widened product distribution systems
-present increased opportunities for the intentional contamination of food.”133 With both pre and
-post harvest agricultural products widely vulnerable to attack, there are no shortage of
-opportunities for terrorists.
-Assessing the vulnerability of a target and measuring to what extent it is susceptible to
-various forms of attack, many factors come into play. Pathogens that are relatively easy to find in
-the wild (i.e., they are prevalent and can be isolated with ease), can be safely handled, and can
-be easily cultured in a common medium pose the greatest threat to the U.S. agriculture industry.
-130 Ibid.
-131 Zygmunt F. Dembek and Edwin L. Anderson, “Chapter 2: Food, Waterborne, and Agricultural Diseases,”
-Medical Aspects of Biological Warfare, Office of The Surgeon General US Army Medical Department Center
-and School, 2007, accessed October 18, 2013, https://
-ke.army.mil/bordeninstitute/published_volumes/biological_warfare/BWch02.
-pdf.
-132 Ibid.
-133 Ibid.
-32 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-Dangerous bacterial pathogens pose a serious threat, but less so where they are zoonotic (i.e.,
-they pose a threat to the health of a wouldbe
-handler) and not as abundant in the wild (i.e., they
-are less accessible to terrorists). Similarly, extremely virulent viral pathogens pose less of a
-threat, especially when they are zoonotic, due to the risks and technical requirements
-associated with handling, isolating, and weaponizing. What becomes important in figuring out
-which threats are most serious, is the intentions of potential terrorists in that the end goal will
-likely dictate the desired means.
-Currently, existing safeguards are generally in place to prevent accidental contamination
-and introduction of disease to crops and livestock. Additionally, the emphasis has been on
-protecting postharvest
-agricultural products and products which are processed. This focus also
-needs to extend beyond processing. As stated by Dembek and Anderson, “When a product
-leaves the plant, that attention may be discontinued. The time and route of delivery, as well as
-the security of the transportation, may be the most important with reference to vulnerability and
-should not be overlooked when security planning.” Todate
-there are very 134 few measures that
-would adequately prevent the intentional introduction of disease into preharvest
-crops and
-livestock. In place however, are surveillance programs that aim to detect disease early enough to
-prevent an outbreak and widespread losses. Their effectiveness in mitigating an outbreak of
-disease in the face of an intentional introduction remains untested.
-VULNERABILITY RATING
-This vulnerability analysis has found that there are numerous vulnerabilities within the
-agriculture industry making it susceptible to agricultural bioterrorism. Additionally, there are a
-range of plant, animal, and zoonotic pathogens that could be utilized by terrorists. When looking
-at historic examples of threats, as well as state developed biological weapons programs, it
-134 Ibid.
-33 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-becomes clear that important grains and livestock are prime targets.
-Breaking agriculture into pre and post harvest, preharvest
-crops and livestock are least
-protected from attack. However, processed postharvest
-agricultural products are also
-vulnerable, particularly after existing safeguards have been implemented (e.g., just prior to or
-during transportation).
-Postharvest
-agriculture is also more at risk from inside threats than outside threats given
-existing safeguards. Preharvest
-agriculture however, is only slightly more at risk to inside
-threats than to outside threats given its expansive and accessible nature.
-The agriculture industry is most vulnerable to the deliberate introduction of pathogens
-which are virulent and cause disease in both crops and livestock while not infecting humans.
-This is because terrorists can handle these pathogens with ease and without the fear of
-selfinfection.
-Moreover, pathogens which are easily obtained in the wild, but perhaps are no
-longer prevalent in the U.S., pose an enormous threat to U.S. agriculture. For example, taking a
-culture of Foot and Mouth Disease virus, not found in the U.S. but easily located in many
-developing countries, a terrorist could discretely import the culture with the intent to infect cattle
-with no risk to him/herself. Another example would be the deliberate introduction of the UG99, a
-34 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-relatively new and devastating race of stem rust fungus, into the U.S. Genetically engineered
-wheat families in the U.S. would not be protected and quite vulnerable.
-THREAT ANALYSIS
-The threat analysis will identify and prioritize potential terrorist actors based on, among
-other things, ideology, motivation, and capacity. The threat analysis includes a threat inventory,
-threat capacity, and threat rating. The threat inventory looks at the various types of terrorist
-groups and notes prominent organizations. Threat capacity, as the name suggests, takes the
-terrorist group typologies and specific terrorist organizations listed in the threat inventory and
-measures their capability and motivation to carry out an act of agricultural bioterrorism. Brought
-together, the threat analysis will then be coupled with the earlier vulnerability analysis to make
-recommendations for bolstering agriculture industry against agricultural bioterrorism.
-THREAT INVENTORY
-Nonstates
-terrorist actors can be broken into five groups: nationalist, separatist, and
+Currently, existing safeguards are generally in place to prevent accidental contamination and introduction of disease to crops and livestock. Additionally, the emphasis has been on protecting post-harvest agricultural products and products which are processed. This focus also needs to extend beyond processing. As stated by Dembek and Anderson, “When a product leaves the plant, that attention may be discontinued. The time and route of delivery, as well as the security of the transportation, may be the most important with reference to vulnerability and should not be overlooked when security planning.”[^134] To-date there are very few measures that would adequately prevent the intentional introduction of disease into pre-harvest crops and livestock. In place however, are surveillance programs that aim to detect disease early enough to prevent an outbreak and widespread losses. Their effectiveness in mitigating an outbreak of disease in the face of an intentional introduction remains untested.
+
+#### <u>VULNERABILITY RATING</u> ####
+
+This vulnerability analysis has found that there are numerous vulnerabilities within the agriculture industry making it susceptible to agricultural bioterrorism. Additionally, there are a range of plant, animal, and zoonotic pathogens that could be utilized by terrorists. When looking at historic examples of threats, as well as state developed biological weapons programs, it becomes clear that important grains and livestock are prime targets.
+
+Breaking agriculture into pre and post harvest, pre-harvest crops and livestock are least protected from attack. However, processed post-harvest agricultural products are also vulnerable, particularly after existing safeguards have been implemented (e.g., just prior to or during transportation).
+
+<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/008-agriculture-vulnerability-to-threats.jpg" width="100%" class="img-responsive" alt="Agriculture Vulnerability to Threats"></center><br />
+
+Post-harvest agriculture is also more at risk from inside threats than outside threats given existing safeguards. Pre-harvest agriculture however, is only slightly more at risk to inside threats than to outside threats given its expansive and accessible nature.
+
+<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/009-agriculture-vulnerability-to-threats.jpg" width="100%" class="img-responsive" alt="Agriculture Vulnerability to Threats"></center><br />
+
+The agriculture industry is most vulnerable to the deliberate introduction of pathogens which are virulent and cause disease in both crops and livestock while not infecting humans. This is because terrorists can handle these pathogens with ease and without the fear of self-infection. Moreover, pathogens which are easily obtained in the wild, but perhaps are no longer prevalent in the U.S., pose an enormous threat to U.S. agriculture. For example, taking a culture of Foot and Mouth Disease virus, not found in the U.S. but easily located in many developing countries, a terrorist could discretely import the culture with the intent to infect cattle with no risk to him/herself. Another example would be the deliberate introduction of the UG99, a relatively new and devastating race of stem rust fungus, into the U.S. Genetically engineered wheat families in the U.S. would not be protected and quite vulnerable.
+
+### <center>THREAT ANALYSIS</center> ###
+
+The threat analysis will identify and prioritize potential terrorist actors based on, among other things, ideology, motivation, and capacity. The threat analysis includes a threat inventory, threat capacity, and threat rating. The threat inventory looks at the various types of terrorist groups and notes prominent organizations. Threat capacity, as the name suggests, takes the terrorist group typologies and specific terrorist organizations listed in the threat inventory and measures their capability and motivation to carry out an act of agricultural bioterrorism. Brought together, the threat analysis will then be coupled with the earlier vulnerability analysis to make recommendations for bolstering agriculture industry against agricultural bioterrorism.
+
+#### <u>THREAT INVENTORY</u> ####
+
+Non-state terrorist actors can be broken into five groups: nationalist, separatist, and
 irredentist groups; secular left‐wing groups; secular right‐wing groups; religious terrorist groups;
 and single‐issue groups. Nationalist, separatist, and irredentist groups are those which rely
 “heavily on terrorism that seek either to establish an independent state for the ethnic, linguistic,
@@ -1025,3 +944,13 @@ prevent potentially cascading terrorist attacks.
 [^128]: Ibid.
 
 [^129]: Ibid.
+
+[^130]: Ibid.
+
+[^131]: Zygmunt F. Dembek and Edwin L. Anderson, “Chapter 2: Food, Waterborne, and Agricultural Diseases,” Medical Aspects of Biological Warfare, Office of The Surgeon General US Army Medical Department Center and School, 2007, accessed October 18, 2013, https://ke.army.mil/bordeninstitute/published_volumes/biological_warfare/BWch02.pdf.
+
+[^132]: Ibid.
+
+[^133]: Ibid.
+
+[^134]: Ibid.
