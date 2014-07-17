@@ -251,67 +251,15 @@ Lastly, there is inadequate canine usage. “CBP should maximize the utilization
 
 ### <center>CONCLUSION</center> ###
 
-This threat assessment is by no means exhaustive. It is a surficial review of known agricultural vulnerabilities and agroterrorism threats with the purpose of highlighting weaknesses and spurring further research and analysis. Threat assessments can serve as an effective 
+This threat assessment is by no means exhaustive. It is a surficial review of known agricultural vulnerabilities and agroterrorism threats with the purpose of highlighting weaknesses and spurring further research and analysis. Threat assessments can serve as an effective instrument for ongoing policy review in the policy lifecycle. In order to more fully address the complex threat environment which exists, a more comprehensive and routine threat assessment should be mandated by the Federal government.
 
+This assessment finds that the most likely perpetrators of agricultural bioterrorism are Islamists (alQa’ida, affiliated groups, and their adherents), anti-government right-wing extremists, and environmental/animal extremists (e.g., ELF and ALF). Due to antiterrorism efforts and the difficulty associated with carrying out a large and well coordinated attack, the most likely scenario involves lone-wolf actors or small cells of individuals.
 
+In terms of vulnerability, both livestock and crops are vulnerable to attack. Foot and Mouth Disease is the greatest threat to livestock, but Peste des Petits Ruminants, Avian Influenza, virulent Newcastle disease, Rift Valley Fever, Classical Swine Fever, African Swine Fever, Vesicular Stomatitis, Exotic bluetongue, and Lumpy skin disease are also major threats. Leading pathogens that pose a threat to crops include: Peronosclerospora philippinensis (Peronosclerospora sacchari), Phoma glycinicola (formerly Pyrenochaeta glycines), Ralstonia solanacearum, Rathayibacter toxicus, Sclerophthora rayssiae, Synchytrium endobioticum, and Xanthomonas oryzae.
 
+The implications of an agricultural bioterrorist attack would be severe. As noted in the impact of agriculture section, agriculture and agriculture-related industries make up 4.8 percent of the U.S. gross domestic product (GDP), or $742.6 billion.[^188] In raw numbers, the U.S. Department of Agriculture (USDA) reported the agriculture industry bringing in $419.4 billion in gross income for 2011 while incurring $321.3 billion in production related expenses for an industry-wide net income of $98.1 billion.[^189] Projected net income for the agriculture industry in 2013 is $120.6 billion.[^190] Agricultural exports accounted for $135.77 billion in 2012.[^191] Of principal agricultural exports, the U.S. represented 18.9 percent of wheat, 44.7 percent of corn, 27.7 percent of cotton, 8.6 percent of rice, and 39.5 percent of oilseed (soybean) exports worldwide.[^192]
 
-instrument for ongoing policy review in the policy lifecycle. In order to more fully address the
-complex threat environment which exists, a more comprehensive and routine threat assessment
-should be mandated by the Federal government.
-This assessment finds that the most likely perpetrators of agricultural bioterrorism are
-Islamists (alQa’ida,
-affiliated groups, and their adherents), antigovernment
-rightwing
-extremists, and environmental/animal extremists (e.g., ELF and ALF). Due to antiterrorism
-efforts and the difficulty associated with carrying out a large and well coordinated attack, the
-most likely scenario involves lonewolf
-actors or small cells of individuals.
-In terms of vulnerability, both livestock and crops are vulnerable to attack. Foot and Mouth
-Disease is the greatest threat to livestock, but Peste des Petits Ruminants, Avian Influenza,
-virulent Newcastle disease, Rift Valley Fever, Classical Swine Fever, African Swine Fever,
-Vesicular Stomatitis, Exotic bluetongue, and Lumpy skin disease are also major threats. Leading
-pathogens that pose a threat to crops include: Peronosclerospora philippinensis
-(Peronosclerospora sacchari), Phoma glycinicola (formerly Pyrenochaeta glycines), Ralstonia
-solanacearum, Rathayibacter toxicus, Sclerophthora rayssiae, Synchytrium endobioticum, and
-Xanthomonas oryzae.
-The implications of an agricultural bioterrorist attack would be severe. As noted in the
-impact of agriculture section, agriculture and agriculturerelated
-industries make up 4.8 percent
-of the U.S. gross domestic product (GDP), or $742.6 billion. In raw 188 numbers, the U.S.
-Department of Agriculture (USDA) reported the agriculture industry bringing in $419.4 billion in
-gross income for 2011 while incurring $321.3 billion in production related expenses for an
-188 "Ag and Food Sectors and the Economy," USDA, last modified November 7, 2013, accessed November
-12, 2013,
-http://www.ers.usda.gov/dataproducts/
-agandfoodstatisticschartingtheessentials/
-agandfoodsectorsan
-dtheeconomy.
-aspx.
-48 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-industrywide
-net income of $98.1 billion. Projected net income for the agriculture 189 industry in
-2013 is $120.6 billion.190 Agricultural exports accounted for $135.77 billion in 2012.191 Of principal
-agricultural exports, the U.S. represented 18.9 percent of wheat, 44.7 percent of corn, 27.7
-percent of cotton, 8.6 percent of rice, and 39.5 percent of oilseed (soybean) exports worldwide.
-192
-Taking action plans from the JATF, thirteen areas need to be improved upon to better
-protect the agriculture industry. These areas include: structure and leadership; outreach and
-communication; joint agency planning; performance measures; emergency response;
-information management; resources; training; regulatory enforcement; pest identification;
-operations; quality assurance; and canine. Overall, there has been a lot of progress in terms of
-hardening the agriculture industry since the threat was first championed in the late 1990’s. The
-current lull in scholarship is discouraging. Given what is at stake, and the inherent vulnerability of
-agriculture, sustained attention is necessary to adequately protect the agriculture industry and
-prevent potentially cascading terrorist attacks.
-189 "Statistical Abstract of the United States: 2012."
-190 "Farming and Farm Income."
-191 "Value of U.S. agricultural trade, by fiscal year."
-192 "Agricultural Statistics 2012."
-
+Taking action plans from the JATF, thirteen areas need to be improved upon to better protect the agriculture industry. These areas include: structure and leadership; outreach and communication; joint agency planning; performance measures; emergency response; information management; resources; training; regulatory enforcement; pest identification; operations; quality assurance; and canine. Overall, there has been a lot of progress in terms of hardening the agriculture industry since the threat was first championed in the late 1990’s. The current lull in scholarship is discouraging. Given what is at stake, and the inherent vulnerability of agriculture, sustained attention is necessary to adequately protect the agriculture industry and prevent potentially cascading terrorist attacks. 
 
 ### <center>Notes</center> ###
 
@@ -688,3 +636,13 @@ prevent potentially cascading terrorist attacks.
 [^186]: Ibid.
 
 [^187]: Ibid.
+
+[^188]: "Ag and Food Sectors and the Economy," USDA, last modified November 7, 2013, accessed November 12, 2013, http://www.ers.usda.gov/dataproducts/agandfoodstatisticschartingtheessentials/agandfoodsectorsandtheeconomy.aspx.
+
+[^189]: "Statistical Abstract of the United States: 2012."
+
+[^190]: "Farming and Farm Income."
+
+[^191]: "Value of U.S. agricultural trade, by fiscal year."
+
+[^192]: "Agricultural Statistics 2012."
