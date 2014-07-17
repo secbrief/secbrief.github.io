@@ -28,6 +28,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 
 <center>
 #### <strong>Top Crop Exports</strong> ####
+
 | Export            | Percentage of Worldwide Exports |
 |:------------------|:-------------------------------:|
 | Wheat             | 18.90%                          |
