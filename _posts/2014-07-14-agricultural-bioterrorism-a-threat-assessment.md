@@ -182,207 +182,35 @@ The threat analysis will identify and prioritize potential terrorist actors base
 
 #### <u>THREAT INVENTORY</u> ####
 
-Non-state terrorist actors can be broken into five groups: nationalist, separatist, and
-irredentist groups; secular left‐wing groups; secular right‐wing groups; religious terrorist groups;
-and single‐issue groups. Nationalist, separatist, and irredentist groups are those which rely
-“heavily on terrorism that seek either to establish an independent state for the ethnic, linguistic,
-cultural, or national community with which they are affiliated, or (if they already have their own
-independent state) to unite all of the members of their community.” 135 Notable terrorist
-organizations that have fit into this category include: Euskadi ta Askatasuna (ETA) or Basque
-Freedom and Fatherland, Irish Republican Army (IRA), the Palestine Liberation Organization
-(PLO), the Partiya Karkeren Kurdistan (PKK) or Kurdistan Worker’s Party, and the Liberation
-Tigers of Tamil Eelam (LTTE) also commonly referred to as the Tamil Tigers.136
-While there are no designated nationalist, separatist, and irredentist terrorist
-135 "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
-136 Ibid.
-35 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-organizations in the U.S., there are political organizations and loosely affiliated groups which
-promote and advocate independence and/or separation from the U.S. government. For example,
-there are groups seeking the independence of Alaska, Texas, Vermont, and Puerto Rico, as well
-as groups wanting to create new independent states like the Republic of Lakotah (consisting of
-parts of North Dakota, South Dakota, Nebraska, Wyoming, and Montana), Cascadia (comprised
-of Oregon, Washington, and British Columbia), and New Afrika (a black nation consisting of
-southeastern states). Generally speaking, there are not calls to action that include violence,
-however, as with all political movements, there exists the potential for fringe actors to carry out
-acts of terrorism in order to try and get message resonance.
-Secular leftwing
-groups are groups that rely “heavily on terrorism that seek to overthrow
-the capitalist system and either establish a “dictatorship of the proletariat” (Marxist‐Leninists) or,
-much more rarely, a decentralized, non‐hierarchical sociopolitical system (anarchists).”137
-Wellknown
-secular leftwing
-terrorist organizations have included Las Fuerzas Armadas
-Revolucionarias de Columbia (FARC) or the Revolutionary Armed Forces of Columbia, Sendero
-Luminoso (SL) or Shining Path, Maoist organizations, Brigate Rosse (BR) or Red Brigades, and
-the Rote Armee Fraktion (RAF) or Red Army Faction, to name a few.138 There have also been a
-number of secular leftwing
-terrorist organizations in the U.S. The Weather Underground, May 19
-Communist Organization (M19CO), and the Black Liberation Army (BLA), as well as Black and
-Puerto Rican nationalist groups have carried out acts of terrorism in the U.S.
-Indeed, the vast majority of deaths, seventyfour
-percent, attributed to terrorism between
-1988 and 1998 were at the hands of secular leftwing
-terrorist organizations.139 Of the domestic
-terrorist attacks in the U.S. during that time period, nearly half of the incidents were carried out by
-137 Ibid.
-138 Ibid.
-139 Karl A. Seger, "LeftWing
-Extremism: The Current Threat," Center for Human Reliability Studies, April
-2001, accessed December 1, 2013, http://www.osti.gov/scitech/servlets/purl/780410.
-36 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-Puerto Rican separatist groups while the rest were carried out by more “traditional” leftist
-terrorist organizations. According to Seger, leftwing
-extremists are 140 younger and better
-educated than are rightwing
-extremists, and tend to live in urban areas.141 Today, while fringe
-leftwing
-ideologies persist in the U.S., there has not been a preponderance of leftwing
-terrorism. This is largely due to the fact that state sponsorship of secular leftwing
-terrorist
-organizations has nearly ceased since the height of Soviet and Cuban sponsorship in the 1970’s
-and 1980’s.
-Secular rightwing
-groups rely “heavily on terrorism that seek to restore national
-greatness (radical nationalists), suppress “subversive” opponents, expel or subordinate
-troublesome ethnic and cultural minorities (racists), or overthrow the existing democratic and
-“plutocratic” capitalist systems in order to establish a revolutionary “new order” (neo‐fascists).”142
-As Masters states, “Rightwing
-extremists champion a wide variety of causes, including racial
-supremacy, hatred and suspicion of the federal government, and fundamentalist Christianity.”143
-Important secular rightwing
-terrorist organizations have, among many, been: the Organisation
-de l’Armee Secrete (OAS) or Secret Army Organization, El Exército de Libertação Português
-(ELP) or the Portuguese Liberation Army, Los Grupos Antiterroristas de Liberación (GAL) or the
-Anti‐Terrorist Liberation Groups, La Alianza Anticomunista Argentina (AAA) or the Argentine
-Anti‐Communist Alliance, also known as the Triple A, and various militant groups in across Latin
-America.144
-In the U.S., while rightwing
-racism has been around for quite some time, and been
-represented by extremist organizations like the Klu Klux Klan, a new wave of racist organizations
-140 Ibid.
-141 Ibid.
-142 "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
-143 Jonathan Masters, "Militant Extremists in the United States," Council on Foreign Relations, last modified
-February 7, 2011, accessed December 1, 2013,
-http://www.cfr.org/terroristorganizationsandnetworks/
-militantextremistsunitedstates/
-p9236.
-144 "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
-37 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-and movements, such as the Order and the neonazi
-and skinhead movements, began in the
-1980’s. Also within the secular rightwing,
-the militia movement began to take root in the U.S. in
-the early 1990’s. At the time, this culminated with the 1995 bombing of the Murrah Federal
-Building in Oklahoma City by Timothy McVeigh. This led to a massive crackdown
-by the federal
-government on militias and militia related activity. However, since 2008, the militia movement,
-and the broader patriot movement, have seen a massive resurgence in the U.S.
-The Southern Poverty Law Center emphasizes that “the number of conspiracyminded
-antigovernment “Patriot” groups reached an alltime
-high of 1,360 in 2012, while the number of
-hardcore
-hate groups remained above 1,000.” It was also speculated 145 that “As President
-Obama enters his second term with an agenda of gun control and immigration reform, the rage
-on the right is likely to intensify.”146 DHS’s Office of Intelligence and Analysis (I&A) report that
-there is “no specific information that domestic rightwing terrorists are currently planning acts of
-violence, but rightwing extremists may be gaining new recruits by playing on their fears about
-several emergent issues. The economic downturn and the election of the first African American
-president present unique drivers for rightwing radicalization and recruitment.”147
-Beginning in the mid2000’
-s, other secular rightwing
-movements include the Minutemen
-movement and the Oath Keepers movement. Dubbed the Minutemen Project, the movement
-consists of rightwing
-individuals which seek to prevent illegal immigration. They selfdescribe
-themselves as the “neighborhood watch for the border.” Oath Keepers advocates that members
-of the military and law enforcement community uphold their oath to “defend the Constitution of
-the United States against all enemies, foreign and domestic.” Emphasis within this movement
-145 Mark Potok, "The Year in Hate and Extremism," Southern Poverty Law Center, Intelligence Report, Issue
-149 (2013), accessed December 1, 2013,
-http://www.splcenter.org/home/2013/spring/theyearinhateandextremism.
-146 Ibid.
-147 "Rightwing Extremism: Current Economic and Political Climate Fueling Resurgence in Radicalization and
-Recruitment," Department of Homeland Security, Office of Intelligence and Analysis, April 7, 2009,
-accessed September 28, 2013, http://www.fas.org/irp/eprint/rightwing.pdf.
-38 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-has been placed on protecting the Constitution from what are seen as domestic threats (i.e., the
-federal government) to the Constitution.
-Religious terrorist groups use terrorism seeking “to smite the purported enemies of God
-and other evildoers, impose strict religious tenets or laws on society (fundamentalists), forcibly
-insert religion into the political sphere (i.e., those who seek to “politicize” religion, such as
-Christian Reconstructionists and Islamists), and/or bring about Armageddon (apocalyptic
-millenarian cults). Religious groups can be further subdivided into the following 148 categories:
-Islamist terrorism; Jewish fundamentalist terrorism; Christian terrorism (fundamentalist terrorism
-of an Orthodox, Catholic, or Protestant and Christian Identity); Hindu fundamentalist and
-nationalist terrorism; and apocalyptic religious cult terrorism.149
-Religious terrorist organizations of significance include: al‐Qa`ida (the Base); Hizballah
-(Party of God); al‐Harakat al‐Muqawwama al‐Islamiyya or HAMAS (Islamic Resistance
-Movement); al‐Jihad al‐Islami (Islamic Jihad); the Groupe Islamique Armé (Armed Islamic Group)
-and Groupe Salafiste pour la Prédication et le Combat (Salafist Group for Preaching and
-Fighting); Jemaah Islamiyah (Islamic Community); Abu Sayyaf Group; and the U.S. group,
-Phineas Priesthood and the Covenant, the Sword, and the Arm of the Lord.150 Of the religious
-terrorist organizations, the greatest threats emanate from alQa’ida,
-affiliated movements, and
-their adherents.
-Singleissue
-groups use “terrorism that obsessively focus [sic] on very specific or
-relatively narrowly‐defined causes of various sorts.”151 “This category includes organizations
-from all sides of the political spectrum, e.g., animal rights groups such as the Animal Liberation
-Front (ALF); anti‐communist groups such as the Cuban exile organization Omega 7, the
-148 "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
-149 Ibid.
-150 Ibid.
-151 "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
-39 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-Comando de Caça aos Comunistas (CCC: Communists‐ Hunting Commando) in Brazil, and the
-[Grupos] Autodefensas Unidas de Colombia (AUC: United Self‐Defense Groups of Colombia);
-and anti‐abortion groups such as the Army of God (AOG) in the United States.”152 Another
-organization that falls under single issue is the Earth Liberation Front (ELF). Prior to 9/11, it was
-seen as the single greatest terrorist threat to the U.S. homeland by the FBI. “special interest
-extremismas
-characterized by the Animal Liberation Front (ALF) and the Earth Liberation Front
-(ELF)has
-emerged as a serious terrorist threat. The FBI estimates that ALF/ELF have
-committed approximately 600 criminal acts in the United States since 1996, resulting in
-damages in excess of 42 million dollars.”153
-When looking at vulnerabilities and their level of exposure to threats, it is also helpful to
-separate the threats by whether they emanate from international terrorist organizations or
-domestic. It can be assumed that domestic terrorists would have a greater knowledge of the
-areas they operate than would an international actor whom may have very little experience living
-and working in the area. Another way of think about this, it is similar to the difference between
-internal and external threats. One actor has a vastly more intimate knowledge of the environment
-than does the other. It should be cautioned that in recent years, selfradicalized
-actors have been
-the most successful in terms of advancing along the attack spectrum (e.g., Boston bombers).
-These “homegrown” terrorists have frequently operated in the name of, or under the influence
-and direction of, foreign terrorist organizations (e.g., Time Square bomber, Faisal Shahzad).
-Such actors represent a very potent threat.
-THREAT CAPACITY
+Non-state terrorist actors can be broken into five groups: nationalist, separatist, and irredentist groups; secular left‐wing groups; secular right‐wing groups; religious terrorist groups; and single‐issue groups. Nationalist, separatist, and irredentist groups are those which rely “heavily on terrorism that seek either to establish an independent state for the ethnic, linguistic, cultural, or national community with which they are affiliated, or (if they already have their own independent state) to unite all of the members of their community.”[^135] Notable terrorist organizations that have fit into this category include: Euskadi ta Askatasuna (ETA) or Basque Freedom and Fatherland, Irish Republican Army (IRA), the Palestine Liberation Organization (PLO), the Partiya Karkeren Kurdistan (PKK) or Kurdistan Worker’s Party, and the Liberation Tigers of Tamil Eelam (LTTE) also commonly referred to as the Tamil Tigers.[^136]
+
+While there are no designated nationalist, separatist, and irredentist terrorist organizations in the U.S., there are political organizations and loosely affiliated groups which promote and advocate independence and/or separation from the U.S. government. For example, there are groups seeking the independence of Alaska, Texas, Vermont, and Puerto Rico, as well as groups wanting to create new independent states like the Republic of Lakotah (consisting of parts of North Dakota, South Dakota, Nebraska, Wyoming, and Montana), Cascadia (comprised of Oregon, Washington, and British Columbia), and New Afrika (a black nation consisting of southeastern states). Generally speaking, there are not calls to action that include violence, however, as with all political movements, there exists the potential for fringe actors to carry out acts of terrorism in order to try and get message resonance.
+
+Secular left-wing groups are groups that rely “heavily on terrorism that seek to overthrow the capitalist system and either establish a “dictatorship of the proletariat” (Marxist‐Leninists) or, much more rarely, a decentralized, non‐hierarchical sociopolitical system (anarchists).”[^137] Well-known secular left-wing terrorist organizations have included Las Fuerzas Armadas Revolucionarias de Columbia (FARC) or the Revolutionary Armed Forces of Columbia, Sendero Luminoso (SL) or Shining Path, Maoist organizations, Brigate Rosse (BR) or Red Brigades, and the Rote Armee Fraktion (RAF) or Red Army Faction, to name a few.[^138] There have also been a number of secular left-wing terrorist organizations in the U.S. The Weather Underground, May 19 Communist Organization (M19CO), and the Black Liberation Army (BLA), as well as Black and Puerto Rican nationalist groups have carried out acts of terrorism in the U.S.
+
+Indeed, the vast majority of deaths, seventy-four percent, attributed to terrorism between 1988 and 1998 were at the hands of secular left-wing terrorist organizations.[^139] Of the domestic terrorist attacks in the U.S. during that time period, nearly half of the incidents were carried out by Puerto Rican separatist groups while the rest were carried out by more “traditional” leftist terrorist organizations.[^140] According to Seger, left-wing extremists are younger and better educated than are right-wing extremists, and tend to live in urban areas.[^141] Today, while fringe left-wing ideologies persist in the U.S., there has not been a preponderance of left-wing terrorism. This is largely due to the fact that state sponsorship of secular left-wing terrorist organizations has nearly ceased since the height of Soviet and Cuban sponsorship in the 1970’s and 1980’s.
+
+Secular right-wing groups rely “heavily on terrorism that seek to restore national greatness (radical nationalists), suppress “subversive” opponents, expel or subordinate troublesome ethnic and cultural minorities (racists), or overthrow the existing democratic and “plutocratic” capitalist systems in order to establish a revolutionary “new order” (neo‐fascists).”[^142] As Masters states, “Right-wing extremists champion a wide variety of causes, including racial supremacy, hatred and suspicion of the federal government, and fundamentalist Christianity.”[^143] Important secular right-wing terrorist organizations have, among many, been: the Organisation de l’Armee Secrete (OAS) or Secret Army Organization, El Exército de Libertação Português (ELP) or the Portuguese Liberation Army, Los Grupos Antiterroristas de Liberación (GAL) or the Anti‐Terrorist Liberation Groups, La Alianza Anticomunista Argentina (AAA) or the Argentine Anti‐Communist Alliance, also known as the Triple A, and various militant groups in and across Latin America.[^144]
+
+In the U.S., while right-wing racism has been around for quite some time, and been represented by extremist organizations like the Klu Klux Klan, a new wave of racist organizations and movements, such as the Order and the neo-nazi and skinhead movements, began in the 1980’s. Also within the secular right-wing, the militia movement began to take root in the U.S. in the early 1990’s. At the time, this culminated with the 1995 bombing of the Murrah Federal Building in Oklahoma City by Timothy McVeigh. This led to a massive crackdown by the federal government on militias and militia related activity. However, since 2008, the militia movement, and the broader patriot movement, have seen a massive resurgence in the U.S. The Southern Poverty Law Center emphasizes that “the number of conspiracy-minded anti-government “Patriot” groups reached an all-time high of 1,360 in 2012, while the number of hardcore hate groups remained above 1,000.”[^145] It was also speculated that “As President Obama enters his second term with an agenda of gun control and immigration reform, the rage on the right is likely to intensify.”[^146] DHS’s Office of Intelligence and Analysis (I&A) report that there is “no specific information that domestic right-wing terrorists are currently planning acts of violence, but right-wing extremists may be gaining new recruits by playing on their fears about several emergent issues. The economic downturn and the election of the first African American president present unique drivers for right-wing radicalization and recruitment.”[^147]
+
+Beginning in the mid-2000’s, other secular right-wing movements include the Minutemen movement and the Oath Keepers movement. Dubbed the Minutemen Project, the movement consists of right-wing individuals which seek to prevent illegal immigration. They self-describe themselves as the “neighborhood watch for the border.” Oath Keepers advocates that members of the military and law enforcement community uphold their oath to “defend the Constitution of the United States against all enemies, foreign and domestic.” Emphasis within this movement has been placed on protecting the Constitution from what are seen as domestic threats (i.e., the federal government) to the Constitution.
+
+Religious terrorist groups use terrorism seeking “to smite the purported enemies of God and other evildoers, impose strict religious tenets or laws on society (fundamentalists), forcibly insert religion into the political sphere (i.e., those who seek to “politicize” religion, such as Christian Reconstructionists and Islamists), and/or bring about Armageddon (apocalyptic millenarian cults).[^148] Religious groups can be further subdivided into the following categories: Islamist terrorism; Jewish fundamentalist terrorism; Christian terrorism (fundamentalist terrorism of an Orthodox, Catholic, or Protestant and Christian Identity); Hindu fundamentalist and nationalist terrorism; and apocalyptic religious cult terrorism.[^149] Religious terrorist organizations of significance include: al‐Qa`ida (the Base); Hizballah (Party of God); al‐Harakat al‐Muqawwama al‐Islamiyya or HAMAS (Islamic Resistance Movement); al‐Jihad al‐Islami (Islamic Jihad); the Groupe Islamique Armé (Armed Islamic Group) and Groupe Salafiste pour la Prédication et le Combat (Salafist Group for Preaching and Fighting); Jemaah Islamiyah (Islamic Community); Abu Sayyaf Group; and the U.S. group, Phineas Priesthood and the Covenant, the Sword, and the Arm of the Lord.[^150] Of the religious terrorist organizations, the greatest threats emanate from al-Qa’ida, affiliated movements, and their adherents.
+
+Single-issue groups use “terrorism that obsessively focus [sic] on very specific or relatively narrowly‐defined causes of various sorts.”[^151] “This category includes organizations from all sides of the political spectrum, e.g., animal rights groups such as the Animal Liberation Front (ALF); anti‐communist groups such as the Cuban exile organization Omega 7, the Comando de Caça aos Comunistas (CCC: Communists‐ Hunting Commando) in Brazil, and the [Grupos] Autodefensas Unidas de Colombia (AUC: United Self‐Defense Groups of Colombia); and anti‐abortion groups such as the Army of God (AOG) in the United States.”[^152] Another organization that falls under single issue is the Earth Liberation Front (ELF). Prior to 9/11, it was seen as the single greatest terrorist threat to the U.S. homeland by the FBI. “special interest extremism--as characterized by the Animal Liberation Front (ALF) and the Earth Liberation Front (ELF)--has emerged as a serious terrorist threat. The FBI estimates that ALF/ELF have committed approximately 600 criminal acts in the United States since 1996, resulting in damages in excess of 42 million dollars.”[^153]
+
+When looking at vulnerabilities and their level of exposure to threats, it is also helpful to separate the threats by whether they emanate from international terrorist organizations or domestic. It can be assumed that domestic terrorists would have a greater knowledge of the areas they operate than would an international actor whom may have very little experience living and working in the area. Another way of think about this, it is similar to the difference between internal and external threats. One actor has a vastly more intimate knowledge of the environment than does the other. It should be cautioned that in recent years, self-radicalized actors have been the most successful in terms of advancing along the attack spectrum (e.g., Boston bombers). These “homegrown” terrorists have frequently operated in the name of, or under the influence and direction of, foreign terrorist organizations (e.g., Time Square bomber, Faisal Shahzad). Such actors represent a very potent threat.
+
+#### <u>THREAT CAPACITY</u> ####
+
 Broken up into nationalist, separatist, and irredentist groups; secular left‐wing groups;
-152 Ibid.
-153 Dale L. Watson, "Testimony Before the Senate Select Committee on Intelligence," Federal Bureau of
-Investigation, February 6, 2002, accessed December 1, 2013,
-http://www.fbi.gov/news/testimony/theterroristthreatconfrontingtheunitedstates.
-40 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
+
+
+
+
+
+
 secular right‐wing groups; religious terrorist groups; and single‐issue groups, the threat inventory
 identified the types of terrorist organizations and noted prominent groups therein. The threat
 capacity will take these categories and look at motivation and capability to measure capacity.
@@ -954,3 +782,41 @@ prevent potentially cascading terrorist attacks.
 [^133]: Ibid.
 
 [^134]: Ibid.
+
+[^135]: "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
+
+[^136]: Ibid.
+
+[^137]: Ibid.
+
+[^138]: Ibid.
+
+[^139]: Karl A. Seger, "Left-Wing Extremism: The Current Threat," Center for Human Reliability Studies, April 2001, accessed December 1, 2013, http://www.osti.gov/scitech/servlets/purl/780410.
+
+[^140]: Ibid.
+
+[^141]: Ibid.
+
+[^142]: "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
+
+[^143]: Jonathan Masters, "Militant Extremists in the United States," Council on Foreign Relations, last modified February 7, 2011, accessed December 1, 2013, http://www.cfr.org/terroristorganizationsandnetworks/militantextremistsunitedstates/p9236.
+
+[^144]: "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
+
+[^145] Mark Potok, "The Year in Hate and Extremism," Southern Poverty Law Center, Intelligence Report, Issue 149 (2013), accessed December 1, 2013, http://www.splcenter.org/home/2013/spring/theyearinhateandextremism.
+
+[^146] Ibid.
+
+[^147]: "Rightwing Extremism: Current Economic and Political Climate Fueling Resurgence in Radicalization and Recruitment," Department of Homeland Security, Office of Intelligence and Analysis, April 7, 2009, accessed September 28, 2013, http://www.fas.org/irp/eprint/rightwing.pdf.
+
+[^148]: "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
+
+[^149]: Ibid.
+
+[^150]: Ibid.
+
+[^151]: "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
+
+[^152]: Ibid.
+
+[^153]: Dale L. Watson, "Testimony Before the Senate Select Committee on Intelligence," Federal Bureau of Investigation, February 6, 2002, accessed December 1, 2013, http://www.fbi.gov/news/testimony/theterroristthreatconfrontingtheunitedstates.
