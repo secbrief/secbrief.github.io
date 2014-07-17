@@ -261,7 +261,7 @@ The implications of an agricultural bioterrorist attack would be severe. As note
 
 Taking action plans from the JATF, thirteen areas need to be improved upon to better protect the agriculture industry. These areas include: structure and leadership; outreach and communication; joint agency planning; performance measures; emergency response; information management; resources; training; regulatory enforcement; pest identification; operations; quality assurance; and canine. Overall, there has been a lot of progress in terms of hardening the agriculture industry since the threat was first championed in the late 1990’s. The current lull in scholarship is discouraging. Given what is at stake, and the inherent vulnerability of agriculture, sustained attention is necessary to adequately protect the agriculture industry and prevent potentially cascading terrorist attacks. 
 
-### <center>Notes</center> ###
+### <center>NOTES</center> ###
 
 [^1]: "Ag and Food Sectors and the Economy," USDA, last modified November 7, 2013, accessed November 12, 2013, http://www.ers.usda.gov/dataproducts/agandfoodstatisticschartingtheessentials/agandfoodsectorsandtheeconomy.aspx.
 
