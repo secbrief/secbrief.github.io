@@ -204,258 +204,58 @@ When looking at vulnerabilities and their level of exposure to threats, it is al
 
 #### <u>THREAT CAPACITY</u> ####
 
-Broken up into nationalist, separatist, and irredentist groups; secular left‐wing groups;
+Broken up into nationalist, separatist, and irredentist groups; secular left‐wing groups; secular right‐wing groups; religious terrorist groups; and single‐issue groups, the threat inventory identified the types of terrorist organizations and noted prominent groups therein. The threat capacity will take these categories and look at motivation and capability to measure capacity.
+
+There are no designated nationalist, separatist, and irredentist groups operating in the U.S. However, as was mentioned in the previous section, some fringe groups hold beliefs that align with this categorization. Motivationally speaking, if a group were to organize further, a more substantial threat could emanate. Separatist groups have carried out guerilla fights against states utilizing many tactics in the past. While it would be premature to speculate as to whether the existent groups in the U.S. or those that share sentiment would be motivated to carry out agricultural bioterrorism, it can be said that their capability would be on par with individual homegrown terrorists as there are no wellcoordinated or structured groups operating in the U.S.
+
+Secular left-wing groups have historically carried out violent attacks and posed a great threat in the U.S. during the height of the Cold War. That said, since the end of the Cold War and the cessation of state-sponsorship to disparate left-wing terrorist actors in the U.S., the threat has been largely reduced to individuals. Larger organizations like the U.S. Communist Party might sympathize with potential actors, but there are no designated left-wing terrorist organizations operating in the U.S. Agriculture could be a target to individual actors with leftist beliefs. Especially when viewed as a means to impact the U.S. capitalist economy. Capacity however remains low due to a lack of organization and absence of specific threats.
+
+Secular right-wing groups pose a unique threat to agriculture. While members of the fringe left have tended to populate urban areas, right-wing members have gravitated towards rural areas. This puts them, generally speaking, in close proximity to much of the nation’s agriculture production. Motivation may vary with ring-wing individuals as some may have direct interests in the agriculture (e.g., they may work in the agriculture industry). However, if the aim is to take down the “corrupt” government, agricultural bioterrorism may be seen as a means to that end, and familiarity with agriculture lends heavily to this form of attack. Groups and individuals that fall under racist or issue based right-wing ideology (e.g., immigration) may be more inclined to target specific agriculture based who owns it than government focused groups. There is a higher degree of organization within this category than the preceding two, but the the threat is mostly from individual actors. Thus, the capacity to carry out agricultural bioterrorism varies widely.
+
+Religious terrorist organizations pose a significant threat to agriculture. Specifically, al-Qa’ida, affiliated organizations, and their adherents have sufficient motivation and resolve to carry out an act of agricultural bioterrorism. To-date, al-Qa’ida has opted for attempting flashier attacks that exact a high number of casualties. However, with the enormous rise of antiterrorism infrastructure in the post-9/11 world, softer targets like agriculture are increasingly more likely to be targeted. Moreover, an agricultural bioattack is fully consistent with al-Qa’ida’s modus operandi. Al-Qa’ida’s leader, Ayman al-Zawahiri, stated recently that “We [believers] should bleed America economically by motivating it to continue its huge expenditure on its security as America's weak point is its economy...”[^154] Al-Qa’ida does not operate in large numbers in the U.S., but has like actors in other categories the potential to inspire individual or lone-wolf attacks. Indeed al-Zawahiri calls for such attacks. “These dispersed strikes can be carried out by one brother, or a small number of brothers.”[^155] Capability may be limited for foreign actors, but domestic actors will have much greater chances of successfully carrying out an attack. As such, the motivation is high and the capability is moderate. Thus, the capacity is fairly high.
+
+Single issue terrorists cover a wide-range of beliefs. The greatest threats come from environment and animal focussed organizations. The Animal Liberation Front (ALF) and the Earth Liberation Front (ELF) pose very real threats to the agriculture industry. As Executive Assistant Director of Counterterrorism and Counterintelligence at the FBI, Dale L. Watson highlights, “...special interest extremismas characterized by the Animal Liberation Front (ALF) and the Earth Liberation Front (ELF)--has emerged as a serious terrorist threat. The FBI estimates that ALF/ELF have committed approximately 600 criminal acts in the United States since 1996, resulting in damages in excess of 42 million dollars.”[^156] These organizations are motivated and capable. Therefore, they have a high capacity.
+
+#### <u>THREAT RATING</u> ####
+
+For the threat rating, a low rating can be given where the threat has little or no capability or motivation. A high rating can be given for those threats that are highly capable and highly motivated.
+
+<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/010-threat-capacity-by-category.jpg" width="100%" class="img-responsive" alt="Threat Capacity by Category"></center><br />
+
+### <center>RECOMMENDATIONS</center> ###
+
+
+In April 2007, the Animal and Plant Health Inspection Service (APHIS) and U.S. Customs and Border Protection (CBP) stood up a joint agency task force (JATF) to evaluate and develop recommendations on how to better accomplish the agriculture inspection mission.[^157] The task force found thirteen categories of key issues, and action plans were drawn up to address the issues and implement corrective actions.[^158] The first area that needs to be improved according to the action plan is in the area of structure and leadership. It states that “the management and leadership infrastructure supporting the Ag mission from CBP should be staffed and empowered at levels equivalent to other functional mission areas in CBP.”[^159] Still needed is an evaluation of the management and support structure servicing CBP ports of entry, field offices, and headquarters in order to achieve optimum structure.[^160]
+
+Outreach and communication is another area that needs improvement. “There is a need for access to CBP officials by stakeholders to be able to voice their concerns. There is a need for CBP to establish forums to discuss issues with stakeholders. There is also an identified need for better communications and information sharing between CBP and APHIS.”[^161] Still needed is a “stakeholder data sheet containing relevant Ag-related data.”[^162]
+
+Interagency planning needs improvement. “There is a need for an effective joint planning effort on numerous fronts to ensure that both Agencies are jointly placing priority on the Ag mission and approaching mission delivery cooperatively and consistently.”[^163] Needing action is the creation of a “joint agency strategic plan consistent with JATF initiatives and aligned with each agency’s strategic plan.”[^164]
+
+Performance measurement is another area that requires attention. The implementation plan notes a need to develop and implement “both joint and CBP program performance measures for AQI activities that appropriately and adequately correlate to user fee functions as well as the disbursement of appropriated dollars.”[^165] The result should be a good performance measure. More specifically, there needs to be “performance measures for PPQ identifiers and remaining cargo pathways” as well as an evaluation and development of better “CBP performance measures.“[^166]
+
+Additionally, emergency response is lacking. “APHIS and CBP need a joint comprehensive plan to effectively deploy CBP or APHIS resources during an Ag-related emergency.”167 While approval of a plan to address this deficiency is pending with PPQ and OFO leadership, there is a need to “develop a roll-out mechanism to institute the plan” as well as rolling-out and supporting the plan.[^168]
+
+The area of information management needs CBP and APHIS “to develop a coordinated and comprehensive process to identify essential and common data elements. CBP and APHIS need to evaluate all information systems useful in compiling and expressing outcomes. CBP and APHIS need to ensure data quality and integrity and that analysis of program information is coordinated. Consistency is needed in both data input and output.”[^169] Pending is the development of a “plan for integration of systems for data collection and information sharing” and the integration with “ACE, ITDS, and CERTS.”[^170]
+
+There is a resourcing issue. In need is a “more transparent financial accountability of Agriculture Quarantine and lnspection [sic] (AQI) resources and more effective and efficient programmatic and human capital resource management.”171 Required is the validation of “the joint comprehensive risk-based Resource Allocation staffing model” and the inclusion of “enhancements to assess the number of Supervisory CBPAS,” as well as identification of agriculture resource needs a year out.[^172]
+
+CBP and APHIS need to “continue to review and improve the Ag-related training programs used by CBP.”[^173] An analysis “for existing prea-cademy, academy, and post-academy regimen for the CBPAS, CBPO, supervisory cadre, management cadre, and senior level managers to identify any Ag operational knowledge gaps” needs to take place.[^174] “Develop and implement a “train-the-trainer program on data collection for Ag coordinators on all AQAS systems, AQIM data, and specific pest identification.”[^175] “Develop and deliver technology transfer modules on the Asian citrus psyllid and fruit fly complex.”[^176] Regulatory enforcement is deficient. Required is the “maintenance of an effective, efficient, joint effort for consistent enforcement of the Plant Protection Act and the Animal Health Protection Act.”[^177] To address this, “a process to review Ag-related civil penalties, including OGC process within USDA for adjudication” needs to be developed.[^178]
+
+Next, there is an issue with pest identification. “CBP and APHIS need a joint comprehensive plan to establish standards of service in pest identification, training, and discard authority.” Creation of “procedures for developing and maintaining synoptic plant pest collections at the port level,” “standardize[d] pest identification reports,” and the reinvigoration and adjustment of “the Cargo Release Authority program” are necessary.[^179]
+
+Operations are another area that needs improvement. “CBP and APHIS need a joint comprehensive plan to establish and maintain priorities for Ag-related operational issues that need to be improved.”[^180] Still need are a review and discussion of the “operational functions of the Ag national trend analysis group.”[^181] There should also be an established and maintained “risk-based targeting schemes for select CBP air passenger operations,” as well as the development and implementation of “risk analyst positions in USDA regional offices.”[^182] There needs to be an evaluation of “existing technologies seeking ways to leverage new technologies to improve operations” and the development of “operations for Ag “jump team” and/or Ag enforcement teams.”[^183]
+
+Quality assurance remains deficient. “Incorporation of quantifiable performance measures into the CBP Ag mission resulting in improved oversight and consistent application of the Ag inspection policy” are desired.[^184] “Ag-related training metrics to increase oversight and validation of completeness,” are needed.[^185]
+
+Lastly, there is inadequate canine usage. “CBP should maximize the utilization of Agriculture canines in the field to provide for a more efficient and effective layered enforcement of protecting American agriculture.”[^186] By developing canine “training and performance metrics to increase oversight and validation of completion,” canines can be utilized more effectively.[^187]
+
+### <center>CONCLUSION</center> ###
+
+This threat assessment is by no means exhaustive. It is a surficial review of known agricultural vulnerabilities and agroterrorism threats with the purpose of highlighting weaknesses and spurring further research and analysis. Threat assessments can serve as an effective 
 
 
 
 
-
-
-secular right‐wing groups; religious terrorist groups; and single‐issue groups, the threat inventory
-identified the types of terrorist organizations and noted prominent groups therein. The threat
-capacity will take these categories and look at motivation and capability to measure capacity.
-There are no designated nationalist, separatist, and irredentist groups operating in the
-U.S. However, as was mentioned in the previous section, some fringe groups hold beliefs that
-align with this categorization. Motivationally speaking, if a group were to organize further, a more
-substantial threat could emanate. Separatist groups have carried out guerilla fights against
-states utilizing many tactics in the past. While it would be premature to speculate as to whether
-the existent groups in the U.S. or those that share sentiment would be motivated to carry out
-agricultural bioterrorism, it can be said that their capability would be on par with individual
-homegrown terrorists as there are no wellcoordinated
-or structured groups operating in the U.S.
-Secular leftwing
-groups have historically carried out violent attacks and posed a great
-threat in the U.S. during the height of the Cold War. That said, since the end of the Cold War and
-the cessation of statesponsorship
-to disparate leftwing
-terrorist actors in the U.S., the threat
-has been largely reduced to individuals. Larger organizations like the U.S. Communist Party
-might sympathize with potential actors, but there are no designated leftwing
-terrorist
-organizations operating in the U.S. Agriculture could be a target to individual actors with leftist
-beliefs. Especially when viewed as a means to impact the U.S. capitalist economy. Capacity
-however remains low due to a lack of organization and absence of specific threats.
-Secular rightwing
-groups pose a unique threat to agriculture. While members of the
-fringe left have tended to populate urban areas, rightwing
-members have gravitated towards
-rural areas. This puts them, generally speaking, in close proximity to much of the nation’s
-agriculture production. Motivation may vary with ringwing
-individuals as some may have direct
-interests in the agriculture (e.g., they may work in the agriculture industry). However, if the aim is
-41 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-to take down the “corrupt” government, agricultural bioterrorism may be seen as a means to that
-end, and familiarity with agriculture lends heavily to this form of attack. Groups and individuals
-that fall under racist or issue based rightwing
-ideology (e.g., immigration) may be more inclined
-to target specific agriculture based who owns it than government focused groups. There is a
-higher degree of organization within this category than the preceding two, but the the threat is
-mostly from individual actors. Thus, the capacity to carry out agricultural bioterrorism varies
-widely.
-Religious terrorist organizations pose a significant threat to agriculture. Specifically,
-alQa’ida,
-affiliated organizations, and their adherents have sufficient motivation and resolve to
-carry out an act of agricultural bioterrorism. Todate,
-alQa’ida
-has opted for attempting flashier
-attacks that exact a high number of casualties. However, with the enormous rise of antiterrorism
-infrastructure in the post9/
-11 world, softer targets like agriculture are increasingly more likely to
-be targeted. Moreover, an agricultural bioattack
-is fully consistent with alQa’ida’s
-modus
-operandi. AlQa’ida’s
-leader, Ayman alZawahiri,
-stated recently that “We [believers] should bleed
-America economically by motivating it to continue its huge expenditure on its security as
-America's weak point is its economy...” AlQa’ida
-does not operate in large 154 numbers in the
-U.S., but has like actors in other categories the potential to inspire individual or lonewolf
-attacks.
-Indeed alZawahiri
-calls for such attacks. “These dispersed strikes can be carried out by one
-brother, or a small number of brothers.”155 Capability may be limited for foreign actors, but
-domestic actors will have much greater chances of successfully carrying out an attack. As such,
-the motivation is high and the capability is moderate. Thus, the capacity is fairly high.
-Single issue terrorists cover a widerange
-of beliefs. The greatest threats come from
-154 "AlQaeda
-leader calls to bleed US economy," CNBC, September 13, 2013, accessed December 1,
-2013, http://www.cnbc.com/id/101032490.
-155 Gordon Corera, "AlQaeda
-chief Zawahiri urges 'lonewolf'
-attacks on US," BBC, September 13, 2013,
-accessed December 1, 2013, http://www.bbc.co.uk/news/worldmiddleeast24083314.
-42 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-environment and animal focussed organizations. The Animal Liberation Front (ALF) and the
-Earth Liberation Front (ELF) pose very real threats to the agriculture industry. As Executive
-Assistant Director of Counterterrorism and Counterintelligence at the FBI, Dale L. Watson
-highlights, “...special interest extremismas
-characterized by the Animal Liberation Front (ALF)
-and the Earth Liberation Front (ELF)has
-emerged as a serious terrorist threat. The FBI
-estimates that ALF/ELF have committed approximately 600 criminal acts in the United States
-since 1996, resulting in damages in excess of 42 million dollars.” These 156 organizations are
-motivated and capable. Therefore, they have a high capacity.
-THREAT RATING
-For the threat rating, a low rating can be given where the threat has little or no capability
-or motivation. A high rating can be given for those threats that are highly capable and highly
-motivated.
-RECOMMENDATIONS
-In April 2007, the Animal and Plant Health Inspection Service (APHIS) and U.S. Customs
-and Border Protection (CBP) stood up a joint agency task force (JATF) to evaluate and develop
-156 "Testimony Before the Senate Select Committee on Intelligence."
-43 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-recommendations on how to better accomplish the agriculture inspection mission.157 The task
-force found thirteen categories of key issues, and action plans were drawn up to address the
-issues and implement corrective actions.158 The first area that needs to be improved according
-to the action plan is in the area of structure and leadership. It states that “the management and
-leadership infrastructure supporting the Ag mission from CBP should be staffed and empowered
-at levels equivalent to other functional mission areas in CBP.”159 Still needed is an evaluation of
-the management and support structure servicing CBP ports of entry, field offices, and
-headquarters in order to achieve optimum structure.160
-Outreach and communication is another area that needs improvement. “There is a need
-for access to CBP officials by stakeholders to be able to voice their concerns. There is a need
-for CBP to establish forums to discuss issues with stakeholders. There is also an identified need
-for better communications and information sharing between CBP and APHIS.”161 Still needed is a
-“stakeholder data sheet containing relevant Agrelated
-data.”162
-Interagency planning needs improvement. “There is a need for an effective joint planning
-effort on numerous fronts to ensure that both Agencies are jointly placing priority on the Ag
-mission and approaching mission delivery cooperatively and consistently.”163 Needing action is
-the creation of a “joint agency strategic plan consistent with JATF initiatives and aligned with
-each agency’s strategic plan.”164
-Performance measurement is another area that requires attention. The implementation
-157 “Joint Agency Task Force – Implementation Action Plans,” U.S. Customs and Border Protection, August
-4, 2011, accessed November 24, 2013,
-http://www.cbp.gov/linkhandler/cgov/border_security/port_activities/agro_inspection/jatf_implementation.ctt/j
-atf_implementation.doc.
-158 Ibid.
-159 Ibid
-160 Ibid.
-161 Ibid.
-162 Ibid.
-163 Ibid.
-164 Ibid.
-44 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-plan notes a need to develop and implement “both joint and CBP program performance
-measures for AQI activities that appropriately and adequately correlate to user fee functions as
-well as the disbursement of appropriated dollars.” The result should be 165 a good performance
-measure. More specifically, there needs to be “performance measures for PPQ identifiers and
-remaining cargo pathways” as well as an evaluation and development of better “CBP
-performance measures.“166
-Additionally, emergency response is lacking. “APHIS and CBP need a joint
-comprehensive plan to effectively deploy CBP or APHIS resources during an Agrelated
-emergency.”167 While approval of a plan to address this deficiency is pending with PPQ and
-OFO leadership, there is a need to “develop a rollout
-mechanism to institute the plan” as well as
-rollingout
-and supporting the plan.168
-The area of information management needs CBP and APHIS “to develop a coordinated
-and comprehensive process to identify essential and common data elements. CBP and APHIS
-need to evaluate all information systems useful in compiling and expressing outcomes. CBP and
-APHIS need to ensure data quality and integrity and that analysis of program information is
-coordinated. Consistency is needed in both data input and output.”169 Pending is the
-development of a “plan for integration of systems for data collection and information sharing” and
-the integration with “ACE, ITDS, and CERTS.”170
-There is a resourcing issue. In need is a “more transparent financial accountability of
-Agriculture Quarantine and lnspection [sic] (AQI) resources and more effective and efficient
-programmatic and human capital resource management.”171 Required is the validation of “the
-165 Ibid.
-166 Ibid.
-167 Ibid.
-168 Ibid.
-169 Ibid.
-170 Ibid.
-171 Ibid.
-45 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-joint comprehensive riskbased
-Resource Allocation staffing model” and the inclusion of
-“enhancements to assess the number of Supervisory CBPAS,” as well as identification of
-agriculture resource needs a year out.172
-CBP and APHIS need to “continue to review and improve the Agrelated
-training
-programs used by CBP.”173 An analysis “for existing preacademy,
-academy, and postacademy
-regimen for the CBPAS, CBPO, supervisory cadre, management cadre, and senior level
-managers to identify any Ag operational knowledge gaps” needs to take place.174 “Develop and
-implement a “trainthetrainer
-program on data collection for Ag coordinators on all AQAS
-systems, AQIM data, and specific pest identification.”175 “Develop and deliver technology transfer
-modules on the Asian citrus psyllid and fruit fly complex.”176
-Regulatory enforcement is deficient. Required is the “maintenance of an effective,
-efficient, joint effort for consistent enforcement of the Plant Protection Act and the Animal Health
-Protection Act.”177 To address this, “a process to review Agrelated
-civil penalties, including OGC
-process within USDA for adjudication” needs to be developed.178
-Next, there is an issue with pest identification. “CBP and APHIS need a joint
-comprehensive plan to establish standards of service in pest identification, training, and discard
-authority.” Creation of “procedures for developing and maintaining synoptic plant pest collections
-at the port level,” “standardize[d] pest identification reports,” and the reinvigoration and
-adjustment of “the Cargo Release Authority program” are necessary.179
-Operations are another area that needs improvement. “CBP and APHIS need a joint
-172 Ibid.
-173 Ibid.
-174 Ibid.
-175 Ibid.
-176 Ibid.
-177 Ibid.
-178 Ibid.
-179 Ibid.
-46 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
-comprehensive plan to establish and maintain priorities for Agrelated
-operational issues that
-need to be improved.” Still need are a review and discussion of the “operational 180 functions of
-the Ag national trend analysis group.”181 There should also be an established and maintained
-“riskbased
-targeting schemes for select CBP air passenger operations,” as well as the
-development and implementation of “risk analyst positions in USDA regional offices.”182 There
-needs to be an evaluation of “existing technologies seeking ways to leverage new technologies
-to improve operations” and the development of “operations for Ag “jump team” and/or Ag
-enforcement teams.”183
-Quality assurance remains deficient. “Incorporation of quantifiable performance
-measures into the CBP Ag mission resulting in improved oversight and consistent application of
-the Ag inspection policy” are desired.184 “Agrelated
-training metrics to increase oversight and
-validation of completeness,” are needed.185
-Lastly, there is inadequate canine usage. “CBP should maximize the utilization of
-Agriculture canines in the field to provide for a more efficient and effective layered enforcement of
-protecting American agriculture.”186 By developing canine “training and performance metrics to
-increase oversight and validation of completion,” canines can be utilized more effectively.187
-CONCLUSION
-This threat assessment is by no means exhaustive. It is a surficial review of known
-agricultural vulnerabilities and agroterrorism threats with the purpose of highlighting weaknesses
-and spurring further research and analysis. Threat assessments can serve as an effective
-180 Ibid.
-181 Ibid.
-182 Ibid.
-183 Ibid.
-184 Ibid.
-185 Ibid.
-186 Ibid.
-187 Ibid.
-47 of 49
-Christopher M. Cherry
-Student ID 00536610
-December 12, 2013
 instrument for ongoing policy review in the policy lifecycle. In order to more fully address the
 complex threat environment which exists, a more comprehensive and routine threat assessment
 should be mandated by the Federal government.
@@ -820,3 +620,71 @@ prevent potentially cascading terrorist attacks.
 [^152]: Ibid.
 
 [^153]: Dale L. Watson, "Testimony Before the Senate Select Committee on Intelligence," Federal Bureau of Investigation, February 6, 2002, accessed December 1, 2013, http://www.fbi.gov/news/testimony/theterroristthreatconfrontingtheunitedstates.
+
+[^154]: "Al-Qaeda leader calls to bleed US economy," CNBC, September 13, 2013, accessed December 1, 2013, http://www.cnbc.com/id/101032490.
+
+[^155]: Gordon Corera, "Al-Qaeda chief Zawahiri urges 'lonewolf' attacks on US," BBC, September 13, 2013, accessed December 1, 2013, http://www.bbc.co.uk/news/worldmiddleeast24083314.
+
+[^156]: "Testimony Before the Senate Select Committee on Intelligence."
+
+[^157]: “Joint Agency Task Force – Implementation Action Plans,” U.S. Customs and Border Protection, August 4, 2011, accessed November 24, 2013, http://www.cbp.gov/linkhandler/cgov/border_security/port_activities/agro_inspection/jatf_implementation.ctt/jatf_implementation.doc.
+
+[^158]: Ibid.
+
+[^159]: Ibid
+
+[^160]: Ibid.
+
+[^161]: Ibid.
+
+[^162]: Ibid.
+
+[^163]: Ibid.
+
+[^164]: Ibid.
+
+[^165]: Ibid.
+
+[^166]: Ibid.
+
+[^167]: Ibid.
+
+[^168]: Ibid.
+
+[^169]: Ibid.
+
+[^170]: Ibid.
+
+[^171]: Ibid.
+
+[^172]: Ibid.
+
+[^173]: Ibid.
+
+[^174]: Ibid.
+
+[^175]: Ibid.
+
+[^176]: Ibid.
+
+[^177]: Ibid.
+
+[^178]: Ibid.
+
+[^179]: Ibid.
+
+[^180]: Ibid.
+
+[^181]: Ibid.
+
+[^182]: Ibid.
+
+[^183]: Ibid.
+
+[^184]: Ibid.
+
+[^185]: Ibid.
+
+[^186]: Ibid.
+
+[^187]: Ibid.
