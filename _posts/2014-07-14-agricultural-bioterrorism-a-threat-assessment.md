@@ -551,9 +551,9 @@ Taking action plans from the JATF, thirteen areas need to be improved upon to be
 
 [^144]: "Methodologies and Attributes for Assessing Terrorist Threats of WMD Terrorism."
 
-[^145] Mark Potok, "The Year in Hate and Extremism," Southern Poverty Law Center, Intelligence Report, Issue 149 (2013), accessed December 1, 2013, http://www.splcenter.org/home/2013/spring/theyearinhateandextremism.
+[^145]: Mark Potok, "The Year in Hate and Extremism," Southern Poverty Law Center, Intelligence Report, Issue 149 (2013), accessed December 1, 2013, http://www.splcenter.org/home/2013/spring/theyearinhateandextremism.
 
-[^146] Ibid.
+[^146]: Ibid.
 
 [^147]: "Rightwing Extremism: Current Economic and Political Climate Fueling Resurgence in Radicalization and Recruitment," Department of Homeland Security, Office of Intelligence and Analysis, April 7, 2009, accessed September 28, 2013, http://www.fas.org/irp/eprint/rightwing.pdf.
 
