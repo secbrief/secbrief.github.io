@@ -30,7 +30,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 
 #### <strong><u>TOP CROP EXPORTS</u></strong> ####
 
-<div class="table-responsive"><table class="table">
+<div class="table-responsive"><table class"table">
 
 |:---------------------------------------------------:|
 | Export            | Percentage of Worldwide Exports |
@@ -44,9 +44,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 |:----------------------------------------------------|
 | <strong>Source:</strong> "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
 
-</div></table>
-
-<hr>
+</div></table><hr>
 
 Domestically, there are numerous industries that are dependent upon agriculture related inputs. These include: forestry, fishing, and related activities; food, beverages, and tobacco products; textiles, apparel, and leather products; as well as food services and drinking places.[^7] Together these dependent industries makeup $603.9 billion of the U.S. economy.[^8] Other industries that impact and are impacted by the agriculture industry are the gasoline and fuel, fertilizer, seed, feed, and livestock industries which represent $16.9 billion, $27.6 billion, $17.6 billion, $57 billion, and $23.5 billion respectively, and $142.6 billion collectively in agriculture related expenses.[^9]
 
