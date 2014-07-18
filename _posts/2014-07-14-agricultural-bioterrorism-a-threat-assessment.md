@@ -40,6 +40,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 |:----------------------------------------------------|
 | Source: "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
 
+<br />
 Domestically, there are numerous industries that are dependent upon agriculture related inputs. These include: forestry, fishing, and related activities; food, beverages, and tobacco products; textiles, apparel, and leather products; as well as food services and drinking places.[^7] Together these dependent industries makeup $603.9 billion of the U.S. economy.[^8] Other industries that impact and are impacted by the agriculture industry are the gasoline and fuel, fertilizer, seed, feed, and livestock industries which represent $16.9 billion, $27.6 billion, $17.6 billion, $57 billion, and $23.5 billion respectively, and $142.6 billion collectively in agriculture related expenses.[^9]
 
 Labor statistics from the most recent Census of Agriculture show that the agricultural industry spent $21.9 billion in 2007 on labor.[^10] From that, the agriculture industry employs over 2.6 million workers.[^11] Agriculture dependent industries employ another 13.5 million workers.[^12] Cumulatively, there are more than 16 million agriculture and agriculture-dependent jobs making up 9.1 percent of total U.S. employment.[^13]
