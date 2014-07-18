@@ -613,7 +613,7 @@ Taking action plans from the JATF, thirteen areas need to be improved upon to be
 
 [^51]: Ibid.
 
-[^52]: "Homeland Security Presidential Directive / HSPD-9," Office of the Press Secretary, The White House, February 3, 2004, accessed November 20, 2013, http://www.fas.org/irp/offdocs/nspd/hspd9.html.
+[^52]: "Homeland Security Presidential Directive / HSPD-9," Office of the Press Secretary, The White House, February 3, 2004, accessed November 20, 2013, http://www.fas.org/irp/offdocs/nspd/hspd-9.html.
 
 [^53]: Ibid.
 
@@ -623,7 +623,7 @@ Taking action plans from the JATF, thirteen areas need to be improved upon to be
 
 [^56]: Ibid.
 
-[^57]: "Biodefense for the 21st Century," Office of the Press Secretary, The White House, April 28, 2004, accessed November 24, 2013, https://www.fas.org/irp/offdocs/nspd/hspd10.html.
+[^57]: "Biodefense for the 21st Century," Office of the Press Secretary, The White House, April 28, 2004, accessed November 24, 2013, https://www.fas.org/irp/offdocs/nspd/hspd-10.html.
 
 [^58]: Ibid.
 
