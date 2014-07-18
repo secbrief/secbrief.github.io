@@ -411,14 +411,14 @@ The U.S. government has also identified biological agents and toxins which it be
 | Mycoplasma capricolum                          |                                                               | Hendra virus                          |
 | Mycoplasma mycoides                            |                                                               | Nipah virus                           |
 | Newcastle disease virus                        |                                                               | Rift Valley fever virus               |
-| Peste des petits ruminants virus               |                                                               | Venezuelan equine encephalitis virus  |      
+| Peste des petits ruminants virus               |                                                               | Venezuelan equine encephalitis virus  |
 | Rinderpest virus                               |                                                               |                                       |
 | Sheep pox virus                                |                                                               |                                       |
 | Swine vesicular disease virus                  |                                                               |                                       |
 {: class="table table-striped"}
 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Source:** "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
+| **Source:** "Select Agent and Toxin List," U.S. Department of Agriculture, last modified December 4, 2012, accessed November 18, 2013, http://www.aphis.usda.gov/programs/ag_selectagent/ag_bioterr_toxinlist.shtml. |
 {: class="table"}
 
 <hr>
