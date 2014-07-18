@@ -38,11 +38,11 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 | Cotton            | 27.70%                          |
 | Rice              | 8.60%                           |
 | Oilseed (Soybean) | 39.50%                          |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
-{: class="table"}
+{: class="table-responsive"}
 
 <hr>
 
@@ -64,11 +64,11 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 | Oilseed and grain farms                                                                                     | 10%                                     | $2.1b          |
 | Beef cattle farms                                                                                           | 7%                                      | $1.5b          |
 | Animal aquaculture and other animals, poultry and eggs, hogs and pigs, cattle feedlots, and sheep and goats | 23%                                     | $5.1b          |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
-{: class="table"}
+{: class="table-responsive"}
 
 <hr>
 
@@ -90,11 +90,11 @@ Nine states jointly represent over half of all agriculture related employment.[^
 | Minnesota         | $13.6b                                                             |
 | North Carolina    | $10.5b                                                             |
 | Wisconsin         | $9.2b                                                              |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Table 838. Farms--Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf. |
-{: class="table"}
+{: class="table-responsive"}
 
 <hr>
 
@@ -116,11 +116,11 @@ Of the 920 million acres of farmland which spans across all fifty states, nine s
 | Missouri       | $68.4b                                 | 4%                                                            |
 | Indiana        | $63.6                                  | 3%                                                            |
 | Wisconsin      | $57b                                   | 3%                                                            |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Statistical Abstract of  the United States: 2012," USDA, 2012, 42, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/chapter09.pdf. |
-{: class="table"}
+{: class="table-responsive"}
 
 <hr>
 
@@ -140,7 +140,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Kansas         | 6.1m          | $6.8b              |
 |                                                | California     | 5.35m         | $6.2b              |
 | **U.S. Total**                                 |                | 90.8m         | $100.7b            |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:----------------------------------------------------------------------------------------------------:|
@@ -152,7 +152,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Minnesota      | 6.8m          | $1.1b              |
 |                                                | North Carolina | 8.9m          | $888m              |
 | **U.S. Total**                                 |                | 66.4m         | $8b                |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:----------------------------------------------------------------------------------------------------:|
@@ -165,7 +165,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Texas          | 230,000       | $36.5m             |
 |                                                | Wyoming        | 230,000       | $34m               |
 | **U.S. Total**                                 |                | 5.3m          | $442.9m            |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:----------------------------------------------------------------------------------------------------:|
@@ -181,7 +181,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Pennsylvania   | 28.9m         | $106.9m            |
 |                                                | Texas          | 23.6m         | $99.2m             |
 | **U.S. Total**                                 |                | 447m          | $1.7b              |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:----------------------------------------------------------------------------------------------------:|
@@ -196,7 +196,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | South Carolina | 11.5m         | $305.9m            |
 |                                                | California     | 15m           | $287.5m            |
 | **U.S. Total**                                 |                | 249m          | $5b                |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:----------------------------------------------------------------------------------------------------:|
@@ -212,7 +212,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Texas          | 4.9b          | $420.6m            |
 |                                                | Arkansas       | 3b            | $406.2m            |
 | **U.S. Total**                                 |                | 91.9b         | $5b                |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:----------------------------------------------------------------------------------------------------:|
@@ -223,11 +223,11 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | California     | 1.8m          | $7.7b              |
 |                                                | Wisconsin      | 1.3m          | $5.4b              |
 | **U.S. Total**                                 |                | 9.2m          | $39.7b             |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
-{: class="table"}
+{: class="table-responsive"}
 
 <hr>
 
@@ -243,7 +243,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Nebraska       | 1.5b bushels  | $9.4b              |
 |                                                | Minnesota      | 1.2b bushels  | $7b                |
 | **U.S. Total**                                 |                | 12.4b bushels | $75.5b             |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:----------------------------------------------------------------------------------------------------:|
@@ -257,7 +257,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Nebraska       | 258m bushels  | $3b                |
 |                                                | Indiana        | 238m bushels  | $2.8b              |
 | **U.S. Total**                                 |                | 3.1b bushels  | $35.8b             |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:----------------------------------------------------------------------------------------------------:|
@@ -272,7 +272,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Idaho          | 116m bushels  | $786.2m            |
 |                                                | South Dakota   | 104.8m bushels| $799.5m            |
 | **U.S. Total**                                 |                | 2b bushels    | $14.4b             |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:----------------------------------------------------------------------------------------------------:|
@@ -287,12 +287,12 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Mississippi    | 10.8m cwt     | $112.2m            |
 |                                                | Missouri       | 8.3m cwt      | $182.5m            |
 | **U.S. Total**                                 |                | 185m cwt      | $2.6b              |
-{: class="table table-striped"}
+{: class="table-responsive table-striped"}
 
 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
-{: class="table"}
+{: class="table-responsive"}
 
 <hr>
 
