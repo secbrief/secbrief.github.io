@@ -139,7 +139,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Nebraska       | 6.45m head    | $8b                |
 |                                                | Kansas         | 6.1m head     | $6.8b              |
 |                                                | California     | 5.35m head    | $6.2b              |
-|:-----------------------------------------------------------------------------------------------------|
 | **U.S. Total**                                 |                | 90.8m head    | $100.7b            |
 {: class="table table-striped"}
 
@@ -153,7 +152,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Iowa           | 20m           | $2.6b              |
 |                                                | Minnesota      | 6.8m          | $1.1b              |
 |                                                | North Carolina | 8.9m          | $888m              |
-|:-----------------------------------------------------------------------------------------------------|
 | **U.S. Total**                                 |                | 66.4m         | $8b                |
 {: class="table table-striped"}
 
@@ -167,7 +165,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | California     | 465,000       | $45.7m             |
 |                                                | Texas          | 230,000       | $36.5m             |
 |                                                | Wyoming        | 230,000       | $34m               |
-|:-----------------------------------------------------------------------------------------------------|
 | **U.S. Total**                                 |                | 5.3m          | $442.9m            |
 {: class="table table-striped"}
 
@@ -184,7 +181,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Alabama        | 15.4m         | $109.1m            |
 |                                                | Pennsylvania   | 28.9m         | $106.9m            |
 |                                                | Texas          | 23.6m         | $99.2m             |
-|:-----------------------------------------------------------------------------------------------------|
 | **U.S. Total**                                 |                | 447m          | $1.7b              |
 {: class="table table-striped"}
 
@@ -200,7 +196,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Virginia       | 17.5m         | $313.9m            |
 |                                                | South Carolina | 11.5m         | $305.9m            |
 |                                                | California     | 15m           | $287.5m            |
-|:-----------------------------------------------------------------------------------------------------|
 | **U.S. Total**                                 |                | 249m          | $5b                |
 {: class="table table-striped"}
 
@@ -217,7 +212,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Indiana        | 6.5b          | $422.3m            |
 |                                                | Texas          | 4.9b          | $420.6m            |
 |                                                | Arkansas       | 3b            | $406.2m            |
-|:-----------------------------------------------------------------------------------------------------|
 | **U.S. Total**                                 |                | 91.9b eggs    | $5b                |
 {: class="table table-striped"}
 
@@ -229,7 +223,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 | Top Producing States (50% of Total Production) |                |               |                    |
 |                                                | California     | 1.8m          | $7.7b              |
 |                                                | Wisconsin      | 1.3m          | $5.4b              |
-|:-----------------------------------------------------------------------------------------------------|
 | **U.S. Total**                                 |                | 9.2m milk cows| $39.7b             |
 {: class="table table-striped"}
 
