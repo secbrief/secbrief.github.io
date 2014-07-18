@@ -44,6 +44,22 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 
 Labor statistics from the most recent Census of Agriculture show that the agricultural industry spent $21.9 billion in 2007 on labor.[^10] From that, the agriculture industry employs over 2.6 million workers.[^11] Agriculture dependent industries employ another 13.5 million workers.[^12] Cumulatively, there are more than 16 million agriculture and agriculture-dependent jobs making up 9.1 percent of total U.S. employment.[^13]
 
+#### <br /><strong><u>AGRICULTURE RELATED EMPLOYMENT</u></strong> ####
+
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Industry                                                                                                    | Percentage of Annual Labor Expenditures | Amount         |
+|:------------------------------------------------------------------------------------------------------------|:---------------------------------------:|:--------------:|
+| Greenhouse, nursery, floriculture operations                                                                | 21%                                     | $4.7 billion   |
+| Fruit and tree nut operations                                                                               | 16%                                     | $3.5 billion   |
+| Dairy cattle and milk production                                                                            | 13%                                     | $2.8 billion   |
+| Vegetable and melon farms                                                                                   | 10%                                     | $2.2 billion   |
+| Oilseed and grain farms                                                                                     | 10%                                     | $2.1 billion   |
+| Beef cattle farms                                                                                           | 7%                                      | $1.5 billion   |
+| Animal aquaculture and other animals, poultry and eggs, hogs and pigs, cattle feedlots, and sheep and goats | 23%                                     | $5.1 billion   |
+
+|:----------------------------------------------------|
+| <strong>Source:</strong> "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
+
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/002-agriculture-related-employment.jpg" class="img-responsive" alt="Agriculture Related Employment"></center><br />
 
 Nine states jointly represent over half of all agriculture related employment.[^14] Nearly 450,000 people are in employed in California alone. Washington state employs approximately 240,000 workers, while Texas, Florida, Oregon, Michigan, North Carolina, Minnesota and Wisconsin each employ more than 75,000 agworkers.[^15]
