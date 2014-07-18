@@ -49,7 +49,7 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Industry                                                                                                    | % of Annual Labor Expenditures | Amount         |
 |:------------------------------------------------------------------------------------------------------------|:---------------------------------------:|:--------------:|
-| Greenhouse, nursery, floriculture operations                                                                | 21%                                     | $4.7 billion   |
+| Greenhouse, nursery, floriculture operations                                                                | 21%                                     | $4.7b   |
 | Fruit and tree nut operations                                                                               | 16%                                     | $3.5 billion   |
 | Dairy cattle and milk production                                                                            | 13%                                     | $2.8 billion   |
 | Vegetable and melon farms                                                                                   | 10%                                     | $2.2 billion   |
