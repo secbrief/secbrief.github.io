@@ -14,7 +14,7 @@ tags: [Agriculture, Agricultural, Threat, Bioterrorism, Agricultural Bioterroris
 
 The threat of agricultural bioterrorism remains one of the single greatest threats to local and state economies, as well as the overall U.S. economy. In worst case scenarios, specific vulnerabilities could be exploited by highly capable actors which would extend damage beyond far-reaching economic losses, and threaten broader domestic food security and continuity. While not discounted as a credible threat, agricultural bioterrorism has not received sufficient or consistent enough attention in comparison to lower probability threats. Having garnered periodic spurts of attention in the past fifteen years, academic reports and publications on the subject are currently waning. In fact, very little has been published publicly on the subject of agricultural bioterrorism in the past six years, and much of what was written prior to the current lull relied on information and data that are now ten or more years outofdate. As such, there is a need for a current review and analysis of antiterrorism efforts to protect agriculture, as well as a present-day look at the threat environment. This threat assessment will bridge the gap in agricultural bioterrorism scholarship while hopefully spurring a wider and more routine discussion on the subject.
 
-The greatest threat to the U.S. agriculture industry is the intentional introduction of Foot and Mouth Disease by domestic or foreign terrorists. Livestock auctions are particularly vulnerable. Inoculated livestock could end up in many different ranches and farms across different states before symptoms would manifest. Billions of dollars of lost exports and culled livestock would be the short term consequence. Long term consequences could be more devastating. Preharvest crops are also quite vulnerable to attack. Crop pathogens that impact corn, soybeans, wheat, and other cereals are a significant threat. Farms are quite vulnerable to attack given their size, number of potential avenues for attack, and lack of security. Surveillance and the early stemming of outbreaks following a terrorist attack would be critical to mitigating loss. While genetic hardening has reduced the likelihood of natural outbreaks, it has made crops particularly vulnerable to intentional introduction of disease. Export crops and staple grains are prime targets.
+The greatest threat to the U.S. agriculture industry is the intentional introduction of Foot and Mouth Disease by domestic or foreign terrorists. Livestock auctions are particularly vulnerable. Inoculated livestock could end up in many different ranches and farms across different states before symptoms would manifest. Billions of dollars of lost exports and culled livestock would be the short term consequence. Long term consequences could be more devastating. Pre-harvest crops are also quite vulnerable to attack. Crop pathogens that impact corn, soybeans, wheat, and other cereals are a significant threat. Farms are quite vulnerable to attack given their size, number of potential avenues for attack, and lack of security. Surveillance and the early stemming of outbreaks following a terrorist attack would be critical to mitigating loss. While genetic hardening has reduced the likelihood of natural outbreaks, it has made crops particularly vulnerable to intentional introduction of disease. Export crops and staple grains are prime targets.
 
 The majority of the statistics and information about agriculture in this paper are taken from the U.S. Department of Agriculture. Other government reports and documents were also consulted. While this assessment attempts to offer policy makers a more current threat assessment on the subject of agricultural bioterrorism, this paper is by no means comprehensive. Rather, it takes a cursory look at the subject and offers conclusions and recommendations based on surficial information.
 
@@ -140,7 +140,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Kansas         | 6.1m head     | $6.8b              |
 |                                                | California     | 5.35m head    | $6.2b              |
 |:-----------------------------------------------------------------------------------------------------|
-| U.S. Total                                     |                | 90.8m head    | $100.7b            |
+| **U.S. Total**                                 |                | 90.8m head    | $100.7b            |
 {: class="table table-striped"}
 
 
@@ -154,7 +154,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Minnesota      | 6.8m          | $1.1b              |
 |                                                | North Carolina | 8.9m          | $888m              |
 |:-----------------------------------------------------------------------------------------------------|
-| U.S. Total                                     |                | 66.4m         | $8b                |
+| **U.S. Total**                                 |                | 66.4m         | $8b                |
 {: class="table table-striped"}
 
 
@@ -168,7 +168,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Texas          | 230,000       | $36.5m             |
 |                                                | Wyoming        | 230,000       | $34m               |
 |:-----------------------------------------------------------------------------------------------------|
-| U.S. Total                                     |                | 5.3m          | $442.9m            |
+| **U.S. Total**                                 |                | 5.3m          | $442.9m            |
 {: class="table table-striped"}
 
 
@@ -185,7 +185,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Pennsylvania   | 28.9m         | $106.9m            |
 |                                                | Texas          | 23.6m         | $99.2m             |
 |:-----------------------------------------------------------------------------------------------------|
-| U.S. Total                                     |                | 447m          | $1.7b              |
+| **U.S. Total**                                 |                | 447m          | $1.7b              |
 {: class="table table-striped"}
 
 
@@ -201,7 +201,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | South Carolina | 11.5m         | $305.9m            |
 |                                                | California     | 15m           | $287.5m            |
 |:-----------------------------------------------------------------------------------------------------|
-| U.S. Total                                     |                | 249m          | $5b                |
+| **U.S. Total**                                 |                | 249m          | $5b                |
 {: class="table table-striped"}
 
 
@@ -218,7 +218,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Texas          | 4.9b          | $420.6m            |
 |                                                | Arkansas       | 3b            | $406.2m            |
 |:-----------------------------------------------------------------------------------------------------|
-| U.S. Total                                     |                | 91.9b eggs    | $5b                |
+| **U.S. Total**                                 |                | 91.9b eggs    | $5b                |
 {: class="table table-striped"}
 
 
@@ -446,7 +446,7 @@ Lastly, there is inadequate canine usage. “CBP should maximize the utilization
 
 This threat assessment is by no means exhaustive. It is a surficial review of known agricultural vulnerabilities and agroterrorism threats with the purpose of highlighting weaknesses and spurring further research and analysis. Threat assessments can serve as an effective instrument for ongoing policy review in the policy lifecycle. In order to more fully address the complex threat environment which exists, a more comprehensive and routine threat assessment should be mandated by the Federal government.
 
-This assessment finds that the most likely perpetrators of agricultural bioterrorism are Islamists (alQa’ida, affiliated groups, and their adherents), anti-government right-wing extremists, and environmental/animal extremists (e.g., ELF and ALF). Due to antiterrorism efforts and the difficulty associated with carrying out a large and well coordinated attack, the most likely scenario involves lone-wolf actors or small cells of individuals.
+This assessment finds that the most likely perpetrators of agricultural bioterrorism are Islamists (al-Qa’ida, affiliated groups, and their adherents), anti-government right-wing extremists, and environmental/animal extremists (e.g., ELF and ALF). Due to antiterrorism efforts and the difficulty associated with carrying out a large and well coordinated attack, the most likely scenario involves lone-wolf actors or small cells of individuals.
 
 In terms of vulnerability, both livestock and crops are vulnerable to attack. Foot and Mouth Disease is the greatest threat to livestock, but Peste des Petits Ruminants, Avian Influenza, virulent Newcastle disease, Rift Valley Fever, Classical Swine Fever, African Swine Fever, Vesicular Stomatitis, Exotic bluetongue, and Lumpy skin disease are also major threats. Leading pathogens that pose a threat to crops include: Peronosclerospora philippinensis (Peronosclerospora sacchari), Phoma glycinicola (formerly Pyrenochaeta glycines), Ralstonia solanacearum, Rathayibacter toxicus, Sclerophthora rayssiae, Synchytrium endobioticum, and Xanthomonas oryzae.
 
