@@ -42,7 +42,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 
 |:----------------------------------------------------|
 | <strong>Source:</strong> "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
-{: class="table info"}
+{: class="table warning"}
 
 <hr>
 
