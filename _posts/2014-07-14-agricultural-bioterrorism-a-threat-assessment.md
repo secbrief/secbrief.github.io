@@ -99,7 +99,7 @@ Of the 920 million acres of farmland which spans across all fifty states, nine s
 #### <strong><u>STATES WITH THE MOST AGRICULTURE PROPERTY</u></strong> ####
 
 |:---------------------------------------------------------------------------------------------:|
-| State          | Value of Land/Buildings in Agriculture Industry | Percentage of the Total Agriculture Industry |
+| State          | Value of Land and Buildings in the Agriculture Industry | Percentage of the Total Agriculture Industry |
 |:---------------|:--------------------------------------:|:-----------------------------------:|
 | Texas          | $217.8b                                | 11%                                 |
 | California     | $170.2b                                | 9%                                  |
