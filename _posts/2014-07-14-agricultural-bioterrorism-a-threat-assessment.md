@@ -30,10 +30,6 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 
 #### <strong><u>TOP CROP EXPORTS</u></strong> ####
 
-<div class="table-responsive">
-
-
-
 |:---------------------------------------------------:|
 | Export            | Percentage of Worldwide Exports |
 |:------------------|:-------------------------------:|
@@ -42,11 +38,10 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 | Cotton            | 27.70%                          |
 | Rice              | 8.60%                           |
 | Oilseed (Soybean) | 39.50%                          |
+{: class="table"}
 
 |:----------------------------------------------------|
 | <strong>Source:</strong> "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
-
-</div>
 
 <hr>
 
