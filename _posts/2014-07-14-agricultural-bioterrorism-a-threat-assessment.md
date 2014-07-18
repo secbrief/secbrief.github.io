@@ -38,8 +38,8 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 | Cotton            | 27.70%                          |
 | Rice              | 8.60%                           |
 | Oilseed (Soybean) | 39.50%                          |
+{: class="table"}
 |:====================================================|
-{: rowspan="2"}
 | <strong>Source:</strong> "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
 {: class="table"}
 
@@ -63,9 +63,10 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 | Oilseed and grain farms                                                                                     | 10%                                     | $2.1b   |
 | Beef cattle farms                                                                                           | 7%                                      | $1.5b   |
 | Animal aquaculture and other animals, poultry and eggs, hogs and pigs, cattle feedlots, and sheep and goats | 23%                                     | $5.1b   |
-
+{: class="table"}
 |:----------------------------------------------------|
 | <strong>Source:</strong> "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
+{: class="table"}
 
 <hr>
 
@@ -87,9 +88,10 @@ Nine states jointly represent over half of all agriculture related employment.[^
 | Minnesota         | $13.6b                                                             |
 | North Carolina    | $10.5b                                                             |
 | Wisconsin         | $9.2b                                                              |
-
+{: class="table"}
 |:---------------------------------------------------------------------------------------|
 | <strong>Source:</strong> "Table 838. Farms--Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf. |
+{: class="table"}
 
 <hr>
 
@@ -111,9 +113,10 @@ Of the 920 million acres of farmland which spans across all fifty states, nine s
 | Missouri       | $68.4b                                 | 4%                                  |
 | Indiana        | $63.6                                  | 3%                                  |
 | Wisconsin      | $57b                                   | 3%                                  |
-
+{: class="table"}
 |:---------------------------------------------------------------------------------------|
 | <strong>Source:</strong> "Statistical Abstract of  the United States: 2012," USDA, 2012, 42, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/chapter09.pdf. |
+{: class="table"}
 
 <hr>
 
