@@ -38,11 +38,11 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 | Cotton            | 27.70%                          |
 | Rice              | 8.60%                           |
 | Oilseed (Soybean) | 39.50%                          |
-{: class="table-responsive table-striped"}
+{: class="table table-striped"}
 
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
-{: class="table-responsive"}
+{: class="table"}
 
 <hr>
 
@@ -64,11 +64,11 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 | Oilseed and grain farms                                                                                     | 10%                                     | $2.1b          |
 | Beef cattle farms                                                                                           | 7%                                      | $1.5b          |
 | Animal aquaculture and other animals, poultry and eggs, hogs and pigs, cattle feedlots, and sheep and goats | 23%                                     | $5.1b          |
-{: class="table-responsive table-striped"}
+{: class="table table-striped"}
 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
-{: class="table-responsive"}
+{: class="table"}
 
 <hr>
 
