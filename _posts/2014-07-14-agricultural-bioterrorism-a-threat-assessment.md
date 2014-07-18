@@ -28,7 +28,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 
 <hr>
 
-#### <strong><u>TOP CROP EXPORTS</u></strong> ####
+#### <strong><center>TOP CROP EXPORTS</center></strong> ####
 
 |:---------------------------------------------------:|
 | Export            | Percentage of Worldwide Exports |
@@ -42,7 +42,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 
 |:----------------------------------------------------|
 | <strong>Source:</strong> "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
-{: class="table warning"}
+{: class="table"}
 
 <hr>
 
@@ -52,7 +52,7 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 
 <hr>
 
-#### <strong><u>AGRICULTURE RELATED EMPLOYMENT</u></strong> ####
+#### <strong><center>AGRICULTURE RELATED EMPLOYMENT</center></strong> ####
 
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Industry                                                                                                    | Percentage of Annual Labor Expenditures | Amount         |
@@ -68,7 +68,7 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 
 |:----------------------------------------------------|
 | <strong>Source:</strong> "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
-{: class="table table-striped"}
+{: class="table"}
 
 <hr>
 
@@ -76,7 +76,7 @@ Nine states jointly represent over half of all agriculture related employment.[^
 
 <hr>
 
-#### <strong><u>TOP AGRICULTURE PRODUCING STATES</u></strong> ####
+#### <strong><center>TOP AGRICULTURE PRODUCING STATES</center></strong> ####
 
 |:--------------------------------------------------------------------------------------:|
 | State             | Market Value of Agricultural Products Sold and Government Payments |
@@ -94,7 +94,7 @@ Nine states jointly represent over half of all agriculture related employment.[^
 
 |:---------------------------------------------------------------------------------------|
 | <strong>Source:</strong> "Table 838. Farms--Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf. |
-{: class="table table-striped"}
+{: class="table"}
 
 <hr>
 
@@ -102,7 +102,7 @@ Of the 920 million acres of farmland which spans across all fifty states, nine s
 
 <hr>
 
-#### <strong><u>STATES WITH THE MOST AGRICULTURE PROPERTY</u></strong> ####
+#### <strong><center>STATES WITH THE MOST AGRICULTURE PROPERTY</center></strong> ####
 
 |:---------------------------------------------------------------------------------------------:|
 | State          | Value of Land and Buildings in the Agriculture Industry | Percentage of the Total Agriculture Industry |
@@ -120,7 +120,7 @@ Of the 920 million acres of farmland which spans across all fifty states, nine s
 
 |:---------------------------------------------------------------------------------------|
 | <strong>Source:</strong> "Statistical Abstract of  the United States: 2012," USDA, 2012, 42, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/chapter09.pdf. |
-{: class="table table-striped"}
+{: class="table"}
 
 <hr>
 
