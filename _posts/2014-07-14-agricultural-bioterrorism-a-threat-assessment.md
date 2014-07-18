@@ -201,12 +201,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 
 <hr>
 
-
-
-
-
-<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/005-livestock-production.jpg" class="img-responsive" alt="Livestock Production"></center><br />
-
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/006-crop-production.jpg" width="100%" class="img-responsive" alt="Crop Production"></center><br />
 
 ### <center>DEFINING AGRICULTURAL BIOTERRORISM</center> ###
