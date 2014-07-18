@@ -126,6 +126,85 @@ Of the 920 million acres of farmland which spans across all fifty states, nine s
 
 The agricultural output of the U.S. agriculture industry is equally impressive. In terms of livestock, in the U.S. there are 90.8 million head of cattle, 66.4 million hogs and pigs, 5.3 million sheep and lambs valued at $100.7 billion, $8.1 billion, and $1.2 billion respectively.[^19] Six states represent 52 percent of the two billion bushels U.S. wheat production worth $14.4 billion.[^20] Arkansas and California make up sixty-eight percent of the 185 million hundredweight worth of U.S. rice production totalling $2.6 billion.[^21] Four states constitute fifty-seven percent of the 12.4 billion bushels of corn production valued at $76.5 billion.[^22] 214.4 billion bushels of sorghum worth $1.3 billion is grown in 14 states.[^23] Fifty-one percent of that production occurs in Kansas alone.[^24] The Cotton industry, worth $7.3 billion, produces 16 billion metric tons.[^25] Tobacco, which is only grown in ten states, has over seventy percent of its 601 million pounds of production done in North Carolina and Kentucky.[^26] Fifty-four percent of soybean production is in Iowa, Illinois, Minnesota, Nebraska, and Indiana.[^27] Seven states make up fifty-seven percent of the $1.7 billion worth of chicken production.[^28] The U.S. also makes up a third of all exported poultry, meat, and broiler products worldwide.[^29] The 8.6 billion broilers alone are worth $23.2 billion.[^30] Additionally, the U.S. exports nearly half of the world’s turkey exports, valued at $5 billion.[^31] One third of the nation’s $39.7 billion milk production occurs in California and Wisconsin.[^32]
 
+<hr>
+
+#### <strong><center>LIVESTOCK PRODUCTION</center></strong> ####
+
+|:----------------------------------------------------------------------------------------------------:|
+| Category                                       | State          | Quantity      | Total Market Value |
+|:-----------------------------------------------|:--------------:|:-------------:|:------------------:|
+| Cattle                                         |                |               |                    |
+| Top Producing States (33% of Total Production) | Texas          | 11.9m head    | $11.9b             |
+|                                                | Nebraska       | 6.45m head    | $8b                |
+|                                                | Kansas         | 6.1m head     | $6.8b              |
+|                                                | California     | 5.35m head    | $6.2b              |
+|:-----------------------------------------------------------------------------------------------------|
+| U.S. Total                                     |                | 90.8m head    | $100.7b            |
+|:-----------------------------------------------|:--------------:|:-------------:|:------------------:|
+| Hogs and Pigs                                  |                |               |                    |
+| Top Producing States (55% of Total Production) | Iowa           | 20m           | $2.6b              |
+|                                                | Minnesota      | 6.8m          | $1.1b              |
+|                                                | North Carolina | 8.9m          | $888m              |
+|:-----------------------------------------------------------------------------------------------------|
+| U.S. Total                                     |                | 66.4m         | $8b                |
+|:-----------------------------------------------|:--------------:|:-------------:|:------------------:|
+| Sheep and Lambs                                |                |               |                    |
+| Top Producing States (39% of Total Production) | Colorado       | 623,000       | $55.8m             |
+|                                                | California     | 465,000       | $45.7m             |
+|                                                | Texas          | 230,000       | $36.5m             |
+|                                                | Wyoming        | 230,000       | $34m               |
+|:-----------------------------------------------------------------------------------------------------|
+| U.S. Total                                     |                | 5.3m          | $442.9m            |
+|:-----------------------------------------------|:--------------:|:-------------:|:------------------:|
+| Chicken                                        |                |               |                    |
+| Top Producing States (57% of Total Production) | Iowa           | 66.3m         | $192.3m            |
+|                                                | North Carolina | 19.4m         | $176.1m            |
+|                                                | Georgia        | 24.7m         | $150.7m            |
+|                                                | Arkansas       | 19.9m         | $139.5m            |
+|                                                | Alabama        | 15.4m         | $109.1m            |
+|                                                | Pennsylvania   | 28.9m         | $106.9m            |
+|                                                | Texas          | 23.6m         | $99.2m             |
+|:-----------------------------------------------------------------------------------------------------|
+| U.S. Total                                     |                | 447m          | $1.7b              |
+|:-----------------------------------------------|:--------------:|:-------------:|:------------------:|
+| Turkey                                         |                |               |                    |
+| Top Producing States (58% of Total Production) | Minnesota      | 46.5m         | $799.2m            |
+|                                                | North Carolina | 32m           | $772.6m            |
+|                                                | Arkansas       | 30.5m         | $411.9m            |
+|                                                | Virginia       | 17.5m         | $313.9m            |
+|                                                | South Carolina | 11.5m         | $305.9m            |
+|                                                | California     | 15m           | $287.5m            |
+|:-----------------------------------------------------------------------------------------------------|
+| U.S. Total                                     |                | 249m          | $5b                |
+|:-----------------------------------------------|:--------------:|:-------------:|:------------------:|
+| Eggs                                           |                |               |                    |
+| Top Producing States (50% of Total Production) | Iowa           | 14.5b         | $931.5m            |
+|                                                | Pennsylvannia  | 7.3b          | $497m              |
+|                                                | Georgia        | 4.3b          | $491m              |
+|                                                | Ohio           | 7.6b          | $490.6m            |
+|                                                | Indiana        | 6.5b          | $422.3m            |
+|                                                | Texas          | 4.9b          | $420.6m            |
+|                                                | Arkansas       | 3b            | $406.2m            |
+|:-----------------------------------------------------------------------------------------------------|
+| U.S. Total                                     |                | 91.9b eggs    | $5b                |
+|:-----------------------------------------------|:--------------:|:-------------:|:------------------:|
+| Milk Cows                                      |                |               |                    |
+| Top Producing States (50% of Total Production) | California     | 1.8m          | $7.7b              |
+|                                                | Wisconsin      | 1.3m          | $5.4b              |
+|:-----------------------------------------------------------------------------------------------------|
+| U.S. Total                                     |                | 9.2m milk cows| $39.7b             |
+{: class="table table-striped"}
+
+|:---------------------------------------------------------------------------------------|
+| <strong>Source:</strong> "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
+{: class="table"}
+
+<hr>
+
+
+
+
+
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/005-livestock-production.jpg" class="img-responsive" alt="Livestock Production"></center><br />
 
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/006-crop-production.jpg" width="100%" class="img-responsive" alt="Crop Production"></center><br />
