@@ -40,7 +40,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 | Oilseed (Soybean) | 39.50%                          |
 {: class="table table-striped"}
 
-|:----------------------------------------------------|
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
 {: class="table"}
 
@@ -57,16 +57,16 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Industry                                                                                                    | Percentage of Annual Labor Expenditures | Amount         |
 |:------------------------------------------------------------------------------------------------------------|:---------------------------------------:|:--------------:|
-| Greenhouse, nursery, floriculture operations                                                                | 21%                                     | $4.7b   |
-| Fruit and tree nut operations                                                                               | 16%                                     | $3.5b   |
-| Dairy cattle and milk production                                                                            | 13%                                     | $2.8b   |
-| Vegetable and melon farms                                                                                   | 10%                                     | $2.2b   |
-| Oilseed and grain farms                                                                                     | 10%                                     | $2.1b   |
-| Beef cattle farms                                                                                           | 7%                                      | $1.5b   |
-| Animal aquaculture and other animals, poultry and eggs, hogs and pigs, cattle feedlots, and sheep and goats | 23%                                     | $5.1b   |
+| Greenhouse, nursery, floriculture operations                                                                | 21%                                     | $4.7b          |
+| Fruit and tree nut operations                                                                               | 16%                                     | $3.5b          |
+| Dairy cattle and milk production                                                                            | 13%                                     | $2.8b          |
+| Vegetable and melon farms                                                                                   | 10%                                     | $2.2b          |
+| Oilseed and grain farms                                                                                     | 10%                                     | $2.1b          |
+| Beef cattle farms                                                                                           | 7%                                      | $1.5b          |
+| Animal aquaculture and other animals, poultry and eggs, hogs and pigs, cattle feedlots, and sheep and goats | 23%                                     | $5.1b          |
 {: class="table table-striped"}
 
-|:----------------------------------------------------|
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
 {: class="table"}
 
@@ -92,7 +92,7 @@ Nine states jointly represent over half of all agriculture related employment.[^
 | Wisconsin         | $9.2b                                                              |
 {: class="table table-striped"}
 
-|:---------------------------------------------------------------------------------------|
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Table 838. Farms--Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf. |
 {: class="table"}
 
@@ -104,21 +104,21 @@ Of the 920 million acres of farmland which spans across all fifty states, nine s
 
 #### <strong><center>STATES WITH THE MOST AGRICULTURE PROPERTY</center></strong> ####
 
-|:---------------------------------------------------------------------------------------------:|
+|:-----------------------------------------------------------------------------------------------------------------------:|
 | State          | Value of Land and Buildings in the Agriculture Industry | Percentage of the Total Agriculture Industry |
-|:---------------|:--------------------------------------:|:-----------------------------------:|
-| Texas          | $217.8b                                | 11%                                 |
-| California     | $170.2b                                | 9%                                  |
-| Iowa           | $138.6b                                | 7%                                  |
-| Illinois       | $130.8b                                | 7%                                  |
-| Minnesota      | $80.4b                                 | 4%                                  |
-| Nebraska       | $69.3b                                 | 4%                                  |
-| Missouri       | $68.4b                                 | 4%                                  |
-| Indiana        | $63.6                                  | 3%                                  |
-| Wisconsin      | $57b                                   | 3%                                  |
+|:---------------|:--------------------------------------:|:-------------------------------------------------------------:|
+| Texas          | $217.8b                                | 11%                                                           |
+| California     | $170.2b                                | 9%                                                            |
+| Iowa           | $138.6b                                | 7%                                                            |
+| Illinois       | $130.8b                                | 7%                                                            |
+| Minnesota      | $80.4b                                 | 4%                                                            |
+| Nebraska       | $69.3b                                 | 4%                                                            |
+| Missouri       | $68.4b                                 | 4%                                                            |
+| Indiana        | $63.6                                  | 3%                                                            |
+| Wisconsin      | $57b                                   | 3%                                                            |
 {: class="table table-striped"}
 
-|:---------------------------------------------------------------------------------------|
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Statistical Abstract of  the United States: 2012," USDA, 2012, 42, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/chapter09.pdf. |
 {: class="table"}
 
@@ -225,7 +225,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 | **U.S. Total**                                 |                | 9.2m          | $39.7b             |
 {: class="table table-striped"}
 
-|:-----------------------------------------------------------------------------------------------------|
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
 {: class="table"}
 
@@ -256,7 +256,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Minnesota      | 270m bushels  | $3.1b              |
 |                                                | Nebraska       | 258m bushels  | $3b                |
 |                                                | Indiana        | 238m bushels  | $2.8b              |
-| **U.S. Total**                                 |                | 3.1b bushels  | $35.8b                |
+| **U.S. Total**                                 |                | 3.1b bushels  | $35.8b             |
 {: class="table table-striped"}
 
 
@@ -290,7 +290,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 {: class="table table-striped"}
 
 
-|:-----------------------------------------------------------------------------------------------------|
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
 {: class="table"}
 
