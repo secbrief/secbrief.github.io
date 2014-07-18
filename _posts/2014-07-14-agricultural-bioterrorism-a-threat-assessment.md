@@ -230,7 +230,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | California     | 1.8m          | $7.7b              |
 |                                                | Wisconsin      | 1.3m          | $5.4b              |
 |:-----------------------------------------------------------------------------------------------------|
-| U.S. Total                                     |                | 9.2m milk cows| $39.7b             |
+| **U.S. Total**                                 |                | 9.2m milk cows| $39.7b             |
 {: class="table table-striped"}
 
 |:-----------------------------------------------------------------------------------------------------|
