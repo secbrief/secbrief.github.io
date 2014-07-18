@@ -50,12 +50,12 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 | Industry                                                                                                    | % of Annual Labor Expenditures | Amount         |
 |:------------------------------------------------------------------------------------------------------------|:---------------------------------------:|:--------------:|
 | Greenhouse, nursery, floriculture operations                                                                | 21%                                     | $4.7b   |
-| Fruit and tree nut operations                                                                               | 16%                                     | $3.5 billion   |
-| Dairy cattle and milk production                                                                            | 13%                                     | $2.8 billion   |
-| Vegetable and melon farms                                                                                   | 10%                                     | $2.2 billion   |
-| Oilseed and grain farms                                                                                     | 10%                                     | $2.1 billion   |
-| Beef cattle farms                                                                                           | 7%                                      | $1.5 billion   |
-| Animal aquaculture and other animals, poultry and eggs, hogs and pigs, cattle feedlots, and sheep and goats | 23%                                     | $5.1 billion   |
+| Fruit and tree nut operations                                                                               | 16%                                     | $3.5b   |
+| Dairy cattle and milk production                                                                            | 13%                                     | $2.8b   |
+| Vegetable and melon farms                                                                                   | 10%                                     | $2.2b   |
+| Oilseed and grain farms                                                                                     | 10%                                     | $2.1b   |
+| Beef cattle farms                                                                                           | 7%                                      | $1.5b   |
+| Animal aquaculture and other animals, poultry and eggs, hogs and pigs, cattle feedlots, and sheep and goats | 23%                                     | $5.1b   |
 
 |:----------------------------------------------------|
 | <strong>Source:</strong> "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
