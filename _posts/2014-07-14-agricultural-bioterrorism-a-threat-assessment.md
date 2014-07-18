@@ -394,7 +394,34 @@ Another area which can shed light on the feasibility of various pathogens for ag
 
 The U.S. government has also identified biological agents and toxins which it believes pose a threat to the U.S. agriculture industry (See table: USDA Select Agents and Toxins List). Per the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 and its mission of improving America’s “ability to prevent, prepare for, and respond to acts of bioterrorism and other public health emergencies that could threaten either public health and safety or American Agriculture,” HHS and the USDA published regulations (42 CFR Part 73 and 7 CFR Part 331/9 CFR Part 121 respectively) “detailing the requirements for possession, use, and transfer for select agents and toxins.[^121] According to the USDA, the Select Agent and Toxin List is based on the “effect of an agent or toxin on animal or plant health or products; the virulence of an agent or degree of toxicity of the toxin and the methods by which the agents or toxins are transferred to animals or plants; the availability and effectiveness of medicines and vaccines to treat and prevent any illness caused by an agent or toxin; and other criteria that the Secretary considers appropriate to protect animal or plant health, or animal or plant products.”[^122]
 
-<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/007-usda-select-agent-and-toxin-list.jpg" width="100%" class="img-responsive" alt="USDA Select Agent and Toxin List"></center><br />
+<hr>
+
+#### <strong><center>USDA SELECT AGENT AND TOXIN LIST</center></strong> ####
+
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Livestock Pathogens                            | Plant Pathogens                                               | USDA/HHS Pathogen Overlap             |
+|:-----------------------------------------------|:--------------------------------------------------------------|:--------------------------------------|
+| African horse sickness virus                   | Peronosclerospora philippinensis (Peronosclerospora sacchari) | Bacillus anthracis                    |
+| African swine fever virus                      | Phoma glycinicola (formerly Pyrenochaeta glycines)            | Bacillus anthracis Pasteur strain     |
+| Avian influenza virus                          | Ralstonia solanacearum                                        | Brucella abortus                      |
+| Classical Swine fever virus                    | Rathayibacter toxicus                                         | Brucella melitensis                   |
+| Foot-and-mouth disease virus                   | Sclerophthora rayssiae                                        | Brucella suis                         |
+| Goat pox virus                                 | Synchytrium endobioticum                                      | Burkholderia mallei                   |
+| Lumpy skin disease virus                       | Xanthomonas oryzae                                            | Burkholderia pseudomallei             |
+| Mycoplasma capricolum                          |                                                               | Hendra virus                          |
+| Mycoplasma mycoides                            |                                                               | Nipah virus                           |
+| Newcastle disease virus                        |                                                               | Rift Valley fever virus               |
+| Peste des petits ruminants virus               |                                                               | Venezuelan equine encephalitis virus  |      
+| Rinderpest virus                               |                                                               |                                       |
+| Sheep pox virus                                |                                                               |                                       |
+| Swine vesicular disease virus                  |                                                               |                                       |
+{: class="table table-striped"}
+
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Source:** "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
+{: class="table"}
+
+<hr>
 
 As was shown in the “Impact of Agriculture” section earlier in this paper, a relatively small number of crops and livestock represent enormous percentages of the overall agriculture industry in the U.S. Where crops are concerned, cash grains like corn, soybeans, and wheat hold a lot of value and are important not only in terms of domestic use, but also for export. Corn production alone is valued at $76.5 billion annually, while soybeans bring in another $35.8 billion and wheat makes $14.4 billion.[^123] Similarly, livestock and livestock products account for roughly half of the agriculture industry, but are spread across fewer products. The largest portion of the livestock sector is cattle which are currently valued at $100.7 billion.[^124] Other livestock and livestock products of significant value include: $39.7 billion in milk, $23.2 billion in broiler, $8.1 billion in hogs and pigs, $7.4 billion in egg, $5 billion in turkey, and $1.7 billion in chicken production.[^125] Thus, when considering potential targets based on economic or symbolic impact, leading grains and select livestock and livestock products should be noted.
 
