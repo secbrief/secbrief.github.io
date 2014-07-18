@@ -28,7 +28,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 
 <hr>
 
-#### <br /><strong><u>TOP CROP EXPORTS</u></strong> ####
+#### <strong><u>TOP CROP EXPORTS</u></strong> ####
 
 |:---------------------------------------------------:|
 | Export            | Percentage of Worldwide Exports |
@@ -48,7 +48,9 @@ Domestically, there are numerous industries that are dependent upon agriculture 
 
 Labor statistics from the most recent Census of Agriculture show that the agricultural industry spent $21.9 billion in 2007 on labor.[^10] From that, the agriculture industry employs over 2.6 million workers.[^11] Agriculture dependent industries employ another 13.5 million workers.[^12] Cumulatively, there are more than 16 million agriculture and agriculture-dependent jobs making up 9.1 percent of total U.S. employment.[^13]
 
-#### <br /><strong><u>AGRICULTURE RELATED EMPLOYMENT</u></strong> ####
+<hr>
+
+#### <strong><u>AGRICULTURE RELATED EMPLOYMENT</u></strong> ####
 
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Industry                                                                                                    | Percentage of Annual Labor Expenditures | Amount         |
@@ -64,9 +66,13 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 |:----------------------------------------------------|
 | <strong>Source:</strong> "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
 
-<br />Nine states jointly represent over half of all agriculture related employment.[^14] Nearly 450,000 people are in employed in California alone. Washington state employs approximately 240,000 workers, while Texas, Florida, Oregon, Michigan, North Carolina, Minnesota and Wisconsin each employ more than 75,000 agworkers.[^15]
+<hr>
 
-#### <br /><strong><u>TOP AGRICULTURE PRODUCING STATES</u></strong> ####
+Nine states jointly represent over half of all agriculture related employment.[^14] Nearly 450,000 people are in employed in California alone. Washington state employs approximately 240,000 workers, while Texas, Florida, Oregon, Michigan, North Carolina, Minnesota and Wisconsin each employ more than 75,000 agworkers.[^15]
+
+<hr>
+
+#### <strong><u>TOP AGRICULTURE PRODUCING STATES</u></strong> ####
 
 |:--------------------------------------------------------------------------------------:|
 | State             | Market Value of Agricultural Products Sold and Government Payments |
@@ -84,7 +90,9 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 |:---------------------------------------------------------------------------------------|
 | <strong>Source:</strong> "Table 838. Farms--Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf. |
 
-<br />Of the 920 million acres of farmland which spans across all fifty states, nine states represent over half of the total market value of agricultural products sold and government payments made in the U.S.[^16] California ($34.1 billion), Texas ($21.7 billion), Iowa ($21.1), Nebraska ($15.9 billion), Kansas ($14.8 billion), Illinois ($13.8 billion), Minnesota ($13.6 billion), North Carolina ($10.5 billion), and Wisconsin ($9.2 billion) represent over $150 billion.[^17] Similarly, nine states make up over half of the total value of land and buildings in the agriculture industry. Texas, California, Iowa, Illinois, Minnesota, Nebraska, Missouri, Indiana, and Wisconsin constitute 52 percent or $996.1 billion of the $1.9 trillion of land and buildings held by the agricultural industry.[^18]
+<hr>
+
+Of the 920 million acres of farmland which spans across all fifty states, nine states represent over half of the total market value of agricultural products sold and government payments made in the U.S.[^16] California ($34.1 billion), Texas ($21.7 billion), Iowa ($21.1), Nebraska ($15.9 billion), Kansas ($14.8 billion), Illinois ($13.8 billion), Minnesota ($13.6 billion), North Carolina ($10.5 billion), and Wisconsin ($9.2 billion) represent over $150 billion.[^17] Similarly, nine states make up over half of the total value of land and buildings in the agriculture industry. Texas, California, Iowa, Illinois, Minnesota, Nebraska, Missouri, Indiana, and Wisconsin constitute 52 percent or $996.1 billion of the $1.9 trillion of land and buildings held by the agricultural industry.[^18]
 
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/004-states-with-the-most-agriculture-property.jpg" class="img-responsive" alt="States With The Most Agriculture Property"></center><br />
 
