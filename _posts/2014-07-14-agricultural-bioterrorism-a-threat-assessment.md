@@ -41,7 +41,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 {: class="table table-striped"}
 
 |:----------------------------------------------------|
-| <strong>Source:</strong> "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
+| **Source:** "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
 {: class="table"}
 
 <hr>
@@ -67,7 +67,7 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 {: class="table table-striped"}
 
 |:----------------------------------------------------|
-| <strong>Source:</strong> "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
+| **Source:** "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
 {: class="table"}
 
 <hr>
@@ -93,7 +93,7 @@ Nine states jointly represent over half of all agriculture related employment.[^
 {: class="table table-striped"}
 
 |:---------------------------------------------------------------------------------------|
-| <strong>Source:</strong> "Table 838. Farms--Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf. |
+| **Source:** "Table 838. Farms--Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf. |
 {: class="table"}
 
 <hr>
@@ -119,7 +119,7 @@ Of the 920 million acres of farmland which spans across all fifty states, nine s
 {: class="table table-striped"}
 
 |:---------------------------------------------------------------------------------------|
-| <strong>Source:</strong> "Statistical Abstract of  the United States: 2012," USDA, 2012, 42, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/chapter09.pdf. |
+| **Source:** "Statistical Abstract of  the United States: 2012," USDA, 2012, 42, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/chapter09.pdf. |
 {: class="table"}
 
 <hr>
@@ -234,7 +234,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 {: class="table table-striped"}
 
 |:-----------------------------------------------------------------------------------------------------|
-| <strong>Source:</strong> "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
+| **Source:** "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
 {: class="table"}
 
 <hr>
