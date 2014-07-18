@@ -25,7 +25,9 @@ This paper is broken up into several parts. First, the paper will illuminate the
 ### <center>IMPACT OF AGRICULTURE</center> ###
 
 Agriculture and agriculture related industries make up 4.8 percent of the U.S. gross domestic product (GDP), or $742.6 billion.[^1] As a contributing factor, farms compose $138.7 billion of that figure, and constitute about 1 percent of the overall GDP.[^2] In raw numbers, the U.S. Department of Agriculture (USDA) reported the agriculture industry bringing in $419.4 billion in gross income for 2011 while incurring $321.3 billion in production related expenses for an industry-wide net income of $98.1 billion.[^3] Projected net income for the agriculture industry in 2013 is $120.6 billion.[^4] Agricultural exports accounted for $135.77 billion in 2012.[^5] Of principal agricultural exports, the U.S. represented 8.9 percent of wheat, 44.7 percent of corn, 27.7 percent of cotton, 8.6 percent of rice, and 39.5 percent of oilseed (soybean) exports worldwide.[^6]
+
 <br />
+
 #### <strong>TOP CROP EXPORTS</strong> ####
 
 |:---------------------------------------------------:|
@@ -39,6 +41,7 @@ Agriculture and agriculture related industries make up 4.8 percent of the U.S. g
 
 |:====================================================|
 | Source: "Agriculture Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
+
 <br />
 
 
