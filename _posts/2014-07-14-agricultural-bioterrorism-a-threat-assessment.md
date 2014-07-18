@@ -94,6 +94,28 @@ Nine states jointly represent over half of all agriculture related employment.[^
 
 Of the 920 million acres of farmland which spans across all fifty states, nine states represent over half of the total market value of agricultural products sold and government payments made in the U.S.[^16] California ($34.1 billion), Texas ($21.7 billion), Iowa ($21.1), Nebraska ($15.9 billion), Kansas ($14.8 billion), Illinois ($13.8 billion), Minnesota ($13.6 billion), North Carolina ($10.5 billion), and Wisconsin ($9.2 billion) represent over $150 billion.[^17] Similarly, nine states make up over half of the total value of land and buildings in the agriculture industry. Texas, California, Iowa, Illinois, Minnesota, Nebraska, Missouri, Indiana, and Wisconsin constitute 52 percent or $996.1 billion of the $1.9 trillion of land and buildings held by the agricultural industry.[^18]
 
+<hr>
+
+#### <strong><u>STATES WITH THE MOST AGRICULTURE PROPERTY</u></strong> ####
+
+|:---------------------------------------------------------------------------------------------:|
+| State          | Value of Land/Buildings in Ag Industry | Percentage of the Total Ag Industry |
+|:---------------|:--------------------------------------:|:-----------------------------------:|
+| Texas          | $217.8b                                | 11%                                 |
+| California     | $170.2b                                | 9%                                  |
+| Iowa           | $138.6b                                | 7%                                  |
+| Illinois       | $130.8b                                | 7%                                  |
+| Minnesota      | $80.4b                                 | 4%                                  |
+| Nebraska       | $69.3b                                 | 4%                                  |
+| Missouri       | $68.4b                                 | 4%                                  |
+| Indiana        | $63.6                                  | 3%                                  |
+| Wisconsin      | $57b                                   | 3%                                  |
+
+|:---------------------------------------------------------------------------------------|
+| <strong>Source:</strong> "Statistical Abstract of  the United States: 2012," USDA, 2012, 42, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/chapter09.pdf. |
+
+<hr>
+
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/004-states-with-the-most-agriculture-property.jpg" class="img-responsive" alt="States With The Most Agriculture Property"></center><br />
 
 The agricultural output of the U.S. agriculture industry is equally impressive. In terms of livestock, in the U.S. there are 90.8 million head of cattle, 66.4 million hogs and pigs, 5.3 million sheep and lambs valued at $100.7 billion, $8.1 billion, and $1.2 billion respectively.[^19] Six states represent 52 percent of the two billion bushels U.S. wheat production worth $14.4 billion.[^20] Arkansas and California make up sixty-eight percent of the 185 million hundredweight worth of U.S. rice production totalling $2.6 billion.[^21] Four states constitute fifty-seven percent of the 12.4 billion bushels of corn production valued at $76.5 billion.[^22] 214.4 billion bushels of sorghum worth $1.3 billion is grown in 14 states.[^23] Fifty-one percent of that production occurs in Kansas alone.[^24] The Cotton industry, worth $7.3 billion, produces 16 billion metric tons.[^25] Tobacco, which is only grown in ten states, has over seventy percent of its 601 million pounds of production done in North Carolina and Kentucky.[^26] Fifty-four percent of soybean production is in Iowa, Illinois, Minnesota, Nebraska, and Indiana.[^27] Seven states make up fifty-seven percent of the $1.7 billion worth of chicken production.[^28] The U.S. also makes up a third of all exported poultry, meat, and broiler products worldwide.[^29] The 8.6 billion broilers alone are worth $23.2 billion.[^30] Additionally, the U.S. exports nearly half of the world’s turkey exports, valued at $5 billion.[^31] One third of the nation’s $39.7 billion milk production occurs in California and Wisconsin.[^32]
