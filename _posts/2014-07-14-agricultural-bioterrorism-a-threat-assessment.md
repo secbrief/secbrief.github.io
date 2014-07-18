@@ -140,10 +140,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | California     | 5.35m head    | $6.2b              |
 |:-----------------------------------------------------------------------------------------------------|
 | U.S. Total                                     |                | 90.8m head    | $100.7b            |
-{: class="table table-striped"}
-
-
-
 |:----------------------------------------------------------------------------------------------------:|
 | Hogs and Pigs                                  |                |               |                    |
 | Top Producing States (55% of Total Production) |                |               |                    |
