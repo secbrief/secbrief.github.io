@@ -135,11 +135,11 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |:-----------------------------------------------|:---------------|:-------------:|:------------------:|
 | Cattle                                         |                |               |                    |
 | Top Producing States (33% of Total Production) |                |               |                    |
-|                                                | Texas          | 11.9m head    | $11.9b             |
-|                                                | Nebraska       | 6.45m head    | $8b                |
-|                                                | Kansas         | 6.1m head     | $6.8b              |
-|                                                | California     | 5.35m head    | $6.2b              |
-| **U.S. Total**                                 |                | 90.8m head    | $100.7b            |
+|                                                | Texas          | 11.9m         | $11.9b             |
+|                                                | Nebraska       | 6.45m         | $8b                |
+|                                                | Kansas         | 6.1m          | $6.8b              |
+|                                                | California     | 5.35m         | $6.2b              |
+| **U.S. Total**                                 |                | 90.8m         | $100.7b            |
 {: class="table table-striped"}
 
 
@@ -212,7 +212,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |                                                | Indiana        | 6.5b          | $422.3m            |
 |                                                | Texas          | 4.9b          | $420.6m            |
 |                                                | Arkansas       | 3b            | $406.2m            |
-| **U.S. Total**                                 |                | 91.9b eggs    | $5b                |
+| **U.S. Total**                                 |                | 91.9b         | $5b                |
 {: class="table table-striped"}
 
 
@@ -223,7 +223,7 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 | Top Producing States (50% of Total Production) |                |               |                    |
 |                                                | California     | 1.8m          | $7.7b              |
 |                                                | Wisconsin      | 1.3m          | $5.4b              |
-| **U.S. Total**                                 |                | 9.2m milk cows| $39.7b             |
+| **U.S. Total**                                 |                | 9.2m          | $39.7b             |
 {: class="table table-striped"}
 
 |:-----------------------------------------------------------------------------------------------------|
