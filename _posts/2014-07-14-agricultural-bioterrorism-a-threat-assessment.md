@@ -148,7 +148,6 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 |:-----------------------------------------------|:---------------|:-------------:|:------------------:|
 | Hogs and Pigs                                  |                |               |                    |
 | Top Producing States (55% of Total Production) |                |               |                    |
-|:-----------------------------------------------|:---------------|:-------------:|:------------------:|
 |                                                | Iowa           | 20m           | $2.6b              |
 |                                                | Minnesota      | 6.8m          | $1.1b              |
 |                                                | North Carolina | 8.9m          | $888m              |
@@ -232,7 +231,70 @@ The agricultural output of the U.S. agriculture industry is equally impressive. 
 
 <hr>
 
-<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/006-crop-production.jpg" width="100%" class="img-responsive" alt="Crop Production"></center><br />
+#### <strong><center>CROP PRODUCTION</center></strong> ####
+
+|:----------------------------------------------------------------------------------------------------:|
+| Category                                       | State          | Quantity      | Total Market Value |
+|:-----------------------------------------------|:---------------|:-------------:|:------------------:|
+| Corn                                           |                |               |                    |
+| Top Producing States (57% of Total Production) |                |               |                    |
+|                                                | Iowa           | 2.4b bushels  | $14.5b             |
+|                                                | Illinois       | 1.9b bushels  | $12.3b             |
+|                                                | Nebraska       | 1.5b bushels  | $9.4b              |
+|                                                | Minnesota      | 1.2b bushels  | $7b                |
+| **U.S. Total**                                 |                | 12.4b bushels | $75.5b             |
+{: class="table table-striped"}
+
+
+|:----------------------------------------------------------------------------------------------------:|
+| Category                                       | State          | Quantity      | Total Market Value |
+|:-----------------------------------------------|:---------------|:-------------:|:------------------:|
+| Soybeans                                       |                |               |                    |
+| Top Producing States (54% of Total Production) |                |               |                    |
+|                                                | Iowa           | 466m bushels  | $5.5b              |
+|                                                | Illinois       | 415m bushels  | $5b                |
+|                                                | Minnesota      | 270m bushels  | $3.1b              |
+|                                                | Nebraska       | 258m bushels  | $3b                |
+|                                                | Indiana        | 238m bushels  | $2.8b              |
+| **U.S. Total**                                 |                | 3.1b bushels  | $35.8b                |
+{: class="table table-striped"}
+
+
+|:----------------------------------------------------------------------------------------------------:|
+| Category                                       | State          | Quantity      | Total Market Value |
+|:-----------------------------------------------|:---------------|:-------------:|:------------------:|
+| Wheat                                          |                |               |                    |
+| Top Producing States (52% of Total Production) |                |               |                    |
+|                                                | Kansas         | 276.5m bushels| $2b                |
+|                                                | North Dakota   | 199.9m bushels| $1.7b              |
+|                                                | Montana        | 175m bushels  | $1.3b              |
+|                                                | Washington     | 167.9m bushels| $1.1b              |
+|                                                | Idaho          | 116m bushels  | $786.2m            |
+|                                                | South Dakota   | 104.8m bushels| $799.5m            |
+| **U.S. Total**                                 |                | 2b bushels    | $14.4b             |
+{: class="table table-striped"}
+
+
+|:----------------------------------------------------------------------------------------------------:|
+| Category                                       | State          | Quantity      | Total Market Value |
+|:-----------------------------------------------|:---------------|:-------------:|:------------------:|
+| Rice                                           |                |               |                    |
+| Top Producing States (68% of Total Production) |                |               |                    |
+|                                                | Arkansas       | 78.1m cwt     | $1.1b              |
+|                                                | California     | 48.4m cwt     | $774.4m            |
+|                                                | Louisiana      | 26.4m cwt     | $362.1m            |
+|                                                | Texas          | 12.9m cwt     | $146.1m            |
+|                                                | Mississippi    | 10.8m cwt     | $112.2m            |
+|                                                | Missouri       | 8.3m cwt      | $182.5m            |
+| **U.S. Total**                                 |                | 185m cwt      | $2.6b              |
+{: class="table table-striped"}
+
+
+|:-----------------------------------------------------------------------------------------------------|
+| **Source:** "Agricultural Statistics 2012," USDA, 2012, accessed November 13, 2013, http://www.nass.usda.gov/Publications/Ag_Statistics/2012/2012_Final.pdf. |
+{: class="table"}
+
+<hr>
 
 ### <center>DEFINING AGRICULTURAL BIOTERRORISM</center> ###
 
