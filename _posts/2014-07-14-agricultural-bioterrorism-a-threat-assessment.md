@@ -60,9 +60,26 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 |:----------------------------------------------------|
 | <strong>Source:</strong> "2007 Census of Agriculture: Farm Labor," USDA, last modified January 30, 2012, accessed November 10, 2013, http://www.agcensus.usda.gov/Publications/2007/Online_Highlights/Fact_Sheets/Economics/farm_labor.pdf. |
 
-<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/002-agriculture-related-employment.jpg" class="img-responsive" alt="Agriculture Related Employment"></center><br />
+<br />Nine states jointly represent over half of all agriculture related employment.[^14] Nearly 450,000 people are in employed in California alone. Washington state employs approximately 240,000 workers, while Texas, Florida, Oregon, Michigan, North Carolina, Minnesota and Wisconsin each employ more than 75,000 agworkers.[^15]
 
-Nine states jointly represent over half of all agriculture related employment.[^14] Nearly 450,000 people are in employed in California alone. Washington state employs approximately 240,000 workers, while Texas, Florida, Oregon, Michigan, North Carolina, Minnesota and Wisconsin each employ more than 75,000 agworkers.[^15]
+#### <br /><strong><u>TOP AGRICULTURE PRODUCING STATES</u></strong> ####
+
+|:--------------------------------------------------------------------------------------:|
+| State             | Market Value of Agricultural Products Sold and Government Payments |
+|:------------------|:------------------------------------------------------------------:|
+| California        | $34.1b                                                             |
+| Texas             | $21.7b                                                             |
+| Iowa              | $21.1b                                                             |
+| Nebraska          | $15.9b                                                             |
+| Kansas            | $14.8b                                                             |
+| Illinois          | $13.8b                                                             |
+| Minnesota         | $13.6b                                                             |
+| North Carolina    | $10.5b                                                             |
+| Wisconsin         | $9.2b                                                              |
+
+|:---------------------------------------------------------------------------------------|
+| <strong>Source:</strong> "Table 838. Farms--Number, Acreage, and Value by State: 2002 and 2007," U.S. Census Bureau, 2012, accessed November 12, 2013, http://www.census.gov/compendia/statab/2012/tables/12s0838.pdf. |
+
 
 <br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/003-top-agriculture-producing-states.jpg" class="img-responsive" alt="Top Agriculture Producing States"></center><br />
 
