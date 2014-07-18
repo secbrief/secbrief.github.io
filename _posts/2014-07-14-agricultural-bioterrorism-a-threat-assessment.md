@@ -47,7 +47,7 @@ Labor statistics from the most recent Census of Agriculture show that the agricu
 #### <br /><strong><u>AGRICULTURE RELATED EMPLOYMENT</u></strong> ####
 
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Industry                                                                                                    | Percentage of Annual Labor Expenditures | Amount         |
+| Industry                                                                                                    | % of Annual Labor Expenditures | Amount         |
 |:------------------------------------------------------------------------------------------------------------|:---------------------------------------:|:--------------:|
 | Greenhouse, nursery, floriculture operations                                                                | 21%                                     | $4.7 billion   |
 | Fruit and tree nut operations                                                                               | 16%                                     | $3.5 billion   |
