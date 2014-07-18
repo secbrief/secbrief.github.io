@@ -415,11 +415,12 @@ The U.S. government has also identified biological agents and toxins which it be
 | Rinderpest virus                               |                                                               |                                       |
 | Sheep pox virus                                |                                                               |                                       |
 | Swine vesicular disease virus                  |                                                               |                                       |
-{: class="table table-responsive table-striped"}
+{: class="table-responsive table-striped"}
+{: class="table"}
 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Source:** "Select Agent and Toxin List," U.S. Department of Agriculture, last modified December 4, 2012, accessed November 18, 2013, http://www.aphis.usda.gov/programs/ag_selectagent/ag_bioterr_toxinlist.shtml. |
-{: class="table table-responsive"}
+{: class="table-responsive"}
 
 <hr>
 
