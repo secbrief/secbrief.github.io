@@ -443,11 +443,11 @@ This vulnerability analysis has found that there are numerous vulnerabilities wi
 
 Breaking agriculture into pre and post harvest, pre-harvest crops and livestock are least protected from attack. However, processed post-harvest agricultural products are also vulnerable, particularly after existing safeguards have been implemented (e.g., just prior to or during transportation).
 
-<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/008-agriculture-vulnerability-to-threats.jpg" width="100%" class="img-responsive" alt="Agriculture Vulnerability to Threats"></center><br />
+<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/008-agriculture-vulnerability-to-threats.png" class="img-responsive" alt="Agriculture Vulnerability to Threats"></center><br />
 
 Post-harvest agriculture is also more at risk from inside threats than outside threats given existing safeguards. Pre-harvest agriculture however, is only slightly more at risk to inside threats than to outside threats given its expansive and accessible nature.
 
-<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/009-agriculture-vulnerability-to-threats.jpg" width="100%" class="img-responsive" alt="Agriculture Vulnerability to Threats"></center><br />
+<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/009-agriculture-vulnerability-to-threats.png" class="img-responsive" alt="Agriculture Vulnerability to Threats"></center><br />
 
 The agriculture industry is most vulnerable to the deliberate introduction of pathogens which are virulent and cause disease in both crops and livestock while not infecting humans. This is because terrorists can handle these pathogens with ease and without the fear of self-infection. Moreover, pathogens which are easily obtained in the wild, but perhaps are no longer prevalent in the U.S., pose an enormous threat to U.S. agriculture. For example, taking a culture of Foot and Mouth Disease virus, not found in the U.S. but easily located in many developing countries, a terrorist could discretely import the culture with the intent to infect cattle with no risk to him/herself. Another example would be the deliberate introduction of the UG99, a relatively new and devastating race of stem rust fungus, into the U.S. Genetically engineered wheat families in the U.S. would not be protected and quite vulnerable.
 
@@ -495,7 +495,7 @@ Single issue terrorists cover a wide-range of beliefs. The greatest threats come
 
 For the threat rating, a low rating can be given where the threat has little or no capability or motivation. A high rating can be given for those threats that are highly capable and highly motivated.
 
-<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/010-threat-capacity-by-category.jpg" width="100%" class="img-responsive" alt="Threat Capacity by Category"></center><br />
+<br /><center><img src="/img/2014-07-14-agricultural-bioterrorism-a-threat-assessment/010-threat-capacity-by-category.png" class="img-responsive" alt="Threat Capacity by Category"></center><br />
 
 ### <center>RECOMMENDATIONS</center> ###
 
