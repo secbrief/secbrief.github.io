@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terrorism and Counterterrorism in Africa - Essays
+title: Terrorism and Counterterrorism in Africa - Short Essays
 author: C. Cherry
 published: 13-Jul-2014
 description: A pair of short essays comparing and contrasting Islamist and non-Islamist terrorist organizations in Africa and the Arabian Peninsula which conclude with counterterrorism policy recommendations.
