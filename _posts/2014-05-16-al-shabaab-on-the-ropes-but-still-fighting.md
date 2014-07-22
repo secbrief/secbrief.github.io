@@ -5,7 +5,7 @@ author: C. Cherry
 published: 16-May-2014
 description: Al-Shabaab poses a credible threat to American interests overseas as well as posing a real threat to the U.S. homeland. Since 2003, the U.S. has waged a counterterrorism (CT) campaign with increasing intensity against al-Qa'ida in Somalia (AQIS). U.S. CT efforts have successfully disrupted and to an extent, degraded AQIS and al-Shabaab, al-Qa'ida's newly dubbed Somali franchise. However, these efforts have failed to exploit existing organizational cleavages and dwindling popular support which threaten to dismantle and defeat al-Shabaab while dealing a significant blow to al-Qa'ida's weakened core.
 category: [Terrorism, Counterterrorism]
-tags: [Al-Shabaab, Al-Qa'ida, Somalia]
+tags: [Al-Shabaab, Al-Qa'ida in Somalia, Somalia, Counterterrorism]
 ---
 
 ##### <center><strong>[The below memo was submitted May 14, 2012.]</strong></center> #####
@@ -34,13 +34,13 @@ Furthering U.S. strategic communication while taking a multidimensional and tail
 
 [^1]: Ambinder, Marc, and D.B. Grady. The Command: Deep Inside the President's Secret Army. Wiley, 2012. eBook.
 
-[^2]: Cronin, Audrey. “U.S. Grand Strategy and Counterterrorism.” Orbis. Elsevier, 2012. Web. Apr. 20, 2012. <http://www.history.ox.ac.uk/ccw/wp-content/uploads/2012/02/Cronin-Grand-Strategy-and-CT-Orbis-article-in-press.pdf>.
+[^2]: Cronin, Audrey. “U.S. Grand Strategy and Counterterrorism.” Orbis. Elsevier, 2012. Web. Apr. 20, 2012. http://www.history.ox.ac.uk/ccw/wp-content/uploads/2012/02/Cronin-Grand-Strategy-and-CT-Orbis-article-in-press.pdf.
 
-[^3]: Anzalone, Christopher. “Al-Shabab’s Setbacks in Somalia.” Combating Terrorism Center. Oct. 31, 2011. Web. March 9, 2012. <http://www.ctc.usma.edu/posts/al-shabab's-setbacks-in-somalia>.
+[^3]: Anzalone, Christopher. “Al-Shabab’s Setbacks in Somalia.” Combating Terrorism Center. Oct. 31, 2011. Web. March 9, 2012. http://www.ctc.usma.edu/posts/al-shabab's-setbacks-in-somalia.
 
 [^4]: Ambinder and Grady, 2012.
 
-[^5]: Hanson, Stephanie. “Al-Shabaab.” CFR: Backgrounder. Aug. 10, 2011. Web. March 9, 2012. <http://www.cfr.org/somalia/al-shabaab/p18650>.
+[^5]: Hanson, Stephanie. “Al-Shabaab.” CFR: Backgrounder. Aug. 10, 2011. Web. March 9, 2012. http://www.cfr.org/somalia/al-shabaab/p18650.
 
 [^6]: Ambinder and Grady, 2012.
 
@@ -48,7 +48,7 @@ Furthering U.S. strategic communication while taking a multidimensional and tail
 
 [^8]: Cronin, 2012.
 
-[^9]: Wise, Rob. “Al Shabaab.” CSIS. July, 2011. Web. Apr. 6, 2012. <http://csis.org/files/publication/110715_Wise_AlShabaab_AQAM%20Futures%20Case%20Study_WEB.pdf>.
+[^9]: Wise, Rob. “Al Shabaab.” CSIS. July, 2011. Web. Apr. 6, 2012. http://csis.org/files/publication/110715_Wise_AlShabaab_AQAM%20Futures%20Case%20Study_WEB.pdf.
 
 [^10]: Wise, 2011.
 
@@ -68,10 +68,10 @@ Furthering U.S. strategic communication while taking a multidimensional and tail
 
 [^18]: Wise, 2011.
 
-[^19]: Howard, Russell D. "Intelligence in Denied Areas." JSOU Press Report. Dec. 7, 2007. Web. March 22, 2012. <http://www.globalsecurity.org/military/library/report/2007/0712_jsou-report-07-10.pdf>.
+[^19]: Howard, Russell D. "Intelligence in Denied Areas." JSOU Press Report. Dec. 7, 2007. Web. March 22, 2012. http://www.globalsecurity.org/military/library/report/2007/0712_jsou-report-07-10.pdf.
 
-[^20]: Nye, Joseph. “Get Smart: Combining Hard and Soft Power.” Foreign Affairs. July/Aug 2009. Web. March 23, 2012. <http://www.foreignaffairs.com/articles/65163/joseph-s-nye-jr/get-smart>.
+[^20]: Nye, Joseph. “Get Smart: Combining Hard and Soft Power.” Foreign Affairs. July/Aug 2009. Web. March 23, 2012. http://www.foreignaffairs.com/articles/65163/joseph-s-nye-jr/get-smart.
 
 [^21]: Cronin, 2012.
 
-[^22]: Farnsworth, Clyde. “Micro-loans to the World's Poorest.” NYT. Feb 21, 1988. Web. May 12, 2012. <http://www.nytimes.com/1988/02/21/business/micro-loans-to-the-world-s-poorest.html >.
+[^22]: Farnsworth, Clyde. “Micro-loans to the World's Poorest.” NYT. Feb 21, 1988. Web. May 12, 2012. http://www.nytimes.com/1988/02/21/business/micro-loans-to-the-world-s-poorest.html.
