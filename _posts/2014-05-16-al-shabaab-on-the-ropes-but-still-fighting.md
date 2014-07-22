@@ -3,9 +3,9 @@ layout: post
 title: Al-Shabaab - On the ropes, but still fighting
 author: C. Cherry
 published: 16-May-2014
-description: 
+description: Al-Shabaab poses a credible threat to American interests overseas as well as posing a real threat to the U.S. homeland. Since 2003, the U.S. has waged a counterterrorism (CT) campaign with increasing intensity against al-Qa'ida in Somalia (AQIS). U.S. CT efforts have successfully disrupted and to an extent, degraded AQIS and al-Shabaab, al-Qa'ida's newly dubbed Somali franchise. However, these efforts have failed to exploit existing organizational cleavages and dwindling popular support which threaten to dismantle and defeat al-Shabaab while dealing a significant blow to al-Qa'ida's weakened core.
 category: [Terrorism, Counterterrorism]
-tags: [Al-Shabaab, Al-Qa'ida, ]
+tags: [Al-Shabaab, Al-Qa'ida, Somalia]
 ---
 
 ##### <center><strong>[The below memo was submitted May 14, 2012.]</strong></center> #####
