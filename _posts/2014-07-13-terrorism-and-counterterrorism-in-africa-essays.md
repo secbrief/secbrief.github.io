@@ -3,14 +3,14 @@ layout: post
 title: Terrorism and Counterterrorism in Africa - Essays
 author: C. Cherry
 published: 13-Jul-2014
-description: A pair of essays covering .
+description: A pair of short essays comparing and contrasting Islamist and non-Islamist terrorist organizations in Africa and the Arabian Peninsula which conclude with counterterrorism policy recommendations.
 category: [Terrorism, Counterterrorism]
-tags: []
+tags: [AQIS, al-Qa'ida in Somalia, LRA, Lord’s Resistance Army, terrorist, Ansar al-Sharia, Africa, AQAP, al-Qa'ida in the Arabian Peninsula, AQIM, al-Qa'ida in the Islamic Maghreb, al-Qa'ida, counterterrorism]
 ---
 
 ##### <center><strong>[The below essays were submitted May 10, 2013.]</strong></center> #####
 
-#### <center>ESSAY 1 PROMPT</center> ####
+### <center>ESSAY 1 PROMPT</center> ###
 
 Compare and contrast the major Islamist terrorist groups in Africa and the Arabian Peninsula. Which are al-Qa'ida franchises and which are not? What are the major similarities and differences among all these groups and which do you think is most closely connected with al-Qa'ida Central? What evidence is there that these Islamist terrorist groups cooperate? What evidence is there, if any, that any of these groups cooperate with illicit traffickers? Which of these groups is the most dangerous to the United States?
 
@@ -32,7 +32,7 @@ Aside from the fact that many analysts have already asserted that AQAP is the mo
 
 AQAP is also the most dangerous group to the United States. Not just because of its close ties to AQC, but because it has carried out more high profile attacks on the U.S. than the other groups. Notably, the attack on the U.S.S Cole, which occurred before AQAP took its current shape, the 2009 underwear bomber, and 2010 cargo plane bomb incident were all taken credit for by AQAP.[^20] Recently, AQAP’s Inspire Magazine provided the Boston Bomber’s with their bomb blueprints.[^21] Thus, AQAP has done what other groups have not and remains a threat.
 
-#### <center>ESSAY 2 PROMPT</center> ####
+### <center>ESSAY 2 PROMPT</center> ###
 
 Compare and contrast any Islamist terrorist group in Africa with a non-Islamist African terrorist group, such as the Lord's Resistance Army. What are the similarities and differences? What counterterrorist policy options would you suggest the United States take to disrupt and defeat these groups? Would the policy options be the same or different for the different type terrorist groups?
 
