@@ -5,7 +5,7 @@ author: C. Cherry
 published: 13-Jul-2014
 description: A pair of short essays comparing and contrasting Islamist and non-Islamist terrorist organizations in Africa and the Arabian Peninsula which conclude with counterterrorism policy recommendations.
 category: [Terrorism, Counterterrorism]
-tags: [AQIS, al-Qa'ida in Somalia, LRA, Lord’s Resistance Army, terrorist, Ansar al-Sharia, Africa, AQAP, al-Qa'ida in the Arabian Peninsula, AQIM, al-Qa'ida in the Islamic Maghreb, al-Qa'ida, counterterrorism]
+tags: [AQIS, Al-Qa'ida in Somalia, LRA, Lord’s Resistance Army, Terrorist, Ansar al-Sharia, Africa, AQAP, Al-Qa'ida in the Arabian Peninsula, AQIM, Al-Qa'ida in the Islamic Maghreb, Al-Qa'ida, Counterterrorism]
 ---
 
 ##### <center><strong>[The below essays were submitted May 10, 2013.]</strong></center> #####
