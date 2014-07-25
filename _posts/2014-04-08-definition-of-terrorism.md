@@ -8,9 +8,9 @@ category: [Terrorism]
 tags: [Definition, Terrorism]
 ---
 
-## Organizational Definitions of Terrorism ##
+## <center>Organizational Definitions of Terrorism</center> ##
 
-### Central Intelligence Agency (CIA) Definition of Terrorism ###
+#### Central Intelligence Agency (CIA) Definition of Terrorism ####
 
 The Intelligence Community is guided by the definition of terrorism contained in Title 22 of the US Code, Section 2656f(d):
 
@@ -18,7 +18,7 @@ The Intelligence Community is guided by the definition of terrorism contained in
 * The term “international terrorism” means terrorism involving the territory or the citizens of more than one country.
 * The term “terrorist group” means any group that practices, or has significant subgroups that practice, international terrorism.[^1]
 
-### Department of Homeland Security (DHS) Definition of Terrorism ###
+#### Department of Homeland Security (DHS) Definition of Terrorism ####
 
 Under Section 2 of the Homeland Security Act of 2002:
 
@@ -31,27 +31,27 @@ Under Section 2 of the Homeland Security Act of 2002:
     (ii) to influence the policy of a government by intimidation or coercion; or
     (iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping.[^2]
 
-### Federal Bureau of Investigation (FBI) Definition of Terrorism ###
+#### Federal Bureau of Investigation (FBI) Definition of Terrorism ####
 
 The unlawful use of force or violence against persons or property to intimidate or coerce a government, the civilian population, or any segment thereof, in furtherance of political or social objectives.[^3]
 
-### National Counterterrorism Center (NCTC) Definition of Terrorism ###
+#### National Counterterrorism Center (NCTC) Definition of Terrorism ####
 
 "NCTC uses the definition of terrorism found in Title 22, which provides that terrorism is “premeditated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents."[^4]
 
-### North Atlantic Treaty Organization (NATO) Definition of Terrorism ###
+#### North Atlantic Treaty Organization (NATO) Definition of Terrorism ####
 
 The unlawful use or threatened use of force or violence against individuals or property in an attempt to coerce or intimidate governments or societies to achieve political, religious or ideological objectives.[^5]
 
-### United Nations (UN) Definition of Terrorism ###
+#### United Nations (UN) Definition of Terrorism ####
 
 (None)[^6]
 
-### U.S. Department of Defense (DoD) Definition of Terrorism ###
+#### U.S. Department of Defense (DoD) Definition of Terrorism ####
 
 The calculated use of unlawful violence or threat of unlawful violence to inculcate fear; intended to coerce or to intimidate governments or societies in the pursuit of goals that are generally political, religious, or ideological.[^7]
 
-### U.S. Department of State (DoS) Definition of Terrorism ###
+#### U.S. Department of State (DoS) Definition of Terrorism ####
 
 Section 2656f(d) of Title 22 of the United States Code defines certain key terms used in Section 2656f(a) as follows:
 
@@ -59,17 +59,17 @@ Section 2656f(d) of Title 22 of the United States Code defines certain key terms
 2. the term “terrorism” means premeditated, politically motivated violence perpetrated against non-combatant targets by subnational groups or clandestine agents; and
 3. the term “terrorist group” means any group practicing, or which has significant subgroups which practice, international terrorism.[^8]
 
-## Scholastic Definitions of Terrorism ##
+## <center>Scholastic Definitions of Terrorism</center> ##
 
-### Alex P. Schmid ###
+#### Alex P. Schmid ####
 
 "…terrorism is an anxiety-inspiring method of repeated violent action, employed by (semi-) clandestine individual, group or state actors, for idiosyncratic, criminal or political reasons, whereby—in contrast to assassination—the direct targets of violence are not the main targets. The immediate human victims of violence are generally chosen randomly (targets of opportunity) or selectively (representative or symbolic targets) from a target population, and serve as message generators. Threat- and violence-based communication processes between terrorist (organization), (imperiled) victims, and main targets are used to manipulate the main target (audience(s)), turning it into a target of terror, a target of demands, or a target of attention, depending on whether intimidation, coercion, or propaganda is primarily sought."[^9]
 
-### Brian Jenkins ###
+#### Brian Jenkins ####
 
 "[Terrorism is]…the use or the threatened use of force designed to bring about a political change."[^10]
 
-### Bruce Hoffman ###
+#### Bruce Hoffman ####
 
 "By distinguishing terrorists from other types of criminals and irregular fighters and terrorism from other forms of crime and irregular warfare, we come to appreciate that terrorism is
 
@@ -81,21 +81,21 @@ Section 2656f(d) of Title 22 of the United States Code defines certain key terms
 
 We may therefore now attempt to define terrorism as the deliberate creation and exploitation of fear through violence or the threat of violence in the pursuit of political change. All terrorist acts involve violence or the threat of violence. Terrorism is specifically designed to have far-reaching psychological effects beyond the immediate victim(s) or object of the terrorist attack. It is meant to instill fear within, and thereby intimidate, a wider “target audience” that might include a rival ethnic or religious group, an entire country, a national government or political party, or public opinion in general. Terrorism is designed to create power where there is none or to consolidate power where there is very little. Through the publicity generated by their violence, terrorists seek to obtain the leverage, influence, and power they otherwise lack to effect political change on either a local or an international scale."[^11]
 
-### Jeffrey M. Bale ###
+#### Jeffrey M. Bale ####
 
 "Terrorism is the use or threatened use of violence, directed against victims selected for their symbolic or representative value, as a means of instilling anxiety in, transmitting one or more messages to, and thereby manipulating the attitudes and behavior of a wider target audience or audiences."[^12]
 
-### Marc Sageman ###
+#### Marc Sageman ####
 
 "Until recently, a large part of the literature on terrorism concentrated on definitions of terrorism, but without reaching consensus on what that definition is. Thus we have the common refrain that one man’s freedom fighter is another man’s terrorist, and the suspicion that, if the word had existed at the time, the British authorities would probably have branded our founding fathers terrorists. Of course, most people know what they mean by terrorism, but it is a little like obscenity: people believe they know it when they see it, but cannot define it. Even the United Nations does not have a definition for terrorism"[^13]
 
-### Martha Crenshaw ###
+#### Martha Crenshaw ####
 
 "[Terrorism] is a conspiratorial style of violence calculated to alter the attitudes and behavior of multiple audiences. It targets the few in a way that claims the attention of the many."[^14]
 
-## Legal Definitions of Terrorism ##
+## <center>Legal Definitions of Terrorism</center> ##
 
-### U.S. PATRIOT ACT ###
+#### U.S. PATRIOT ACT ####
 
 SEC. 802. DEFINITION OF DOMESTIC TERRORISM.
 DOMESTIC TERRORISM DEFINED.—Section 2331 of title 18, United States Code, is amended—
@@ -114,7 +114,7 @@ of the United States.’’.
           (a) CONFORMING AMENDMENT.—Section 3077(1) of title 18, United States Code, is amended to read as follows:
             (1) ‘‘‘act of terrorism’ means an act of domestic or international terrorism as defined in section 2331;’’.[^15]
             
-### U.S. Code ###
+#### U.S. Code ####
 
 18 U.S.C. § 2331 defines “international terrorism” and “domestic terrorism” for purposes of Chapter 113B of the Code, entitled “Terrorism”:
 
@@ -134,13 +134,13 @@ Appear to be intended (i) to intimidate or coerce a civilian population; (ii) to
 
 *FISA defines “international terrorism” in a nearly identical way, replacing “primarily” outside the U.S. with “totally” outside the U.S. 50 U.S.C. § 1801(c).[^16]
 
-## Dictionary Definitions of Terrorism ##
+## <center>Dictionary Definitions of Terrorism</center> ##
 
-### Merriam-Webster Definition of Terrorism ###
+#### Merriam-Webster Definition of Terrorism ####
 
 "The systematic use of terror especially as a means of coercion."[^17]
 
-### <center>Notes</center> ###
+## <center>Notes</center> ##
 
 [^1]: “How do you define terrorism?,” Central Intelligence Agency, last modified April 19, 2013, accessed March 7, 2014, https://www.cia.gov/news-information/cia-the-war-on-terrorism/terrorism-faqs.html.
 
