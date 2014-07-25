@@ -8,7 +8,7 @@ category: [Terrorism]
 tags: [Definition, Terrorism]
 ---
 
-## <center>Organizational Definitions of Terrorism</center> ##
+## <center><u>Organizational Definitions of Terrorism</u></center> ##
 
 ### Central Intelligence Agency (CIA) Definition of Terrorism ###
 
@@ -59,7 +59,7 @@ Section 2656f(d) of Title 22 of the United States Code defines certain key terms
 2. the term “terrorism” means premeditated, politically motivated violence perpetrated against non-combatant targets by subnational groups or clandestine agents; and
 3. the term “terrorist group” means any group practicing, or which has significant subgroups which practice, international terrorism.[^8]
 
-## <center>Scholastic Definitions of Terrorism</center> ##
+## <center><u>Scholastic Definitions of Terrorism</u></center> ##
 
 ### Alex P. Schmid ###
 
@@ -93,7 +93,7 @@ We may therefore now attempt to define terrorism as the deliberate creation and 
 
 "[Terrorism] is a conspiratorial style of violence calculated to alter the attitudes and behavior of multiple audiences. It targets the few in a way that claims the attention of the many."[^14]
 
-## <center>Legal Definitions of Terrorism</center> ##
+## <center><u>Legal Definitions of Terrorism</u></center> ##
 
 ### U.S. PATRIOT ACT ###
 
@@ -134,7 +134,7 @@ Appear to be intended (i) to intimidate or coerce a civilian population; (ii) to
 
 *FISA defines “international terrorism” in a nearly identical way, replacing “primarily” outside the U.S. with “totally” outside the U.S. 50 U.S.C. § 1801(c).[^16]
 
-## <center>Dictionary Definitions of Terrorism</center> ##
+## <center><u>Dictionary Definitions of Terrorism</u></center> ##
 
 ### Merriam-Webster Definition of Terrorism ###
 
