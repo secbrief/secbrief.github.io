@@ -28,7 +28,7 @@ There needs to be a continuation of the existing emphasis on intelligence prepar
 
 Capacity building and the erection of effective and non-corrupt governance is paramount. Basic services need to be provided by the TFG which in turn would deny al-Shabaab its current means of earning the support of the people.[^21] The establishment of an educational system is critical. Without it, Somalis will be unable to meet the demands of the ever globalizing world and organizations like al-Shabaab will be able to flourish. The injection of micro-lending has been successful in other developing countries and could forge the foundation of a legitimate economy in the currently failed state.[^22]
 
-Furthering U.S. strategic communication while taking a multidimensional and tailored approach to CT in Somalia will provide an expedient route to defeating al-Shabaab. And in doing so, al-Qa'ida's core will be damaged and stability can establish itself eastern Africa. Therefore reducing the threat to American interests overseas and to the homeland.
+Furthering U.S. strategic communication while taking a multidimensional and tailored approach to CT in Somalia will provide an expedient route to defeating al-Shabaab. In doing so, al-Qa'ida's core will be damaged and stability can establish itself in eastern Africa. Therefore reducing the threat to American interests overseas and to the homeland.
 
 ### <center>NOTES</center> ###
 
