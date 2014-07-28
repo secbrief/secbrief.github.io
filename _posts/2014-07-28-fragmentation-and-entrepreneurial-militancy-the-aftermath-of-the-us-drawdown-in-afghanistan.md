@@ -102,93 +102,33 @@ In terms of numbers, between 20,000 and 25,000 Pakistani Taliban militants curre
 
 #### <u>STRUCTURE</u> ####
 
-The Afghan Taliban and Pakistani Taliban are both umbrella organizations for disparate
-groups that form, more or less, a network based on a reltionship of convenience. In Afghanistan,
-“...the Taliban movement, which was never a tight and cohesive political entity in any case, has
-become an even looser network of affiliated individuals and groups since it was forced from
-power in Kabul. Today, the Taliban “alliance” can be characterized as a disparate congeries of
-several elements united only by a common religious ideology, a desire to regain power in
-Afghanistan or in their local areas of operation, and a deep antagonism toward the United States
-and its regional allies.”53
+The Afghan Taliban and Pakistani Taliban are both umbrella organizations for disparate groups that form, more or less, a network based on a reltionship of convenience. In Afghanistan, “...the Taliban movement, which was never a tight and cohesive political entity in any case, has become an even looser network of affiliated individuals and groups since it was forced from power in Kabul. Today, the Taliban “alliance” can be characterized as a disparate congeries of several elements united only by a common religious ideology, a desire to regain power in Afghanistan or in their local areas of operation, and a deep antagonism toward the United States and its regional allies.”[^53]
 
-John Arquilla and David Ronfeldt describe the TTP as “a system of loose networks.
-These networks tend to be dispersed and varying in size; however, the various nodes can
-communicate with each other and, to some degree, coordinate campaigns.”54
+John Arquilla and David Ronfeldt describe the TTP as “a system of loose networks. These networks tend to be dispersed and varying in size; however, the various nodes can communicate with each other and, to some degree, coordinate campaigns.”[^54]
 
+#### <u>AREA OF OPERATION</u> ####
 
-AREA OF OPERATION
+There is a great deal of overlap with regards to area of operation between the Afghan Taliban and the Pakistani Taliban. Both operate in Afghanistan and in Pakistan, albeit primarily in the tribal regions. That said, Pakistani Taliban has been far more expeditionary. Not only has it moved into Pashtun communities within Pakistan, it has also attempted intercontinental terrorism (e.g., the failed Times Square bombing), and sent skilled bomb making militants to join fellow Islamists in the Syrian civil war.
 
+#### <u>TARGETING</u> ####
 
-There is a great deal of overlap with regards to area of operation between the Afghan
-Taliban and the Pakistani Taliban. Both operate in Afghanistan and in Pakistan, albeit primarily in
-the tribal regions. That said, Pakistani Taliban has been far more expeditionary. Not only has it
-moved into Pashtun communities within Pakistan, it has also attempted intercontinental
-terrorism (e.g., the failed Times Square bombing), and sent skilled bomb making militants to join
-fellow Islamists in the Syrian civil war.
+Within the Afghan Taliban, those that align with al-Qa’ida and support the views of “Mullah Omar and the hard-line Taliban” focus on attacking the U.S. and coalition forces as well as the Afghan govenment.[^55] Those within the Afghan Taliban whom focus on their Pashtun roots and concern themselves primarily with Pashtun affairs (e.g., irredentism), also fight the U.S., coalition forces, and the Afghan government.[^56] Similarly, one element of the Pakistani Taliban, also aligned with al-Qa’ida, “has primarily focused its activities against the Pakistani state and the Pakistani Army, making participation in the war in Afghanistan a secondary pursuit.”[^57] The other half of the Pakistani Taliban “closely follow the Afghan Taliban’s advice and focus on fighting against US and NATO forces inside Afghanistan.”[^58] As mentioned above, the Pakistani Taliban is more expeditionary in nature and even targeted the U.S. when it sponsored an attempted bombing in Times Square in 2010.
 
+### <center>THE AFTERMATH OF THE U.S. DRAWDOWN</center> ###
 
-TARGETING
+While predicting what will happen after the U.S. drawdown is not easy, there are indicators which aid in assessing what is likely to happen with regards to the Taliban movement. These indicators include historical indicators (i.e., what happened after the Soviets left in 1989) and indicators based on what is going on right now in Afghanistan and Pakistan. These indicators result in two main themes.
+
+First, there will be fragmentation within both the Afghan and Pakistani Taliban. As with the Soviet war in Afghanistan, it can be reasonably expected that a number of militants will lay down arms and return home. This will reduce cadres where individual militants felt like their contributions were defensive in nature (i.e., they felt that they were waging defensive jihad against the U.S. and coalition forces). Another factor that causes fragmentation is the pursuit of new opportunities. For militant leaders and soldiers alike, there will be numerous opportunities militarily, politically, economically, and even criminally after the U.S. has lessened its presence. With opportunity seeking and the shift in militant forces, the various groups which make up the respective Talibans will have to re-balance. Some groups will gain members while other groups may outright dissolve. Also, consistent with opportunity seeking, we are likely to see new offshoots which will challenge long-standing groups for power and control.
+
+In that vein, the second theme is “entrepreneurial militancy.” Entrepreneurial militancy, as the name suggests, occurs when groups or organizations seek to take advantage of actual or perceived opportunities in a militant manner. This will result in a great deal of infighting as was witnessed with the mujahideen after the Soviet retreat from Afghanistan in 1989. Furthermore, there is a high expectation that violence will surge in the wake of the U.S. drawdown. Many Afghan civilians are already preparing for the worst, suspecting that they may have another civil war to contend with in the near future. While the concern is perhaps a natural response for those that experienced the turmoil that ensued throughout the early and mid-1990s, civil war is a low probability.
+
+After the shakeup of groups that makeup the Afghan Taliban and Pakistani Taliban ends and there is a degree of equilibrium, there will be an intensification of the campaign against both the Afghan government and Pakistani government. This can be expected for several reasons. First, groups will be jockeying for power and control vis-a-vis the governments. Secondly, there will be the desire to demonstrate operational capacity. And lastly, the groups will want prestige within the Islamist community.
+
+#### <u>FRAGMENTATION</u> ####
 
 
-Within the Afghan Taliban, those that align with al-Qa’ida and support the views of “Mullah
-Omar and the hard-line Taliban” focus on attacking the U.S. and coalition forces as well as the
-Afghan govenment.55 Those within the Afghan Taliban whom focus on their Pashtun roots and
-concern themselves primarily with Pashtun affairs (e.g., irredentism), also fight the U.S.,
-coalition forces, and the Afghan government.56 Similarly, one element of the Pakistani Taliban,
-also aligned with al-Qa’ida, “has primarily focused its activities against the Pakistani state and
-the Pakistani Army, making participation in the war in Afghanistan a secondary pursuit.”57 The
-other half of the Pakistani Taliban “closely follow the Afghan Taliban’s advice and focus on
-fighting against US and NATO forces inside Afghanistan.”58 As mentioned above, the Pakistani
-53 Tellis, “Pakistan’s Record on Terrorism: Conflicted Goals, Compromised Performance,” 21.
-54 C. Christine Fair, “The Militant Challenge in Pakistan,” 122-123.
-55 Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,”
-582.
-56 Ibid.
-57 Ibid.
-58 Ibid.
-15 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-Taliban is more expeditionary in nature and even targeted the U.S. when it sponsored an
-attempted bombing in Times Square in 2010.
-The Aftermath of the U.S. Drawdown
-While predicting what will happen after the U.S. drawdown is not easy, there are
-indicators which aid in assessing what is likely to happen with regards to the Taliban movement.
-These indicators include historical indicators (i.e., what happened after the Soviets left in 1989)
-and indicators based on what is going on right now in Afghanistan and Pakistan. These
-indicators result in two main themes.
-First, there will be fragmentation within both the Afghan and Pakistani Taliban. As with the
-Soviet war in Afghanistan, it can be reasonably expected that a number of militants will lay down
-arms and return home. This will reduce cadres where individual militants felt like their
-contributions were defensive in nature (i.e., they felt that they were waging defensive jihad
-against the U.S. and coalition forces). Another factor that causes fragmentation is the pursuit of
-new opportunities. For militant leaders and soldiers alike, there will be numerous opportunities
-militarily, politically, economically, and even criminally after the U.S. has lessened its presence.
-With opportunity seeking and the shift in militant forces, the various groups which make up the
-respective Talibans will have to re-balance. Some groups will gain members while other groups
-may outright dissolve. Also, consistent with opportunity seeking, we are likely to see new
-offshoots which will challenge long-standing groups for power and control.
-In that vein, the second theme is “entrepreneurial militancy.” Entrepreneurial militancy, as
-the name suggests, occurs when groups or organizations seek to take advantage of actual or
-perceived opportunities in a militant manner. This will result in a great deal of infighting as was
-witnessed with the mujahideen after the Soviet retreat from Afghanistan in 1989. Furthermore,
-there is a high expectation that violence will surge in the wake of the U.S. drawdown. Many
-16 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-Afghan civilians are already preparing for the worst, suspecting that they may have another civil
-war to contend with in the near future. While the concern is perhaps a natural response for those
-that experienced the turmoil that ensued throughout the early and mid-1990s, civil war is a low
-probability.
-After the shakeup of groups that makeup the Afghan Taliban and Pakistani Taliban ends
-and there is a degree of equilibrium, there will be an intensification of the campaign against both
-the Afghan government and Pakistani government. This can be expected for several reasons.
-First, groups will be jockeying for power and control vis-a-vis the governments. Secondly, there
-will be the desire to demonstrate operational capacity. And lastly, the groups will want prestige
-within the Islamist community.
-FRAGMENTATION
+
+
 Intergroup conflict is not a new phenomenon for the Taliban movement. Much of the
 fighting is due to the loose nature of intergroup affiliation within the Taliban movement. This may
 be advantageous in terms of each group having a high level of autonomy, but where you have
@@ -500,7 +440,17 @@ Zafar Nawaz Jaspal, “Threat of Extremism & Terrorism Syndicate beyond FATA,”
 
 [^52]: Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,” 587.
 
+[^53]: Tellis, “Pakistan’s Record on Terrorism: Conflicted Goals, Compromised Performance,” 21.
 
+[^54]: C. Christine Fair, “The Militant Challenge in Pakistan,” 122-123.
+
+[^55]: Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,” 582.
+
+[^56]: Ibid.
+
+[^57]: Ibid.
+
+[^58]: Ibid.
 
 
 
