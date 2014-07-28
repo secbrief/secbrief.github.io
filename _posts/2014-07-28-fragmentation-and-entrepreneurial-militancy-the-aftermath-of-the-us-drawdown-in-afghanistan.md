@@ -98,7 +98,7 @@ As was mentioned in the previous subsection, membership is fluid between the mil
 
 Fair has also found a connection between Lashkar-e-Jhangvi (LeJ), Sipah-e-Sahaba Pakistan (SSP), their parent Jamiat-e-Ulema Islami (JUI), and both the Afghan and Pakistani Taliban. “Notably, these sectarian tanzeems [LeJ and SSP] have overlapping membership with other Deobandi militant groups, including the Afghan and Pakistani Taliban, all of which have strong connections to JUI.”[^45] Furthermore she asserts that, “Punjab-based groups such as the Deobandi LeJ and JM are components of the TTP and conduct attacks on behalf of it. In fact, the so-called Punjabi Taliban groups form the backbone of the TTP and have played an important role in attacking Sufi, Shia, Ahmedi, and other civilian targets in the Punjab.”[^46] She also points out that the Lashkar-e-Taiba (LeT) and other Deobandi militant groups have “also been operating in Afghanistan against U.S., NATO, and Afghan forces.”[^47]
 
-In terms of numbers, between 20,000 and 25,000 Pakistani Taliban militants currently reside in the FATA and Khyber-Pakhtunkhwa.[^48] This is down from the nearly 40,000 militants that lived in the tribal region during 2005 and 2006.[^49] In contrast, the Afghan Taliban only fields 14,000 to 20,000 fighters.[^50] Qazi’s total puts the total strength of the Taliban movement between 34,000 and 45,000 fighters.51 Within the predominantly Pashtun cadres, Punjabis in addition to Arab, Chechen, and Uzbek foreign fighters, as well as others, also account.[^52]
+In terms of numbers, between 20,000 and 25,000 Pakistani Taliban militants currently reside in the FATA and Khyber-Pakhtunkhwa.[^48] This is down from the nearly 40,000 militants that lived in the tribal region during 2005 and 2006.[^49] In contrast, the Afghan Taliban only fields 14,000 to 20,000 fighters.[^50] Qazi’s total puts the total strength of the Taliban movement between 34,000 and 45,000 fighters.[^51] Within the predominantly Pashtun cadres, Punjabis in addition to Arab, Chechen, and Uzbek foreign fighters, as well as others, also account.[^52]
 
 #### <u>STRUCTURE</u> ####
 
@@ -118,173 +118,49 @@ Within the Afghan Taliban, those that align with al-Qa’ida and support the vie
 
 While predicting what will happen after the U.S. drawdown is not easy, there are indicators which aid in assessing what is likely to happen with regards to the Taliban movement. These indicators include historical indicators (i.e., what happened after the Soviets left in 1989) and indicators based on what is going on right now in Afghanistan and Pakistan. These indicators result in two main themes.
 
-First, there will be fragmentation within both the Afghan and Pakistani Taliban. As with the Soviet war in Afghanistan, it can be reasonably expected that a number of militants will lay down arms and return home. This will reduce cadres where individual militants felt like their contributions were defensive in nature (i.e., they felt that they were waging defensive jihad against the U.S. and coalition forces). Another factor that causes fragmentation is the pursuit of new opportunities. For militant leaders and soldiers alike, there will be numerous opportunities militarily, politically, economically, and even criminally after the U.S. has lessened its presence. With opportunity seeking and the shift in militant forces, the various groups which make up the respective Talibans will have to re-balance. Some groups will gain members while other groups may outright dissolve. Also, consistent with opportunity seeking, we are likely to see new offshoots which will challenge long-standing groups for power and control.
+First, there will be fragmentation within both the Afghan and Pakistani Taliban. As with the Soviet war in Afghanistan, it can be reasonably expected that a number of militants will lay down arms and return home. This will reduce cadres where individual militants felt like their contributions were defensive in nature (i.e., they felt that they were waging defensive *jihad* against the U.S. and coalition forces). Another factor that causes fragmentation is the pursuit of new opportunities. For militant leaders and soldiers alike, there will be numerous opportunities militarily, politically, economically, and even criminally after the U.S. has lessened its presence. With opportunity seeking and the shift in militant forces, the various groups which make up the respective Talibans will have to re-balance. Some groups will gain members while other groups may outright dissolve. Also, consistent with opportunity seeking, we are likely to see new offshoots which will challenge long-standing groups for power and control.
 
-In that vein, the second theme is “entrepreneurial militancy.” Entrepreneurial militancy, as the name suggests, occurs when groups or organizations seek to take advantage of actual or perceived opportunities in a militant manner. This will result in a great deal of infighting as was witnessed with the mujahideen after the Soviet retreat from Afghanistan in 1989. Furthermore, there is a high expectation that violence will surge in the wake of the U.S. drawdown. Many Afghan civilians are already preparing for the worst, suspecting that they may have another civil war to contend with in the near future. While the concern is perhaps a natural response for those that experienced the turmoil that ensued throughout the early and mid-1990s, civil war is a low probability.
+In that vein, the second theme is “entrepreneurial militancy.” Entrepreneurial militancy, as the name suggests, occurs when groups or organizations seek to take advantage of actual or perceived opportunities in a militant manner. This will result in a great deal of infighting as was witnessed with the *mujahideen* after the Soviet retreat from Afghanistan in 1989. Furthermore, there is a high expectation that violence will surge in the wake of the U.S. drawdown. Many Afghan civilians are already preparing for the worst, suspecting that they may have another civil war to contend with in the near future. While the concern is perhaps a natural response for those that experienced the turmoil that ensued throughout the early and mid-1990s, civil war is a low probability.
 
 After the shakeup of groups that makeup the Afghan Taliban and Pakistani Taliban ends and there is a degree of equilibrium, there will be an intensification of the campaign against both the Afghan government and Pakistani government. This can be expected for several reasons. First, groups will be jockeying for power and control vis-a-vis the governments. Secondly, there will be the desire to demonstrate operational capacity. And lastly, the groups will want prestige within the Islamist community.
 
 #### <u>FRAGMENTATION</u> ####
 
+Intergroup conflict is not a new phenomenon for the Taliban movement. Much of the fighting is due to the loose nature of intergroup affiliation within the Taliban movement. This may be advantageous in terms of each group having a high level of autonomy, but where you have autonomy, little central authority, and a lack of discipline, conflict can result. Qazi emphasizes, “It is most essential to recognize, however, that these militants do not form a united front and that the current insurgent movement is actually decentralized and often fractured, suffering from indiscipline, disagreement, and rebel infighting.”[^59] A prime example of this was Baitullah Mehsud’s conflict with Maulvi Nazir and Hafiz Gul Bahadur. It stemmed in part due to a traditional intertribal rivalry, but mostly was the result of intergroup competition.[^60] It became so heated that in 2008, “Baitullah Mehsud had Haji Namdar Khan (Khyber Agency) assassinated after he joined a rival group along with Hafiz Gul Bahadur and Maulvi Nazir.”[^61] An example of traditional intertribal rivalry is that between the Wazirs and the Mehsuds. This type of “feuding is representative of agnatic (cousin) rivalry, also called tarboorwali.”[^62]
 
+Splintering is also going on within the Taliban movement. As the opportunities have changed, so have many of Pakistan’s militant groups. Fair states that since “late 2001 and 2002, many of Pakistan’s militant groups--particularly those of Deobandi background--have either splintered or changed their targets and tactics. Many Deobandi groups are tightly allied to the Afghan and Pakistani Talibans and are increasingly aiming their resources at the Pakistani state, even though some elements within these groups continue to enjoy various levels of formal and informal state support.”[^63] Moreover, the Pakistani Taliban itself has given way to a number of offshoot groups.[^64]
 
+It is also expected that the current type of violence, particularly that which is being seen in Pakistan, will lead to more splintering of the Taliban movement. Gruesome beheadings, the mutilation of foes, and the indiscriminate violence, to include suicide bombings, increasingly against civilian targets is taking a toll. Widely believed to be the influence of al-Qa’ida in the region, these tactics do not resonate well with the public. In demonstrating the desire to expand the fight beyond the tribal regions, and pursue new tactics, the group has inevitably run up against dissention from within its ranks.[^65]
 
-Intergroup conflict is not a new phenomenon for the Taliban movement. Much of the
-fighting is due to the loose nature of intergroup affiliation within the Taliban movement. This may
-be advantageous in terms of each group having a high level of autonomy, but where you have
-autonomy, little central authority, and a lack of discipline, conflict can result. Qazi emphasizes, “It
-is most essential to recognize, however, that these militants do not form a united front and that
-the current insurgent movement is actually decentralized and often fractured, suffering from
-indiscipline, disagreement, and rebel infighting.” A prime example of 59 this was Baitullah
-Mehsud’s conflict with Maulvi Nazir and Hafiz Gul Bahadur. It stemmed in part due to a traditional
-intertribal rivalry, but mostly was the result of intergroup competition.60 It became so heated that
-in 2008, “Baitullah Mehsud had Haji Namdar Khan (Khyber Agency) assassinated after he joined
-59 Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,”
-581.
-60 Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,”
-583.
-17 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-a rival group along with Hafiz Gul Bahadur and Maulvi Nazir.” An example of traditional 61 intertribal
-rivalry is that between the Wazirs and the Mehsuds. This type of “feuding is representative of
-agnatic (cousin) rivalry, also called tarboorwali.”62
-Splintering is also going on within the Taliban movement. As the opportunities have
-changed, so have many of Pakistan’s militant groups. Fair states that since “late 2001 and 2002,
-many of Pakistan’s militant groups--particularly those of Deobandi background--have either
-splintered or changed their targets and tactics. Many Deobandi groups are tightly allied to the
-Afghan and Pakistani Talibans and are increasingly aiming their resources at the Pakistani state,
-even though some elements within these groups continue to enjoy various levels of formal and
-informal state support.”63 Moreover, the Pakistani Taliban itself has given way to a number of
-offshoot groups.64
-It is also expected that the current type of violence, particularly that which is being seen in
-Pakistan, will lead to more splintering of the Taliban movement. Gruesome beheadings, the
-mutilation of foes, and the indiscriminate violence, to include suicide bombings, increasingly
-against civilian targets is taking a toll. Widely believed to be the influence of al-Qa’ida in the
-region, these tactics do not resonate well with the public. In demonstrating the desire to expand
-the fight beyond the tribal regions, and pursue new tactics, the group has inevitably run up
-against dissention from within its ranks.65
-Additionally, it is worthwhile to point out that some militants will stop fighting after the U.S.
-leaves. It is difficult to project just how many will do this, but if history serves as an example,
-there should be a fair amount. Tangentially, another thing that needs to be considered is the
-61 Ibid.
-62 Ibid.
-63 C. Christine Fair, “The Militant Challenge in Pakistan,” 127-128.
-64 Khuram Iqbal and Sara De Silva, “Terrorist lifecycles: a case study of Tehrik-e-Taliban Pakistan,” 85.
-65 Khuram Iqbal and Sara De Silva, “Terrorist lifecycles: a case study of Tehrik-e-Taliban Pakistan,” 81.
-18 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-security threat that awaits in countries that will be receiving returning foreign fighters. Some
-central Asian countries are already preparing for the possibility of hardened terrorists returning
-and taking up their cause at home.66
-ENTREPRENEURIAL MILITANCY
-As put forth above, entrepreneurial militancy, occurs when groups or organizations seek
-to take advantage of actual or perceived opportunities in a militant manner. One clear example of
-militants seeking new opportunities is the substantial rank-letting that occurred within
-Jaish-e-Mohammed, Lashkar-e-Taiba, and Harkat-ul-Mujahideen upon the initial notoriety gained
-by the Pakistani Taliban in its fight against the Pakistani army. Iqbal and De Silva highlight that
-Jaish-e-Mohammed, Lashkar-e-Taiba, and Harkat-ul-Mujahideen, “suffered substantial
-fractionalisation as a number of foot soldiers deserted and joined the TTP in FATA.”67
-In terms of the U.S. drawdown, Abbas believes that the Pakistani Taliban will shift its
-attention to Afghanistan, for the most part, once it has secured its presence in the FATA and
-Khyber-Pakhtunkhwa Province.68 He is not alone in this believe either, according to an interview
-Christine Fair conducted with Pakistani army officers, there is close to a “unanimous” belief that
-once the U.S. leaves Afghanistan that Pakistani militants will stop targeting Pakistan.69
-Underscoring these beliefs is the perception that the Pakistani Taliban will ultimately find more
-opportunities in Afghanistan. Though that is likely to occur to some degree, it is unlikely that the
-entire Taliban movement will shift its focus to Afghanistan. For one thing, there is not going to be
-an absence of security in Afghanistan. It is anticipated that the U.S. will retain intelligence,
-surveillance, and reconnaissance assets as well as special operations forces and drone assets
-in the region for the foreseeable future. Moreover, the Afghan security forces will continue There
-66 Vadim Kozyulin, “Afghanistan-2014 And The Taliban With Its Head Held Proud But Low,” 76.
-67 Khuram Iqbal and Sara De Silva, “Terrorist lifecycles: a case study of Tehrik-e-Taliban Pakistan,” 78.
-68 Hassan Abbas, “A Profile of Tehrik-i-Taliban Pakistan,” 3.
-69 C. Christine Fair, “The Militant Challenge in Pakistan,” 117.
-19 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-will remain a contingent of militants that
-Opportunities to Lessen the Impact of the U.S. Drawdown
-There are several opportunities for the U.S. and its regional partners to lessen the
-potential fallout after the U.S. drawdown in Afghanistan. First, it will be important to address the
-factors that have and will continue to impede progress in the region. The “short-sighted military
-polices and a colonial-era body of law” that has handicapped the tribal areas of Pakistan by
-placing tribal residents in “an ambiguous constitutional status and denying political freedom and
-economic opportunity,” and led to Pashtun disenfranchisement, will become a policy imperitive.70
-Heavy-handed tactics, the over-use of force, and inconsistent military policy will have to
-give way to smarter policies that address grievances and eliminate “impediments to economic
-development,...trade, business opportunities, and transportation and shipment of goods.”71 Put
-differently, “The underlying goal in defeating militancy should not be to restore the old order, but
-to mainstream the tribal areas with the rest of Pakistan” while “creating opportunities for a
-representative political leadership and stimulating economic development.”72 Islamabad should
-also take a hard look at its sponsorship strategies. Are the costs of empowering militants really
-worth it?
-Afghanistan also has plenty of work to do. If the Afghan government cannot rid itself of its
-current level of corruption, it is unlikely that it will become popular with the Afghan populous
-anytime soon. Relatedly, Afghanistan needs to take a serious look at its drug enforcement
-problem. Obviously, Afghanistan is heavily dependent upon its allies for financial, technological,
-and logistical aid at this point in time, but it has the power to make it a priority. Until poppy
-production is reduced, and consequently the largest source of Taliban income is curbed,
-70 “Pakistan: Countering Militancy,” i.
-71 “Pakistan: Countering Militancy,” 8.
-72 “Pakistan: Countering Militancy,” 23.
-20 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-Afghanistan’s internal security will continue to be threatened. Finally, Afghanistan needs to work
-on its diplomatic relations with Pakistan. The threat posed by the Taliban movement cannot be
-solved unless both Afghanistan and Pakistan are in league together in the fight. As long as there
-are subversionary policies in place, there will be no progress at either end.
-For the U.S., it will be important to revise counterterrorism policy in a manner that will be
-sustainable in terms of the political realities in Afghanistan and Pakistan. In other words, the U.S.
-will need to revisit its drone policy and make sure that its use of airstrikes is not causing
-unnecessary barriers to progress. As a part of this reassessment, non-kinetic opportunities need
-to be looked at as well. Not only are they less costly in terms of money and life, but arguably they
-have unrealized potential.
-Conclusion
-The militant landscape across central and south Asia has always been complex, but will
-only become more so as the large contingent of U.S. and coalition counterinsurgent and
-counterterrorist forces leave Afghanistan. New opportunities will be abundant and result in
-“entrepreneurial militancy” in the near term. Thus, with many competing interests and high
-stakes, the Taliban movement, at large, will further fragment and spin off new groups. While the
-key actors are unlikely to change, motivations and the banners they seek power under, very well
-may.
-That being said, opportunity will not simply be limited to the Taliban and associated
-militant groups. The U.S. as well as regional powers like Pakistan, India, Iran, China, and indeed
-the Afghan government itself, will also have opportunities. It can be predicted that these
-opportunities will be viewed differently state-by-state, and the respective policies put forth will in
-many cases be in direct competition with other states. Nevertheless, regional security and
-countering the threat posed by militants is in everyone’s best interest.
-21 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-It is important to emphasize that religious underpinned militancy is not created in a
-vacuum. Much of the violence attributable to militants in the region could have been reduced
-absent aggressive policy by Islamabad over the last quarter century. Whether in terms of
-Islamizing Pakistan or sponsoring militant organizations like the Taliban. There 73 are, however,
-opportunities to reduce terrorism in the coming years.
-While the U.S. will continue to see out its commitment to Afghanistan’s security, in
-whatever shape that ultimately takes, there is a great deal of room for improving our
-counterterrorism approach to the Taliban movement. First, drones will not win the hearts and
-minds of the constituents most recruited by the movement, nor will it be decisive. That is not to
-say that drones cannot be used or that they do not have their place. Rather, it is to say that a
-great deal of caution should be used when considering strikes. Non-kinetic options that are
-at-present underutilized are counternarratives, as a part of U.S. strategic communication, and
-progressive approaches to dealing with religion (e.g., Johnston’s “faith-based diplomacy”).
-Pakistan should pay attention to addressing the root causes of Pashtun militancy in its
-Federally Administered Tribal Area (FATA). Simply put, Pakistan’s internal security is largely
-dependent upon it putting aside its anxieties over Pashtun nationalism, dispensing of colonial era
-laws and provisions, building infrastructure and capacity in the tribal regions (with the help of the
-international community), and affording the millions of Pashtuns residing in the tribal areas of
-Pakistan with the same rights as other Pakistani citizens. This will not eliminate conflict or end
-terrorism within Pakistan or Afghanistan. It will, however, go a long way towards building relations
-with the largest recruitment pool militant organizations have in the region.
+Additionally, it is worthwhile to point out that some militants will stop fighting after the U.S. leaves. It is difficult to project just how many will do this, but if history serves as an example, there should be a fair amount. Tangentially, another thing that needs to be considered is the security threat that awaits in countries that will be receiving returning foreign fighters. Some central Asian countries are already preparing for the possibility of hardened terrorists returning and taking up their cause at home.[^66]
+
+#### <u>ENTREPRENEURIAL MILITANCY</u> ####
+
+As put forth above, entrepreneurial militancy, occurs when groups or organizations seek to take advantage of actual or perceived opportunities in a militant manner. One clear example of militants seeking new opportunities is the substantial rank-letting that occurred within Jaish-e-Mohammed, Lashkar-e-Taiba, and Harkat-ul-Mujahideen upon the initial notoriety gained by the Pakistani Taliban in its fight against the Pakistani army. Iqbal and De Silva highlight that Jaish-e-Mohammed, Lashkar-e-Taiba, and Harkat-ul-Mujahideen, “suffered substantial fractionalisation as a number of foot soldiers deserted and joined the TTP in FATA.”[^67]
+
+In terms of the U.S. drawdown, Abbas believes that the Pakistani Taliban will shift its attention to Afghanistan, for the most part, once it has secured its presence in the FATA and Khyber-Pakhtunkhwa Province.[^68] He is not alone in this believe either, according to an interview Christine Fair conducted with Pakistani army officers, there is close to a “unanimous” belief that once the U.S. leaves Afghanistan that Pakistani militants will stop targeting Pakistan.[^69] Underscoring these beliefs is the perception that the Pakistani Taliban will ultimately find more opportunities in Afghanistan. Though that is likely to occur to some degree, it is unlikely that the entire Taliban movement will shift its focus to Afghanistan. For one thing, there is not going to be an absence of security in Afghanistan. It is anticipated that the U.S. will retain intelligence, surveillance, and reconnaissance assets, as well as special operations forces and drone assets in the region for the foreseeable future. Moreover, the Afghan security forces will continue to combat insurgents to its fullest capacity. As a result, there will remain a contingent of militants that continue to target Pakistan.
+
+### <center>OPPORTUNITIES TO LESSEN THE IMPACT OF THE U.S. DRAWDOWN</center> ###
+
+There are several opportunities for the U.S. and its regional partners to lessen the potential fallout after the U.S. drawdown in Afghanistan. First, it will be important to address the factors that have and will continue to impede progress in the region. The “short-sighted military polices and a colonial-era body of law” that has handicapped the tribal areas of Pakistan by placing tribal residents in “an ambiguous constitutional status and denying political freedom and economic opportunity,” and led to Pashtun disenfranchisement, will become a policy imperitive.[^70]
+
+Heavy-handed tactics, the over-use of force, and inconsistent military policy will have to give way to smarter policies that address grievances and eliminate “impediments to economic development,...trade, business opportunities, and transportation and shipment of goods.”[^71] Put differently, “The underlying goal in defeating militancy should not be to restore the old order, but to mainstream the tribal areas with the rest of Pakistan” while “creating opportunities for a representative political leadership and stimulating economic development.”[^72] Islamabad should also take a hard look at its sponsorship strategies. Are the costs of empowering militants really worth it?
+
+Afghanistan also has plenty of work to do. If the Afghan government cannot rid itself of its current level of corruption, it is unlikely that it will become popular with the Afghan populous anytime soon. Relatedly, Afghanistan needs to take a serious look at its drug enforcement problem. Obviously, Afghanistan is heavily dependent upon its allies for financial, technological, and logistical aid at this point in time, but it has the power to make it a priority. Until poppy production is reduced, and consequently the largest source of Taliban income is curbed, Afghanistan’s internal security will continue to be threatened. Finally, Afghanistan needs to work on its diplomatic relations with Pakistan. The threat posed by the Taliban movement cannot be solved unless both Afghanistan and Pakistan are in league together in the fight. As long as there are subversionary policies in place, there will be no progress at either end.
+
+For the U.S., it will be important to revise counterterrorism policy in a manner that will be sustainable in terms of the political realities in Afghanistan and Pakistan. In other words, the U.S. will need to revisit its drone policy and make sure that its use of airstrikes is not causing unnecessary barriers to progress. As a part of this reassessment, non-kinetic opportunities need to be looked at as well. Not only are they less costly in terms of money and life, but arguably they have unrealized potential.
+
+### <center>CONCLUSION</center> ###
+
+The militant landscape across central and south Asia has always been complex, but will only become more so as the large contingent of U.S. and coalition counterinsurgent and counterterrorist forces leave Afghanistan. New opportunities will be abundant and result in “entrepreneurial militancy” in the near term. Thus, with many competing interests and high stakes, the Taliban movement, at large, will further fragment and spin off new groups. While the key actors are unlikely to change, motivations and the banners they seek power under, very well may.
+
+That being said, opportunity will not simply be limited to the Taliban and associated militant groups. The U.S. as well as regional powers like Pakistan, India, Iran, China, and indeed the Afghan government itself, will also have opportunities. It can be predicted that these opportunities will be viewed differently state-by-state, and the respective policies put forth will in many cases be in direct competition with other states. Nevertheless, regional security and countering the threat posed by militants is in everyone’s best interest.
+
+It is important to emphasize that religious underpinned militancy is not created in a vacuum. Much of the violence attributable to militants in the region could have been reduced absent aggressive policy by Islamabad over the last quarter century. Whether in terms of Islamizing Pakistan or sponsoring militant organizations like the Taliban.[^73] There are, however, opportunities to reduce terrorism in the coming years.
+
+While the U.S. will continue to see out its commitment to Afghanistan’s security, in whatever shape that ultimately takes, there is a great deal of room for improving our counterterrorism approach to the Taliban movement. First, drones will not win the hearts and minds of the constituents most recruited by the movement, nor will it be decisive. That is not to say that drones cannot be used or that they do not have their place. Rather, it is to say that a great deal of caution should be used when considering strikes. Non-kinetic options that are at-present underutilized are counternarratives, as a part of U.S. strategic communication, and progressive approaches to dealing with religion (e.g., Johnston’s “faith-based diplomacy”).
+
+Pakistan should pay attention to addressing the root causes of Pashtun militancy in its Federally Administered Tribal Area (FATA). Simply put, Pakistan’s internal security is largely dependent upon it putting aside its anxieties over Pashtun nationalism, dispensing of colonial era laws and provisions, building infrastructure and capacity in the tribal regions (with the help of the international community), and affording the millions of Pashtuns residing in the tribal areas of Pakistan with the same rights as other Pakistani citizens. This will not eliminate conflict or end terrorism within Pakistan or Afghanistan. It will, however, go a long way towards building relations with the largest recruitment pool militant organizations have in the region.
 
 ### <center>BIBLIOGRAPHY</center> ###
 
@@ -452,9 +328,32 @@ Zafar Nawaz Jaspal, “Threat of Extremism & Terrorism Syndicate beyond FATA,”
 
 [^58]: Ibid.
 
+[^59]: Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,” 581.
 
+[^60]: Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,” 583.
 
+[^61]: Ibid.
 
+[^62]: Ibid.
 
+[^63]: C. Christine Fair, “The Militant Challenge in Pakistan,” 127-128.
+
+[^64]: Khuram Iqbal and Sara De Silva, “Terrorist lifecycles: a case study of Tehrik-e-Taliban Pakistan,” 85.
+
+[^65]: Khuram Iqbal and Sara De Silva, “Terrorist lifecycles: a case study of Tehrik-e-Taliban Pakistan,” 81.
+
+[^66]: Vadim Kozyulin, “Afghanistan-2014 And The Taliban With Its Head Held Proud But Low,” 76.
+
+[^67]: Khuram Iqbal and Sara De Silva, “Terrorist lifecycles: a case study of Tehrik-e-Taliban Pakistan,” 78.
+
+[^68]: Hassan Abbas, “A Profile of Tehrik-i-Taliban Pakistan,” 3.
+
+[^69]: C. Christine Fair, “The Militant Challenge in Pakistan,” 117.
+
+[^70]: “Pakistan: Countering Militancy,” i.
+
+[^71]: “Pakistan: Countering Militancy,” 8.
+
+[^72]: “Pakistan: Countering Militancy,” 23.
 
 [^73]: Pervez Hoodbhoy, “Pakistan - The Threat From Within,” 10.
