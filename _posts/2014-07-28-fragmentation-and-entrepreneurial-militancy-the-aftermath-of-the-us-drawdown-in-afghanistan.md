@@ -22,11 +22,11 @@ Despite the likely increase in violence in the region, there will be opportuniti
 
 ### <center>BACKGROUND</center> ###
 
-An ancient warrior culture has evolved for over two millennia in what could be considered Pashtunistan, an expansive area straddling over a thousand miles of the Afghanistan-Pakistan border.[^4] Since the 4th century B.C. when Alexander the Great struggled to conquer Pashtun tribesmen in today's Malakand Agency, Pashtun tribes have fought the Mogul and British empires, Afghan rulers, the Soviet Union, and now the International Security Assistance Force and Afghan security forces, as well as the Pakistani military.[^5] Today there are twelve million ethnic Pashtuns in Afghanistan and twenty-seven million in Pakistan speaking Pashto and adhering to Pashtunwali (a traditional code of moral and legal conduct).[^6] Adding to the cultural and ethno-linguistic challenges of would-be governors, Pashtun tribes by-and-large do not recognize outside governance or borders. As a result, the friction between tribesmen and the governments of Afghanistan and Pakistan, respectively, has led to militancy.
+An ancient warrior culture has evolved for over two millennia in what could be considered Pashtunistan, an expansive area straddling over a thousand miles of the Afghanistan-Pakistan border.[^4] Since the 4th century B.C. when Alexander the Great struggled to conquer Pashtun tribesmen in today's Malakand Agency, Pashtun tribes have fought the Mogul and British empires, Afghan rulers, the Soviet Union, and now the International Security Assistance Force and Afghan security forces, as well as the Pakistani military.[^5] Today there are twelve million ethnic Pashtuns in Afghanistan and twenty-seven million in Pakistan speaking Pashto and adhering to *Pashtunwali* (a traditional code of moral and legal conduct).[^6] Adding to the cultural and ethno-linguistic challenges of would-be governors, Pashtun tribes by-and-large do not recognize outside governance or borders. As a result, the friction between tribesmen and the governments of Afghanistan and Pakistan, respectively, has led to militancy.
 
 #### <u>AFGHAN TALIBAN</u> ####
 
-In recent history, the militant movements in the tribal areas of Afghanistan and Pakistan largely trace their lineage to the Soviet war in Afghanistan (1979-1989). Seeking to counter rebellions and prop-up the weak pro-Soviet government in Kabul, the Soviet Union invaded Afghanistan in December 1979. This led to a protracted multinational insurgency that had thousands of foreign fighters from around the world joining the conflict in order to wage jihad (struggle) against the Soviets. Pakistan’s Inter-Services Intelligence (ISI) began clandestinely training and equipping the mujahideen (strugglers) led insurgency at the onset of the war. Seeing an opportunity to fight the Soviet Union and the Communist Afghan government by proxy, the U.S. along with Britain and Saudi Arabia aided Pakistan in its effort to arm and train the mujahideen. As the International Crisis Group points out, “Pakistani support was based on fears of irredentist claims by Pashtun nationalists on its Pashtun borderlands; Saudi Arabia was guided by its Sunni Wahhabi/Salafi ideological preferences; the U.S. saw the Islamists as the most desirable ally against the Soviets and the Soviet-back Kabul communist regime.”[^7] Iran and China also provided arms and training to the mujahideen throughout the war, and continued their support for various groups thereafter. By 1989, the insurgency had exacted a toll great enough to force the Soviet Union out of Afghanistan.
+In recent history, the militant movements in the tribal areas of Afghanistan and Pakistan largely trace their lineage to the Soviet war in Afghanistan (1979-1989). Seeking to counter rebellions and prop-up the weak pro-Soviet government in Kabul, the Soviet Union invaded Afghanistan in December 1979. This led to a protracted multinational insurgency that had thousands of foreign fighters from around the world joining the conflict in order to wage jihad (struggle) against the Soviets. Pakistan’s Inter-Services Intelligence (ISI) began clandestinely training and equipping the *mujahideen* (strugglers) led insurgency at the onset of the war. Seeing an opportunity to fight the Soviet Union and the Communist Afghan government by proxy, the U.S. along with Britain and Saudi Arabia aided Pakistan in its effort to arm and train the mujahideen. As the International Crisis Group points out, “Pakistani support was based on fears of irredentist claims by Pashtun nationalists on its Pashtun borderlands; Saudi Arabia was guided by its Sunni Wahhabi/Salafi ideological preferences; the U.S. saw the Islamists as the most desirable ally against the Soviets and the Soviet-back Kabul communist regime.”[^7] Iran and China also provided arms and training to the mujahideen throughout the war, and continued their support for various groups thereafter. By 1989, the insurgency had exacted a toll great enough to force the Soviet Union out of Afghanistan.
 
 In the wake of the Soviet war in Afghanistan, the Communist Afghan government was left to fend for itself with only Soviet economic and military aid. Warlords and mujahideen commanders fought for control of Afghanistan. The ensuing violence marked the beginning of the Afghan civil war. Gulbuddin Hekmatyar and his organization, Hizb-e-Islami, were initially the main beneficiary of support from Pakistan in the fight for Kabul.[^8] Fair points out that “Pakistan hoped that Hekmatyar would secure a corridor to Central Asia, beginning in Peshawar, continuing through Jalalabad and Kabul, stretching onward to Mazar-i-Sharif, and finally reaching Tashkent.”[^9] This lofty plan however would never come to fruition, and Pakistan slowly lessened its support as Hekmatyar routinely failed to meet the objectives of Pakistan. Mainly, he could not take Kabul. That said, Pakistan hedged its bets and continued to support Hekmatyar, if only in part, even after he later failed to reach an accord with the Taliban in 1994.[^10] Pakistan also supported the likes Jalaluddin Haqqani and his Haqqani Network (HQN), who like Hekmatyar, to this day is still fighting security forces in Afghanistan.
 
@@ -34,86 +34,22 @@ After three years of bloodshed, Najibullah resigned and his regime collapsed fol
 
 #### <u>PAKISTANI TALIBAN</u> ####
 
-Tehrik-i-Taliban Pakistan (TTP), commonly referred to as the Pakistani Taliban, was officially founded on December 14, 2007 in an announcement made by a shura (consultative
+Tehrik-i-Taliban Pakistan (TTP), commonly referred to as the Pakistani Taliban, was officially founded on December 14, 2007 in an announcement made by a *shura* (consultative committee) consisting of forty senior Taliban leaders.[^15] The shura of Taliban leaders from the tribal agencies of “North and South Waziristan, Khyber, Orakazi, Bajaur, Mohmand, and Kurram, as well as the settled districts of Swat, Bannu, Tank, Lakki Marwat, Dera Ismail Khan, Kohistan, Buner, and the Malakand division,” named Baitullah Mehsud, a prominent Taliban commander from South Waziristan, as the *emir* (leader or commander) of the newly formed TTP.[^16] This was significant because it was the first time a shura with Taliban representatives from all seven of the tribal agencies in the Federally Administered Tribal Areas (FATA) in addition to the settled North-West Frontier Province (NWFP) (now the Khyber Pakhtunkhwa Province) districts convened and resulted in the aligning of interests.[^17]
+
+The groups which ultimately came together to form the TTP under Baitullah Mehsud, began operating much earlier. Abbas highlights that the metamorphosis of Taliban “supporters and sympathizers” to a formidable “Taliban force in Pakistan’s Federally Administered Tribal Areas (FATA)” came about when disenfranchised tribal members began organizing and networking beginning in late 2002.[^18] Under pressure from the U.S. after 9/11, the Pakistani army made its way into the tribal region of Pakistan in an effort to root out members of al-Qa’ida. This infuriated many Pashtuns, and led to a widespread belief that Islamabad was under the thumb of the U.S., which in-turn placed the Pakistani government in the crosshairs of militants.
+
+Taking things into their own hands, the militants began supplanting the governing structures, overseen by the Pakistani government, within the FATA and the then NWFP. Fair states that the “Talibnization of the tribal areas was initially limited to North and South Waziristan” before eventually spreading to Bajaur and “areas that had previously been free of such activity, including Mohmand, Orakzai, and Kurram agencies,” as well as the “frontier areas of Bannu, Tank Kohat, Lakki Marwat, Dera Ismail Khan, and Swat.”[^19] The campaign kicked off with the killing off of over 600 tribal elders, and “by the time the Pakistani government realized the changing dynamics and tried to resurrect the tribal *jirga* institution,” very little could be done.[^20]
+
+Nek Mohammad Wazir of South Waziristan was the first militant leader in Pakistan to gain notoriety. After the Pakistani army was shut down by Nek Mohammad’s forces in the spring of 2004, the Pakistani military was left in shame after it was forced to sign a “peace deal known as the Shakai Accord” completely on Nek Mohammad’s terms, and retreat.[^21] Shortly thereafter, Hafiz Gul Bahadur, a commander from North Waziristan, gained attention as he assumed the status of *emir* (commander or leader) of the militancy in Pakistan.[^22] This was, however, short-lived as he was killed by a U.S. drone strike very soon after.
+
+Prior to being named *emir* of the TTP in late 2007, Baitullah Mehsud had also been a commander in South Waziristan. Enraged with the Pakistani state which had begun military operations in the tribal areas of Pakistan under increasing pressure from the West to root-out militants, Mehsud stated that the "government of Pakistan would be paid in the same coin now."[^23] Thus indicating a shift in targeting from what had been a collective effort against coalition forces in Afghanistan within the “Taliban movement,” to a new focus on the Pakistani state. A spokesman for the TTP at the time emphasized that the objective of the newly formed organization was to attack the U.S. and its allies in Afghanistan, and reiterated the organization’s stance against Pakistan, specifically the Pakistani military.[^24] Prior to being killed in a drone strike, Mehsud commanded upwards of thirty-thousand men against the Pakistani state.[^25] Conducting a nationwide suicide bombing campaign and forcing the Pakistani government to negotiate a peace agreement with him in 2006, he was widely seen as a successful and competent commander with the ability to inflict pain on the Pakistani government.[^26]
+
+Following Mehsud’s death in August 2009, his cousin, Hakimullah Mehsud, assumed control of the TTP. According to Pakistani news sources, Hakimullah was in the process of beginning negotiations with Islamabad when he was killed by a drone strike in November of 2013.[^27] Mullah Fazlullah, also known as Mullah Radio, is now the emir of the TTP.[^28]
+
+### <center>THE TALIBAN MOVEMENT</center> ###
 
 
 
-
-
-committee) consisting of forty senior Taliban leaders. The shura of Taliban 15 leaders from the
-tribal agencies of “North and South Waziristan, Khyber, Orakazi, Bajaur, Mohmand, and Kurram,
-as well as the settled districts of Swat, Bannu, Tank, Lakki Marwat, Dera Ismail Khan, Kohistan,
-Buner, and the Malakand division,” named Baitullah Mehsud, a prominent Taliban commander
-from South Waziristan, as the emir (leader or commander) of the newly formed TTP.16 This was
-significant because it was the first time a shura with Taliban representatives from all seven of the
-tribal agencies in the Federally Administered Tribal Areas (FATA) in addition to the settled
-North-West Frontier Province (NWFP) (now the Khyber Pakhtunkhwa Province) districts
-convened and resulted in the aligning of interests.17
-The groups which ultimately came together to form the TTP under Baitullah Mehsud,
-began operating much earlier. Abbas highlights that the metamorphosis of Taliban “supporters
-and sympathizers” to a formidable “Taliban force in Pakistan’s Federally Administered Tribal
-Areas (FATA)” came about when disenfranchised tribal members began organizing and
-networking beginning in late 2002.18 Under pressure from the U.S. after 9/11, the Pakistani army
-made its way into the tribal region of Pakistan in an effort to root out members of al-Qa’ida. This
-infuriated many Pashtuns, and led to a widespread belief that Islamabad was under the thumb of
-the U.S., which in-turn placed the Pakistani government in the crosshairs of militants.
-Taking things into their own hands, the militants began supplanting the governing
-structures, overseen by the Pakistani government, within the FATA and the then NWFP. Fair
-states that the “Talibnization of the tribal areas was initially limited to North and South
-15 Zachary Laub, "Pakistan's New Generation of Terrorists," Council on Foreign Relations, last modified
-November 18, 2013, accessed December 1, 2013,
-http://www.cfr.org/pakistan/pakistans-new-generation-terrorists/p15422; and Hassan Abbas, "A Profile of
-Tehrik-i-Taliban Pakistan," Combating Terrorism Center, January 15, 2008, 1, accessed December 1, 2013,
-http://www.ctc.usma.edu/posts/a-profile-of-tehrik-i-taliban-pakistan.
-16 Bill Roggio, "Pakistani Taliban unites under Baitullah Mehsud," Long War Journal, December 15, 2007,
-December 1, 2013, http://www.longwarjournal.org/archives/2007/12/pakistani_taliban_un.php.
-17 Zachary Laub, "Pakistan's New Generation of Terrorists."
-18 Hassan Abbas, "A Profile of Tehrik-i-Taliban Pakistan," 1.
-6 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-Waziristan” before eventually spreading to Bajaur and “areas that had previously been free of
-such activity, including Mohmand, Orakzai, and Kurram agencies,” as well as the “frontier areas
-of Bannu, Tank Kohat, Lakki Marwat, Dera Ismail Khan, and Swat.” The campaign 19 kicked off
-with the killing off of over 600 tribal elders, and “by the time the Pakistani government realized the
-changing dynamics and tried to resurrect the tribal jirga institution,” very little could be done.20
-Nek Mohammad Wazir of South Waziristan was the first militant leader in Pakistan to
-gain notoriety. After the Pakistani army was shut down by Nek Mohammad’s forces in the spring
-of 2004, the Pakistani military was left in shame after it was forced to sign a “peace deal known
-as the Shakai Accord” completely on Nek Mohammad’s terms, and retreat.21 Shortly thereafter,
-Hafiz Gul Bahadur, a commander from North Waziristan, gained attention as he assumed the
-status of emir (commander or leader) of the militancy in Pakistan.22 This was, however,
-short-lived as he was killed by a U.S. drone strike very soon after.
-Prior to being named emir of the TTP in late 2007, Baitullah Mehsud had also been a
-commander in South Waziristan. Enraged with the Pakistani state which had begun military
-operations in the tribal areas of Pakistan under increasing pressure from the West to root-out
-militants, Mehsud stated that the "government of Pakistan would be paid in the same coin now."
-23 Thus indicating a shift in targeting from what had been a collective effort against coalition
-forces in Afghanistan within the “Taliban movement,” to a new focus on the Pakistani state. A
-spokesman for the TTP at the time emphasized that the objective of the newly formed
-organization was to attack the U.S. and its allies in Afghanistan, and reiterated the organization’s
-19 C. Christine Fair, “The Militant Challenge in Pakistan,” 125.
-20 Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,”
-Small Wars & Insurgencies, Volume 22, Number 4 (2011): 578; and Hassan Abbas, "A Profile of
-Tehrik-i-Taliban Pakistan," 1.
-21 C. Christine Fair, “The Militant Challenge in Pakistan,” 124.
-22 Ibid.
-23 Ibid.
-7 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-stance against Pakistan, specifically the Pakistani military. Prior to being killed 24 in a drone strike,
-Mehsud commanded upwards of thirty-thousand men against the Pakistani state.25 Conducting a
-nationwide suicide bombing campaign and forcing the Pakistani government to negotiate a
-peace agreement with him in 2006, he was widely seen as a successful and competent
-commander with the ability to inflict pain on the Pakistani government.26
-Following Mehsud’s death in August 2009, his cousin, Hakimullah Mehsud, assumed
-control of the TTP. According to Pakistani news sources, Hakimullah was in the process of
-beginning negotiations with Islamabad when he was killed by a drone strike in November of 2013.
-27 Mullah Fazlullah, also known as Mullah Radio, is now the emir of the TTP.28
-The Taliban Movement
 The “Taliban movement” is not monolithic. Rather, it is a complex system that contains
 two umbrella organizations, the Afghan Taliban and the Pakistani Taliban, and their respective
 loose networks of militant groups fighting in their name. The casual usage of the the term
@@ -124,19 +60,8 @@ Both the Afghan and Pakistani Taliban have numerous features which renders them
 unique from their counterparts, but importantly, there are also similarities and overlaps between
 the groups. With regards to differences, origin, motivation(s), and sponsorship, usually in part,
 are defining characteristics. While similarities often include: ideology, composition (i.e., primary
-recruiting pools), means of financing, and tactics, techniques, and procedures. Overlaps in
-24 Ibid.
-25 Ibid.
-26 Ibid.
-27 Omer Farooq Khan, “Malala attacker to lead Taliban,” The Times of India, November 8, 2013, accessed
-November 29, 2013,
-http://timesofindia.indiatimes.com/world/pakistan/Malala-attacker-to-lead-Taliban/articleshow/25400078.cms
-28 Ibid.
-8 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-membership, structure, area of operation, and targeting are also quite common.
+recruiting pools), means of financing, and tactics, techniques, and procedures. Overlaps inmembership, structure, area of operation, and targeting are also quite common.
+
 ORIGINS
 As was highlighted within the background portion of this paper, the Afghan Taliban and
 Pakistani Taliban had unique beginnings, generally speaking. The Afghan Taliban, led by Mullah
@@ -627,6 +552,33 @@ Zafar Nawaz Jaspal, “Threat of Extremism & Terrorism Syndicate beyond FATA,”
 
 [^14]: Julian Schofield, “Diversionary wars: Pashtun unrest and the sources of Pakistan-Afghan Confrontation,” 46.
 
+[^15]: Zachary Laub, "Pakistan's New Generation of Terrorists," Council on Foreign Relations, last modified November 18, 2013, accessed December 1, 2013, http://www.cfr.org/pakistan/pakistans-new-generation-terrorists/p15422; and Hassan Abbas, "A Profile of Tehrik-i-Taliban Pakistan," Combating Terrorism Center, January 15, 2008, 1, accessed December 1, 2013, http://www.ctc.usma.edu/posts/a-profile-of-tehrik-i-taliban-pakistan.
+
+[^16]: Bill Roggio, "Pakistani Taliban unites under Baitullah Mehsud," Long War Journal, December 15, 2007, December 1, 2013, http://www.longwarjournal.org/archives/2007/12/pakistani_taliban_un.php.
+
+[^17]: Zachary Laub, "Pakistan's New Generation of Terrorists."
+
+[^18]: Hassan Abbas, "A Profile of Tehrik-i-Taliban Pakistan," 1.
+
+[^19]: C. Christine Fair, “The Militant Challenge in Pakistan,” 125.
+
+[^20]: Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,” Small Wars & Insurgencies, Volume 22, Number 4 (2011): 578; and Hassan Abbas, "A Profile of Tehrik-i-Taliban Pakistan," 1.
+
+[^21]: C. Christine Fair, “The Militant Challenge in Pakistan,” 124.
+
+[^22]: Ibid.
+
+[^23]: Ibid.
+
+[^24]: Ibid.
+
+[^25]: Ibid.
+
+[^26]: Ibid.
+
+[^27]: Omer Farooq Khan, “Malala attacker to lead Taliban,” The Times of India, November 8, 2013, accessed November 29, 2013, http://timesofindia.indiatimes.com/world/pakistan/Malala-attacker-to-lead-Taliban/articleshow/25400078.cms
+
+[^28]: Ibid.
 
 
 
