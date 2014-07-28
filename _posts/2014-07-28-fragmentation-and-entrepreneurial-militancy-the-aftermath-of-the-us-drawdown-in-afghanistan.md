@@ -8,7 +8,7 @@ category: [Terrorism, Counterterrorism]
 tags: [Taliban, Pakistan, Afghanistan, Pakistani, Afghan, Tribal, Militant, Pashtun, TTP, Tehrik-i-Taliban Pakistan, Pakistani Taliban, Afghan Taliban, War]
 ---
 
-##### <center><strong>[The below memo was submitted Dec 20, 2013.]</strong></center> #####
+##### <center><strong>[The below paper was submitted Dec 20, 2013.]</strong></center> #####
 
 ### <center>INTRODUCTION</center> ###
 
