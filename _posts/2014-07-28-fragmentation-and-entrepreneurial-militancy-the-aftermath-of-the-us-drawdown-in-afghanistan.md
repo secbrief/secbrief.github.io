@@ -88,53 +88,20 @@ The Afghan Taliban and the Pakistani Taliban have very similar demographics. Bot
 
 The means of financing for both the Afghan Taliban and the Pakistani Taliban have been largely the same. Each organization has resorted to multiple forms of criminality to fund their campaigns. Drug production and sale, arms smuggling and sales, various forms of taxation, kidnappings for ransom, bank robbery, smuggling, bootlegging, and extortion top the list of their money making schemes. To justify the nefarious means they use to finance their operations, militants have hand-picked “religious decree.”[^42] Moreover, both have also turned to legal means of earning money. Licit businesses have been opened by both the Afghan and Pakistani Taliban. Of high relevance, the HQN is involved in sophisticated money laundering operations. Gretchen Peters has offered seminal work on the subject.[^43]
 
+#### <u>TACTICS, TECHNIQUES, AND PROCEDURES</u> ####
 
-TACTICS, TECHNIQUES, AND PROCEDURES
+The fluid nature of membership in militant organizations in south/central Asia has resulted in high levels of institutional knowledge and common tactics, techniques, and procedures. The presence of al-Qa’ida in the region is widely believed to have influenced the tactics, techniques, and procedures of both the Afghan and the Pakistani Taliban. Suicide bombings, as well as beheadings and the mutilation of enemy are highly suggestive of this thesis. Also, bomb making techniques have also been shared. As employment tactics evolve on the battlefield, they have been passed along as well.
 
+#### <u>MEMBERSHIP</u> ####
 
+As was mentioned in the previous subsection, membership is fluid between the militant organizations in the region. On the issue, former commander of the International Security Assistance Force and U.S. Forces Afghanistan, General (Ret.) David Petraeus stated that "There is clearly a symbiotic relationship between all of these different organizations: al-Qaeda, the Pakistani Taliban, the Afghan Taliban, TNSM [Tehreek-e-Nafaz-e-Shariat-e-Mohammadi]. And it's very difficult to parse and to try to distinguish between them. They support each other, they coordinate with each other, sometimes they compete with each other, [and] sometimes they even fight each other. But at the end of the day, there is quite a relationship between them."[^44]
 
+Fair has also found a connection between Lashkar-e-Jhangvi (LeJ), Sipah-e-Sahaba Pakistan (SSP), their parent Jamiat-e-Ulema Islami (JUI), and both the Afghan and Pakistani Taliban. “Notably, these sectarian tanzeems [LeJ and SSP] have overlapping membership with other Deobandi militant groups, including the Afghan and Pakistani Taliban, all of which have strong connections to JUI.”[^45] Furthermore she asserts that, “Punjab-based groups such as the Deobandi LeJ and JM are components of the TTP and conduct attacks on behalf of it. In fact, the so-called Punjabi Taliban groups form the backbone of the TTP and have played an important role in attacking Sufi, Shia, Ahmedi, and other civilian targets in the Punjab.”[^46] She also points out that the Lashkar-e-Taiba (LeT) and other Deobandi militant groups have “also been operating in Afghanistan against U.S., NATO, and Afghan forces.”[^47]
 
-The fluid nature of membership in militant organizations in south/central Asia has
-resulted in high levels of institutional knowledge and common tactics, techniques, and
-procedures. The presence of al-Qa’ida in the region is widely believed to have influenced the
-tactics, techniques, and procedures of both the Afghan and the Pakistani Taliban. Suicide
-bombings, as well as beheadings and the mutilation of enemy are highly suggestive of this
-thesis. Also, bomb making techniques have also been shared. As employment tactics evolve on
-the battlefield, they have been passed along as well.
-MEMBERSHIP
-As was mentioned in the previous subsection, membership is fluid between the militant
-organizations in the region. On the issue, former commander of the International Security
-Assistance Force and U.S. Forces Afghanistan, General (Ret.) David Petraeus stated that
-"There is clearly a symbiotic relationship between all of these different organizations: al-Qaeda,
-the Pakistani Taliban, the Afghan Taliban, TNSM [Tehreek-e-Nafaz-e-Shariat-e-Mohammadi].
-And it's very difficult to parse and to try to distinguish between them. They support each other,
-they coordinate with each other, sometimes they compete with each other, [and] sometimes
-they even fight each other. But at the end of the day, there is quite a relationship between them."
-44
-Fair has also found a connection between Lashkar-e-Jhangvi (LeJ), Sipah-e-Sahaba
-Pakistan (SSP), their parent Jamiat-e-Ulema Islami (JUI), and both the Afghan and Pakistani
-Taliban. “Notably, these sectarian tanzeems [LeJ and SSP] have overlapping membership with
-other Deobandi militant groups, including the Afghan and Pakistani Taliban, all of which have
-strong connections to JUI.”45 Furthermore she asserts that, “Punjab-based groups such as the
-44 David H. Petraeus, "Shared Goals for Pakistan's Militants," Council on Forieng Relations, May 6, 2010,
-December 1, 2013, http://www.cfr.org/pakistan/shared-goals-pakistans-militants/p22064.
-45 C. Christine Fair, “The Militant Challenge in Pakistan,” 121-122.
-13 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-Deobandi LeJ and JM are components of the TTP and conduct attacks on behalf of it. In fact, the
-so-called Punjabi Taliban groups form the backbone of the TTP and have played an important
-role in attacking Sufi, Shia, Ahmedi, and other civilian targets in the Punjab.” She 46 also points out
-that the Lashkar-e-Taiba (LeT) and other Deobandi militant groups have “also been operating in
-Afghanistan against U.S., NATO, and Afghan forces.”47
-In terms of numbers, between 20,000 and 25,000 Pakistani Taliban militants currently
-reside in the FATA and Khyber-Pakhtunkhwa.48 This is down from the nearly 40,000 militants that
-lived in the tribal region during 2005 and 2006.49 In contrast, the Afghan Taliban only fields 14,000
-to 20,000 fighters.50 Qazi’s total puts the total strength of the Taliban movement between 34,000
-and 45,000 fighters.51 Within the predominantly Pashtun cadres, Punjabis in addition to Arab,
-Chechen, and Uzbek foreign fighters, as well as others, also account.52
-STRUCTURE
+In terms of numbers, between 20,000 and 25,000 Pakistani Taliban militants currently reside in the FATA and Khyber-Pakhtunkhwa.[^48] This is down from the nearly 40,000 militants that lived in the tribal region during 2005 and 2006.[^49] In contrast, the Afghan Taliban only fields 14,000 to 20,000 fighters.[^50] Qazi’s total puts the total strength of the Taliban movement between 34,000 and 45,000 fighters.51 Within the predominantly Pashtun cadres, Punjabis in addition to Arab, Chechen, and Uzbek foreign fighters, as well as others, also account.[^52]
+
+#### <u>STRUCTURE</u> ####
+
 The Afghan Taliban and Pakistani Taliban are both umbrella organizations for disparate
 groups that form, more or less, a network based on a reltionship of convenience. In Afghanistan,
 “...the Taliban movement, which was never a tight and cohesive political entity in any case, has
@@ -142,32 +109,27 @@ become an even looser network of affiliated individuals and groups since it was 
 power in Kabul. Today, the Taliban “alliance” can be characterized as a disparate congeries of
 several elements united only by a common religious ideology, a desire to regain power in
 Afghanistan or in their local areas of operation, and a deep antagonism toward the United States
-46 C. Christine Fair, “The Militant Challenge in Pakistan,” 127.
-47 C. Christine Fair, “The Militant Challenge in Pakistan,” 121.
-48 Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,”
-587.
-49 Ibid.
-50 Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,”
-588.
-51 Ibid.
-52 Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,”
-587.
-14 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
 and its regional allies.”53
+
 John Arquilla and David Ronfeldt describe the TTP as “a system of loose networks.
 These networks tend to be dispersed and varying in size; however, the various nodes can
 communicate with each other and, to some degree, coordinate campaigns.”54
+
+
 AREA OF OPERATION
+
+
 There is a great deal of overlap with regards to area of operation between the Afghan
 Taliban and the Pakistani Taliban. Both operate in Afghanistan and in Pakistan, albeit primarily in
 the tribal regions. That said, Pakistani Taliban has been far more expeditionary. Not only has it
 moved into Pashtun communities within Pakistan, it has also attempted intercontinental
 terrorism (e.g., the failed Times Square bombing), and sent skilled bomb making militants to join
 fellow Islamists in the Syrian civil war.
+
+
 TARGETING
+
+
 Within the Afghan Taliban, those that align with al-Qa’ida and support the views of “Mullah
 Omar and the hard-line Taliban” focus on attacking the U.S. and coalition forces as well as the
 Afghan govenment.55 Those within the Afghan Taliban whom focus on their Pashtun roots and
@@ -519,6 +481,26 @@ Zafar Nawaz Jaspal, “Threat of Extremism & Terrorism Syndicate beyond FATA,”
 [^42]: Khuram Iqbal and Sara De Silva, “Terrorist lifecycles: a case study of Tehrik-e-Taliban Pakistan,” 77-78.
 
 [^43]: See Gretchen Peters, “Haqqani Network Financing,” Combating Terrorism Center, July 31, 2012, accessed December 1, 2013, http://www.ctc.usma.edu/wp-content/uploads/2012/07/CTC_Haqqani_Network_Financing-Report__Final.pdf.
+
+[^44]: David H. Petraeus, "Shared Goals for Pakistan's Militants," Council on Forieng Relations, May 6, 2010, December 1, 2013, http://www.cfr.org/pakistan/shared-goals-pakistans-militants/p22064.
+
+[^45]: C. Christine Fair, “The Militant Challenge in Pakistan,” 121-122.
+
+[^46]: C. Christine Fair, “The Militant Challenge in Pakistan,” 127.
+
+[^47]: C. Christine Fair, “The Militant Challenge in Pakistan,” 121.
+
+[^48]: Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,” 587.
+
+[^49]: Ibid.
+
+[^50]: Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,” 588.
+
+[^51]: Ibid.
+
+[^52]: Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,” 587.
+
+
 
 
 
