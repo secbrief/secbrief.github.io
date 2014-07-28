@@ -30,7 +30,7 @@ In recent history, the militant movements in the tribal areas of Afghanistan and
 
 In the wake of the Soviet war in Afghanistan, the Communist Afghan government was left to fend for itself with only Soviet economic and military aid. Warlords and mujahideen commanders fought for control of Afghanistan. The ensuing violence marked the beginning of the Afghan civil war. Gulbuddin Hekmatyar and his organization, Hizb-e-Islami, were initially the main beneficiary of support from Pakistan in the fight for Kabul.[^8] Fair points out that “Pakistan hoped that Hekmatyar would secure a corridor to Central Asia, beginning in Peshawar, continuing through Jalalabad and Kabul, stretching onward to Mazar-i-Sharif, and finally reaching Tashkent.”[^9] This lofty plan however would never come to fruition, and Pakistan slowly lessened its support as Hekmatyar routinely failed to meet the objectives of Pakistan. Mainly, he could not take Kabul. That said, Pakistan hedged its bets and continued to support Hekmatyar, if only in part, even after he later failed to reach an accord with the Taliban in 1994.[^10] Pakistan also supported the likes Jalaluddin Haqqani and his Haqqani Network (HQN), who like Hekmatyar, to this day is still fighting security forces in Afghanistan.
 
-After three years of bloodshed, Najibullah resigned and his regime collapsed following the withdrawal of Soviet aid. Consequently, the mujahideen had control of Kabul by 1992. The Peshawar Accords, a peace and power sharing agreement, paved the way for the formation of the Islamic State of Afghanistan. Infighting continued amongst the mujahideen commanders as the Taliban (students), consisting of some elements of the mujahideen and Pashtun tribesmen educated in Pakistani madrassas (religious schools), was in its infancy in 1994.[^11] By September 1996, the Taliban led by Mullah Mohammed Omar (whom is the leader of the Afghan Taliban to-this-day), and numbering between 80,000 and 100,000, had taken control of Kabul and ousted the Rabbani regime.[^12] The Taliban had overrun the last major city, Mazar-e Sharif, by 1998 and controlled the vast majority of the country by 2001.[^13] Pakistan’s support of the Taliban after it took positive control of Afghanistan continued openly until 2001, but became a quiet affair after the U.S. was attacked on 9/11. This of course, as Schofield points out, remains a continuation of Pakistan’s “1973 policy of counter-balancing secessionist Pashtun with Islamists.”[^14]
+After three years of bloodshed, Najibullah resigned and his regime collapsed following the withdrawal of Soviet aid. Consequently, the mujahideen had control of Kabul by 1992. The Peshawar Accords, a peace and power sharing agreement, paved the way for the formation of the Islamic State of Afghanistan. Infighting continued amongst the mujahideen commanders as the *Taliban* (students), consisting of some elements of the mujahideen and Pashtun tribesmen educated in Pakistani *madrassas* (religious schools), was in its infancy in 1994.[^11] By September 1996, the Taliban led by Mullah Mohammed Omar (whom is the leader of the Afghan Taliban to-this-day), and numbering between 80,000 and 100,000, had taken control of Kabul and ousted the Rabbani regime.[^12] The Taliban had overrun the last major city, Mazar-e Sharif, by 1998 and controlled the vast majority of the country by 2001.[^13] Pakistan’s support of the Taliban after it took positive control of Afghanistan continued openly until 2001, but became a quiet affair after the U.S. was attacked on 9/11. This of course, as Schofield points out, remains a continuation of Pakistan’s “1973 policy of counter-balancing secessionist Pashtun with Islamists.”[^14]
 
 #### <u>PAKISTANI TALIBAN</u> ####
 
@@ -48,142 +48,52 @@ Following Mehsud’s death in August 2009, his cousin, Hakimullah Mehsud, assume
 
 ### <center>THE TALIBAN MOVEMENT</center> ###
 
+The “Taliban movement” is not monolithic. Rather, it is a complex system that contains two umbrella organizations, the Afghan Taliban and the Pakistani Taliban, and their respective loose networks of militant groups fighting in their name. The casual usage of the the term “Taliban” (literally: religious students), even if appropriately subcategorized by one of the two umbrella organizations, when describing militants in the region, does not adequately capture the sheer complexity of the militant landscape in Afghanistan and Pakistan.
+
+Both the Afghan and Pakistani Taliban have numerous features which renders them unique from their counterparts, but importantly, there are also similarities and overlaps between the groups. With regards to differences, origin, motivation(s), and sponsorship, usually in part, are defining characteristics. While similarities often include: ideology, composition (i.e., primary recruiting pools), means of financing, and tactics, techniques, and procedures. Overlaps inmembership, structure, area of operation, and targeting are also quite common.
+
+#### <u>ORIGINS</u> ####
+
+As was highlighted within the background portion of this paper, the Afghan Taliban and Pakistani Taliban had unique beginnings, generally speaking. The Afghan Taliban, led by Mullah Mohammed Omar, came to power in in 1996 after a bloody civil war. The Afghan Taliban consisted largely of Pashtun *mujahideen* that had fought in the Soviet War in Afghanistan (1979-1989). It quickly became an international pariah as news of its gross human rights abuses, mistreatment of women, and its destruction of ancient Buddha statues at Bamiyan came to light.
+
+Conversely, the Pakistani Taliban rose from various militant groups that had increasingly become upset with Pakistan’s cooperation with the U.S. in its counterterrorism mission. When the Pakistani military invaded the FATA in early 2002, that was the final straw for many militants. The continued incursions by the Pakistani army and the progression of the war in Afghanistan, led a *shura* of Taliban representatives from all seven of Pakistan’s tribal agencies and in the, then settled North-West Frontier Province (NWFP), to form the TTP. The *shura* named Baitullah Mehsud the emir of Tehrik-i-Taliban Pakistan.
+
+The one similarity between the two organizations is that both drew upon leaders and members that had once fought in the Soviet War in Afghanistan.
+
+#### <u>MOTIVATIONS</u> ####
+
+The motivational drivers of both the Afghan Taliban, and in particular Pakistani Taliban, are diverse. Some groups have differing goals along sectarian, ethnic, political, and criminal lines. Despite this fact, there are general motivations for both the Afghan Taliban and the Pakistani Taliban which bring the groups together under their respective umbrella organization.
+
+Broadly, the Afghan Taliban is mainly concerned with combating the U.S., coalition, and Afghan security forces in Afghanistan with the ultimate objective of retaking Kabul. In this effort, the Afghan Taliban has setup “shadow governments” that replace judicial, provincial, and district officials with its own police, administrators, and judges.[^29] Given the Afghan Taliban’s focus, “Taliban commanders and groups on the ground in Afghanistan couldn’t care less what’s happening to their Pakistani brothers across the border.”[^30] Moreover, as Fair states, “the Afghan Taliban does not pose a direct threat to Pakistan at this point, even though elements of the Afghan Taliban have grown somewhat independent of Islamabad.”[^31]
+
+On the other hand, the Pakistani Taliban does pose a threat to the Pakistani government. The stated goals and objectives of the TTP are several fold. First, it seeks to install and enforce *Shari’a* in Pakistan’s tribal region.[^32] Secondly, it seeks to wage *jihad* against the U.S. and coalition forces, as well as the Afghan security forces, in Afghanistan and against the Pakistani security forces in Pakistan.[^33] Lastly, the TTP wants Islamabad to cease all military incursions into the Tribal areas of Pakistan, remove all military checkpoints, and release prisoners associated with the Red Mosque incident.[^34]
+
+#### <u>SPONSORSHIP</u> ####
+
+The Pakistani government has had a policy of sponsoring non-state actors nearly since its inception. It has, as was mentioned earlier in this paper, had a more or less formal policy of counter-balancing what it sees as the threat of secessionist Pashtuns with Islamists.[^35] This has led Islamabad to sponsor the Afghan Taliban, and before it, the mujahideen in Afghanistan.
+
+Pakistan also has close ties with the HQN, subordinate actors to the Afghan Taliban. That said, Fair believes that since 2001, the ability of the Pakistani army and elements of the ISI to control the Afghan Taliban are waning. “Pakistan is widely assumed to wield significant influence over the Afghan Taliban, including the network of Jalaludin Haqqani [sic]...Since 2001, however, the Afghan Taliban have changed with the consistent turnover of mid-level commanders. New commanders are less beholden to Pakistan in part because of their age” and “the tribal base and moorings of the Afghan Taliban are also changing. Thus, Pakistan is struggling to cultivate influence among the evolving Afghan Taliban elements.”[^36]
+
+The Pakistani Taliban is not sponsored by Pakistan given that it targets the state. This fact has even resulted in friction between the Pakistani Taliban and the Afghan Taliban. “They don’t like the way that the Pakistan Taliban has been fighting the Pakistan government and causing a whole load of problems there.”[^37]
+
+#### <u>IDEOLOGY</u> ####
+
+In general, both the Afghan Taliban and Pakistani Taliban share a common Deobandi ideology. On a micro level, however, the groups that make up the Afghan Taliban, and especially the Pakistani Taliban, have more diverse ideologies, but are brought back together by common goals. That stated, on a macro level, there is a bifurcation of views within each camp. Some within the Afghan Taliban align with al-Qa’ida and support the views of “Mullah Omar and the hard-line Taliban.”[^38] Others within the Afghan Taliban focus on their Pashtun roots and concern themselves primarily with Pashtun affairs (e.g., irredentism).[^39] Similarly, one group within the Pakistani Taliban has aligned with “al-Qaeda and has primarily focused its activities against the Pakistani state and the Pakistani Army, making participation in the war in Afghanistan a secondary pursuit.”[^40] The other half of the Pakistani Taliban “closely follow the Afghan Taliban’s advice and focus on fighting against US and NATO forces inside Afghanistan.”[^41]
+
+#### <u>COMPOSITION</u> ####
+
+The Afghan Taliban and the Pakistani Taliban have very similar demographics. Both are majority Pashtun organizations and recruit boys and young men. Often times these recruits are either desperately poor, have been trained in a Taliban or Taliban-oriented madrasa (school), have been internally displaced by counterinsurgency/counterrorism related violence, have lost friends and/or family in the ongoing regional conflict, or some combination of the above. Both Talibans also host foreign fighters.
+
+#### <u>FINANCING</u> ####
+
+The means of financing for both the Afghan Taliban and the Pakistani Taliban have been largely the same. Each organization has resorted to multiple forms of criminality to fund their campaigns. Drug production and sale, arms smuggling and sales, various forms of taxation, kidnappings for ransom, bank robbery, smuggling, bootlegging, and extortion top the list of their money making schemes. To justify the nefarious means they use to finance their operations, militants have hand-picked “religious decree.”[^42] Moreover, both have also turned to legal means of earning money. Licit businesses have been opened by both the Afghan and Pakistani Taliban. Of high relevance, the HQN is involved in sophisticated money laundering operations. Gretchen Peters has offered seminal work on the subject.[^43]
 
 
-The “Taliban movement” is not monolithic. Rather, it is a complex system that contains
-two umbrella organizations, the Afghan Taliban and the Pakistani Taliban, and their respective
-loose networks of militant groups fighting in their name. The casual usage of the the term
-“Taliban” (literally: religious students), even if appropriately subcategorized by one of the two
-umbrella organizations, when describing militants in the region, does not adequately capture the
-sheer complexity of the militant landscape in Afghanistan and Pakistan.
-Both the Afghan and Pakistani Taliban have numerous features which renders them
-unique from their counterparts, but importantly, there are also similarities and overlaps between
-the groups. With regards to differences, origin, motivation(s), and sponsorship, usually in part,
-are defining characteristics. While similarities often include: ideology, composition (i.e., primary
-recruiting pools), means of financing, and tactics, techniques, and procedures. Overlaps inmembership, structure, area of operation, and targeting are also quite common.
-
-ORIGINS
-As was highlighted within the background portion of this paper, the Afghan Taliban and
-Pakistani Taliban had unique beginnings, generally speaking. The Afghan Taliban, led by Mullah
-Mohammed Omar, came to power in in 1996 after a bloody civil war. The Afghan Taliban
-consisted largely of Pashtun mujahideen that had fought in the Soviet War in Afghanistan
-(1979-1989). It quickly became an international pariah as news of its gross human rights
-abuses, mistreatment of women, and its destruction of ancient Buddha statues at Bamiyan
-came to light.
-Conversely, the Pakistani Taliban rose from various militant groups that had increasingly
-become upset with Pakistan’s cooperation with the U.S. in its counterterrorism mission. When
-the Pakistani military invaded the FATA in early 2002, that was the final straw for many militants.
-The continued incursions by the Pakistani army and the progression of the war in Afghanistan,
-led a shura of Taliban representatives from all seven of Pakistan’s tribal agencies and in the,
-then settled North-West Frontier Province (NWFP), to form the TTP. The shura named Baitullah
-Mehsud the emir of Tehrik-i-Taliban Pakistan.
-The one similarity between the two organizations is that both drew upon leaders and
-members that had once fought in the Soviet War in Afghanistan.
-MOTIVATIONS
-The motivational drivers of both the Afghan Taliban, and in particular Pakistani Taliban,
-are diverse. Some groups have differing goals along sectarian, ethnic, political, and criminal
-lines. Despite this fact, there are general motivations for both the Afghan Taliban and the
-Pakistani Taliban which bring the groups together under their respective umbrella organization.
-Broadly, the Afghan Taliban is mainly concerned with combating the U.S., coalition, and
-9 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-Afghan security forces in Afghanistan with the ultimate objective of retaking Kabul. In this effort,
-the Afghan Taliban has setup “shadow governments” that replace judicial, provincial, and district
-officials with its own police, administrators, and judges. Given the Afghan 29 Taliban’s focus,
-“Taliban commanders and groups on the ground in Afghanistan couldn’t care less what’s
-happening to their Pakistani brothers across the border.”30 Moreover, as Fair states, “the Afghan
-Taliban does not pose a direct threat to Pakistan at this point, even though elements of the
-Afghan Taliban have grown somewhat independent of Islamabad.”31
-On the other hand, the Pakistani Taliban does pose a threat to the Pakistani government.
-The stated goals and objectives of the TTP are several fold. First, it seeks to install and enforce
-Shari’a in Pakistan’s tribal region.32 Secondly, it seeks to wage jihad against the U.S. and
-coalition forces, as well as the Afghan security forces, in Afghanistan and against the Pakistani
-security forces in Pakistan.33 Lastly, the TTP wants Islamabad to cease all military incursions
-into the Tribal areas of Pakistan, remove all military checkpoints, and release prisoners
-associated with the Red Mosque incident.34
-SPONSORSHIP
-The Pakistani government has had a policy of sponsoring non-state actors nearly since
-its inception. It has, as was mentioned earlier in this paper, had a more or less formal policy of
-counter-balancing what it sees as the threat of secessionist Pashtuns with Islamists.35 This has
-led Islamabad to sponsor the Afghan Taliban, and before it, the mujahideen in Afghanistan.
-29 Thomas H. Johnson, “Taliban adaptations and innovations,” 9.
-30 Scott Shane, "Insurgents Share a Name, but Pursue Different Goals," New York Times, October 22,
-2009, accessed December 1, 2013, http://www.nytimes.com/2009/10/23/world/asia/23taliban.html.
-31 C. Christine Fair, “The Militant Challenge in Pakistan,” 117.
-32 Hassan Abbas, "A Profile of Tehrik-i-Taliban Pakistan," Combating Terrorism Center, January 15, 2008,
-accessed December 1, 2013, http://www.ctc.usma.edu/posts/a-profile-of-tehrik-i-taliban-pakistan.
-33 Ibid.
-34 Ibid.
-35 Julian Schofield, “Diversionary wars: Pashtun unrest and the sources of Pakistan-Afghan Confrontation,”
-46.
-10 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-Pakistan also has close ties with the HQN, subordinate actors to the Afghan Taliban. That said,
-Fair believes that since 2001, the ability of the Pakistani army and elements of the ISI to control
-the Afghan Taliban are waning. “Pakistan is widely assumed to wield significant influence over
-the Afghan Taliban, including the network of Jalaludin Haqqani [sic]...Since 2001, however, the
-Afghan Taliban have changed with the consistent turnover of mid-level commanders. New
-commanders are less beholden to Pakistan in part because of their age” and “the tribal base and
-moorings of the Afghan Taliban are also changing. Thus, Pakistan is struggling to cultivate
-influence among the evolving Afghan Taliban elements.”36
-The Pakistani Taliban is not sponsored by Pakistan given that it targets the state. This
-fact has even resulted in friction between the Pakistani Taliban and the Afghan Taliban. “They
-don’t like the way that the Pakistan Taliban has been fighting the Pakistan government and
-causing a whole load of problems there.”37
-IDEOLOGY
-In general, both the Afghan Taliban and Pakistani Taliban share a common Deobandi
-ideology. On a micro level, however, the groups that make up the Afghan Taliban, and especially
-the Pakistani Taliban, have more diverse ideologies, but are brought back together by common
-goals. That stated, on a macro level, there is a bifurcation of views within each camp. Some
-within the Afghan Taliban align with al-Qa’ida and support the views of “Mullah Omar and the
-hard-line Taliban.”38 Others within the Afghan Taliban focus on their Pashtun roots and concern
-themselves primarily with Pashtun affairs (e.g., irredentism).39 Similarly, one group within the
-Pakistani Taliban has aligned with “al-Qaeda and has primarily focused its activities against the
-36 C. Christine Fair, “The Militant Challenge in Pakistan,” 129.
-37 Scott Shane, "Insurgents Share a Name, but Pursue Different Goals," New York Times, October 22,
-2009, accessed December 1, 2013, http://www.nytimes.com/2009/10/23/world/asia/23taliban.html.
-38 Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,”
-582.
-39 Ibid.
-11 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-Pakistani state and the Pakistani Army, making participation in the war in Afghanistan a
-secondary pursuit.” The other half of the Pakistani Taliban “closely follow the 40 Afghan Taliban’s
-advice and focus on fighting against US and NATO forces inside Afghanistan.”41
-COMPOSITION
-The Afghan Taliban and the Pakistani Taliban have very similar demographics. Both are
-majority Pashtun organizations and recruit boys and young men. Often times these recruits are
-either desperately poor, have been trained in a Taliban or Taliban-oriented madrasa (school),
-have been internally displaced by counterinsurgency/counterrorism related violence, have lost
-friends and/or family in the ongoing regional conflict, or some combination of the above. Both
-Talibans also host foreign fighters.
-FINANCING
-The means of financing for both the Afghan Taliban and the Pakistani Taliban have been
-largely the same. Each organization has resorted to multiple forms of criminality to fund their
-campaigns. Drug production and sale, arms smuggling and sales, various forms of taxation,
-kidnappings for ransom, bank robbery, smuggling, bootlegging, and extortion top the list of their
-money making schemes. To justify the nefarious means they use to finance their operations,
-militants have hand-picked “religious decree.”42 Moreover, both have also turned to legal means
-of earning money. Licit businesses have been opened by both the Afghan and Pakistani Taliban.
-Of high relevance, the HQN is involved in sophisticated money laundering operations. Gretchen
-Peters has offered seminal work on the subject.43
 TACTICS, TECHNIQUES, AND PROCEDURES
-40 Ibid.
-41 Ibid.
-42 Khuram Iqbal and Sara De Silva, “Terrorist lifecycles: a case study of Tehrik-e-Taliban Pakistan,” 77-78.
-43 See Gretchen Peters, “Haqqani Network Financing,” Combating Terrorism Center, July 31, 2012,
-accessed December 1, 2013,
-http://www.ctc.usma.edu/wp-content/uploads/2012/07/CTC_Haqqani_Network_Financing-Report__Final.pdf.
-12 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
+
+
+
+
 The fluid nature of membership in militant organizations in south/central Asia has
 resulted in high levels of institutional knowledge and common tactics, techniques, and
 procedures. The presence of al-Qa’ida in the region is widely believed to have influenced the
@@ -579,6 +489,36 @@ Zafar Nawaz Jaspal, “Threat of Extremism & Terrorism Syndicate beyond FATA,”
 [^27]: Omer Farooq Khan, “Malala attacker to lead Taliban,” The Times of India, November 8, 2013, accessed November 29, 2013, http://timesofindia.indiatimes.com/world/pakistan/Malala-attacker-to-lead-Taliban/articleshow/25400078.cms
 
 [^28]: Ibid.
+
+[^29]: Thomas H. Johnson, “Taliban adaptations and innovations,” 9. 
+
+[^30]: Scott Shane, "Insurgents Share a Name, but Pursue Different Goals," New York Times, October 22, 2009, accessed December 1, 2013, http://www.nytimes.com/2009/10/23/world/asia/23taliban.html.
+
+[^31]: C. Christine Fair, “The Militant Challenge in Pakistan,” 117.
+
+[^32]: Hassan Abbas, "A Profile of Tehrik-i-Taliban Pakistan," Combating Terrorism Center, January 15, 2008, accessed December 1, 2013, http://www.ctc.usma.edu/posts/a-profile-of-tehrik-i-taliban-pakistan.
+
+[^33]: Ibid.
+
+[^34]: Ibid.
+
+[^35]: Julian Schofield, “Diversionary wars: Pashtun unrest and the sources of Pakistan-Afghan Confrontation,” 46.
+
+[^36]: C. Christine Fair, “The Militant Challenge in Pakistan,” 129.
+
+[^37]: Scott Shane, "Insurgents Share a Name, but Pursue Different Goals," New York Times, October 22, 2009, accessed December 1, 2013, http://www.nytimes.com/2009/10/23/world/asia/23taliban.html.
+
+[^38]: Shehzad H. Qazi, “Rebels of the frontier: origins, organization, and recruitment of the Pakistani Taliban,” 582.
+
+[^39]: Ibid.
+
+[^40]: Ibid.
+
+[^41]: Ibid.
+
+[^42]: Khuram Iqbal and Sara De Silva, “Terrorist lifecycles: a case study of Tehrik-e-Taliban Pakistan,” 77-78.
+
+[^43]: See Gretchen Peters, “Haqqani Network Financing,” Combating Terrorism Center, July 31, 2012, accessed December 1, 2013, http://www.ctc.usma.edu/wp-content/uploads/2012/07/CTC_Haqqani_Network_Financing-Report__Final.pdf.
 
 
 
