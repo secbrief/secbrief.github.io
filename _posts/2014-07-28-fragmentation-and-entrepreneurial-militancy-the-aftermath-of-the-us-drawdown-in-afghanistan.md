@@ -22,64 +22,17 @@ Despite the likely increase in violence in the region, there will be opportuniti
 
 ### <center>BACKGROUND</center> ###
 
+An ancient warrior culture has evolved for over two millennia in what could be considered Pashtunistan, an expansive area straddling over a thousand miles of the Afghanistan-Pakistan border.[^4] Since the 4th century B.C. when Alexander the Great struggled to conquer Pashtun tribesmen in today's Malakand Agency, Pashtun tribes have fought the Mogul and British empires, Afghan rulers, the Soviet Union, and now the International Security Assistance Force and Afghan security forces, as well as the Pakistani military.[^5] Today there are twelve million ethnic Pashtuns in Afghanistan and twenty-seven million in Pakistan speaking Pashto and adhering to Pashtunwali (a traditional code of moral and legal conduct).[^6] Adding to the cultural and ethno-linguistic challenges of would-be governors, Pashtun tribes by-and-large do not recognize outside governance or borders. As a result, the friction between tribesmen and the governments of Afghanistan and Pakistan, respectively, has led to militancy.
 
-An ancient warrior culture has evolved for over two millennia in what could be considered
-Pashtunistan, an expansive area straddling over a thousand miles of the Afghanistan-Pakistan
-border. Since the 4th century B.C. when Alexander the Great struggled 4 to conquer Pashtun
-tribesmen in today's Malakand Agency, Pashtun tribes have fought the Mogul and British
-empires, Afghan rulers, the Soviet Union, and now the International Security Assistance Force
-and Afghan security forces, as well as the Pakistani military.5 Today there are twelve million
-ethnic Pashtuns in Afghanistan and twenty-seven million in Pakistan speaking Pashto and
-adhering to Pashtunwali (a traditional code of moral and legal conduct).6 Adding to the cultural
-and ethno-linguistic challenges of would-be governors, Pashtun tribes by-and-large do not
-recognize outside governance or borders. As a result, the friction between tribesmen and the
-governments of Afghanistan and Pakistan, respectively, has led to militancy.
-AFGHAN TALIBAN
-In recent history, the militant movements in the tribal areas of Afghanistan and Pakistan
-largely trace their lineage to the Soviet war in Afghanistan (1979-1989). Seeking to counter
-rebellions and prop-up the weak pro-Soviet government in Kabul, the Soviet Union invaded
-Afghanistan in December 1979. This led to a protracted multinational insurgency that had
-4 Scott Shane, "The War in Pashtunistan," New York Times, December 5, 2009, December 1, 2013,
-http://www.nytimes.com/2009/12/06/weekinreview/06shane.html; and Milt Bearden, "The Pashtuns of
-Afghanistan: Alexander the Great also got in trouble here," New York Times, March 31, 2004, December 1,
-2013, http://www.nytimes.com/2004/03/31/opinion/31iht-edbearden_ed3__3.html.
-5 "The Pashtuns of Afghanistan: Alexander the Great also got in trouble here."
-6 Scott Shane, “The War in Pashtunistan.”
-3 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
-thousands of foreign fighters from around the world joining the conflict in order to wage jihad
-(struggle) against the Soviets. Pakistan’s Inter-Services Intelligence (ISI) began clandestinely
-training and equipping the mujahideen (strugglers) led insurgency at the onset of the war. Seeing
-an opportunity to fight the Soviet Union and the Communist Afghan government by proxy, the
-U.S. along with Britain and Saudi Arabia aided Pakistan in its effort to arm and train the
-mujahideen. As the International Crisis Group points out, “Pakistani support was based on fears
-of irredentist claims by Pashtun nationalists on its Pashtun borderlands; Saudi Arabia was
-guided by its Sunni Wahhabi/Salafi ideological preferences; the U.S. saw the Islamists as the
-most desirable ally against the Soviets and the Soviet-back Kabul communist regime.”7 Iran and
-China also provided arms and training to the mujahideen throughout the war, and continued their
-support for various groups thereafter. By 1989, the insurgency had exacted a toll great enough to
-force the Soviet Union out of Afghanistan.
-In the wake of the Soviet war in Afghanistan, the Communist Afghan government was left
-to fend for itself with only Soviet economic and military aid. Warlords and mujahideen
-commanders fought for control of Afghanistan. The ensuing violence marked the beginning of the
-Afghan civil war. Gulbuddin Hekmatyar and his organization, Hizb-e-Islami, were initially the main
-beneficiary of support from Pakistan in the fight for Kabul.8 Fair points out that “Pakistan hoped
-that Hekmatyar would secure a corridor to Central Asia, beginning in Peshawar, continuing
-through Jalalabad and Kabul, stretching onward to Mazar-i-Sharif, and finally reaching Tashkent.”
-9 This lofty plan however would never come to fruition, and Pakistan slowly lessened its support
-as Hekmatyar routinely failed to meet the objectives of Pakistan. Mainly, he could not take Kabul.
-7 “Taliban Propaganda: Winning The War Of Words?,” International Crisis Group, Asia Report Number 158,
-July 24, 2008, accessed December 12, 2013,
-http://www.crisisgroup.org/~/media/Files/asia/south-asia/afghanistan/158_taliban_propaganda___winning_th
-e_war_of_words.pdf.
-8 “Taliban Propaganda: Winning The War Of Words?,” 3.
-9 C. Christine Fair, “The Militant Challenge in Pakistan,” Asia Policy, Number 11 (2011): 115.
-4 of 24
-Christopher M. Cherry
-Student ID - 00536610
-December 20, 2013
+#### <u>AFGHAN TALIBAN</u> ####
+
+In recent history, the militant movements in the tribal areas of Afghanistan and Pakistan largely trace their lineage to the Soviet war in Afghanistan (1979-1989). Seeking to counter rebellions and prop-up the weak pro-Soviet government in Kabul, the Soviet Union invaded Afghanistan in December 1979. This led to a protracted multinational insurgency that had thousands of foreign fighters from around the world joining the conflict in order to wage jihad (struggle) against the Soviets. Pakistan’s Inter-Services Intelligence (ISI) began clandestinely training and equipping the mujahideen (strugglers) led insurgency at the onset of the war. Seeing an opportunity to fight the Soviet Union and the Communist Afghan government by proxy, the U.S. along with Britain and Saudi Arabia aided Pakistan in its effort to arm and train the mujahideen. As the International Crisis Group points out, “Pakistani support was based on fears of irredentist claims by Pashtun nationalists on its Pashtun borderlands; Saudi Arabia was guided by its Sunni Wahhabi/Salafi ideological preferences; the U.S. saw the Islamists as the most desirable ally against the Soviets and the Soviet-back Kabul communist regime.”[^7] Iran and China also provided arms and training to the mujahideen throughout the war, and continued their support for various groups thereafter. By 1989, the insurgency had exacted a toll great enough to force the Soviet Union out of Afghanistan.
+
+In the wake of the Soviet war in Afghanistan, the Communist Afghan government was left to fend for itself with only Soviet economic and military aid. Warlords and mujahideen commanders fought for control of Afghanistan. The ensuing violence marked the beginning of the Afghan civil war. Gulbuddin Hekmatyar and his organization, Hizb-e-Islami, were initially the main beneficiary of support from Pakistan in the fight for Kabul.[^8] Fair points out that “Pakistan hoped that Hekmatyar would secure a corridor to Central Asia, beginning in Peshawar, continuing through Jalalabad and Kabul, stretching onward to Mazar-i-Sharif, and finally reaching Tashkent.”[^9] This lofty plan however would never come to fruition, and Pakistan slowly lessened its support as Hekmatyar routinely failed to meet the objectives of Pakistan. Mainly, he could not take Kabul.
+
+
+
+
 That said, Pakistan hedged its bets and continued to support Hekmatyar, if only in part, even
 after he later failed to reach an accord with the Taliban in 1994. Pakistan 10 also supported the
 likes Jalaluddin Haqqani and his Haqqani Network (HQN), who like Hekmatyar, to this day is still
@@ -622,22 +575,6 @@ Pakistan with the same rights as other Pakistani citizens. This will not elimina
 terrorism within Pakistan or Afghanistan. It will, however, go a long way towards building relations
 with the largest recruitment pool militant organizations have in the region.
 
-
-### <center>NOTES</center> ###
-
-[^1]: “International Security Assistance Force (ISAF): Key Facts and Figures,” NATO, June 6, 2011, accessed December 1, 2013, http://www.isaf.nato.int/images/stories/File/Placemats/110606-isaf-placemat.pdf; and Jessica Donati and Mark Felsenthal, “U.S. says may pull out all troops as Afghan leader holds up deal,” Reuters, November 26, 2013, accessed December 12, 2013, http://www.reuters.com/article/2013/11/26/us-afghanistan-usa-idUSBRE9AP03J20131126.
-
-[^2]: Jessica Donati and Mark Felsenthal, “U.S. says may pull out all troops as Afghan leader holds up deal.”
-
-[^3]: “Operation Enduring Freedom,” Department of Defense, accessed December 19, 2013, http://www.defense.gov/news/casualty.pdf.
-
-
-
-
-
-
-[^73]: Pervez Hoodbhoy, “Pakistan - The Threat From Within,” 10.
-
 ### <center>BIBLIOGRAPHY</center> ###
 
 Ashley J. Tellis, “Pakistan’s Record on Terrorism: Conflicted Goals, Compromised Performance,” The Washington Quarterly, Volume 31, Number 2 (2008): 7-32.
@@ -685,3 +622,30 @@ Thomas H. Johnson, “Taliban adaptations and innovations,” Small Wars & Insur
 Vadim Kozyulin, “Afghanistan-2014 And The Taliban With Its Head Held Proud But Low,” Security Index: A Russian Journal on International Security, Volume 19, Number 1 (2013): 73-76.
 
 Zafar Nawaz Jaspal, “Threat of Extremism & Terrorism Syndicate beyond FATA,” Journal of Political Studies, Volume 1, Issue 2 (2010): 19-49.
+
+### <center>NOTES</center> ###
+
+[^1]: “International Security Assistance Force (ISAF): Key Facts and Figures,” NATO, June 6, 2011, accessed December 1, 2013, http://www.isaf.nato.int/images/stories/File/Placemats/110606-isaf-placemat.pdf; and Jessica Donati and Mark Felsenthal, “U.S. says may pull out all troops as Afghan leader holds up deal,” Reuters, November 26, 2013, accessed December 12, 2013, http://www.reuters.com/article/2013/11/26/us-afghanistan-usa-idUSBRE9AP03J20131126.
+
+[^2]: Jessica Donati and Mark Felsenthal, “U.S. says may pull out all troops as Afghan leader holds up deal.”
+
+[^3]: “Operation Enduring Freedom,” Department of Defense, accessed December 19, 2013, http://www.defense.gov/news/casualty.pdf.
+
+[^4]: Scott Shane, "The War in Pashtunistan," New York Times, December 5, 2009, December 1, 2013, http://www.nytimes.com/2009/12/06/weekinreview/06shane.html; and Milt Bearden, "The Pashtuns of Afghanistan: Alexander the Great also got in trouble here," New York Times, March 31, 2004, December 1, 2013, http://www.nytimes.com/2004/03/31/opinion/31iht-edbearden_ed3__3.html.
+
+[^5]: "The Pashtuns of Afghanistan: Alexander the Great also got in trouble here."
+
+[^6]: Scott Shane, “The War in Pashtunistan.”
+
+[^7]: “Taliban Propaganda: Winning The War Of Words?,” International Crisis Group, Asia Report Number 158, July 24, 2008, accessed December 12, 2013, http://www.crisisgroup.org/~/media/Files/asia/south-asia/afghanistan/158_taliban_propaganda___winning_the_war_of_words.pdf.
+
+[^8]: “Taliban Propaganda: Winning The War Of Words?,” 3.
+
+[^9]: C. Christine Fair, “The Militant Challenge in Pakistan,” Asia Policy, Number 11 (2011): 115.
+
+
+
+
+
+
+[^73]: Pervez Hoodbhoy, “Pakistan - The Threat From Within,” 10.
