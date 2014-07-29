@@ -3,6 +3,7 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 pygments:      true
 timezone:      America/Los_Angeles
 permalink:     /:year/:month/:title/
+paginate:      10
 author:        SecBrief.org
 name:          SecBrief.org
 title:         SecBrief.org - The Definitive Source for Security News and Expert Analysis
