@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-        
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 col-sm-12">
-            {% for post in site.posts %}
-              <h4><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h4>
-              <h6><strong>{{ post.date | date: "%d-%b-%Y" }}</strong> • {{ post.author }}</h6> 
-              <p>{{ post.description }}</p><br />
-            {% endfor %}
-          </div>
-          <div class="col-md-4 col-sm-12">
-          </div>
-        </div>
-      </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-sm-12">
+      {% for post in site.posts %}
+      <h4><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h4>
+      <h6><strong>{{ post.date | date: "%d-%b-%Y" }}</strong> • {{ post.author }}</h6> 
+      <p>{{ post.description }}</p><br />
+      {% endfor %}
+    </div>
+    <div class="col-md-4 col-sm-12">
+    </div>
+  </div>
+</div>
