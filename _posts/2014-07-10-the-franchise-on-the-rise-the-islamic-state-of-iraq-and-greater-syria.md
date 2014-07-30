@@ -5,7 +5,7 @@ author: C. Cherry
 published: 10-Jul-2014
 description: Having now co-opted what began as a popular struggle against the Assad regime, the ISIGS has expanded its focus beyond Syria. Learning from past mistakes in Iraq, the ISIGS has successfully garnered support through the downplaying of itself as an al-Qa’ida franchise and the playing up of its proximate goals of uprooting regional regimes. Due to widening sectarian violence, moderate Sunnis are increasingly accepting the ISIGS as a legitimate party to the growing conflicts. Complicating matters, the U.S. is politically constrained in what it can do to address the rising ISIGS. So while regional governments line up like dominoes, the ISIGS is not only trying to give them a nudge, but positioning itself to benefit when they fall.
 category: [Terrorism, Counterterrorism]
-tags: [Islamic State of Iraq and Greater Syria, ISIGS, Syria, Iraq, al-Qa'ida, AQI]
+tags: [Islamic State of Iraq and Greater Syria, ISIGS, Syria, Iraq, Al-Qa'ida, AQI]
 ---
 
 ##### <center><strong>[The below paper was submitted May 6, 2013.]</strong></center> #####
