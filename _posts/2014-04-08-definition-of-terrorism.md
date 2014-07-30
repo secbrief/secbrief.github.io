@@ -8,7 +8,7 @@ category: [Terrorism]
 tags: [Definition of Terrorism, Definition, Terrorism]
 ---
 
-## <center>Organizational Definitions of Terrorism</center> ##
+## <center>ORGANIZATIONAL DEFINITIONS OF TERRORISM</center> ##
 
 <hr>
 
@@ -77,7 +77,7 @@ Section 2656f(d) of Title 22 of the United States Code defines certain key terms
 
 <hr>
 
-## <center>Scholastic Definitions of Terrorism</center> ##
+## <center>SCHOLASTIC DEFINITIONS OF TERRORISM</center> ##
 
 <hr>
 
@@ -125,7 +125,7 @@ We may therefore now attempt to define terrorism as the deliberate creation and 
 
 <hr>
 
-## <center>Legal Definitions of Terrorism</center> ##
+## <center>LEGAL DEFINITIONS OF TERRORISM</center> ##
 
 <hr>
 
@@ -172,7 +172,7 @@ Appear to be intended (i) to intimidate or coerce a civilian population; (ii) to
 
 <hr>
 
-## <center>Dictionary Definitions of Terrorism</center> ##
+## <center>DICTIONARY DEFINITIONS OF TERRORISM</center> ##
 
 <hr>
 
@@ -182,7 +182,7 @@ Appear to be intended (i) to intimidate or coerce a civilian population; (ii) to
 
 <hr>
 
-## <center>Notes</center> ##
+## <center>NOTES</center> ##
 
 [^1]: “How do you define terrorism?,” Central Intelligence Agency, last modified April 19, 2013, accessed March 7, 2014, https://www.cia.gov/news-information/cia-the-war-on-terrorism/terrorism-faqs.html.
 
