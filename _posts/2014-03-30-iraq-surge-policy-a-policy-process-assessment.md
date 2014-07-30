@@ -5,7 +5,7 @@ author: C. Cherry
 published: 30-Mar-2014
 description: The Bush Administration pursued a surge policy that added 21,500 troops to the war in Iraq in a concentrated effort to quell violence and restore order.
 category: [Defense, Policy]
-tags: [Bush, Iraq, Iraq Surge, Policy, Policy Assessment, Violence]
+tags: [Iraq Surge, Iraq, George W. Bush, Iraq Policy, Policy Assessment, Violence]
 ---
 
 ##### <center><strong>[The below policy assessment was an exercise conducted in 2011.]</strong></center> #####
