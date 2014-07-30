@@ -5,7 +5,7 @@ author: C. Cherry
 published: 10-Apr-2014
 description: Existant since December 31, 2011, the Heartbleed bug in the OpenSSL 1.0.1 Series up through 1.0.1f, as well as the 1.0.2-beta, exploits the heartbeat mechanism used by transport layer security (TLS) to keep secure connections alive.
 category: [Cyber Security, Cryptography]
-tags: [Bug, Cryptography, Heartbleed, HTTPS, OpenSSL, Security]
+tags: [Heartbleed Bug, Heartbleed, Bug, Cryptography, HTTPS, OpenSSL, Security]
 ---
 
 Earlier this week, ironically as I was writing an article about Always On SSL (AOSSL) and why every web application and site should use AOSSL, the Heartbleed bug in OpenSSL was announced. Existant since December 31, 2011, the Heartbleed bug in the OpenSSL 1.0.1 Series up through 1.0.1f, as well as the 1.0.2-beta, exploits the heartbeat mechanism used by Transport Layer Security (TLS) to keep secure connections alive. Discovered during routine testing by security researchers at Google and Codenomicon, the Heartbleed bug allows attackers to incrementally request up to 64KB of secure memory from an affected server, thus exposing everything from user credentials (i.e., usernames and passwords) to potentially a service’s private keys which would render the in-place encryption schema completely useless. As cryptographer and research professor at Johns Hopkins University, Matthew Green, describes the Heartbleed bug:
