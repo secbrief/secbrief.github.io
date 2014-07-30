@@ -3,9 +3,9 @@ layout: post
 title: Defeating the LTTE&#58; An Analysis of the Fourth Phase of the Sri Lankan Civil War
 author: C. Cherry
 published: 01-Apr-2014
-description: 
+description: The fourth and final phase of the Sri Lankan Civil War is instructive from a counterinsurgency standpoint since the previous phases were laborious and drawn out without military or political resolution. As such, this paper will briefly discuss the origins of the LTTE and examine the circumstances and tactics of the final phase of the Sri Lankan Civil War.
 category: [Terrorism, Counterterrorism]
-tags: []
+tags: [Tamil Tigers, Liberation Tigers of Tamil Eelam, LTTE, Tamil Eelam, Sri Lanka, Tamil, Tamils, Sinhalese]
 ---
 
 ##### <center><strong>[The below paper was submitted May 22, 2012.]</strong></center> #####
