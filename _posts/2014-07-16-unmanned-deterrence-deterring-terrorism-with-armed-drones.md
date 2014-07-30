@@ -149,228 +149,228 @@ This paper does not cover the use of armed drones against U.S. citizens, use of 
 
 ### <center>NOTES</center> ###
 
-"National Strategy For Counterterrorism," The White House, June 2011, accessed May 10, 2013, http://www.whitehouse.gov/sites/default/files/counterterrorism_strategy.pdf.
+[^1]: "National Strategy For Counterterrorism," The White House, June 2011, accessed May 10, 2013, http://www.whitehouse.gov/sites/default/files/counterterrorism_strategy.pdf.
 
-Bryan C. Price, "Leadership Decapitation and the End of Terrorist Groups," Belfer Center, Harvard, May 2012, accessed May 10, 2013, http://belfercenter.ksg.harvard.edu/publication/22121/leadership_decapitation_and_the_end_of_terrorist_groups.html.
+[^2]: Bryan C. Price, "Leadership Decapitation and the End of Terrorist Groups," Belfer Center, Harvard, May 2012, accessed May 10, 2013, http://belfercenter.ksg.harvard.edu/publication/22121/leadership_decapitation_and_the_end_of_terrorist_groups.html.
 
-Micah Zenko, "Reforming U.S. Drone Strike Policies," Council On Foreign Relations, Council Special Report Number 65, January 2013, accessed May 10, 2013, http://i.cfr.org/content/publications/attachments/Drones_CSR65.pdf.
+[^3]: Micah Zenko, "Reforming U.S. Drone Strike Policies," Council On Foreign Relations, Council Special Report Number 65, January 2013, accessed May 10, 2013, http://i.cfr.org/content/publications/attachments/Drones_CSR65.pdf.
 
-Dennis Kucinich, "Obama administration must account to Congress for targeted assassinations," The Guardian, November 16, 2012, accessed May 10, 2013, http://www.guardian.co.uk/commentisfree/2012/nov/16/obama-administration-account-congress-targeted-assassinations.
+[^4]: Dennis Kucinich, "Obama administration must account to Congress for targeted assassinations," The Guardian, November 16, 2012, accessed May 10, 2013, http://www.guardian.co.uk/commentisfree/2012/nov/16/obama-administration-account-congress-targeted-assassinations.
 
-"Drones: What are they and how do they work?," BBC, January 31, 2012, accessed May 10, 2013, http://www.bbc.co.uk/news/world-south-asia-10713898.
+[^5]: "Drones: What are they and how do they work?," BBC, January 31, 2012, accessed May 10, 2013, http://www.bbc.co.uk/news/world-south-asia-10713898.
 
-Dylan Matthews, "Everything you need to know about the drone debate, in one FAQ," Washington Post, March 8, 2013, accessed May 10, 2013, http://www.washingtonpost.com/blogs/wonkblog/wp/2013/03/08/everything-you-need-to-know-about-the-drone-debate-in-one-faq/.
+[^6]: Dylan Matthews, "Everything you need to know about the drone debate, in one FAQ," Washington Post, March 8, 2013, accessed May 10, 2013, http://www.washingtonpost.com/blogs/wonkblog/wp/2013/03/08/everything-you-need-to-know-about-the-drone-debate-in-one-faq/.
 
-Ibid.
+[^7]: Ibid.
 
-Ibid.
+[^8]: Ibid.
 
-Ibid.
+[^9]: Ibid.
 
-Josh Leves, "CNN Explains, U.S. drones," CNN, February 8, 2013, accessed May 10, 2013, http://www.cnn.com/2013/02/07/politics/drones-cnn-explains.
+[^10]: Josh Leves, "CNN Explains, U.S. drones," CNN, February 8, 2013, accessed May 10, 2013, http://www.cnn.com/2013/02/07/politics/drones-cnn-explains.
 
-Dylan Matthews, "Everything you need to know about the drone debate, in one FAQ."
+[^11]: Dylan Matthews, "Everything you need to know about the drone debate, in one FAQ."
 
-Josh Leves, "CNN Explains, U.S. drones."
+[^12]: Josh Leves, "CNN Explains, U.S. drones."
 
-Dylan Matthews, "Everything you need to know about the drone debate, in one FAQ." 
+[^13]: Dylan Matthews, "Everything you need to know about the drone debate, in one FAQ." 
 
-John Sifton, "A Brief History of Drones," The Nation, February 7, 2012, accessed May 10, 2013, http://www.thenation.com/article/166124/brief-history-drones.
+[^14]: John Sifton, "A Brief History of Drones," The Nation, February 7, 2012, accessed May 10, 2013, http://www.thenation.com/article/166124/brief-history-drones.
 
-Ibid.
+[^15]: Ibid.
 
-Ibid.
+[^16]: Ibid.
 
-"President Gerald R. Ford's Executive Order 11905: United States Foreign Intelligence Activities," FAS, accessed May 10, 2013, http://www.fas.org/irp/offdocs/eo11905.htm.
+[^17]: "President Gerald R. Ford's Executive Order 11905: United States Foreign Intelligence Activities," FAS, accessed May 10, 2013, http://www.fas.org/irp/offdocs/eo11905.htm.
 
-Tony Karon, "Yemen Strike Opens New Chapter in War on Terror," Time, November 5, 2002, accessed May 10, 2013, http://www.time.com/time/world/article/0,8599,387571,00.html.
+[^18]: Tony Karon, "Yemen Strike Opens New Chapter in War on Terror," Time, November 5, 2002, accessed May 10, 2013, http://www.time.com/time/world/article/0,8599,387571,00.html.
 
-Ibid.
+[^19]: Ibid.
 
-Ibid.
+[^20]: Ibid.
 
-Mark Mazzetti, "A Secret Deal on Drones, Sealed in Blood," The New York Times, April 6, 2013, accessed April 19, 2013, http://www.nytimes.com/2013/04/07/world/asia/origins-of-cias-not-so-secret-drone-war-in-pakistan.html.
+[^21]: Mark Mazzetti, "A Secret Deal on Drones, Sealed in Blood," The New York Times, April 6, 2013, accessed April 19, 2013, http://www.nytimes.com/2013/04/07/world/asia/origins-of-cias-not-so-secret-drone-war-in-pakistan.html.
 
-Tony Karon, "Yemen Strike Opens New Chapter in War on Terror;"  and "Sources: U.S. kills Cole suspect," CNN, November 5, 2002, accessed May 10, 2013, http://archives.cnn.com/2002/WORLD/meast/11/04/yemen.blast/.
+[^22]: Tony Karon, "Yemen Strike Opens New Chapter in War on Terror;"  and "Sources: U.S. kills Cole suspect," CNN, November 5, 2002, accessed May 10, 2013, http://archives.cnn.com/2002/WORLD/meast/11/04/yemen.blast/.
 
-Mark Mazzetti, "A Secret Deal on Drones, Sealed in Blood."
+[^23]: Mark Mazzetti, "A Secret Deal on Drones, Sealed in Blood."
 
-Ibid.
+[^24]: Ibid.
 
-David Rohde and Mohammed Khan, "Ex-Fighter for Taliban Dies in Srike in Pakistan," The New York Times, June 19, 20014, accessed May 10, 2013, http://www.nytimes.com/2004/06/19/international/asia/19STAN.html; and Bill Roggio and Alexander Mayer, "Charting the data for US airstrikes in Pakistan, 2004 - 2013," The Long War Journal, last modified April 17, 2013, accessed May 10, 2013, http://www.longwarjournal.org/pakistan-strikes.php.
+[^25]: David Rohde and Mohammed Khan, "Ex-Fighter for Taliban Dies in Srike in Pakistan," The New York Times, June 19, 20014, accessed May 10, 2013, http://www.nytimes.com/2004/06/19/international/asia/19STAN.html; and Bill Roggio and Alexander Mayer, "Charting the data for US airstrikes in Pakistan, 2004 - 2013," The Long War Journal, last modified April 17, 2013, accessed May 10, 2013, http://www.longwarjournal.org/pakistan-strikes.php.
 
-Mark Mazzetti, "A Secret Deal on Drones, Sealed in Blood."
+[^26]: Mark Mazzetti, "A Secret Deal on Drones, Sealed in Blood."
 
-Spencer Ackerman, "First Drone Strikes Since bin Laden Raid Hit Pakistan, Yemen," Wired, Danger Room, May 6, 2011, accessed May 10, 2013, http://www.wired.com/dangerroom/2011/05/first-drone-strikes-since-bin-laden-raid-hit-pakistan-yemen/.
+[^27]: Spencer Ackerman, "First Drone Strikes Since bin Laden Raid Hit Pakistan, Yemen," Wired, Danger Room, May 6, 2011, accessed May 10, 2013, http://www.wired.com/dangerroom/2011/05/first-drone-strikes-since-bin-laden-raid-hit-pakistan-yemen/.
 
-Jeb Boone and Greb Miller, "U.S. drone strike in Yemen is first since 2002," Washington Post, May 5, 2011, accessed May 10, 2013, http://www.washingtonpost.com/world/middle-east/yemeni_official_us_drone_strike_kills_2_al_qaeda_operatives/2011/05/05/AF7HrzxF_story.html.
+[^28]: Jeb Boone and Greb Miller, "U.S. drone strike in Yemen is first since 2002," Washington Post, May 5, 2011, accessed May 10, 2013, http://www.washingtonpost.com/world/middle-east/yemeni_official_us_drone_strike_kills_2_al_qaeda_operatives/2011/05/05/AF7HrzxF_story.html.
 
-Jeb Boone and Greb Miller, "U.S. drone strike in Yemen is first since 2002;" and Spencer Ackerman, "First Drone Strikes Since bin Laden Raid Hit Pakistan, Yemen."
+[^29]: Jeb Boone and Greb Miller, "U.S. drone strike in Yemen is first since 2002;" and Spencer Ackerman, "First Drone Strikes Since bin Laden Raid Hit Pakistan, Yemen."
 
-Ibid.
+[^30]: Ibid.
 
-Alexander Mayer, "Charting the data for US airstrikes in Pakistan, 2004 - 2013."
+[^31]: Alexander Mayer, "Charting the data for US airstrikes in Pakistan, 2004 - 2013."
 
-Bill Roggio and Bob Barry, "Charting the data for US air strikes in Yemen, 2002 - 2013," The Long War Journal, last modified May 18, 2013, accessed May 18, 2013, http://www.longwarjournal.org/multimedia/Yemen/code/Yemen-strike.php.
+[^32]: Bill Roggio and Bob Barry, "Charting the data for US air strikes in Yemen, 2002 - 2013," The Long War Journal, last modified May 18, 2013, accessed May 18, 2013, http://www.longwarjournal.org/multimedia/Yemen/code/Yemen-strike.php.
 
-Craig Whitlock and Greg Miller, "U.S. assembling secret drone bases in Africa, Arabian Peninsula, officials say," Washington Post, September 20, 2011, accessed May 10, 2013, http://articles.washingtonpost.com/2011-09-20/world/35273162_1_undeclared-drone-wars-seychelles-president-james-michel-unmanned-aircraft.
+[^33]: Craig Whitlock and Greg Miller, "U.S. assembling secret drone bases in Africa, Arabian Peninsula, officials say," Washington Post, September 20, 2011, accessed May 10, 2013, http://articles.washingtonpost.com/2011-09-20/world/35273162_1_undeclared-drone-wars-seychelles-president-james-michel-unmanned-aircraft.
 
-Alexander Mayer, "Charting the data for US airstrikes in Pakistan, 2004 - 2013;" and Bill Roggio and Bob Barry, "Charting the data for US air strikes in Yemen, 2002 - 2013."
+[^34]: Alexander Mayer, "Charting the data for US airstrikes in Pakistan, 2004 - 2013;" and Bill Roggio and Bob Barry, "Charting the data for US air strikes in Yemen, 2002 - 2013."
 
-107th Congress, “Authorization for Use of Military Force,” September 18, 2001, accessed May 10, 2013, http://www.gpo.gov/fdsys/pkg/PLAW-107publ40/html/PLAW-107publ40.htm.
+[^35]: 107th Congress, “Authorization for Use of Military Force,” September 18, 2001, accessed May 10, 2013, http://www.gpo.gov/fdsys/pkg/PLAW-107publ40/html/PLAW-107publ40.htm.
 
-Micah Zenko, "Reforming U.S. Drone Strike Policies."
+[^36]: Micah Zenko, "Reforming U.S. Drone Strike Policies."
 
-Peggy McInerny, "U.S. drone signature strikes: An often illegal "killing machine," International Institute, UCLA, April 9, 2013, accessed May 10, 2013, http://www.international.ucla.edu/burkle/news/article.asp?parentid=131351.
+[^37]: Peggy McInerny, "U.S. drone signature strikes: An often illegal "killing machine," International Institute, UCLA, April 9, 2013, accessed May 10, 2013, http://www.international.ucla.edu/burkle/news/article.asp?parentid=131351.
 
-Ibd.
+[^38]: Ibid.
 
-Micah Zenko, "Reforming U.S. Drone Strike Policies."
+[^39]: Micah Zenko, "Reforming U.S. Drone Strike Policies."
 
-Ibid.
+[^40]: Ibid.
 
-Ibid.
+[^41]: Ibid.
 
-Ibid.
+[^42]: Ibid.
 
-Ibid.
+[^43]: Ibid.
 
-Ibid.
+[^44]: Ibid.
 
-Ibid.
+[^45]: Ibid.
 
-"Department of Defense Fiscal Year (FY) 2013 President's Budget Submission," Department of the Air Force, February 2012, accessed May 10, 2013, http://www.saffm.hq.af.mil/shared/media/document/AFD-120210-115.pdf.
+[^46]: "Department of Defense Fiscal Year (FY) 2013 President's Budget Submission," Department of the Air Force, February 2012, accessed May 10, 2013, http://www.saffm.hq.af.mil/shared/media/document/AFD-120210-115.pdf.
 
-Micah Zenko, "Reforming U.S. Drone Strike Policies."
+[^47]: Micah Zenko, "Reforming U.S. Drone Strike Policies."
 
-Ibid.
+[^48]: Ibid.
 
-Ibid.
+[^49]: Ibid.
 
-107th Congress, “Authorization for Use of Military Force.”
+[^50]: 107th Congress, “Authorization for Use of Military Force.”
 
-Micah Zenko, "Reforming U.S. Drone Strike Policies."
+[^51]: Micah Zenko, "Reforming U.S. Drone Strike Policies."
 
-Ibid.
+[^52]: Ibid.
 
-Ibid.
+[^53]: Ibid.
 
-"Chapter VII: Action With Respect To Threats To The Peace, Breaches of The Peace, And Acts of Agression,” Charter Of The United Nations, accessed May 10, 2013, www.un.org/en/documents/charter/chapter7.shtml.
+[^54]: "Chapter VII: Action With Respect To Threats To The Peace, Breaches of The Peace, And Acts of Agression,” Charter Of The United Nations, accessed May 10, 2013, www.un.org/en/documents/charter/chapter7.shtml.
 
-Micah Zenko, "Reforming U.S. Drone Strike Policies."
+[^55]: Micah Zenko, "Reforming U.S. Drone Strike Policies."
 
-Peggy McInerny, "U.S. drone signature strikes: An often illegal "killing machine,"
+[^56]: Peggy McInerny, "U.S. drone signature strikes: An often illegal "killing machine,"
 
-"U.N. Official Says U.S. Drones Breach Pakistan’s Sovereignty," New York Times, March 15, 2013, accessed May 10, 2013, http://www.nytimes.com/2013/03/16/world/asia/un-official-denounces-us-drone-use-in-pakistan.html.
+[^57]: "U.N. Official Says U.S. Drones Breach Pakistan’s Sovereignty," New York Times, March 15, 2013, accessed May 10, 2013, http://www.nytimes.com/2013/03/16/world/asia/un-official-denounces-us-drone-use-in-pakistan.html.
 
-Bill Roggio and Bob Barry, "Charting the data for US air strikes in Yemen, 2002 - 2013;" and Bill Roggio and Alexander Mayer, "Charting the data for US airstrikes in Pakistan, 2004 - 2013."
+[^58]: Bill Roggio and Bob Barry, "Charting the data for US air strikes in Yemen, 2002 - 2013;" and Bill Roggio and Alexander Mayer, "Charting the data for US airstrikes in Pakistan, 2004 - 2013."
 
-Micah Zenko, "Reforming U.S. Drone Strike Policies."
+[^59]: Micah Zenko, "Reforming U.S. Drone Strike Policies."
 
-Ibid.
+[^60]: Ibid.
 
-Ibid.
+[^61]: Ibid.
 
-Ibid.
+[^62]: Ibid.
 
-Ibid.
+[^63]: Ibid.
 
-Ibid.
+[^64]: Ibid.
 
-Ibid.
+[^65]: Ibid.
 
-Matthew Kroenig and Barry Pavel, "How to Deter Terrorism," Center for Strategic and International Studies, The Washington Quarterly, 35:2, Spring 2012, accessed May 10, 2013, http://csis.org/files/publication/TWQ_12Spring_Kroenig_Pavel.pdf.
+[^66]: Matthew Kroenig and Barry Pavel, "How to Deter Terrorism," Center for Strategic and International Studies, The Washington Quarterly, 35:2, Spring 2012, accessed May 10, 2013, http://csis.org/files/publication/TWQ_12Spring_Kroenig_Pavel.pdf.
 
-Andreas Wenger and Alex Wilner, “Deterring Terrorism: Moving Forward,” Deterring Terrorism: Theory and Practice, edited by  Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 301-324.
+[^67]: Andreas Wenger and Alex Wilner, “Deterring Terrorism: Moving Forward,” Deterring Terrorism: Theory and Practice, edited by Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 301-324.
 
-Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?,” Deterring Terrorism: Theory and Practice, edited by  Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 136-158.
+[^68]: Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?,” Deterring Terrorism: Theory and Practice, edited by  Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 136-158.
 
-Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research,” Deterring Terrorism: Theory and Practice, edited by  Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 21-45.
+[^69]: Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research,” Deterring Terrorism: Theory and Practice, edited by  Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 21-45.
 
-Jeffrey W. Knopf, “Wrestling with Deterrence: Bush Administration Strategy After 9/11,” Contemporary Security Policy, 29:2, 229-265, September 10, 2008, accessed May 10, 2013, http://dx.doi.org/10.1080/13523260802284076.
+[^70]: Jeffrey W. Knopf, “Wrestling with Deterrence: Bush Administration Strategy After 9/11,” Contemporary Security Policy, 29:2, 229-265, September 10, 2008, accessed May 10, 2013, http://dx.doi.org/10.1080/13523260802284076.
 
-Boaz Atzili and Wendy Pearlman, “Triadic Deterrence: Coercing Strength, Beaten by Weakness,” Security Studies, 21:2, 301-335, May 22, 2012, accessed May 10, 2013, http://dx.doi.org/10.1080/09636412.2012.679209.
+[^71]: Boaz Atzili and Wendy Pearlman, “Triadic Deterrence: Coercing Strength, Beaten by Weakness,” Security Studies, 21:2, 301-335, May 22, 2012, accessed May 10, 2013, http://dx.doi.org/10.1080/09636412.2012.679209.
 
-Ibid.
+[^72]: Ibid.
 
-Ibid.
+[^73]: Ibid.
 
-Ibid.
+[^74]: Ibid.
 
-Matthew Kroenig and Barry Pavel, "How to Deter Terrorism."
+[^75]: Matthew Kroenig and Barry Pavel, "How to Deter Terrorism."
 
-Ibid.
+[^76]: Ibid.
 
-Ibid.
+[^77]: Ibid.
 
-Ibid.
+[^78]: Ibid.
 
-Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research.”
+[^79]: Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research.”
 
-Ibid.
+[^80]: Ibid.
 
-Ibid.
+[^81]: Ibid.
 
-Ibid.
+[^82]: Ibid.
 
-Matthew Kroenig and Barry Pavel, "How to Deter Terrorism."
+[^83]: Matthew Kroenig and Barry Pavel, "How to Deter Terrorism."
 
-Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?”
+[^84]: Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?”
 
-Ibid.
+[^85]: Ibid.
 
-Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research.”
+[^86]: Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research.”
 
-Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?”
+[^87]: Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?”
 
-Janice Gross Stein, “Deterring Terrorism, Not Terrorists,” Deterring Terrorism: Theory and Practice, edited by  Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 46-66.
+[^88]: Janice Gross Stein, “Deterring Terrorism, Not Terrorists,” Deterring Terrorism: Theory and Practice, edited by  Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 46-66.
 
-Ibid.
+[^89]: Ibid.
 
-Boaz Atzili and Wendy Pearlman, “Triadic Deterrence: Coercing Strength, Beaten by Weakness.”
+[^90]: Boaz Atzili and Wendy Pearlman, “Triadic Deterrence: Coercing Strength, Beaten by Weakness.”
 
-Andreas Wenger and Alex Wilner, “Deterring Terrorism: Moving Forward.”
+[^91]: Andreas Wenger and Alex Wilner, “Deterring Terrorism: Moving Forward.”
 
-Frank Harvey and Alex Wilner, “The Practical Limits Of Coercing Terrorists,” Deterring Terrorism: Theory and Practice, edited by  Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 95-116.
+[^92]: Frank Harvey and Alex Wilner, “The Practical Limits Of Coercing Terrorists,” Deterring Terrorism: Theory and Practice, edited by  Andreas Wenger and Alex Wilner, (Stanford: Stanford University Press, 2012), 95-116.
 
-Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research.”
+[^93]: Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research.”
 
-Frank Harvey and Alex Wilner, “The Practical Limits Of Coercing Terrorists,”
+[^94]: Frank Harvey and Alex Wilner, “The Practical Limits Of Coercing Terrorists,”
 
-Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research.”
+[^95]: Jeffrey W. Knopf, “Terrorism And The Fourth Wave In Deterrence Research.”
 
-Andreas Wenger and Alex Wilner, “Deterring Terrorism: Moving Forward.”
+[^96]: Andreas Wenger and Alex Wilner, “Deterring Terrorism: Moving Forward.”
 
-Jeffrey W. Knopf, “Wrestling with Deterrence: Bush Administration Strategy After 9/11.”
+[^97]: Jeffrey W. Knopf, “Wrestling with Deterrence: Bush Administration Strategy After 9/11.”
 
-Ibid.
+[^98]: Ibid.
 
-Ibid.
+[^99]: Ibid.
 
-Ibid.
+[^100]: Ibid.
 
-Ibid.
+[^101]: Ibid.
 
-"National Strategy For Counterterrorism."
+[^102]: "National Strategy For Counterterrorism."
 
-"National Security Strategy," The White House, May 2010, accessed May 10, 2013, http://www.whitehouse.gov/sites/default/files/rss_viewer/national_security_strategy.pdf.
+[^103]: "National Security Strategy," The White House, May 2010, accessed May 10, 2013, http://www.whitehouse.gov/sites/default/files/rss_viewer/national_security_strategy.pdf.
 
-Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?”
+[^104]: Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?”
 
-"National Strategy For Counterterrorism."
+[^105]: "National Strategy For Counterterrorism."
 
-Boaz Atzili and Wendy Pearlman, “Triadic Deterrence: Coercing Strength, Beaten by Weakness.”
+[^106]: Boaz Atzili and Wendy Pearlman, “Triadic Deterrence: Coercing Strength, Beaten by Weakness.”
 
-Matthew Kroenig and Barry Pavel, "How to Deter Terrorism."
+[^107]: Matthew Kroenig and Barry Pavel, "How to Deter Terrorism."
 
-Thomas C. Schelling,”The Retarded Science of International Strategy,” The Strategy Of Conflict, (Massachusetts: Harvard, 1960), 3-20.
+[^108]: Thomas C. Schelling,”The Retarded Science of International Strategy,” The Strategy Of Conflict, (Massachusetts: Harvard, 1960), 3-20.
 
-Jeffrey W. Knopf, “Wrestling with Deterrence: Bush Administration Strategy After 9/11.”
+[^109]: Jeffrey W. Knopf, “Wrestling with Deterrence: Bush Administration Strategy After 9/11.”
 
-Micah Zenko, "Reforming U.S. Drone Strike Policies."
+[^110]: Micah Zenko, "Reforming U.S. Drone Strike Policies."
 
-Matthew Kroenig and Barry Pavel, "How to Deter Terrorism."
+[^111]: Matthew Kroenig and Barry Pavel, "How to Deter Terrorism."
 
-"National Strategy For Counterterrorism."
+[^112]: "National Strategy For Counterterrorism."
 
-Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?”
+[^113]: Martha Crenshaw, “Will Threats Deter Nuclear Terrorism?”
