@@ -54,7 +54,7 @@
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:site_name" content="{{ site.name}}" />
   <meta property="article:published_time" content="{{ page.date }}" />
-  <meta property="article:modified_time" content="" />
+  <meta property="article:modified_time" content="{{ page.date }}" />
   <meta property="article:section" content="{% if page.category != empty %}{% for category in page.category %}{{ category | titlecase }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}" />
   <meta property="article:tag" content="{% if page.tags != empty %}{% for tag in page.tags %}{{ tag | titlecase }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}" />
   <meta name="google-site-verification" content="ol3JtVvcjQHdG6pNhMV91FZoLEfq7bNe3d2ie4Bn9vI" />
