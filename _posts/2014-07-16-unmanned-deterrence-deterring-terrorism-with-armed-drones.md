@@ -3,7 +3,7 @@ layout: post
 title: Unmanned Deterrence&#58; Deterring Terrorism With Armed Drones
 author: C. Cherry
 published: 16-Jul-2014
-description: In utilizing deterrence vis-à-vis drone strikes, a distinct "red line" is established for anyone who decides to plan an attack or aid in an attempted attack on the U.S. “If you plan to attack the U.S., you will become the target of an armed drone strike.” This simple framework has the ability to significantly reduce domestic and international controversy by getting away from the policy of “mowing” the proverbial “lawn of terrorists.”
+description: In utilizing deterrence vis-à-vis drone strikes, a distinct red line is established for anyone who decides to plan an attack or aid in an attempted attack on the U.S. If you plan to attack the U.S., you will become the target of an armed drone strike. This simple framework has the ability to significantly reduce domestic and international controversy by getting away from the policy of mowing the proverbial lawn of terrorists.
 category: [Terrorism, Counterterrorism]
 tags: [Drone Strikes, Deterrence, Drones, Drone Campaign, Al-Qa'ida, Terrorism, Counterterrorism]
 ---
