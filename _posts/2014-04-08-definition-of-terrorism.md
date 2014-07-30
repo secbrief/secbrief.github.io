@@ -5,7 +5,7 @@ author: C. Cherry
 published: 8-Apr-2014
 description: The definition of terrorism is something that varies widely across governmental and nongovernmental organizations and academia. Herein are common definitions of terrorism.
 category: [Terrorism]
-tags: [Definition, Terrorism]
+tags: [Definition of Terrorism, Definition, Terrorism]
 ---
 
 ## <center>Organizational Definitions of Terrorism</center> ##
