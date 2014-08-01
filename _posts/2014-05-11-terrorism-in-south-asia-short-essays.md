@@ -4,7 +4,7 @@ title: Terrorism in South Asia&#58; Short Essays
 author: C. Cherry
 published: 28-Jul-2014
 description: Short essays on how 9/11 impacted South Asia, what caused the insurgency in Kashmir, and what has led to the spill-over violence outside of Kashmir within India.
-category: [Terrorism]
+category: [Terrorism, Publications]
 tags: [Kashmir, Terrorism, Pakistan, India]
 ---
 
