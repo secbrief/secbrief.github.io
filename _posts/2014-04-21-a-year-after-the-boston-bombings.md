@@ -4,7 +4,7 @@ title: A Year After the Boston Bombings
 author: C. Cherry
 published: 21-Apr-2014
 description: The one year anniversary of the Boston Bombings and the ensuing manhunt for the Tsarnaev brothers was marked this past week (15-April - 19-April). Now the day of the 2014 Boston Marathon, the target of the Boston Bombings which resulted in four fatalities, including an MIT police officer, and two-hundred and eighty injuries, it is worth reflecting on Tamerlan and Dzhokhar’s radicalization, attack cycle, and assessing whether or not a similar act of terrorism could be carried out today.
-category: [Terrorism]
+category: [Terrorism, Publications]
 tags: [Boston Bombings, Dzhokhar Tsarnaev, Islamist, Radicalization, Tamerlan Tsarnaev, Terrorism]
 ---
 
@@ -84,7 +84,7 @@ The most recent issue of AQAP’s Inspire Magazine lauds the “success” of th
 Mass casualty shootings as seen in the first Fort Hood shooting by MAJ Nidal Hasan and public bombings like the Boston Bombings present the greatest threat. Worth mentioning though, cyber attacks on infrastructure that could result in casualties and fatalities, is also a reality but presents a smaller probability due to the increased level of sophistication and knowledge required by the individual(s) carrying out such an attack.
 
 
-The bottom line is that terrorism is not created in a vacuum nor do acts of terrorism manifest spontaneously. Terrorist attacks all follow an observable attack cycle. Therefore, there will always be opportunities to interdict would be terrorists before they can carry out an attack. That said, lone wolves and the self-radicalized present a much lower signature for intelligence and law enforcement. Continuing to work on problems with interagency information sharing, remaining vigilant, and working within the diaspora communities which are vulnerable to radicalization can go a long way towards preventing future attacks.
+The bottom line is that terrorism is not created in a vacuum, nor do acts of terrorism manifest spontaneously. Terrorist attacks all follow an observable attack cycle. Therefore, there will always be opportunities to interdict would be terrorists before they can carry out an attack. That said, lone wolves and the self-radicalized present a much lower signature for intelligence and law enforcement. Continuing to work on problems with interagency information sharing, remaining vigilant, and working within the diaspora communities which are vulnerable to radicalization can go a long way towards preventing future attacks.
 
 
 ### <center>Notes</center> ###
