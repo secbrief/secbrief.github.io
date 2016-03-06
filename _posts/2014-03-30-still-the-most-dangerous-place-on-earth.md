@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Still the Most Dangerous Place on Earth
-author: C. Cherry
+author: Chris C.
 published: 30-Mar-2014
 description: Indo-Pakistani conflict and nuclear weapons possession by both states represents the greatest threat of WMD usage in South Asia.
 category: [Nonproliferation, Nuclear Weapons, Publications]
