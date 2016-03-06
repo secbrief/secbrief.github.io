@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obtaining Nuclear Weapons&#58; So Easy a Caveman Can Do It
-author: C. Cherry
+author: Chris C.
 published: 30-Mar-2014
 description: There are many reasons that states pursue nuclear weapons, numerous options available to them in the pursuit thereof, and regrettably, insufficient means to prevent a state with sufficient resources from acquiring nuclear weapons once it is determined to do so.
 category: [Nonproliferation, Nuclear Weapons, Publications]
