@@ -8,6 +8,8 @@ category: [Nonproliferation, Nuclear Weapons, Publications]
 tags: [Nonproliferation, Nuclear, Nuclear Weapons, Proliferation, Security, States, WMD]
 ---
 
+##### <center><strong>[The below memo was from an exercise in 2011 to assess the ease by which states can proliferate.]</strong></center> #####
+
 ### <center>SUMMARY</center> ###
 
 There are many reasons that states pursue nuclear weapons, numerous options available to them in the pursuit thereof, and regrettably, insufficient means to prevent a state with sufficient resources from acquiring nuclear weapons once it is determined to do so. Taking a holistic approach towards understanding why and how states proliferate is critical, as is understanding the current limitations of established institutions that are in place to prevent nuclear weapons proliferation. Without a broader understanding, nuclear weapons proliferation will remain feasible for the creative and resolute.
