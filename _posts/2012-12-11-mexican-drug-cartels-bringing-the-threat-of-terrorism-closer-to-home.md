@@ -2,13 +2,11 @@
 layout: post
 title: Mexican Drug Cartels&#58; Bringing the Threat of Terrorism Closer to Home
 author: Chris C.
-published: 28-Jul-2014
+published: 11-Dec-2012
 description: Seldom discussed is the existence of, and potential for, nexuses between Mexican trafficking organizations and foreign terrorist organizations. In concert, these organizations pose a more integrated and robust threat to the United States than they do as lone enterprises.
 category: [Terrorism, Organized Crime, Publications]
 tags: [Mexican Cartels, Mexican, Cartels, Nexus, Organizations, Terrorist, Mexico, Drug, Trafficking]
 ---
-
-##### <center><strong>[The below op-ed was submitted Dec 11, 2012.]</strong></center> #####
 
 With the recent passing of the tenth anniversary of the September 11, 2001 terrorist attacks that devastated the U.S. and jettisoned America into a global war on terrorism, much has been done to combat terrorist organizations and secure the homeland. However, there remains a broader threat to our national security than presented by terrorist organizations alone to which little attention has been given and woefully few resources have been directed: the nexus between international trafficking organizations and terrorist organizations.
 
