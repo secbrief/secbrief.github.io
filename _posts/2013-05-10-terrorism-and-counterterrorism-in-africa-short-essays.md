@@ -2,13 +2,11 @@
 layout: post
 title: Terrorism and Counterterrorism in Africa&#58; Short Essays
 author: Chris C.
-published: 13-Jul-2014
+published: 10-May-2013
 description: A pair of short essays comparing and contrasting Islamist and non-Islamist terrorist organizations in Africa and the Arabian Peninsula which conclude with counterterrorism policy recommendations.
 category: [Terrorism, Counterterrorism, Publications]
 tags: [AQIS, Al-Qa'ida in Somalia, LRA, Lord’s Resistance Army, Terrorist, Ansar al-Sharia, Africa, AQAP, Al-Qa'ida in the Arabian Peninsula, AQIM, Al-Qa'ida in the Islamic Maghreb, Al-Qa'ida, Counterterrorism]
 ---
-
-##### <center><strong>[The below essays were submitted May 10, 2013.]</strong></center> #####
 
 ### <center>ESSAY 1 PROMPT</center> ###
 
