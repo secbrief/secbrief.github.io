@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heartbleed Bug
-author: C. Cherry
+author: Chris C.
 published: 10-Apr-2014
 description: Existant since December 31, 2011, the Heartbleed bug in the OpenSSL 1.0.1 Series up through 1.0.1f, as well as the 1.0.2-beta, exploits the heartbeat mechanism used by transport layer security (TLS) to keep secure connections alive.
 category: [Cyber Security, Cryptography]
