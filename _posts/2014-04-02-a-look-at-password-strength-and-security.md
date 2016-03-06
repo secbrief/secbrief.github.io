@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Look at Password Strength and Security
-author: C. Cherry
+author: Chris C.
 published: 2-Apr-2014
 description: Password strength and security is continually brought up by security professionals, and for good reason. Despite the many warnings that we have all heard and seen in the office or when registering new accounts online, individuals and organizations continue to fall prey to password cracking. Most commonly this comes in the form of a brute-force attack, sometimes referred to as an exhaustive key search, wherein an attacker essentially guesses various password or key combinations until it is guessed correctly. The problem lies in the fact that this style of attack is increasingly becoming more sophisticated while password strength and security is on the decline.
 category: [Cyber Security, Cryptography]
