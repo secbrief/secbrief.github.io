@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Year After the Boston Bombings
-author: C. Cherry
+author: Chris C.
 published: 21-Apr-2014
 description: The one year anniversary of the Boston Bombings and the ensuing manhunt for the Tsarnaev brothers was marked this past week (15-April - 19-April). Now the day of the 2014 Boston Marathon, the target of the Boston Bombings which resulted in four fatalities, including an MIT police officer, and two-hundred and eighty injuries, it is worth reflecting on Tamerlan and Dzhokhar’s radicalization, attack cycle, and assessing whether or not a similar act of terrorism could be carried out today.
 category: [Terrorism, Publications]
