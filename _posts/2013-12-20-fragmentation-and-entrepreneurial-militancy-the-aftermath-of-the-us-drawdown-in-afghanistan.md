@@ -2,13 +2,11 @@
 layout: post
 title: Fragmentation and Entrepreneurial Militancy&#58; The Aftermath of the U.S. Drawdown in Afghanistan
 author: Chris C.
-published: 28-Jul-2014
+published: 20-Dec-2013
 description: This paper finds that the militant landscape across central and south Asia is complex, and will only become more so as the contingent of U.S. and coalition forces draw down and ultimately leave Afghanistan. In the wake of the drawdown, with many competing interests amongst militants and high stakes on-the-line, the Taliban movement at large, will further fragment and spin off new groups. “Entrepreneurial militancy,” that is, the inter-group fighting that will take place with the intent of upsetting the status quo, will take hold in the near term. Once things sort out, it can be expected that there will be a rise in attacks against both the Afghan and Pakistani governments as militants seek to further consolidate power under the new order. In sum, while the key actors are unlikely to change much, motivations and the banners they seek power under, very well may.
 category: [Terrorism, Counterterrorism, Publications]
 tags: [Taliban, Pakistani Taliban, Afghan Taliban, Tribal, Militant, Pashtun, TTP, Tehrik-i-Taliban Pakistan, Pakistan, Afghanistan]
 ---
-
-##### <center><strong>[The below paper was submitted Dec 20, 2013.]</strong></center> #####
 
 ### <center>INTRODUCTION</center> ###
 
